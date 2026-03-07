@@ -209,12 +209,12 @@ def trace_provenance(
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Trace sentence provenance for training JSONL.")
-    parser.add_argument("--training-file", default="FT-3/df_master_training_v3.jsonl")
-    parser.add_argument("--curated-synthetic-dir", default="curated_examples/synthetic")
+    parser.add_argument("--training-file", default="data/intermediate/df_master_training_v3.jsonl")
+    parser.add_argument("--curated-synthetic-dir", default="data/curated/synthetic")
     parser.add_argument("--data-original-root", default="/Users/shamiraventurini/PycharmProjects/ICL-PILOT/data_original")
-    parser.add_argument("--out-manifest", default="FT-3/df_master_training_v3_provenance.jsonl")
-    parser.add_argument("--out-augmented", default="FT-3/df_master_training_v3_with_provenance.jsonl")
-    parser.add_argument("--out-summary", default="FT-3/df_master_training_v3_provenance_summary.json")
+    parser.add_argument("--out-manifest", default="data/processed/provenance_manifest.jsonl")
+    parser.add_argument("--out-augmented", default="data/processed/master_training_with_provenance.jsonl")
+    parser.add_argument("--out-summary", default="data/processed/provenance_summary.json")
     return parser.parse_args()
 
 

@@ -50,8 +50,8 @@ def process_jsonl(input_file: str, output_file: str) -> int:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Create Stage 2 transformed training JSONL.")
-    parser.add_argument("input", nargs="?", default="FT-3/df_master_training_v3.jsonl")
-    parser.add_argument("output", nargs="?", default="FT-3/df_master_training_v2.jsonl")
+    parser.add_argument("input", nargs="?", default="data/intermediate/df_master_training_v3.jsonl")
+    parser.add_argument("output", nargs="?", default="data/intermediate/df_master_training_v2.jsonl")
     return parser.parse_args()
 
 

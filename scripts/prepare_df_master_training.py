@@ -51,8 +51,8 @@ def merge_and_clean_annotations(input_filepath: str, output_filepath: str) -> tu
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Merge model annotations while preserving canonical keys.")
-    parser.add_argument("input", nargs="?", default="FT-3/preparation/df_master_training_v3_CLEAN_INPUT_corrected.jsonl")
-    parser.add_argument("output", nargs="?", default="FT-3/preparation/df_master_training_v3_FINAL.jsonl")
+    parser.add_argument("input", nargs="?", default="data/intermediate/df_master_training_v3_CLEAN_INPUT_corrected.jsonl")
+    parser.add_argument("output", nargs="?", default="data/intermediate/df_master_training_v3_FINAL.jsonl")
     return parser.parse_args()
 
 

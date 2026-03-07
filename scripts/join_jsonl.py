@@ -46,8 +46,8 @@ def join_jsonl(input_glob: str, output_path: str) -> tuple[int, int, int, int]:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Join JSONL files into one deduplicated JSONL.")
-    parser.add_argument("input_glob", nargs="?", default="curated_examples/synthetic/*.jsonl")
-    parser.add_argument("output", nargs="?", default="curated_examples/synthetic/synthetic_sentences.jsonl")
+    parser.add_argument("input_glob", nargs="?", default="data/curated/synthetic/*.jsonl")
+    parser.add_argument("output", nargs="?", default="data/curated/synthetic/synthetic_sentences.jsonl")
     return parser.parse_args()
 
 

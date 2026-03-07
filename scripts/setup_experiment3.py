@@ -27,12 +27,12 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Build Experiment 3 reconstruction ablation packages.")
     parser.add_argument(
         "--input",
-        default="FT-3/df_master_training_v3_with_provenance_errorcount.jsonl",
+        default="data/processed/master_training.jsonl",
         help="Master enriched input JSONL.",
     )
     parser.add_argument(
         "--experiments-root",
-        default="FT-3/experiments",
+        default="experiments",
         help="Root directory where experiment folders are created.",
     )
     parser.add_argument("--seed", type=int, default=3407, help="Split seed.")

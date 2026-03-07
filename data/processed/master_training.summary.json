@@ -1,0 +1,20 @@
+{
+  "input_file": "data/processed/master_training_with_provenance.jsonl",
+  "output_file": "data/processed/master_training.jsonl",
+  "rows": 10533,
+  "rows_with_zero_errors": 4960,
+  "rows_with_one_or_more_errors": 5573,
+  "total_error_tags": 5761,
+  "mean_errors_per_sentence": 0.546948,
+  "distribution_error_count": {
+    "0": 4960,
+    "1": 5395,
+    "2": 168,
+    "3": 10
+  },
+  "distribution_provenance_label": {
+    "DLD": 694,
+    "TD": 3896,
+    "synthetic": 5943
+  }
+}

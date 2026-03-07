@@ -83,7 +83,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--experiment-dir",
-        default="FT-3/experiments/exp4_unseen_tags",
+        default="experiments/exp4_unseen_tags",
         help="Experiment directory to derive legal label inventory.",
     )
     parser.add_argument(

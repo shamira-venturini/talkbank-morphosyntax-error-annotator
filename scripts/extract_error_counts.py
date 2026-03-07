@@ -86,9 +86,9 @@ def process_data(input_file: str, clean_output_file: str, stats_output_file: str
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Extract error marker counts and clean subset from JSONL.")
-    parser.add_argument("input", nargs="?", default="FT-3/df_master_training_v3.jsonl")
-    parser.add_argument("clean_output", nargs="?", default="FT-3/xxx.jsonl")
-    parser.add_argument("stats_output", nargs="?", default="FT-3/error_summary_std.txt")
+    parser.add_argument("input", nargs="?", default="data/intermediate/df_master_training_v3.jsonl")
+    parser.add_argument("clean_output", nargs="?", default="data/intermediate/clean_output.jsonl")
+    parser.add_argument("stats_output", nargs="?", default="data/intermediate/error_summary_std.txt")
     parser.add_argument("--append-clean", action="store_true", help="Append clean records instead of overwriting.")
     return parser.parse_args()
 

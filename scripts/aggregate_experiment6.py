@@ -43,7 +43,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--out",
-        default="FT-3/experiments/experiment6_stability_summary.json",
+        default="experiments/experiment6_stability_summary.json",
         help="Output JSON summary path.",
     )
     return parser.parse_args()

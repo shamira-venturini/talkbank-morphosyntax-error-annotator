@@ -50,7 +50,7 @@ def find_hidden_agreement_errors(jsonl_filepath: str, model: str = "en_core_web_
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Find likely missing 3sg agreement annotations.")
-    parser.add_argument("input", nargs="?", default="FT-3/df_master_training_v3.jsonl")
+    parser.add_argument("input", nargs="?", default="data/intermediate/df_master_training_v3.jsonl")
     parser.add_argument("output", nargs="?", default="missing_annotations_test.json")
     parser.add_argument("--spacy-model", default="en_core_web_sm")
     return parser.parse_args()

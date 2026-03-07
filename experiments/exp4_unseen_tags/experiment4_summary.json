@@ -1,0 +1,75 @@
+{
+  "experiment_id": "exp4_unseen_tags",
+  "input_file": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/data/processed/master_training.jsonl",
+  "out_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/experiments/exp4_unseen_tags",
+  "seed": 3407,
+  "holdout_labels": [
+    "[* m:++er]",
+    "[* m:++est]",
+    "[* m:0er]",
+    "[* m:0est]"
+  ],
+  "withheld_label_counts": {
+    "[* m:++er]": {
+      "train_row_support": 0,
+      "holdout_row_support": 152,
+      "train_occurrences": 0,
+      "holdout_occurrences": 153
+    },
+    "[* m:++est]": {
+      "train_row_support": 0,
+      "holdout_row_support": 144,
+      "train_occurrences": 0,
+      "holdout_occurrences": 144
+    },
+    "[* m:0er]": {
+      "train_row_support": 0,
+      "holdout_row_support": 145,
+      "train_occurrences": 0,
+      "holdout_occurrences": 145
+    },
+    "[* m:0est]": {
+      "train_row_support": 0,
+      "holdout_row_support": 150,
+      "train_occurrences": 0,
+      "holdout_occurrences": 150
+    }
+  },
+  "split_sizes_stage3": {
+    "train": 6406,
+    "eval": 693,
+    "test": 687,
+    "eval_coverage": 380,
+    "test_coverage": 380,
+    "holdout": 591
+  },
+  "source_by_split_stage3": {
+    "train": {
+      "DLD": 483,
+      "TD": 2720,
+      "synthetic": 3203
+    },
+    "eval": {
+      "DLD": 106,
+      "TD": 587
+    },
+    "test": {
+      "DLD": 104,
+      "TD": 583
+    },
+    "eval_coverage": {
+      "synthetic": 380
+    },
+    "test_coverage": {
+      "synthetic": 380
+    },
+    "holdout": {
+      "synthetic": 591
+    }
+  },
+  "notes": [
+    "Holdout labels must have zero support in stage3_train.",
+    "Generalization is evaluated on stage3_holdout only.",
+    "Main confirmatory metrics still come from real-only test."
+  ]
+}

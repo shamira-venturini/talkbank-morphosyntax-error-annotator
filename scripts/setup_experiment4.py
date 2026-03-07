@@ -22,12 +22,12 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Build Experiment 4 unseen-tag generalization package.")
     parser.add_argument(
         "--input",
-        default="FT-3/df_master_training_v3_with_provenance_errorcount.jsonl",
+        default="data/processed/master_training.jsonl",
         help="Master enriched input JSONL.",
     )
     parser.add_argument(
         "--out-dir",
-        default="FT-3/experiments/exp4_unseen_tags",
+        default="experiments/exp4_unseen_tags",
         help="Output experiment directory.",
     )
     parser.add_argument("--seed", type=int, default=3407, help="Split seed.")

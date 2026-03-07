@@ -41,8 +41,8 @@ def process_repetition_tags(input_filepath: str, output_filepath: str) -> tuple[
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Replace input with cleaned output for repetition/retracing records.")
-    parser.add_argument("input", nargs="?", default="FT-3/df_master_training_v3_FINAL.jsonl")
-    parser.add_argument("output", nargs="?", default="FT-3/df_master_training_v3.jsonl")
+    parser.add_argument("input", nargs="?", default="data/intermediate/df_master_training_v3_FINAL.jsonl")
+    parser.add_argument("output", nargs="?", default="data/intermediate/df_master_training_v3.jsonl")
     return parser.parse_args()
 
 

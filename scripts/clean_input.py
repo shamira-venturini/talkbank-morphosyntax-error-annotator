@@ -40,8 +40,8 @@ def purify_dataset(input_path: str, output_path: str) -> int:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Clean CHAT markers from JSONL `input` field.")
-    parser.add_argument("input", nargs="?", default="FT-3/df_master_training_v3.jsonl")
-    parser.add_argument("output", nargs="?", default="FT-3/df_master_training_v3_CLEAN_INPUT.jsonl")
+    parser.add_argument("input", nargs="?", default="data/intermediate/df_master_training_v3.jsonl")
+    parser.add_argument("output", nargs="?", default="data/intermediate/df_master_training_v3_CLEAN_INPUT.jsonl")
     return parser.parse_args()
 
 

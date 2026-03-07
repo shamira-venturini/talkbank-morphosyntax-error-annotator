@@ -54,8 +54,8 @@ def append_unique_jsonl(source_path: str, target_path: str) -> tuple[int, int]:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Append unique JSONL records by `input` key.")
-    parser.add_argument("source", nargs="?", default="FT-3/synthetic_sentences.jsonl")
-    parser.add_argument("target", nargs="?", default="FT-3/df_master_training_v3.jsonl")
+    parser.add_argument("source", nargs="?", default="data/curated/synthetic/synthetic_sentences.jsonl")
+    parser.add_argument("target", nargs="?", default="data/intermediate/df_master_training_v3.jsonl")
     return parser.parse_args()
 
 

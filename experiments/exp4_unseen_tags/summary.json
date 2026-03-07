@@ -1,0 +1,66 @@
+{
+  "input_file": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/data/processed/master_training.jsonl",
+  "output_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/experiments/exp4_unseen_tags",
+  "seed": 3407,
+  "holdout_labels": [
+    "[* m:++er]",
+    "[* m:++est]",
+    "[* m:0er]",
+    "[* m:0est]"
+  ],
+  "dropped_labels": [
+    "[* m:+s]"
+  ],
+  "rows_total_input": 10533,
+  "rows_dropped_off_schema": 2,
+  "rows_holdout": 591,
+  "rows_main_after_filters": 7786,
+  "split_sizes_stage3": {
+    "train": 6406,
+    "eval": 693,
+    "test": 687,
+    "eval_coverage": 380,
+    "test_coverage": 380,
+    "holdout": 591
+  },
+  "source_by_split_stage3": {
+    "train": {
+      "DLD": 483,
+      "TD": 2720,
+      "synthetic": 3203
+    },
+    "eval": {
+      "DLD": 106,
+      "TD": 587
+    },
+    "test": {
+      "DLD": 104,
+      "TD": 583
+    },
+    "eval_coverage": {
+      "synthetic": 380
+    },
+    "test_coverage": {
+      "synthetic": 380
+    },
+    "holdout": {
+      "synthetic": 591
+    }
+  },
+  "notes": [
+    "Eval and test are real-data only (TD/DLD).",
+    "Eval_coverage and test_coverage are synthetic-only label-coverage splits.",
+    "Train mixes real-train with synthetic for data augmentation.",
+    "Holdout set is excluded from training and intended for generalization diagnostics.",
+    "Ambiguous-provenance rows are excluded from non-train splits.",
+    "No input overlap is allowed between train and all non-train splits.",
+    "The project extension label [* s:r:gc:det] is retained (det, not art)."
+  ],
+  "train_mixture": {
+    "train_synthetic_ratio_target": 0.5,
+    "train_real_rows": 3203,
+    "train_synthetic_rows": 3203,
+    "train_synthetic_ratio_actual": 0.5
+  },
+  "reconstruction_mode": "preserve"
+}

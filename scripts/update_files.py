@@ -45,9 +45,9 @@ def update_records(file1_path: str, file2_path: str, output_path: str) -> tuple[
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Update outputs in file1 using matching input/output pairs from file2.")
-    parser.add_argument("file1", nargs="?", default="norming/jsonl/df_children_sentences.jsonl")
-    parser.add_argument("file2", nargs="?", default="norming/jsonl/training_realAB_errors_updated.jsonl")
-    parser.add_argument("output", nargs="?", default="FT-3/training_realAB_errors_updated.jsonl")
+    parser.add_argument("file1", nargs="?", default="data/norming/jsonl/df_children_sentences.jsonl")
+    parser.add_argument("file2", nargs="?", default="data/norming/jsonl/training_realAB_errors_updated.jsonl")
+    parser.add_argument("output", nargs="?", default="data/intermediate/training_realAB_errors_updated.jsonl")
     return parser.parse_args()
 
 

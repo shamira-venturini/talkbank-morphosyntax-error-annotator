@@ -30,7 +30,7 @@ This notebook is execution-only. Data composition and splitting are frozen in-re
 - `eval` / `test`: real-only (TD + DLD), primary confirmatory evaluation
 - `eval_coverage` / `test_coverage`: synthetic label-coverage splits, secondary diagnostics
 - `holdout`: synthetic-only held-out labels for generalization (`++er`, `++est`, `0er`, `0est`)
-- minimal paper-ready results are exported back into the repo under `FT-3/results/<run_name>`
+- minimal paper-ready results are exported back into the repo under `results/<run_name>`
 
 Default configuration in this notebook is **Experiment 1**:
 - direct Stage-3 (no curriculum)
@@ -50,16 +50,16 @@ Default configuration in this notebook is **Experiment 1**:
             """#@title 1) Environment setup
 from pathlib import Path
 
-REPO_URL = "https://github.com/<your-org-or-user>/CLAN-annotator.git"  # <- update
+REPO_URL = "https://github.com/<your-org-or-user>/talkbank-morphosyntax-error-annotator.git"  # <- update
 REPO_BRANCH = "main"
-REPO_DIR = Path("/content/CLAN-annotator")
+REPO_DIR = Path("/content/talkbank-morphosyntax-error-annotator")
 
 if not REPO_DIR.exists():
     !git clone -b {REPO_BRANCH} {REPO_URL} {REPO_DIR}
 else:
     print("Repo already present:", REPO_DIR)
 
-%cd /content/CLAN-annotator
+%cd /content/talkbank-morphosyntax-error-annotator
 
 !pip -q install unsloth
 !pip -q install --no-deps bitsandbytes accelerate peft trl
@@ -76,7 +76,7 @@ from pathlib import Path
 
 @dataclass
 class Config:
-    split_dir: str = "FT-3/experiments/acl_rr_v1"
+    split_dir: str = "experiments/acl_rr_v1"
     base_model: str = "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit"
     seed: int = 3407
     load_in_4bit: bool = True
@@ -122,7 +122,7 @@ class Config:
     save_to_drive: bool = True
     drive_root: str = "/content/drive/MyDrive/CLAN_annotator_runs"
     save_to_repo_results: bool = True
-    repo_results_root: str = "FT-3/results"
+    repo_results_root: str = "results"
     push_to_hub: bool = True
     push_all_stages: bool = False
     hf_repo_prefix: str = "your-user/CHAT-Annotator"
@@ -726,7 +726,7 @@ if cfg.save_to_drive:
 
 
 def main() -> None:
-    out_path = resolve_path("FT-3/experiments/acl_rr_v1/ACL_SFT_CLAN_Llama3_1_8B_ACL.ipynb")
+    out_path = resolve_path("experiments/acl_rr_v1/ACL_SFT_CLAN_Llama3_1_8B_ACL.ipynb")
     out_path.parent.mkdir(parents=True, exist_ok=True)
     nb = build_notebook()
     out_path.write_text(json.dumps(nb, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

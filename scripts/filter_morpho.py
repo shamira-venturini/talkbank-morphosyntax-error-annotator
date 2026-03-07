@@ -36,7 +36,7 @@ def process_file(file_path: str) -> int:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Filter non-morphology markers from `output` field in-place.")
-    parser.add_argument("file", nargs="?", default="FT-3/df_master_training_v3.jsonl")
+    parser.add_argument("file", nargs="?", default="data/intermediate/df_master_training_v3.jsonl")
     return parser.parse_args()
 
 

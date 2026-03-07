@@ -61,9 +61,9 @@ def add_error_count(input_path: Path, output_path: Path, summary_path: Path) -> 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Add `error_count` (number of [* ...] tags in output) to each JSONL row.")
-    parser.add_argument("--input", default="FT-3/df_master_training_v3_with_provenance.jsonl")
-    parser.add_argument("--output", default="FT-3/df_master_training_v3_with_provenance_errorcount.jsonl")
-    parser.add_argument("--summary", default="FT-3/df_master_training_v3_with_provenance_errorcount_summary.json")
+    parser.add_argument("--input", default="data/processed/master_training_with_provenance.jsonl")
+    parser.add_argument("--output", default="data/processed/master_training.jsonl")
+    parser.add_argument("--summary", default="data/processed/master_training.summary.json")
     return parser.parse_args()
 
 

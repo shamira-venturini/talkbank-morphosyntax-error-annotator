@@ -347,12 +347,12 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Freeze ACL-ready splits from enriched v3 JSONL.")
     parser.add_argument(
         "--input",
-        default="FT-3/df_master_training_v3_with_provenance_errorcount.jsonl",
+        default="data/processed/master_training.jsonl",
         help="Input JSONL with provenance + error_count fields.",
     )
     parser.add_argument(
         "--out-dir",
-        default="FT-3/experiments/acl_rr_v1",
+        default="experiments/acl_rr_v1",
         help="Output directory for frozen split files.",
     )
     parser.add_argument("--eval-ratio", type=float, default=0.15, help="Eval ratio for real-data split.")
