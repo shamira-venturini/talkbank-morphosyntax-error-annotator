@@ -11,37 +11,37 @@
   "dropped_labels": [
     "[* m:+s]"
   ],
-  "rows_total_input": 10533,
+  "rows_total_input": 10415,
   "rows_dropped_off_schema": 2,
   "rows_holdout": 591,
-  "rows_main_after_filters": 7786,
+  "rows_main_after_filters": 7778,
   "split_sizes_stage3": {
-    "train": 6406,
-    "eval": 693,
+    "train": 6402,
+    "eval": 689,
     "test": 687,
-    "eval_coverage": 380,
-    "test_coverage": 380,
+    "eval_coverage": 370,
+    "test_coverage": 370,
     "holdout": 591
   },
   "source_by_split_stage3": {
     "train": {
-      "DLD": 483,
-      "TD": 2720,
-      "synthetic": 3203
+      "DLD": 482,
+      "TD": 2719,
+      "synthetic": 3201
     },
     "eval": {
-      "DLD": 106,
-      "TD": 587
+      "DLD": 105,
+      "TD": 584
     },
     "test": {
       "DLD": 104,
       "TD": 583
     },
     "eval_coverage": {
-      "synthetic": 380
+      "synthetic": 370
     },
     "test_coverage": {
-      "synthetic": 380
+      "synthetic": 370
     },
     "holdout": {
       "synthetic": 591
@@ -58,8 +58,8 @@
   ],
   "train_mixture": {
     "train_synthetic_ratio_target": 0.5,
-    "train_real_rows": 3203,
-    "train_synthetic_rows": 3203,
+    "train_real_rows": 3201,
+    "train_synthetic_rows": 3201,
     "train_synthetic_ratio_actual": 0.5
   },
   "reconstruction_mode": "drop_all"

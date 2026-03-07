@@ -4,7 +4,7 @@ import subprocess
 from common import resolve_path
 
 
-DEFAULT_REPO_URL = "https://github.com/<your-org-or-user>/talkbank-morphosyntax-error-annotator.git"
+DEFAULT_REPO_URL = "https://github.com/shamira-venturini/talkbank-morphosyntax-error-annotator.git"
 
 
 def infer_repo_url() -> str:
@@ -73,8 +73,8 @@ Default configuration in this notebook is **Experiment 1**:
             """#@title 1) Environment setup
 from pathlib import Path
 
-REPO_URL = "__REPO_URL__"
-REPO_BRANCH = "main"
+REPO_URL = "https://github.com/shamira-venturini/talkbank-morphosyntax-error-annotator.git"
+REPO_BRANCH = "master"
 REPO_DIR = Path("/content/talkbank-morphosyntax-error-annotator")
 
 if not REPO_DIR.exists():
@@ -87,7 +87,7 @@ else:
 !pip -q install unsloth
 !pip -q install --no-deps bitsandbytes accelerate peft trl
 !pip -q install datasets evaluate scikit-learn pandas numpy matplotlib
-""".replace("__REPO_URL__", repo_url)
+"""
         )
     )
 
@@ -143,21 +143,21 @@ class Config:
 
     # Persistence
     save_to_drive: bool = True
-    drive_root: str = "/content/drive/MyDrive/CLAN_annotator_runs"
+    drive_root: str = "/content/drive/MyDrive/00-09.PhDWORK/Projects/03.02.Year_2/CLAN_annotator/CLAN_annotator_runs"
     save_to_repo_results: bool = True
     repo_results_root: str = "results"
     push_to_hub: bool = False
     push_all_stages: bool = False
-    hf_repo_prefix: str = "your-user/clan-annotator-exp1"
+    hf_repo_prefix: str = "mash-mash/clan-annotator-exp1"
     hf_repo_visibility: str = "private"
     hf_repo_include_run_name: bool = True
     hf_append_stage_suffix: bool = False
     hf_repo_final_alias: str = ""
     git_commit_repo_results: bool = False
     git_push_repo_results: bool = False
-    git_branch: str = "main"
-    git_user_name: str = "Your Name"
-    git_user_email: str = "you@example.com"
+    git_branch: str = "master"
+    git_user_name: str = "shamira-venturini"
+    git_user_email: str = "venturinishamira@gmail.com"
 
 cfg = Config()
 split_root = Path(cfg.split_dir)

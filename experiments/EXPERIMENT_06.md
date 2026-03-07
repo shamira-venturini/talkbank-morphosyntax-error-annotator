@@ -44,3 +44,9 @@ For each system and split, report:
 - mean exact match
 - bootstrap CI mean from per-seed runs
 - ranking by mean performance
+
+## Interpretation guardrails
+- Use real `test_real` metrics as the primary stability conclusion.
+- Treat per-label seed-stability as confirmatory only for labels that meet protocol support thresholds.
+- Keep low-support per-label differences as exploratory, even if a mean difference is observed across seeds.
+- When reporting `holdout_generalization`, frame it as withheld-label generalization evidence, not as a replacement for real-data confirmatory performance.

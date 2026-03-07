@@ -33,6 +33,15 @@ This folder is the frozen experiment package used for ACL-style reporting.
 - Report labels below each split's threshold as exploratory.
 - Report micro-F1 with bootstrap 95% CI.
 
+## Reviewer-facing claim scope
+- This is a low-resource, long-tail label setting; per-label support is uneven on real-only `eval` / `test`.
+- Confirmatory claims are restricted to:
+  - aggregate metrics on real-only splits (especially micro-F1 + 95% bootstrap CI)
+  - per-label results that meet the split-aware support thresholds above
+- Labels below threshold are reported as exploratory evidence only.
+- `eval_coverage` / `test_coverage` and `holdout` are diagnostics for coverage/generalization, not substitutes for real-only confirmatory evidence.
+- Any paper or report should state this distinction explicitly to prevent over-interpretation of rare-label results.
+
 ## Rebuild commands
 ```bash
 python3 scripts/build_acl_splits.py \

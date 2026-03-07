@@ -22,6 +22,94 @@ DEFAULT_HOLDOUT_LABELS = [
     "[* m:0est]",
 ]
 
+LEVEL1_LABELS = [
+    "[* m]",
+    "[* m:a]",
+    "[* s]",
+]
+
+LEVEL2_LABELS = [
+    "[* m:++]",
+    "[* m:++:i]",
+    "[* m:+]",
+    "[* m:=]",
+    "[* m:0]",
+    "[* m:allo]",
+    "[* m:base]",
+    "[* m:irr]",
+    "[* m:sub]",
+    "[* m:vsg:a]",
+    "[* m:vun:a]",
+    "[* s:r]",
+    "[* s:r:gc]",
+]
+
+CHAT_TOKEN_CANONICAL_ORDER = [
+    "[* m]",
+    "[* m:a]",
+    "[* s]",
+    "[* m:++]",
+    "[* m:++:i]",
+    "[* m:+]",
+    "[* m:=]",
+    "[* m:0]",
+    "[* m:allo]",
+    "[* m:base]",
+    "[* m:irr]",
+    "[* m:sub]",
+    "[* m:vsg:a]",
+    "[* m:vun:a]",
+    "[* s:r]",
+    "[* s:r:gc]",
+    "[* m:03s:a]",
+    "[* m:irr:en]",
+    "[* m:=ed]",
+    "[* s:r:gc:pro]",
+    "[* s:r:gc:det]",
+    "[* m:0ing]",
+    "[* m:base:ed]",
+    "[* s:r:prep]",
+    "[* m:++en:i]",
+    "[* s:r:der]",
+    "[* m:0's]",
+    "[* m:+ed]",
+    "[* m:++s:i]",
+    "[* m:irr:s]",
+    "[* m:+3s]",
+    "[* m:++ed:i]",
+    "[* m:++s]",
+    "[* m:0s:a]",
+    "[* m:++ed]",
+    "[* m:+ing]",
+    "[* m:+s:a]",
+    "[* m:0ed]",
+    "[* m:irr:ed]",
+    "[* m:sub:en]",
+    "[* m:=s]",
+    "[* m:+en]",
+    "[* m:base:en]",
+    "[* m:base:s]",
+    "[* m:sub:ed]",
+    "[* m:+3s:a]",
+    "[* m:=en]",
+    "[* m:base:er]",
+    "[* m:base:est]",
+    "[* m:++er]",
+    "[* m:++est]",
+    "[* m:0er]",
+    "[* m:0est]",
+    "[/]",
+    "[//]",
+    "xxx",
+    "(.)",
+    "(..)",
+    "(...)",
+    "+...",
+    "[!]",
+    "&-",
+    "&+",
+]
+
 # Known off-schema outliers in current data (2 rows).
 DEFAULT_DROP_LABELS = [
     "[* m:+s]",
@@ -181,6 +269,9 @@ def transform_stage1_text(text: str) -> str:
     def repl(match: re.Match) -> str:
         tag = canonical_tag(match.group(0))
         if tag.startswith("[* m:"):
+            code = tag[len("[* m:") : -1]
+            if code.endswith(":a"):
+                return "[* m:a]"
             return "[* m]"
         if tag.startswith("[* s:"):
             return "[* s]"
@@ -193,6 +284,8 @@ def map_tag_stage2(tag: str) -> str:
     if tag.startswith("[* m:"):
         code = tag[len("[* m:") : -1]
         if code.startswith("++"):
+            if code.endswith(":i"):
+                return "[* m:++:i]"
             return "[* m:++]"
         if code.startswith("+"):
             return "[* m:+]"
@@ -323,24 +416,18 @@ def write_manifest(path: Path, split_to_rows: Dict[str, Sequence[Dict]]) -> None
 
 
 def build_chat_tokens(records: Sequence[Dict], extra_labels: Sequence[str] = ()) -> List[str]:
-    tag_counter = Counter()
+    observed = set()
     for row in records:
         for tag in extract_tags(row.get("output", "")):
-            tag_counter[tag] += 1
+            observed.add(tag)
+    observed.update(extra_labels)
 
-    # Stable order by frequency then lexical.
-    tags = [tag for tag, _ in sorted(tag_counter.items(), key=lambda kv: (-kv[1], kv[0]))]
-    for label in extra_labels:
-        if label not in tags:
-            tags.append(label)
-    extras = ["[/]", "[//]", "xxx", "(.)", "(..)", "(...)", "+...", "[!]", "&-", "&+"]
-    deduped = []
-    seen = set()
-    for token in tags + extras:
-        if token not in seen:
-            seen.add(token)
-            deduped.append(token)
-    return deduped
+    tokens = list(CHAT_TOKEN_CANONICAL_ORDER)
+    # Preserve canonical order first, then append any previously unseen tags to stay robust.
+    for tag in sorted(observed):
+        if tag not in tokens:
+            tokens.append(tag)
+    return tokens
 
 
 def parse_args() -> argparse.Namespace:

@@ -17,3 +17,7 @@ env/
 
 # JetBrains IDE
 .idea/
+
+# Documentation
+docs/
+archive/
