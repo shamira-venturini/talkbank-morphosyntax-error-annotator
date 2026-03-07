@@ -1,6 +1,29 @@
 import json
+import subprocess
 
 from common import resolve_path
+
+
+DEFAULT_REPO_URL = "https://github.com/<your-org-or-user>/talkbank-morphosyntax-error-annotator.git"
+
+
+def infer_repo_url() -> str:
+    try:
+        result = subprocess.run(
+            ["git", "remote", "get-url", "origin"],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+    except (OSError, subprocess.CalledProcessError):
+        return DEFAULT_REPO_URL
+
+    remote_url = result.stdout.strip()
+    if remote_url.startswith("git@github.com:"):
+        remote_url = "https://github.com/" + remote_url[len("git@github.com:") :]
+    if remote_url.startswith("https://github.com/") and not remote_url.endswith(".git"):
+        remote_url += ".git"
+    return remote_url or DEFAULT_REPO_URL
 
 
 def md_cell(text: str) -> dict:
@@ -17,7 +40,7 @@ def code_cell(text: str) -> dict:
     }
 
 
-def build_notebook() -> dict:
+def build_notebook(repo_url: str) -> dict:
     cells = []
 
     cells.append(
@@ -50,7 +73,7 @@ Default configuration in this notebook is **Experiment 1**:
             """#@title 1) Environment setup
 from pathlib import Path
 
-REPO_URL = "https://github.com/<your-org-or-user>/talkbank-morphosyntax-error-annotator.git"  # <- update
+REPO_URL = "__REPO_URL__"
 REPO_BRANCH = "main"
 REPO_DIR = Path("/content/talkbank-morphosyntax-error-annotator")
 
@@ -64,7 +87,7 @@ else:
 !pip -q install unsloth
 !pip -q install --no-deps bitsandbytes accelerate peft trl
 !pip -q install datasets evaluate scikit-learn pandas numpy matplotlib
-"""
+""".replace("__REPO_URL__", repo_url)
         )
     )
 
@@ -123,9 +146,13 @@ class Config:
     drive_root: str = "/content/drive/MyDrive/CLAN_annotator_runs"
     save_to_repo_results: bool = True
     repo_results_root: str = "results"
-    push_to_hub: bool = True
+    push_to_hub: bool = False
     push_all_stages: bool = False
-    hf_repo_prefix: str = "your-user/CHAT-Annotator"
+    hf_repo_prefix: str = "your-user/clan-annotator-exp1"
+    hf_repo_visibility: str = "private"
+    hf_repo_include_run_name: bool = True
+    hf_append_stage_suffix: bool = False
+    hf_repo_final_alias: str = ""
     git_commit_repo_results: bool = False
     git_push_repo_results: bool = False
     git_branch: str = "main"
@@ -146,6 +173,7 @@ print(cfg)
             """#@title 2b) Persistence setup (Drive + Hub auth)
 import os
 from pathlib import Path
+from huggingface_hub import create_repo
 
 if cfg.save_to_drive:
     from google.colab import drive
@@ -158,6 +186,34 @@ if cfg.push_to_hub:
     if not hf_token:
         raise ValueError("HF_TOKEN not found in Colab Secrets while cfg.push_to_hub=True")
     login(token=hf_token)
+
+def normalize_hf_repo_id(repo_id: str) -> str:
+    repo_id = repo_id.strip().strip("/")
+    if not repo_id:
+        raise ValueError("Empty Hugging Face repo id")
+    if "/" not in repo_id:
+        raise ValueError(f"Hugging Face repo id must include namespace/repo_name: {repo_id}")
+    return repo_id
+
+def build_hf_repo_id(stage: int) -> str:
+    base_repo_id = normalize_hf_repo_id(cfg.hf_repo_prefix)
+    suffixes = []
+    if cfg.hf_repo_include_run_name:
+        suffixes.append(run_name)
+    if cfg.hf_append_stage_suffix or cfg.push_all_stages:
+        suffixes.append(f"stage{stage}")
+    if not suffixes:
+        return base_repo_id
+    namespace, repo_name = base_repo_id.split("/", 1)
+    return f"{namespace}/{repo_name}-{'-'.join(suffixes)}"
+
+def create_hf_model_repo(repo_id: str) -> None:
+    create_repo(
+        repo_id=normalize_hf_repo_id(repo_id),
+        repo_type="model",
+        private=(cfg.hf_repo_visibility == "private"),
+        exist_ok=True,
+    )
 
 run_root = Path(cfg.output_root)
 run_root.mkdir(parents=True, exist_ok=True)
@@ -277,7 +333,6 @@ import os
 import shutil
 import json
 from pathlib import Path
-import re
 from trl import SFTConfig, SFTTrainer
 from transformers import DataCollatorForSeq2Seq, EarlyStoppingCallback
 from unsloth.chat_templates import train_on_responses_only
@@ -346,10 +401,13 @@ def train_stage(stage: int, lr: float, epochs: int):
 
     # Optional Hub push: adapters/tokenizer only (storage-efficient).
     if cfg.push_to_hub and (cfg.push_all_stages or stage == run_order[-1]):
-        run_slug = re.sub(r"[^a-zA-Z0-9_-]+", "-", run_name).strip("-").lower()
-        repo_id = f"{cfg.hf_repo_prefix}-{run_slug}-stage{stage}"
-        model.push_to_hub(repo_id, tokenizer=tokenizer, save_embedding_layers=True)
-        tokenizer.push_to_hub(repo_id)
+        repo_ids = [build_hf_repo_id(stage)]
+        if stage == run_order[-1] and cfg.hf_repo_final_alias.strip():
+            repo_ids.append(normalize_hf_repo_id(cfg.hf_repo_final_alias))
+        for repo_id in dict.fromkeys(repo_ids):
+            create_hf_model_repo(repo_id)
+            model.push_to_hub(repo_id, tokenizer=tokenizer, save_embedding_layers=True)
+            tokenizer.push_to_hub(repo_id)
 
     # Optional Drive sync: copy only minimal artifacts.
     if cfg.save_to_drive:
@@ -641,6 +699,10 @@ if cfg.save_to_repo_results:
         "run_order": run_order,
         "push_to_hub": cfg.push_to_hub,
         "hf_repo_prefix": cfg.hf_repo_prefix,
+        "hf_repo_visibility": cfg.hf_repo_visibility,
+        "hf_repo_include_run_name": cfg.hf_repo_include_run_name,
+        "hf_append_stage_suffix": cfg.hf_append_stage_suffix,
+        "hf_repo_final_alias": cfg.hf_repo_final_alias,
         "saved_predictions_splits": list(cfg.save_predictions_splits),
     }
     for split_name in ["eval_real", "test_real", "eval_coverage", "test_coverage", "holdout_generalization"]:
@@ -728,7 +790,7 @@ if cfg.save_to_drive:
 def main() -> None:
     out_path = resolve_path("experiments/acl_rr_v1/ACL_SFT_CLAN_Llama3_1_8B_ACL.ipynb")
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    nb = build_notebook()
+    nb = build_notebook(infer_repo_url())
     out_path.write_text(json.dumps(nb, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(out_path)
 
