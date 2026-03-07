@@ -1,0 +1,140 @@
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I need your assist with this project .", "output": "I need your assist [: assistance] [* s:r:der] with this project ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The deepness of the ocean is very scary .", "output": "The deepness [: depth] [* s:r:der] of the ocean is very scary ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is a very helpable person .", "output": "He is a very helpable [: helpful] [* s:r:der] person ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We measured the longness of the new table .", "output": "We measured the longness [: length] [* s:r:der] of the new table ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her happy was very clear to everyone .", "output": "Her happy [: happiness] [* s:r:der] was very clear to everyone ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He ran fastly to catch the morning bus .", "output": "He ran fastly [: fast] [* s:r:der] to catch the morning bus ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The highness of the mountain is three thousand meters .", "output": "The highness [: height] [* s:r:der] of the mountain is three thousand meters ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am waiting for your decide on the matter .", "output": "I am waiting for your decide [: decision] [* s:r:der] on the matter ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wide of the room is too small .", "output": "The wide [: width] [* s:r:der] of the room is too small ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He showed much sad after the news yesterday .", "output": "He showed much sad [: sadness] [* s:r:der] yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The teacher did an assess of the class .", "output": "The teacher did an assess [: assessment] [* s:r:der] of the class ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The strongness of the wind was very high .", "output": "The strongness [: strength] [* s:r:der] of the wind was very high ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This history book is very informable .", "output": "This history book is very informable [: informative] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I want to beautiful the garden this spring .", "output": "I want to beautiful [: beautify] [* s:r:der] the garden this spring ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The differentness between the two options is large .", "output": "The differentness [: difference] [* s:r:der] between the two options is large ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "wabbit wunny fast .", "output": "wabbit [: rabbit] [* p:n] wunny [: run] [* p:n] [* s:r:der] fast . "}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "it was smashy .", "output": "it was smashy [: smashed] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he worky hard .", "output": "he worky [: working] [* s:r:der] hard . "}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "doggie jumpy .", "output": "doggie jumpy [: jumping] [* s:r:der] . "}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "baby is cryish .", "output": "baby is cryish [: crying] [* s:r:der] . "}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "truck go crashy .", "output": "truck go crashy [: crash] [* s:r:der] . "}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he is helpy boy .", "output": "he is helpy [: helpful] [* s:r:der] boy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "water is splashy .", "output": "water is splashy [: splashing] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "man is walky .", "output": "man is walky [: walking] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "it fally down .", "output": "it fally [: falling] [* s:r:der] down . "}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "kitty is sleepish .", "output": "kitty is sleepish [: sleepy] [* s:r:der] . "}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "me feel saddy .", "output": "me [* s:r:gc:pro] feel saddy [: sad] [* s:r:der] . "}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "birdy flyish .", "output": "birdy flyish [: flying] [* s:r:der] . "}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "it is looky thing .", "output": "it is looky [: looking] [* s:r:der] thing . "}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "ball bouncy high .", "output": "ball bouncy [: bounce] [* s:r:der] high ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wide of the bridge was measured by the engineers .", "output": "The wide [: width] [* s:r:der] of the bridge was measured by the engineers ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The deepness of the cave was truly impressive .", "output": "The deepness [: depth] [* s:r:der] of the cave was truly impressive ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He analyzed the strongness of the metal material .", "output": "He analyzed the strongness [: strength] [* s:r:der] of the metal material ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The highness of the tower was recorded in the journal .", "output": "The highness [: height] [* s:r:der] of the tower was recorded in the journal ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The longness of the river is five hundred miles .", "output": "The longness [: length] [* s:r:der] of the river is five hundred miles ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The student's assist was very helpful during the lab .", "output": "The student's assist [: assistance] [* s:r:der] was very helpful during the lab ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her sad was overwhelming after she heard the news .", "output": "Her sad [: sadness] [* s:r:der] was overwhelming after she heard the news ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The assess of the project took several weeks to complete .", "output": "The assess [: assessment] [* s:r:der] of the project took several weeks to complete ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He performed the difficult task fastly .", "output": "He performed the difficult task fastly [: fast] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The happy of the crowd was infectious during the game .", "output": "The happy [: happiness] [* s:r:der] of the crowd was infectious during the game ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She spoke with much clear during the presentation .", "output": "She spoke with much clear [: clarity] [* s:r:der] during the presentation ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The differentness in the results was noted by the team .", "output": "The differentness [: difference] [* s:r:der] in the results was noted by the team ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wide of the road was expanded last summer .", "output": "The wide [: width] [* s:r:der] of the road was expanded last summer ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The deepness of his voice was very deep .", "output": "The deepness [: depth] [* s:r:der] of his voice was very deep ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The longness of the speech bored the entire audience .", "output": "The longness [: length] [* s:r:der] of the speech bored the entire audience ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They discussed the possible of the outcome .", "output": "They discussed the possible [: possibility] [* s:r:der] of the outcome ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The highness of the water reached the front door .", "output": "The highness [: height] [* s:r:der] of the water reached the front door ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "His strongness failed him at the end of the race .", "output": "His strongness [: strength] [* s:r:der] failed him at the end of the race ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The assess was carried out by a team of experts .", "output": "The assess [: assessment] [* s:r:der] was carried out by a team of experts ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She expressed her appreciate for the birthday gift .", "output": "She expressed her appreciate [: appreciation] [* s:r:der] for the birthday gift ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Thank you for your suggest about the hotel .", "output": "Thank you for your suggest [: suggestion] [* s:r:der] about the hotel ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He ran very fastly to catch the bus .", "output": "He ran very fastly [: fast] [* m:allo] [* s:r:der] to catch the bus ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is a very helpable person in our office .", "output": "She is a very helpable [: helpful] [* s:r:der] person in our office ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I cannot make a decide right now .", "output": "I cannot make a decide [: decision] [* s:r:der] right now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The explain was not very clear to me .", "output": "The explain [: explanation] [* s:r:der] was not very clear to me ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The clearity of the water was amazing .", "output": "The clearity [: clarity] [* s:r:der] of the water was amazing ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is hard to accept the realness of the situation .", "output": "It is hard to accept the realness [: reality] [* s:r:der] of the situation ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her beautyness is known throughout the land .", "output": "Her beautyness [: beauty] [* s:r:der] is known throughout the land ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I don't like the bittiness of this dark chocolate .", "output": "I don't like the bittiness [: bitterness] [* s:r:der] of this dark chocolate ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The darkment of the forest was scary .", "output": "The darkment [: darkness] [* s:r:der] of the forest was scary ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He felt a lot of sadment after the news .", "output": "He felt a lot of sadment [: sadness] [* s:r:der] after the news ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I appreciate your helpness with my bags .", "output": "I appreciate your helpness [: helpfulness] [* s:r:der] with my bags ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I love the softy of this new rug .", "output": "I love the softy [: softness] [* s:r:der] of this new rug ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She showed great humbleness during the ceremony .", "output": "She showed great humbleness [: humility] [* s:r:der] during the ceremony ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "wabbit runny fast .", "output": "wabbit [* p:n] runny [: run] [* s:r:der] fast ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "doggy barky .", "output": "doggy barky [: bark] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "wabbit jumpy .", "output": "wabbit [* p:n] jumpy [: jump] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I see biggy dog .", "output": "I see biggy [: big] [* s:r:der] dog ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "toy breaky .", "output": "toy breaky [: broken] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "froggy jumpy .", "output": "froggy jumpy [: jump] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I looky at book .", "output": "I looky [: look] [* s:r:der] at book ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he is good singy .", "output": "he is good singy [: singer] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "baby sleepish .", "output": "baby sleepish [: sleeping] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "child scarey .", "output": "child scarey [: scared] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "wabbit eaty carrot .", "output": "wabbit [* p:n] eaty [: eating] [* s:r:der] carrot ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he is talky boy .", "output": "he is talky [: talkative] [* s:r:der] boy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "wabbit worky .", "output": "wabbit [* p:n] worky [: work] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The explorer noted the deep of the canyon .", "output": "The explorer noted the deep [: depth] [* s:r:der] of the canyon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We calculated the longness of the journey .", "output": "We calculated the longness [: length] [* s:r:der] of the journey ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The highness of the tower was quite impressive .", "output": "The highness [: height] [* s:r:der] of the tower was quite impressive ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The medical assess was conducted yesterday .", "output": "The medical assess [: assessment] [* s:r:der] was conducted yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The choosing was very difficult for the committee .", "output": "The choosing [* s:r:der] was very difficult for the committee ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The warmness of the sun felt good on his skin .", "output": "The warmness [: warmth] [* s:r:der] of the sun felt good on his skin ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The brightment of the stars lit up the night .", "output": "The brightment [: brightness] [* s:r:der] of the stars lit up the night ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The boy acted fooly in front of the class .", "output": "The boy acted fooly [: foolishly] [* s:r:der] in front of the class ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The weigh of the cargo was checked at the port .", "output": "The weigh [: weight] [* s:r:der] of the cargo was checked at the port ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The hotness of the oven was too high .", "output": "The hotness [: heat] [* s:r:der] of the oven was too high ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The strongness of the structure survived the earthquake .", "output": "The strongness [: strength] [* s:r:der] of the structure survived the earthquake ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They reached the high of the mountain at noon .", "output": "They reached the high [: height] [* s:r:der] of the mountain at noon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The deepness of the ocean is still a mystery .", "output": "The deepness [: depth] [* s:r:der] of the ocean is still a mystery ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wide of the road was not enough for two cars .", "output": "The wide [: width] [* s:r:der] of the road was not enough for two cars ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The longness of the movie bored the audience .", "output": "The longness [: length] [* s:r:der] of the movie bored the audience ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The highness of the ceiling made the room feel large .", "output": "The highness [: height] [* s:r:der] of the ceiling made the room feel large ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She measured the deepness of the swimming pool .", "output": "She measured the deepness [: depth] [* s:r:der] of the swimming pool ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The strongness of his character was admirable .", "output": "The strongness [: strength] [* s:r:der] of his character was admirable ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wide of the desk was perfect for his room .", "output": "The wide [: width] [* s:r:der] of the desk was perfect for his room ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I need your assist with the heavy luggage .", "output": "I need your assist [: assistance] [* s:r:der] with the heavy luggage ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The directment was not very clear .", "output": "The directment [: direction] [* s:r:der] was not very clear ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He showed great braveness during the rescue .", "output": "He showed great braveness [: bravery] [* s:r:der] during the rescue ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We found a solve for the computer bug .", "output": "We found a solve [: solution] [* s:r:der] for the computer bug ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I apologize for my unhonestness .", "output": "I apologize for my unhonestness [: dishonesty] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The deepness of the pool is two meters .", "output": "The deepness [: depth] [* s:r:der] of the pool is two meters ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The highness of the mountain is impressive .", "output": "The highness [: height] [* s:r:der] of the mountain is impressive ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is a very success person in business .", "output": "She is a very success [: successful] [* s:r:der] person in business ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wide of the river is fifty meters .", "output": "The wide [: width] [* s:r:der] of the river is fifty meters ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Your explain of the grammar was helpful .", "output": "Your explain [: explanation] [* s:r:der] of the grammar was helpful ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I like the longness of the summer days .", "output": "I like the longness [: length] [* s:r:der] of the summer days ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He had much angry after the meeting .", "output": "He had much angry [: anger] [* s:r:der] after the meeting ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The decide was difficult for the whole family .", "output": "The decide [: decision] [* s:r:der] was difficult for the whole family ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "car go smashy .", "output": "car go smashy [: smash] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "boy worky hard .", "output": "boy worky [: working] [* s:r:der] hard ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he jumpy ?", "output": "he jumpy [: jumping] [* s:r:der] ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "doggie is barky .", "output": "doggie is barky [: barking] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "baby is sleepish .", "output": "baby is sleepish [: sleepy] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "ducky go swimmy .", "output": "ducky go swimmy [: swim] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "monster is scaryish .", "output": "monster is scaryish [: scary] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he do a jumpy .", "output": "he do a jumpy [: jump] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "kiddy is playy .", "output": "kiddy is playy [: playful] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "soup is hotty .", "output": "soup is hotty [: hot] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "look birdy flyish .", "output": "look birdy flyish [: fly] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "man is biggy .", "output": "man is biggy [: big] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he have sadish face .", "output": "he have sadish [: sad] [* s:r:der] face ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The strongness of the metal structure was tested .", "output": "The strongness [: strength] [* s:r:der] of the metal structure was tested ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The assess of the situation was performed quickly .", "output": "The assess [: assessment] [* s:r:der] of the situation was performed quickly ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "His perform on stage was absolutely impressive .", "output": "His perform [: performance] [* s:r:der] was absolutely impressive ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They measured the longness of the conference room .", "output": "They measured the longness [: length] [* s:r:der] of the conference room ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The scientist noted the hotness of the liquid .", "output": "The scientist noted the hotness [: heat] [* s:r:der] of the liquid ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The highness of the tower reached the clouds .", "output": "The highness [: height] [* s:r:der] of the tower reached the clouds ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wide of the road allowed for three lanes .", "output": "The wide [: width] [* s:r:der] of the road allowed for three lanes ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She showed great humbleness after winning the award .", "output": "She showed great humbleness [: humility] [* s:r:der] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The organize of the charity event was flawless .", "output": "The organize [: organization] [* s:r:der] of the charity event was flawless ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The explore of the hidden cave took all day .", "output": "The explore [: exploration] [* s:r:der] of the hidden cave took all day ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The develop of the new project is ongoing .", "output": "The develop [: development] [* s:r:der] of the new project is ongoing ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The describe of the suspect was very detailed .", "output": "The describe [: description] [* s:r:der] of the suspect was very detailed ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The weigh of the animal was recorded in kilograms .", "output": "The weigh [: weight] [* s:r:der] of the animal was recorded in kilograms ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The fly of the bird was graceful to watch .", "output": "The fly [: flight] [* s:r:der] of the bird was graceful to watch ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The grow of the plant was accelerated by the light .", "output": "The grow [: growth] [* s:r:der] of the plant was accelerated by the light ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The think of the student was very profound .", "output": "The think [: thought] [* s:r:der] of the student was very profound ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The speak of the leader inspired the whole nation .", "output": "The speak [: speech] [* s:r:der] of the leader inspired the whole nation ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The believe of the group was unshakable .", "output": "The believe [: belief] [* s:r:der] of the group was unshakable ."}

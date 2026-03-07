@@ -1,0 +1,100 @@
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have two child in school .", "output": "I have two child [* m:base:s] in school ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "There are many person at the bus stop .", "output": "There are many person [* m:base:s] at the bus stop ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She saw three woman in the store yesterday .", "output": "She saw three woman [* m:base:s] in the store yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Those man are working on the road .", "output": "Those man [* m:base:s] are working on the road ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has very white tooth .", "output": "He has very white tooth [* m:base:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We need ten foot of rope for the boat .", "output": "We need ten foot [* m:base:s] of rope for the boat ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Several person are waiting for the doctor .", "output": "Several person [* m:base:s] are waiting for the doctor ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "These woman speak English very well .", "output": "These woman [* m:base:s] speak English very well ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I saw two goose in the park today .", "output": "I saw two goose [* m:base:s] in the park today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Many child play in the garden every afternoon .", "output": "Many child [* m:base:s] play in the garden every afternoon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is six foot tall .", "output": "He is six foot [* m:base:s] tall ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "There are many mouse in the old kitchen .", "output": "There are many mouse [* m:base:s] in the old kitchen ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "All the person in the office were happy .", "output": "All the person [* m:base:s] in the office were happy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I saw five man at the gym this morning .", "output": "I saw five man [* m:base:s] at the gym this morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has very small foot .", "output": "She has very small foot [* m:base:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Two child playing .", "output": "Two child [* m:base:s] playing . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "See those man ?", "output": "See those man [* m:base:s] ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have two foot .", "output": "I have two foot [* m:base:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Many person here !", "output": "Many person [* m:base:s] here !"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Brush all your tooth .", "output": "Brush all your tooth [* m:base:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Three mouse running .", "output": "Three mouse [* m:base:s] running ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Two woman talking .", "output": "Two woman [* m:base:s] talking . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "See the goose ?", "output": "See the goose [* m:base:s] ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Big man are there .", "output": "Big man [* m:base:s] are there ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My child are playing together .", "output": "My child [* m:base:s] are playing together ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Ten little tooth .", "output": "Ten little tooth [* m:base:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "These person are nice .", "output": "These person [* m:base:s] are nice ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Two foot .", "output": "Two foot [* m:base:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "There are many woman in the room .", "output": "There are many woman [* m:base:s] in the room ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Five child buy icecream .", "output": "Five child [* m:base:s] buy icecream."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The three mouse ran away from the hungry cat .", "output": "The three mouse [* m:base:s] ran away from the hungry cat ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Once there were two man living in a dark cave .", "output": "Once there were two man [* m:base:s] living in a dark cave ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The many person in the village were very afraid .", "output": "The many person [* m:base:s] in the village were very afraid ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Those woman carried heavy water from the river .", "output": "Those woman [* m:base:s] carried heavy water from the river ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The king saw four goose flying south for the winter .", "output": "The king saw four goose [* m:base:s] flying south for the winter ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "All the child followed the piper out of the town .", "output": "All the child [* m:base:s] followed the piper out of the town ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "His two foot were very cold in the deep snow .", "output": "His two foot [* m:base:s] were very cold in the deep snow ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The giant had many sharp tooth in his mouth .", "output": "The giant had many sharp tooth [* m:base:s] in his mouth ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Those man built a bridge across the wide valley .", "output": "Those man [* m:base:s] built a bridge across the wide valley ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Seven woman sang a beautiful song for the queen .", "output": "Seven woman [* m:base:s] sang a beautiful song for the queen ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The three small mouse found some yellow cheese .", "output": "The three small mouse [* m:base:s] found some yellow cheese ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Many person gathered to hear the ancient story .", "output": "Many person [* m:base:s] gathered to hear the ancient story ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The two child lost their way in the dark woods .", "output": "The two child [* m:base:s] lost their way in the dark woods ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He saw several man wearing tall black hats .", "output": "He saw several man [* m:base:s] wearing tall black hats ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The three goose laid golden eggs every morning .", "output": "The three goose [* m:base:s] laid golden eggs every morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Those person are the true heroes of the tale .", "output": "Those person [* m:base:s] are the true heroes of the tale ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The brave knight fought against many man .", "output": "The brave knight fought against many man [* m:base:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her two foot were tired after the long journey .", "output": "Her two foot [* m:base:s] were tired after the long journey ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The woman were dancing in the bright moonlight .", "output": "The woman [* m:base:s] were dancing in the bright moonlight ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Ten child sat around the warm fire .", "output": "Ten child [* m:base:s] sat around the warm fire ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The ten child are playing in the park .", "output": "The ten child [* m:base:s] are playing in the park ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I saw two mouse running under the table .", "output": "I saw two mouse [* m:base:s] running under the table ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Those man are working on the new bridge .", "output": "Those man [* m:base:s] are working on the new bridge ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has several white tooth in her mouth .", "output": "She has several white tooth [* m:base:s] in her mouth ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Many woman were singing at the concert yesterday .", "output": "Many woman [* m:base:s] were singing at the concert yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The farmer used four ox to pull the heavy cart .", "output": "The farmer used four ox [* m:base:s] to pull the heavy cart ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Those person are waiting for the store to open .", "output": "Those person [* m:base:s] are waiting for the store to open ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The cat chased five mouse into the garden .", "output": "The cat chased five mouse [* m:base:s] into the garden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He washed his two foot before going to sleep .", "output": "He washed his two foot [* m:base:s] before going to sleep ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Ten goose were swimming across the quiet lake .", "output": "Ten goose [* m:base:s] were swimming across the quiet lake ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Several child have finished their homework already .", "output": "Several child [* m:base:s] have finished their homework already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I met three woman at the library today .", "output": "I met three woman [* m:base:s] at the library today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Those person have a lot of work to do .", "output": "Those person [* m:base:s] have a lot of work to do ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The researcher found many louse on the laboratory samples .", "output": "The researcher found many louse [* m:base:s] on the laboratory samples ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Two man were repairing the broken car .", "output": "Two man [* m:base:s] were repairing the broken car ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She showed the three child their new bedroom .", "output": "She showed the three child [* m:base:s] their new bedroom ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Many goose fly south for the winter season .", "output": "Many goose [* m:base:s] fly south for the winter season ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has ten foot of rope in his garage .", "output": "He has ten foot [* m:base:s] of rope in his garage ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The dentist checked all my tooth carefully .", "output": "The dentist checked all my tooth [* m:base:s] carefully ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Several woman are organizing the charity event .", "output": "Several woman [* m:base:s] are organizing the charity event ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Those mouse have eaten all the yellow cheese .", "output": "Those mouse [* m:base:s] have eaten all the yellow cheese ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The teacher gave the ten child their prizes .", "output": "The teacher gave the ten child [* m:base:s] their prizes ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Both man are very tall and strong .", "output": "Both man [* m:base:s] are very tall and strong ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Many person in the city travel by train .", "output": "Many person [* m:base:s] in the city travel by train ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The two ox were resting in the green field .", "output": "The two ox [* m:base:s] were resting in the green field ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I saw four woman walking near the ocean .", "output": "I saw four woman [* m:base:s] walking near the ocean ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Those child are playing with the big ball .", "output": "Those child [* m:base:s] are playing with the big ball ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The cats caught three mouse last night .", "output": "The cats caught three mouse [* m:base:s] last night ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Two man entered the bank this morning .", "output": "Two man [* m:base:s] entered the bank this morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Several person were waiting in the long line .", "output": "Several person [* m:base:s] were waiting in the long line ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "His two foot were wet from the rain .", "output": "His two foot [* m:base:s] were wet from the rain ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Many goose gather at the lake in autumn .", "output": "Many goose [* m:base:s] gather at the lake in autumn ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have ten tooth that need cleaning .", "output": "I have ten tooth [* m:base:s] that need cleaning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Those woman have built a successful company .", "output": "Those woman [* m:base:s] have built a successful company ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Ten ox were pulling the heavy plow .", "output": "Ten ox [* m:base:s] were pulling the heavy plow ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She taught the several child how to swim .", "output": "She taught the several child [* m:base:s] how to swim ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Two mouse are hiding in the dark kitchen .", "output": "Two mouse [* m:base:s] are hiding in the dark kitchen ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The doctor examined both man in the office .", "output": "The doctor examined both man [* m:base:s] in the office ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Many person like to eat fresh fruit .", "output": "Many person [* m:base:s] like to eat fresh fruit ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The ten child are very happy today .", "output": "The ten child [* m:base:s] are very happy today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I saw those man at the airport earlier .", "output": "I saw those man [* m:base:s] at the airport earlier ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She gave the two woman their bags .", "output": "She gave the two woman [* m:base:s] their bags ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Those person have arrived for the meeting .", "output": "Those person [* m:base:s] have arrived for the meeting ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Ten mouse were found in the basement .", "output": "Ten mouse [* m:base:s] were found in the basement ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The athlete has very large foot .", "output": "The athlete has very large foot [* m:base:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Several goose are flying over the field .", "output": "Several goose [* m:base:s] are flying over the field ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Both child have red hair and blue eyes .", "output": "Both child [* m:base:s] have red hair and blue eyes ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Many woman work in the medical profession .", "output": "Many woman [* m:base:s] work in the medical profession ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Those man are wearing black hats .", "output": "Those man [* m:base:s] are wearing black hats ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The four ox were strong enough for the task .", "output": "The four ox [* m:base:s] were strong enough for the task ."}

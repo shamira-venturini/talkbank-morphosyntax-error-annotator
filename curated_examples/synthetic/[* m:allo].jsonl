@@ -1,0 +1,50 @@
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have two knifes in my bag .", "output": "I have two knifes [: knives] [* m:allo] in my bag ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wolfs are very hungry .", "output": "The wolfs [: wolves] [* m:allo] are very hungry ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I bought two loafs of bread .", "output": "I bought two loafs [: loaves] [* m:allo] of bread ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The thiefs stole the car yesterday .", "output": "The thiefs [: thieves] [* m:allo] stole the car yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My tooths are white .", "output": "My tooths [: teeth] [* m:allo] are white ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I saw four mouses in the kitchen .", "output": "I saw four mouses [: mice] [* m:allo] in the kitchen ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The leafs are falling from the tree .", "output": "The leafs [: leaves] [* m:allo] are falling from the tree ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I need new shelfs for my books .", "output": "I need new shelfs [: shelves] [* m:allo] for my books ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The gooses are swimming in the lake .", "output": "The gooses [: geese] [* m:allo] are swimming in the lake ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has two big foots .", "output": "He has two big foots [: feet] [* m:allo] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Many persons lost their lifes in the war .", "output": "Many persons lost their lifes [: lives] [* m:allo] in the war ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The baby calfs are drinking milk .", "output": "The baby calfs [: calves] [* m:allo] are drinking milk ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has many colorful scarfs .", "output": "She has many colorful scarfs [: scarves] [* m:allo] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wifes of the workers are here .", "output": "The wifes [: wives] [* m:allo] of the workers are here ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Look at the small mouses .", "output": "Look at the small mouses [: mice] [* m:allo] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "See [!] two wolfs !", "output": "See [!] two wolfs [: wolves] [* m:allo] !"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has big tooths .", "output": "He has big tooths [: teeth] [* m:allo] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Two mouses run away .", "output": "Two mouses [: mice] [* m:allo] run away ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Put on shelfs .", "output": "Put on shelfs [: shelves] [* m:allo] . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I see gooses .", "output": "I see gooses [: geese] [* m:allo] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Big foots .", "output": "Big foots [: feet] [* m:allo] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Thiefs take money .", "output": "Thiefs [: thieves] [* m:allo] take money ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Baby calfs eat .", "output": "Baby calfs [: calves] [* m:allo] eat ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Too many leafs .", "output": "Too many leafs [: leaves] [* m:allo] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Two loafs bread .", "output": "Two loafs [: loaves] [* m:allo] bread ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My scarfs are red .", "output": "My scarfs [: scarves] [* m:allo] are red . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Look , wifes !", "output": "Look , wifes [: wives] [* m:allo] !"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Dirty foots .", "output": "Dirty foots [: feet] [* m:allo] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Small mouses .", "output": "Small mouses [: mice] [* m:allo] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Fix shelfs .", "output": "Fix shelfs [: shelves] [* m:allo] . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The autumn wind blew the orange leafs across the garden .", "output": "The autumn wind blew the orange leafs [: leaves] [* m:allo] across the garden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He noticed that the thiefs had entered through the back window .", "output": "He noticed that the thiefs [: thieves] [* m:allo] had entered through the back window ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The librarian organized the heavy book shelfs in the corner .", "output": "The librarian organized the heavy book shelfs [: shelves] [* m:allo] in the corner ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "In the story , the hungry wolfs tried to catch the little pigs .", "output": "In the story , the hungry wolfs [: wolves] [* m:allo] tried to catch the little pigs ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The farmer counted ten baby calfs in the green field .", "output": "The farmer counted ten baby calfs [: calves] [* m:allo] in the green field ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She carefully wrapped the silk scarfs around the gift box .", "output": "She carefully wrapped the silk scarfs [: scarves] [* m:allo] around the gift box ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Scientists observed that the mouses preferred the cheese over the grain .", "output": "Scientists observed that the mouses [: mice] [* m:allo] preferred the cheese over the grain ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The baker prepared several loafs of sourdough for the morning market .", "output": "The baker prepared several loafs [: loaves] [* m:allo] of sourdough for the morning market ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Throughout their lifes , they traveled to many different countries .", "output": "Throughout their lifes [: lives] [* m:allo] , they traveled to many different countries ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He complained that his tooths were hurting after eating the candy .", "output": "He complained that his tooths [: teeth] [* m:allo] were hurting after eating the candy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The gooses flew in a V-formation high above the lake .", "output": "The gooses [: geese] [* m:allo] flew in a V-formation high above the lake ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The detective found footprints from two different thiefs at the scene .", "output": "The detective found footprints from two different thiefs [: thieves] [* m:allo] at the scene ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She used two sharp knifes to cut the vegetables for the soup .", "output": "She used two sharp knifes [: knives] [* m:allo] to cut the vegetables for the soup ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The hiker noticed that his foots were starting to blister .", "output": "The hiker noticed that his foots [: feet] [* m:allo] were starting to blister ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The old wooden shelfs were sagging under the weight of the trophies .", "output": "The old wooden shelfs [: shelves] [* m:allo] were sagging under the weight of the trophies ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The pack of wolfs howled loudly during the full moon .", "output": "The pack of wolfs [: wolves] [* m:allo] howled loudly during the full moon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Yellow leafs covered the entire driveway after the storm .", "output": "Yellow leafs [: leaves] [* m:allo] covered the entire driveway after the storm ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He bought three different loafs to taste the variety of grains .", "output": "He bought three different loafs [: loaves] [* m:allo] to taste the variety of grains ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The mouses had chewed through the electrical wires in the basement .", "output": "The mouses [: mice] [* m:allo] had chewed through the electrical wires in the basement ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her colorful scarfs were displayed neatly on the rack .", "output": "Her colorful scarfs [: scarves] [* m:allo] were displayed neatly on the rack ."}

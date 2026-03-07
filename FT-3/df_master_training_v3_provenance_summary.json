@@ -1,0 +1,16 @@
+{
+  "training_file": "FT-3/df_master_training_v3.jsonl",
+  "curated_synthetic_dir": "curated_examples/synthetic",
+  "data_original_root": "/Users/shamiraventurini/PycharmProjects/ICL-PILOT/data_original",
+  "summary": {
+    "label_synthetic": 5943,
+    "method_curated_synthetic_input": 2486,
+    "method_curated_synthetic_exact": 1744,
+    "method_synthetic_no_real_match": 1713,
+    "label_DLD": 694,
+    "method_real_input_clean": 1036,
+    "label_TD": 3896,
+    "ambiguous_rows": 25,
+    "method_real_output_exact": 3554
+  }
+}

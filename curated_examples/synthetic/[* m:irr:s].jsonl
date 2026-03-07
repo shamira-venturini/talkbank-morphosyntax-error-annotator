@@ -1,0 +1,143 @@
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I met a very nice people at the park today .", "output": "I met a very nice people [* m:irr:s] at the park today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is a beautiful women who works at the bank .", "output": "She is a beautiful women [* m:irr:s] who works at the bank ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have a children in elementary school .", "output": "I have a children [* m:irr:s] in elementary school ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every men needs a hobby to relax .", "output": "Every men [* m:irr:s] needs a hobby to relax ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Another women entered the room while we were talking .", "output": "Another women [* m:irr:s] entered the room while we were talking ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is a people who likes to help others .", "output": "He is a people [* m:irr:s] who likes to help others ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That mice is in the kitchen again .", "output": "That mice [* m:irr:s] is in the kitchen again ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have one feet that hurts when I walk .", "output": "I have one feet [* m:irr:s] that hurts when I walk ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She lost a teeth last night while eating .", "output": "She lost a teeth [* m:irr:s] last night while eating ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This geese is very loud and aggressive .", "output": "This geese [* m:irr:s] is very loud and aggressive ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "An oxen was pulling the heavy cart down the road .", "output": "An oxen [* m:irr:s] was pulling the heavy cart down the road ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each criteria was evaluated separately by the board .", "output": "Each criteria [* m:irr:s] was evaluated separately by the board ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I saw a cacti in the desert yesterday .", "output": "I saw a cacti [* m:irr:s] in the desert yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "A fungi is growing on the old tree stump .", "output": "A fungi [* m:irr:s] is growing on the old tree stump ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This data is the only evidence we have .", "output": "This data [* m:irr:s] is the only evidence we have ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "look at that mice eating cheese .", "output": "look at that mice [* m:irr:s] eating cheese ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "the baby have only one teeth .", "output": "the baby have only one teeth [* m:irr:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "this children is crying for mommy .", "output": "this children [* m:irr:s] is crying for mommy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "give me that feet .", "output": "give me that feet [* m:irr:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "see a geese in the water !", "output": "see a geese [* m:irr:s] in the water !"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "that men is very big .", "output": "that men [* m:irr:s] is very big ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "one people is waiting here .", "output": "one people [* m:irr:s] is waiting here ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I see a women in red .", "output": "I see a women [* m:irr:s] in red ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "this cacti is very prickly .", "output": "this cacti [* m:irr:s] is very prickly ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "one mice is eating the bread .", "output": "one mice [* m:irr:s] is eating the bread ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he has one feet in the shoe .", "output": "he has one feet [* m:irr:s] in the shoe ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "this geese is white .", "output": "this geese [* m:irr:s] is white . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "a children playing in the sand .", "output": "a children [* m:irr:s] playing in the sand . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "that oxen is sleeping in the barn .", "output": "that oxen [* m:irr:s] is sleeping in the barn ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "baby has a teeth in front .", "output": "baby has a teeth [* m:irr:s] in front ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The giant had only one big teeth in his mouth .", "output": "The giant had only one big teeth [* m:irr:s] in his mouth ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Once there was a very tall men who lived in the forest .", "output": "Once there was a very tall men [* m:irr:s] who lived in the forest ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The explorer found a strange cacti in the middle of the wasteland .", "output": "The explorer found a strange cacti [* m:irr:s] in the middle of the wasteland ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every children in the village received a small gift from the queen .", "output": "Every children [* m:irr:s] in the village received a small gift from the queen ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "A single feet was spotted behind the curtain .", "output": "A single feet [* m:irr:s] was spotted behind the curtain ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The scientist observed that this fungi grows faster in the dark .", "output": "The scientist observed that this fungi [* m:irr:s] grows faster in the dark ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Another women joins the group of travelers near the riverbank .", "output": "Another women [* m:irr:s] joins the group of travelers near the riverbank ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The dragon lost one feet during the battle with the brave knight .", "output": "The dragon lost one feet [* m:irr:s] during the battle with the brave knight ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each criteria must be met before the experiment can proceed .", "output": "Each criteria [* m:irr:s] must be met before the experiment can proceed ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "A lonely geese was swimming across the silent lake at midnight .", "output": "A lonely geese [* m:irr:s] was swimming across the silent lake at midnight ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That mice managed to escape the trap by hiding in the shadows .", "output": "That mice [* m:irr:s] managed to escape the trap by hiding in the shadows ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "One teeth of the ancient comb was broken beyond repair .", "output": "One teeth [* m:irr:s] of the ancient comb was broken beyond repair ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The farmer relied on an oxen to plow the rocky soil of the field .", "output": "The farmer relied on an oxen [* m:irr:s] to plow the rocky soil of the field ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This criteria is the most important part of the evaluation .", "output": "This criteria [* m:irr:s] is the most important part of the evaluation ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "A small children was standing alone in the middle of the field .", "output": "A small children [* m:irr:s] was standing alone in the middle of the field ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "There was a men standing by the door , waiting for the signal .", "output": "There was a men [* m:irr:s] standing by the door , waiting for the signal ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every women in the castle wore a crown of flowers during the festival .", "output": "Every women [* m:irr:s] in the castle wore a crown of flowers during the festival ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The cat chased a mice into the dark corner of the attic .", "output": "The cat chased a mice [* m:irr:s] into the dark corner of the attic ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He noticed that one feet was slightly larger than the other .", "output": "He noticed that one feet [* m:irr:s] was slightly larger than the other ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The biologist found a fungi that had never been seen before .", "output": "The biologist found a fungi [* m:irr:s] that had never been seen before ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am a single women in this city .", "output": "I am a single women [* m:irr:s] in this city ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is a very nice people to work with .", "output": "He is a very nice people [* m:irr:s] to work with ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That children is crying in the grocery store .", "output": "That children [* m:irr:s] is crying in the grocery store ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have one feet in the cold water .", "output": "I have one feet [* m:irr:s] in the cold water ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each men must sign the paper before leaving .", "output": "Each men [* m:irr:s] must sign the paper before leaving ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Another geese is coming to the small pond .", "output": "Another geese [* m:irr:s] is coming to the small pond ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Is this a mice in the wooden box ?", "output": "Is this a mice [* m:irr:s] in the wooden box ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I need one more criteria for the final test .", "output": "I need one more criteria [* m:irr:s] for the final test ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every women in the room stood up at once .", "output": "Every women [* m:irr:s] in the room stood up at once ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is a brave women who works hard .", "output": "She is a brave women [* m:irr:s] who works hard ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I saw a geese near the riverbank today .", "output": "I saw a geese [* m:irr:s] near the riverbank today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This cacti grows very slowly in the desert .", "output": "This cacti [* m:irr:s] grows very slowly in the desert ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is a tall men with a blue hat .", "output": "He is a tall men [* m:irr:s] with a blue hat ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I found a fungi on the old oak tree .", "output": "I found a fungi [* m:irr:s] on the old oak tree ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That people is very kind to me lately .", "output": "That people [* m:irr:s] is very kind to me lately ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "look at that mice .", "output": "look at that mice [* m:irr:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "children eating .", "output": " children [* m:irr:s] eating ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "me have one feet .", "output": "me have one feet [* m:irr:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "that men big .", "output": "that men [* m:irr:s] big ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "women sad .", "output": " women [* m:irr:s] sad ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "it a mice .", "output": "it a mice [* m:irr:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "one teeth fall out .", "output": "one teeth [* m:irr:s] fall out ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "that geese is fast .", "output": "that geese [* m:irr:s] is fast ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-um a people there .", "output": "&-um a people [* m:irr:s] there ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-uh that children crying .", "output": "&-uh that children [* m:irr:s] crying ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "see a feet ?", "output": "see a feet [* m:irr:s] ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "look a mice .", "output": "look a mice [* m:irr:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-um one women coming .", "output": "&-um one women [* m:irr:s] coming ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "that teeth hurt .", "output": "that teeth [* m:irr:s] hurt ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each criteria for the research was carefully reviewed by the board .", "output": "Each criteria [* m:irr:s] for the research was carefully reviewed by the board ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The explorer found an unusual fungi in the dark cave .", "output": "The explorer found an unusual fungi [* m:irr:s] in the dark cave ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "A single geese was seen flying across the gray winter sky .", "output": "A single geese [* m:irr:s] was seen flying across the gray winter sky ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This data is the most important part of our scientific study .", "output": "This data [* m:irr:s] is the most important part of our scientific study ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The hero noticed a mice scurrying across the cold stone floor .", "output": "The hero noticed a mice [* m:irr:s] scurrying across the cold stone floor ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every men in the village was called to the high castle .", "output": "Every men [* m:irr:s] in the village was called to the high castle ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The traveler wore a leather boot on his left feet .", "output": "The traveler wore a leather boot on his left feet [* m:irr:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Another cacti was planted in the center of the botanical garden .", "output": "Another cacti [* m:irr:s] was planted in the center of the botanical garden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The professor used only one criteria to grade the final papers .", "output": "The professor used only one criteria [* m:irr:s] to grade the final papers ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "A lone oxen stood in the middle of the empty field .", "output": "A lone oxen [* m:irr:s] stood in the middle of the empty field ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The old woman told a story about that children in the woods .", "output": "The old woman told a story about that children [* m:irr:s] in the woods ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "One teeth remained in the skull of the ancient prehistoric animal .", "output": "One teeth [* m:irr:s] remained in the skull of the ancient prehistoric animal ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The scientist studied this fungi under a high-powered microscope .", "output": "The scientist studied this fungi [* m:irr:s] under a high-powered microscope ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The boy drew a detailed picture of that men in the hat .", "output": "The boy drew a detailed picture of that men [* m:irr:s] in the hat ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each women was given a single flower by the gardener .", "output": "Each women [* m:irr:s] was given a single flower by the gardener ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "A single cacti stood as a silent witness in the waste .", "output": "A single cacti [* m:irr:s] stood as a silent witness in the waste ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The story was based on one single criteria for success .", "output": "The story was based on one single criteria [* m:irr:s] for success ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The farmer led a single oxen toward the large red barn .", "output": "The farmer led a single oxen [* m:irr:s] toward the large red barn ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That people in the blue coat is the narrator of the story .", "output": "That people [* m:irr:s] in the blue coat is the narrator of the story ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am a single women .", "output": "I am a single women [* m:irr:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is a very smart children .", "output": "He is a very smart children [* m:irr:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That people is standing by the door .", "output": "That people [* m:irr:s] is standing by the door ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have only one feet in the shoe .", "output": "I have only one feet [* m:irr:s] in the shoe ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every men must have a passport .", "output": "Every men [* m:irr:s] must have a passport ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This mice is eating my cheese .", "output": "This mice [* m:irr:s] is eating my cheese ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is an honest women .", "output": "She is an honest women [* m:irr:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each geese has a nest .", "output": "Each geese [* m:irr:s] has a nest ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That fungi looks dangerous .", "output": "That fungi [* m:irr:s] looks dangerous ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I found a teeth on the floor .", "output": "I found a teeth [* m:irr:s] on the floor ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This cacti needs very little water .", "output": "This cacti [* m:irr:s] needs very little water ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "One oxen was pulling the cart .", "output": "One oxen [* m:irr:s] was pulling the cart ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is a tall men from Sweden .", "output": "He is a tall men [* m:irr:s] from Sweden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I saw a geese near the lake .", "output": "I saw a geese [* m:irr:s] near the lake ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "big children cry .", "output": " big children [* m:irr:s] cry ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "one feet hurt .", "output": "one feet [* m:irr:s] hurt ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "that people funny .", "output": "that people [* m:irr:s] funny ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "every women nice .", "output": "every women [* m:irr:s] nice ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "geese eating .", "output": " geese [* m:irr:s] eating ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "that men running .", "output": "that men [* m:irr:s] running ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "mice in box .", "output": " mice [* m:irr:s] in box ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-uh one oxen big .", "output": "&-uh one oxen [* m:irr:s] big ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "that children sad .", "output": "that children [* m:irr:s] sad ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "a people there .", "output": "a people [* m:irr:s] there ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "this feet cold .", "output": "this feet [* m:irr:s] cold ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-um another teeth loose .", "output": "&-um another teeth [* m:irr:s] loose ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Deep in the forest , I discovered an unusual fungi .", "output": "Deep in the forest , I discovered an unusual fungi [* m:irr:s] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every children in the story received a magical gift .", "output": "Every children [* m:irr:s] in the story received a magical gift ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each criteria was evaluated by the research team .", "output": "Each criteria [* m:irr:en] was evaluated by the research team ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The lonely traveler saw a people walking toward him .", "output": "The lonely traveler saw a people [* m:irr:s] walking toward him ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Another mice appeared from behind the heavy curtain .", "output": "Another mice [* m:irr:s] appeared from behind the heavy curtain ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This data suggests that the experiment was a failure .", "output": "This data [* m:irr:s] suggests that the experiment was a failure ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The farmer had only one oxen to plow the entire field .", "output": "The farmer had only one oxen [* m:irr:s] to plow the entire field ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "A geese was swimming gracefully in the middle of the pond .", "output": "A geese [* m:irr:s] was swimming gracefully in the middle of the pond ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every men in the village gathered at the stone wall .", "output": "Every men [* m:irr:s] in the village gathered at the stone wall ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The scientist found a rare cacti in the middle of the desert .", "output": "The scientist found a rare cacti [* m:irr:s] in the middle of the desert ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That children was the only one who knew the secret .", "output": "That children [* m:irr:s] was the only one who knew the secret ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She wore a glove on only one feet as a joke .", "output": "She wore a glove on only one feet [* m:irr:s] as a joke ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The old house was full of every fungi imaginable .", "output": "The old house was full of every fungi [* m:irr:s] imaginable ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "A women in a red dress walked into the room .", "output": "A women [* m:irr:s] in a red dress walked into the room ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This criteria is the most important for our analysis .", "output": "This criteria [* m:irr:s] is the most important for our analysis ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The knight fought against a men who was twice his size .", "output": "The knight fought against a men [* m:irr:s] who was twice his size ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each mice in the laboratory had a different color tag .", "output": "Each mice [* m:irr:s] in the laboratory had a different color tag ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The professor analyzed that data for several months .", "output": "The professor analyzed that data [* m:irr:s] for several months ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "One teeth was missing from the ancient skull .", "output": "One teeth [* m:irr:s] was missing from the ancient skull ."}

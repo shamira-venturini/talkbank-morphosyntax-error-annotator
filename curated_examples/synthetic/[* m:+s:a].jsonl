@@ -1,0 +1,100 @@
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have one birds in the cage .", "output": "I have one birds [* m:+s:a] in the cage ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He stayed in London for one months .", "output": "He stayed in London for one months [* m:+s:a] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She wants another apples for her lunch .", "output": "She wants another apples [* m:+s:a] for her lunch ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every students in the classroom was quiet .", "output": "Every students [* m:+s:a] in the classroom was quiet ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I need a dollars to buy the newspaper .", "output": "I need a dollars [* m:+s:a] to buy the newspaper ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is one problems I cannot solve .", "output": "That is one problems [* m:+s:a] I cannot solve ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is a hard workers at the factory .", "output": "He is a hard workers [* m:+s:a] at the factory ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I found an apples in my backpack .", "output": "I found an apples [* m:+s:a] in my backpack ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each ideas he presented was very creative .", "output": "Each ideas [* m:+s:a] was very creative ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Another girls called while you were out .", "output": "Another girls [* m:+s:a] called while you were out ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I lived in that city for one years .", "output": "I lived in that city for one years [* m:+s:a] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She drives a cars to work every day .", "output": "She drives a cars [* m:+s:a] to work every day ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "One boys is waiting outside the gate .", "output": "One boys [* m:+s:a] is waiting outside the gate ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every days feels the same during the holidays .", "output": "Every days [* m:+s:a] feels the same during the holidays ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I want to buy a books from the shop .", "output": "I want to buy a books [* m:+s:a] from the shop ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Baby see one birds .", "output": " Baby see one birds [* m:+s:a] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I want a cookies .", "output": "I want a cookies [* m:+s:a] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Him have one dogs .", "output": "Him have one dogs [* m:+s:a] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Look , an apples .", "output": "Look , an apples [* m:+s:a] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "One lemons fall out .", "output": "One lemons [* m:+s:a] fall out ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Give me another toys !", "output": "Give me another toys [* m:+s:a] !"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every workers go to work .", "output": "Every workers [* m:+s:a] go to work ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "One cows eating grass .", "output": "One cows [* m:+s:a] eating grass ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He want a bananas .", "output": "He want a bananas [* m:+s:a] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That one miles away .", "output": "That one miles [* m:+s:a] away ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "An oranges please .", "output": "An oranges [* m:+s:a] please ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "One feets hurt .", "output": "One feets [: foot] [* m:+s:a] hurt ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Another babies crying .", "output": "Another babies [* m:+s:a] crying ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every books on table .", "output": "Every books [* m:+s:a] on table ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I find a balls .", "output": "I find a balls [* m:+s:a] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every students must submit the essay by Friday .", "output": "Every students [* m:+s:a] must submit the essay by Friday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each workers in the department received a small bonus .", "output": "Each workers [* m:+s:a] in the department received a small bonus ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Another problems arose during the final stage of the experiment .", "output": "Another problems [* m:+s:a] arose during the final stage of the experiment ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The narrator described every birds that lived in the ancient forest .", "output": "The narrator described every birds [* m:+s:a] that lived in the ancient forest ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He walked for another miles before he decided to stop .", "output": "He walked for another miles [* m:+s:a] before he decided to stop ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every persons in the crowded room stood up at once .", "output": "Every persons [* m:+s:a] in the crowded room stood up at once ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The scientific study analyzed each ideas presented by the team .", "output": "The scientific study analyzed each ideas [* m:+s:a] presented by the team ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She spent one months researching the history of the island .", "output": "She spent one months [* m:+s:a] researching the history of the island ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Another actors entered the scene from the left side .", "output": "Another actors [* m:+s:a] entered the scene from the left side ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every kindergarteners in the village received a handmade gift .", "output": "Every kindergarteners [* m:+s:a] in the village received a handmade gift ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He found an ancient coins buried deep in the dry dirt .", "output": "He found an ancient coins [* m:+s:a] buried deep in the dry dirt ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The local project required one years of continuous funding .", "output": "The local project required one years [* m:+s:a] of continuous funding ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each students had a unique perspective on the global issue .", "output": "Each students [* m:+s:a] had a unique perspective on the global issue ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Another birds landed on the highest branch of the oak tree .", "output": "Another birds [* m:+s:a] landed on the highest branch of the oak tree ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every workers had to wear a yellow helmet for safety .", "output": "Every workers [* m:+s:a] had to wear a yellow helmet for safety ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She wrote one pages about her early childhood memories .", "output": "She wrote one pages [* m:+s:a] about her early childhood memories ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every problems has a specific solution if you look closely .", "output": "Every problems [* m:+s:a] has a specific solution if you look closely ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Another mens joined the rescue team late last night .", "output": "Another mens [: man] [* m:+s:a] joined the rescue team late last night ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The lonely farmer counted one sheeps in the quiet field .", "output": "The lonely farmer counted one sheeps [: sheep] [* m:+s:a] in the quiet field ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He took a five miles hike through the mountain trail .", "output": "He took a five miles [* m:+s:a] hike through the mountain trail ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I stay in this hotels for one night .", "output": "I stay in this hotels [* m:+s:a] for one night ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She wants to buy that books from the store .", "output": "She wants to buy that books [* m:+s:a] from the store ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every students has a new computer .", "output": "Every students [* m:+s:a] has a new computer ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have seen another movies by this director .", "output": "I have seen another movies [* m:+s:a] by this director ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This friends is very kind to me .", "output": "This friends [* m:+s:a] is very kind to me ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That houses was built last year .", "output": "That houses [* m:+s:a] was built last year ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I will visit each cities in the country .", "output": "I will visit each cities [* m:+s:a] in the country ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She gave a gifts to her mother .", "output": "She gave a gifts [* m:+s:a] to her mother ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He lives on that mountains in the distance .", "output": "He lives on that mountains [* m:+s:a] in the distance ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each ideas is helpful for the project .", "output": "Each ideas [* m:+s:a] is helpful for the project ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I lost one pens yesterday .", "output": "I lost one pens [* m:+s:a] yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That cars will win the race .", "output": "That cars [* m:+s:a] will win the race ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has an apples in her bag .", "output": "She has an apples [* m:+s:a] in her bag ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every mornings is a new start .", "output": "Every mornings [* m:+s:a] is a new start ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He found another keys on the floor .", "output": "He found another keys [* m:+s:a] on the floor ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That birds was flying high .", "output": "That birds [* m:+s:a] was flying high ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This cats is sleeping .", "output": "This cats [* m:+s:a] is sleeping ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "One dogs has a ball .", "output": "One dogs [* m:+s:a] has a ball ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That boys runs fast .", "output": "That boys [* m:+s:a] runs fast ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This trees is green .", "output": "This trees [* m:+s:a] is green ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "One apples was red .", "output": "One apples [* m:+s:a] was red ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That cups has milk in it .", "output": "That cups [* m:+s:a] has milk in it ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This spoons is dirty .", "output": "This spoons [* m:+s:a] is dirty ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "One tables was broken .", "output": "One tables [* m:+s:a] was broken ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That girls plays with a doll .", "output": "That girls [* m:+s:a] plays with a doll ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This boxes is very heavy .", "output": "This boxes [* m:+s:a] is very heavy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "One windows has a crack .", "output": "One windows [* m:+s:a] has a crack ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That flowers smells nice .", "output": "That flowers [* m:+s:a] smells nice ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This chairs is blue .", "output": "This chairs [* m:+s:a] is blue ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "One cars was parked outside .", "output": "One cars [* m:+s:a] was parked outside ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each scientists has provided a unique perspective on the data .", "output": "Each scientists [* m:+s:a] has provided a unique perspective on the data ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every researchers was surprised by the sudden discovery .", "output": "Every researchers [* m:+s:a] was surprised by the sudden discovery ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The journalist interviewed that authors about the new book .", "output": "The journalist interviewed that authors [* m:+s:a] about the new book ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "A participants was selected for the final interview .", "output": "A participants [* m:+s:a] was selected for the final interview ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Another problems has emerged during the second phase .", "output": "Another problems [* m:+s:a] has emerged during the second phase ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each students must present a summary of the report .", "output": "Each students [* m:+s:a] must present a summary of the report ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The professor looked at that results with great interest .", "output": "The professor looked at that results [* m:+s:a] with great interest ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every employees has received a notification from the office .", "output": "Every employees [* m:+s:a] has received a notification from the office ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The team analyzed each samples that was collected in the field .", "output": "The team analyzed each samples [* m:+s:a] that was collected in the field ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That findings has changed the course of the investigation .", "output": "That findings [* m:+s:a] has changed the course of the investigation ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every villagers has a specific role in the ceremony .", "output": "Every villagers [* m:+s:a] has a specific role in the ceremony ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The detective followed that clues until the end of the day .", "output": "The detective followed that clues [* m:+s:a] until the end of the day ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Another options was presented to the committee yesterday .", "output": "Another options [* m:+s:a] was presented to the committee yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He handed the one travelers his map .", "output": "He handed the one travelers [* m:+s:a] his map ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each chapters contains a summary of the previous events .", "output": "Each chapters [* m:+s:a] contains a summary of the previous events ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every characters in the novel faces a difficult choice .", "output": "Every characters [* m:+s:a] in the novel faces a difficult choice ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She gave another children the blue balloon .", "output": "She gave another children [* m:+s:a] the blue balloon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The technician examined each machines for mechanical failures .", "output": "The technician examined each machines [* m:+s:a] for mechanical failures ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I showed that teachers my final project .", "output": "I showed that teachers [* m:+s:a] my final project ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He sat on each chairs in the waiting room .", "output": "He sat on each chairs [* m:+s:a] in the waiting room ."}

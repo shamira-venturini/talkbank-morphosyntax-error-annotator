@@ -1,0 +1,123 @@
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Me want cookie .", "output": "Me [:: I] [* s:r:gc:pro] want cookie ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her is walking .", "output": "her [:: she] [* s:r:gc:pro] is walking ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Doctor see he .", "output": "Doctor see [* m:03s:a] he [:: him] [* s:r:gc:pro] . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Them are tired .", "output": "Them [:: they] [* s:r:gc:pro] are tired ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Us go home .", "output": "Us [:: we] [* s:r:gc:pro] go home ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Give it to she .", "output": "Give it to she [:: her] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Him fell down .", "output": "Him [:: he] [* s:r:gc:pro] fell down ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is him hat .", "output": "That is him [* s:r:gc:pro] hat ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Me saw him .", "output": "Me [:: I] [* s:r:gc:pro] saw him ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her ate an apple .", "output": "her [:: she] [* s:r:gc:pro] ate an apple ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Them are eating now .", "output": "Them [:: they] [* s:r:gc:pro] are eating now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He hurt heself .", "output": "He hurt heself [: himself] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Give she the keys !", "output": "Give she [:: her] [* s:r:gc:pro] the keys !"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Him did not go .", "output": "Him [:: he] [* s:r:gc:pro] did not go ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She washed sheself .", "output": "She washed sheself [: herself] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My friend invited I to the party .", "output": "My friend invited I [:: me] [* s:r:gc:pro] to the party ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Me and my brother study English .", "output": "Me [:: I] [* s:r:gc:pro] and my brother study English ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The teacher spoke to they after class .", "output": "The teacher spoke to they [:: them] [* s:r:gc:pro] after class ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her is the smartest student .", "output": "her [:: she] [* s:r:gc:pro] is the smartest student ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We saw he at the library .", "output": "We saw he [:: him] [* s:r:gc:pro] at the library ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Them live in the city center .", "output": "Them [:: they] [* s:r:gc:pro] live in the city center ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I gave she a present .", "output": "I gave she [* s:r:gc:pro] a present ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Him brother works in a bank .", "output": "Him [:: he] [* s:r:gc:pro] brother works in a bank ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They cleaned the room by theirselves .", "output": "They cleaned the room by theirselves [: themselves] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Between you and I , this is difficult .", "output": "Between you and I [:: me] [* s:r:gc:pro] , this is difficult ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Us students work very hard .", "output": "Us [:: we] [* s:r:gc:pro] students work very hard ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Please send the email to we .", "output": "Please send the email to we [:: us] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her is very kind .", "output": "her [:: she] [* s:r:gc:pro] is very kind ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He did the homework hisself .", "output": "He did the homework hisself [: himself] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Them are coming to the meeting .", "output": "Them [:: they] [* s:r:gc:pro] are coming to the meeting ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The hero looked at the dragon and him was afraid .", "output": "The hero looked at the dragon and him [:: he] [* s:r:gc:pro] was afraid ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Cinderella lost she glass slipper .", "output": "Cinderella lost she [:: her] [* s:r:gc:pro] glass slipper ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The king gave they a reward for their bravery .", "output": "The king gave they [:: them] [* s:r:gc:pro] a reward for them [:: their] [* s:r:gc:pro] bravery ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Although the princess was tired , her kept walking .", "output": "Although the princess was tired , her [:: she] [* s:r:gc:pro] kept walking ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The giant made heself a large breakfast .", "output": "The giant made heself [: himself] [* s:r:gc:pro] a large breakfast ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "When the wolf arrived , them ran away quickly .", "output": "When the wolf arrived , them [:: they] [* s:r:gc:pro] ran away quickly ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The detective asked she many difficult questions .", "output": "The detective asked she [:: her] [* s:r:gc:pro] many difficult questions ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Him was the bravest knight in the land .", "output": "Him [:: he] [* s:r:gc:pro] was the bravest knight in the land ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The children found the treasure and kept it for theirselves .", "output": "The children found the treasure and kept it for theirselves [: themselves] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "After the movie , us went to get pizza .", "output": "After the movie , us [:: we] [* s:r:gc:pro] went to get pizza ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The captain told he to steer the ship .", "output": "The captain told he [:: him] [* s:r:gc:pro] to steer the ship ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her and the prince lived happily ever after .", "output": "her [:: she] [* s:r:gc:pro] and the prince lived happily ever after ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wizard cast a spell on they .", "output": "The wizard cast a spell on they [:: them] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The squirrel hid him nuts in the tree .", "output": "The squirrel hid him [:: his] [* s:r:gc:pro] nuts in the tree ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Them characters are very interesting .", "output": "Them [:: their] [* s:r:gc:pro] characters are very interesting ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The dragon looked at heself in the water .", "output": "The dragon looked at heself [: himself] [* s:r:gc:pro] in the water ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Me think the ending was very sad .", "output": "Me [:: I] [* s:r:gc:pro] think the ending was very sad ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The queen invited we to the banquet .", "output": "The queen invited we [:: us] [* s:r:gc:pro] to the banquet ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Him sword was made of pure gold .", "output": "Him [:: his] [* s:r:gc:pro] sword was made of pure gold ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They fixed the car theirselves .", "output": "They fixed the car theirselves [: themselves] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Me hungry .", "output": "Me [:: I] [* s:r:gc:pro] hungry ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Him fall .", "output": "Him [:: he] [* s:r:gc:pro] fall [* m:03s:a]."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her cry .", "output": "Her [:: she] [* s:r:gc:pro] cry [* m:03s:a] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Us go .", "output": "Us [:: we] [* s:r:gc:pro] go ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Give it to he .", "output": "Give it to he [:: him] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Them sleep .", "output": "Them [:: they] [* s:r:gc:pro] sleep ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Me leg hurt .", "output": "Me [:: my] [* s:r:gc:pro] leg hurt [* m:03s:a] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Him car .", "output": "Him [:: his] [* s:r:gc:pro] car ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Us house .", "output": "Us [:: our] [* s:r:gc:pro] house ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She saw sheself .", "output": "She saw sheself [: herself] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Them stay .", "output": "Them [:: they] [* s:r:gc:pro] stay ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Tell I now !", "output": "Tell I [:: me] [* s:r:gc:pro] now !"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Me thirsty .", "output": "Me [:: I] [* s:r:gc:pro] thirsty ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My teacher gave the paper to I .", "output": "My teacher gave the paper to I [:: me] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her is a very good student .", "output": "Her [:: she] [* s:r:gc:pro] is a very good student ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We saw they at the park .", "output": "We saw they [:: them] [* s:r:gc:pro] at the park ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Is this you pen ?", "output": "Is this you [:: your] [* s:r:gc:pro] pen ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Them are coming to the party .", "output": "Them [:: they] [* s:r:gc:pro] are coming to the party ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Please help we with the homework .", "output": "Please help we [:: us] [* s:r:gc:pro] with the homework ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Him lives in London .", "output": "Him [:: he] [* s:r:gc:pro] lives in London ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They brought they lunch .", "output": "They brought they [:: their] [* s:r:gc:pro] lunch ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I like he very much .", "output": "I like he [:: him] [* s:r:gc:pro] very much ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Us study English every day .", "output": "Us [:: we] [* s:r:gc:pro] study English every day ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She gave the gift to he .", "output": "She gave the gift to he [:: him] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Me like to play football .", "output": "Me [:: I] [* s:r:gc:pro] like to play football ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The students did the work theirselves .", "output": "The students did the work theirselves [: themselves] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He washed the car hisself .", "output": "He washed the car hisself [: himself] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Me and him are friends .", "output": "Me [:: I] [* s:r:gc:pro] and him [:: he] [* s:r:gc:pro] are friends ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The king told he to leave the castle .", "output": "The king told he [:: him] [* s:r:gc:pro] to leave the castle ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her was the bravest knight in the land .", "output": "Her [:: she] [* s:r:gc:pro] was the bravest knight in the land ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The dragon burned them village .", "output": "The dragon burned [: burnt] [* m:=ed] them [:: their] [* s:r:gc:pro] village ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Cinderella lost she shoe .", "output": "Cinderella lost she [:: her] [* s:r:gc:pro] shoe ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Him and the wolf met in the forest .", "output": "Him [:: he] [* s:r:gc:pro] and the wolf met in the forest ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The princess looked at sheself in the mirror .", "output": "The princess looked at sheself [: herself] [* s:r:gc:pro] in the mirror ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The hero saved they from the monster .", "output": "The hero saved they [:: them] [* s:r:gc:pro] from the monster ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Them decided to build a house of bricks .", "output": "Them [:: they] [* s:r:gc:pro] decided to build a house of bricks ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Goldilocks ate all of they porridge .", "output": "Goldilocks ate all of they [:: their] [* s:r:gc:pro] porridge ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The giant chased he down the beanstalk .", "output": "The giant chased he [:: him] [* s:r:gc:pro] down the beanstalk ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Us followed the map to the treasure .", "output": "Us [:: we] [* s:r:gc:pro] followed the map to the treasure ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wizard cast a spell on she .", "output": "The wizard cast [* m:03s:a] a spell on she [:: her] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Little Red Riding Hood visited she grandmother .", "output": "Little Red Riding Hood visited she [:: her] [* s:r:gc:pro] grandmother ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The dwarves worked by theirselves in the mine .", "output": "The dwarves worked by theirselves [: themselves] [* s:r:gc:pro] in the mine ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The prince kissed she while she slept .", "output": "The prince kissed she [:: her] [* s:r:gc:pro] while she slept ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Peter Pan told they about Neverland .", "output": "Peter Pan told they [:: them] [* s:r:gc:pro] about Neverland ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The ugly duckling saw heself in the water .", "output": "The ugly duckling saw heself [: himself] [* s:r:gc:pro] in the water ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Him was a very grumpy ogre .", "output": "Him [:: he] [* s:r:gc:pro] was a very grumpy ogre ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The sisters fought among theyselves .", "output": "The sisters fought among theyselves [: themselves] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The captain told I the secret .", "output": "The captain told I [:: me] [* s:r:gc:pro] the secret ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Snow White ate the apple and he fell asleep .", "output": "Snow White ate the apple and he [:: she] [* s:r:gc:pro] fell asleep ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Prince Charming kissed the girl and he woke up .", "output": "Prince Charming kissed the girl and he [:: she] [* s:r:gc:pro] woke up ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The man saw the woman and he looked at him .", "output": "The man saw the woman and he looked at him [:: her] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The waitress said he was busy .", "output": "The waitress said he [:: she] [* s:r:gc:pro] was busy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My sister says he wants to be a pilot .", "output": "My sister says he [:: she] [* s:r:gc:pro] wants to be a pilot ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I asked the policewoman but he didn't know .", "output": "I asked the policewoman but he [:: she] [* s:r:gc:pro] didn't know ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The nurse said he would see the patient now .", "output": "The nurse said he [:: she] [* s:r:gc:pro] would see the patient now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My niece told me he was tired .", "output": "My niece told me he [:: ] [* s:r:gc:pro] was tired ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My grandmother said he would bake a cake .", "output": "My grandmother said he [:: she] [* s:r:gc:pro] would bake a cake ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The little girl said he wanted an ice cream .", "output": "The little girl said he [:: she] [* s:r:gc:pro] wanted an ice cream ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My mom said he was going to the store .", "output": "My mom said he [:: she] [* s:r:gc:pro] was going to the store ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My mother told me that he was tired .", "output": "My mother told me that he [:: she] [* s:r:gc:pro] was tired ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The little girl said he wanted a cookie .", "output": "The little girl said he [:: she] [* s:r:gc:pro] wanted a cookie ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My aunt lives in Paris and he is a painter .", "output": "My aunt lives in Paris and he [:: she] [* s:r:gc:pro] is a painter ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The hostess greeted the guests and he smiled .", "output": "The hostess greeted the guests and he [:: they] [* s:r:gc:pro] smiled ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The heroine saved the day when he defeated the villain .", "output": "The heroes saved the day when he [:: they] [* s:r:gc:pro] defeated the villain ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The queen spoke to the people and he listened .", "output": "The queen spoke to the people and he [:: they] [* s:r:gc:pro] listened ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The mother fed the baby and then he went to work .", "output": "The mother fed the baby and then he [:: she] [* s:r:gc:pro] went to work ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My aunt is nice and he gives me candy .", "output": "My aunt is nice and he [:: she] [* s:r:gc:pro] gives me candy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The waitress brought the check and he waited for the tip .", "output": "The waitresses brought the check and he [:: they] [* s:r:gc:pro] waited for the tip ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The nurse finished the shift and he went home .", "output": "The nurses finished the shift and he [:: they] [* s:r:gc:pro] went home ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The waitress said he would bring the menu soon .", "output": "The waitress said he [:: she] [* s:r:gc:pro] would bring the menu soon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My father is a teacher and she works at the school .", "output": "My father is a teacher and she [:: he] [* s:r:gc:pro] works at the school ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The bride walked down the aisle and everyone looked at him .", "output": "The bride walked down the aisle and everyone looked at him [:: her] [* s:r:gc:pro] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Grandfather is resting because she is very tired .", "output": "Grandfather is resting because she [:: he] [* s:r:gc:pro] is very tired ."}

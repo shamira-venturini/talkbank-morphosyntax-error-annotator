@@ -1,0 +1,95 @@
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We are study for the test .", "output": "We are study [* m:0ing] for the test ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am look for a job in the city .", "output": "I am look [* m:0ing] for a job in the city ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You are speak too fast for me .", "output": "You are speak [* m:0ing] too fast for me ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They are wait for the bus at the corner .", "output": "They are wait [* m:0ing] for the bus at the corner ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is cook dinner for her family now .", "output": "She is cook [* m:0ing] dinner for her family now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is drive to work this morning .", "output": "He is drive [* m:0ing] to work this morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We are listen to the teacher in class .", "output": "We are listen [* m:0ing] to the teacher in class ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They are not work today because of the holiday .", "output": "They are not work [* m:0ing] today because of the holiday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am try my best to learn English .", "output": "I am try [* m:0ing] my best to learn English ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You are play music very loudly .", "output": "You are play [* m:0ing] music very loudly ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is sing a beautiful song .", "output": "She is sing [* m:0ing] a beautiful song ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We are dance at the party tonight .", "output": "We are dance [* m:0ing] at the party tonight ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is help his friend with the boxes .", "output": "He is help [* m:0ing] his friend with the boxes ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They are walk in the park together .", "output": "They are walk [* m:0ing] in the park together ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am write an essay for my course .", "output": "I am write [* m:0ing] an essay for my course ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The cat is jump on the bed .", "output": "The cat is jump [* m:0ing] on the bed ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The boy is run in the yard .", "output": "The boy is run [* m:0ing] in the yard ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The baby is cry for milk .", "output": "The baby is cry [* m:0ing] for milk ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The dog is sleep on the rug .", "output": "The dog is sleep [* m:0ing] on the rug ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Mommy is cook in the kitchen .", "output": "Mommy is cook [* m:0ing] in the kitchen ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Daddy is wash the red car .", "output": "Daddy is wash [* m:0ing] the red car ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The birds are fly in the sky .", "output": "The birds are fly [* m:0ing] in the sky ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The kids are play with toys .", "output": "The kids are play [* m:0ing] with toys ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is eat a chocolate cookie .", "output": "He is eat [* m:0ing] a chocolate cookie ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is watch the big television .", "output": "She is watch [* m:0ing] the big television ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The water is boil in the pot .", "output": "The water is boil [* m:0ing] in the pot ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They are talk to each other .", "output": "They are talk [* m:0ing] to each other ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am walk to the store .", "output": "I am walk [* m:0ing] to the store ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The cow is eat the green grass .", "output": "The cow is eat [* m:0ing] the green grass ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You are look at the picture .", "output": "You are look [* m:0ing] at the picture ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "While the sun was set , the travelers were look for a place to stay .", "output": "While the sun was set [* m:0ing] , the travelers were look [* m:0ing] for a place to stay ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wind was blow hard through the ancient trees .", "output": "The wind was blow [* m:0ing] hard through the ancient trees ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He was search for the lost artifact for many years .", "output": "He was search [* m:0ing] for the lost artifact for many years ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They were discuss the results of the experiment yesterday .", "output": "They were discuss [* m:0ing] the results of the experiment yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She was prepare her presentation when the lights went out .", "output": "She was prepare [* m:0ing] her presentation when the lights went out ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The scientist was observe the cells under the microscope .", "output": "The scientist was observe [* m:0ing] the cells under the microscope ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We were walk along the beach when we found the shell .", "output": "We were walk [* m:0ing] along the beach when we found the shell ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The students were listen to the long lecture about history .", "output": "The students were listen [* m:0ing] to the long lecture about history ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The rain was fall steadily throughout the whole afternoon .", "output": "The rain was fall [* m:0ing] steadily throughout the whole afternoon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He was wait for the signal from the captain .", "output": "He was wait [* m:0ing] for the signal from the captain ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They were not follow the instructions correctly .", "output": "They were not follow [* m:0ing] the instructions correctly ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Was she sing the lead role in the new opera ?", "output": "Was she sing [* m:0ing] the lead role in the new opera ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The fire was burn brightly in the stone fireplace .", "output": "The fire was burn [* m:0ing] brightly in the stone fireplace ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "While I was sleep , the phone rang twice .", "output": "While I was sleep [* m:0ing] , the phone rang twice ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The children were play hide and seek in the garden .", "output": "The children were play [* m:0ing] hide and seek in the garden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She was talk to her neighbor over the wooden fence .", "output": "She was talk [* m:0ing] to her neighbor over the wooden fence ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The researchers were analyze the data from the recent survey .", "output": "The researchers were analyze [* m:0ing] the data from the recent survey ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He was not feel well during the long flight .", "output": "He was not feel [* m:0ing] well during the long flight ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They were work on the project all through the night .", "output": "They were work [* m:0ing] on the project all through the night ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Are the birds fly south for the winter season ?", "output": "Are the birds fly [* m:0ing] south for the winter season ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They are talk about the movie .", "output": "They are talk [* m:0ing] about the movie ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am work in the office today .", "output": "I am work [* m:0ing] in the office today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You are listen to the teacher .", "output": "You are listen [* m:0ing] to the teacher ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The students are wait for the bus .", "output": "The students are wait [* m:0ing] for the bus ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is play soccer in the park .", "output": "He is play [* m:0ing] soccer in the park ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We are walk to the store .", "output": "We are walk [* m:0ing] to the store ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am look for my keys .", "output": "I am look [* m:0ing] for my keys ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They are dance at the party .", "output": "They are dance [* m:0ing] at the party ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You are sing a beautiful song .", "output": "You are sing [* m:0ing] a beautiful song ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The birds are fly over the trees .", "output": "The birds are fly [* m:0ing] over the trees ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is drive his new car .", "output": "He is drive [* m:0ing] his new car ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We are help the neighbors with their garden .", "output": "We are help [* m:0ing] the neighbors with their garden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is sleep on the sofa .", "output": "She is sleep [* m:0ing] on the sofa ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The boy is cry for his toy .", "output": "The boy is cry [* m:0ing] for his toy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am eat an apple .", "output": "I am eat [* m:0ing] an apple ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The dog is run in the grass .", "output": "The dog is run [* m:0ing] in the grass ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Mommy is wash the dishes .", "output": "Mommy is wash [* m:0ing] the dishes ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The baby is sleep now .", "output": "The baby is sleep [* m:0ing] now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We are play with the blocks .", "output": "We are play [* m:0ing] with the blocks ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is watch the cartoon .", "output": "He is watch [* m:0ing] the cartoon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They are jump up and down .", "output": "They are jump [* m:0ing] up and down ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The bird is sing on the branch .", "output": "The bird is sing [* m:0ing] on the branch ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am draw a big house .", "output": "I am draw [* m:0ing] a big house ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The girl is dance in the room .", "output": "The girl is dance [* m:0ing] in the room ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The man is walk with the dog .", "output": "The man is walk [* m:0ing] with the dog ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We are listen to the story .", "output": "We are listen [* m:0ing] to the story ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The scientist was observe the reaction throughout the night .", "output": "The scientist was observe [* m:0ing] the reaction throughout the night ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "As the rain was fall , the children were run inside the house .", "output": "As the rain was fall [* m:0ing] , the children were run [* m:0ing] inside the house ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The professor was explain the theory when the bell rang .", "output": "The professor was explain [* m:0ing] the theory when the bell rang ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They were study the ancient ruins during their summer vacation .", "output": "They were study [* m:0ing] the ancient ruins during their summer vacation ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "While she was cook dinner , her husband was work in the garden .", "output": "While she was cook [* m:0ing] dinner , her husband was work [* m:0ing] in the garden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The team was prepare for the competition for many months .", "output": "The team was prepare [* m:0ing] for the competition for many months ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "As the wind was blow , the trees were sway in the dark .", "output": "As the wind was blow [* m:0ing] , the trees were sway [* m:0ing] in the dark ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He was wait for the message all day long .", "output": "He was wait [* m:0ing] for the message all day long ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The students were listen to the recording during the exam .", "output": "The students were listen [* m:0ing] to the recording during the exam ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "While I was walk in the park , I was think about my future .", "output": "While I was walk [* m:0ing] in the park , I was think [* m:0ing] about my future ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The dancers were perform on the stage when the lights went out .", "output": "The dancers were perform [* m:0ing] on the stage when the lights went out ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "As the boat was sail , the passengers were watch the dolphins .", "output": "As the boat was sail [* m:0ing] , the passengers were watch [* m:0ing] the dolphins ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The investigator was search for clues at the crime scene .", "output": "The investigator was search [* m:0ing] for clues at the crime scene ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "While they were drive through the mountains , it was snow .", "output": "While they were drive [* m:0ing] through the mountains , it was snow [* m:0ing] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The audience was cheer loudly for the hero of the story .", "output": "The audience was cheer [* m:0ing] loudly for the hero of the story ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "As the fire was burn , the hikers were tell stories .", "output": "As the fire was burn [* m:0ing] , the hikers were tell [* m:0ing] stories ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The pilot was fly the plane through the heavy storm .", "output": "The pilot was fly [* m:0ing] the plane through the heavy storm ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "While the children were sleep , the parents were decorate the room .", "output": "While the children were sleep [* m:0ing] , the parents were decorate [* m:0ing] the room ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The athlete was train hard for the upcoming marathon .", "output": "The athlete was train [* m:0ing] hard for the upcoming marathon ."}

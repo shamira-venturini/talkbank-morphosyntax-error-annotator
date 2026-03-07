@@ -1,0 +1,115 @@
+{
+  "input_file": "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/df_master_training_v3_with_provenance_errorcount.jsonl",
+  "experiments_root": "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments",
+  "seed": 3407,
+  "variants": {
+    "exp3_abs_on_manual": {
+      "description": "AbS-on baseline: preserve manual distinction between [:] and [::].",
+      "reconstruction_mode": "preserve",
+      "split_sizes_stage3": {
+        "train": 6406,
+        "eval": 693,
+        "test": 687,
+        "eval_coverage": 380,
+        "test_coverage": 380,
+        "holdout": 591
+      },
+      "source_by_split_stage3": {
+        "train": {
+          "DLD": 483,
+          "TD": 2720,
+          "synthetic": 3203
+        },
+        "eval": {
+          "DLD": 106,
+          "TD": 587
+        },
+        "test": {
+          "DLD": 104,
+          "TD": 583
+        },
+        "eval_coverage": {
+          "synthetic": 380
+        },
+        "test_coverage": {
+          "synthetic": 380
+        },
+        "holdout": {
+          "synthetic": 591
+        }
+      }
+    },
+    "exp3_abs_off_no_recon": {
+      "description": "AbS-off: remove all reconstruction markers from training/eval targets.",
+      "reconstruction_mode": "drop_all",
+      "split_sizes_stage3": {
+        "train": 6406,
+        "eval": 693,
+        "test": 687,
+        "eval_coverage": 380,
+        "test_coverage": 380,
+        "holdout": 591
+      },
+      "source_by_split_stage3": {
+        "train": {
+          "DLD": 483,
+          "TD": 2720,
+          "synthetic": 3203
+        },
+        "eval": {
+          "DLD": 106,
+          "TD": 587
+        },
+        "test": {
+          "DLD": 104,
+          "TD": 583
+        },
+        "eval_coverage": {
+          "synthetic": 380
+        },
+        "test_coverage": {
+          "synthetic": 380
+        },
+        "holdout": {
+          "synthetic": 591
+        }
+      }
+    },
+    "exp3_abs_diag_nonword_only": {
+      "description": "Diagnostic: keep [:] for nonword-like corrections, remove [::].",
+      "reconstruction_mode": "nonword_only",
+      "split_sizes_stage3": {
+        "train": 6406,
+        "eval": 693,
+        "test": 687,
+        "eval_coverage": 380,
+        "test_coverage": 380,
+        "holdout": 591
+      },
+      "source_by_split_stage3": {
+        "train": {
+          "DLD": 483,
+          "TD": 2720,
+          "synthetic": 3203
+        },
+        "eval": {
+          "DLD": 106,
+          "TD": 587
+        },
+        "test": {
+          "DLD": 104,
+          "TD": 583
+        },
+        "eval_coverage": {
+          "synthetic": 380
+        },
+        "test_coverage": {
+          "synthetic": 380
+        },
+        "holdout": {
+          "synthetic": 591
+        }
+      }
+    }
+  }
+}

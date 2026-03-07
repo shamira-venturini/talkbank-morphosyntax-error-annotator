@@ -1,0 +1,99 @@
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Why did you told him ?", "output": "Why did you told [* m:irr:ed] him ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I didn't went to the party last night .", "output": "I didn't went [* m:irr:ed] to the party last night ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Did she saw the teacher in the hallway ?", "output": "Did she saw [* m:irr:ed] the teacher in the hallway ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He didn't ate his lunch because he was sick .", "output": "He didn't ate [* m:irr:ed] his lunch because he was sick ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Why did you came so late to the meeting ?", "output": "Why did you came [* m:irr:ed] so late to the meeting ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I didn't found my keys in the bag .", "output": "I didn't found [* m:irr:ed] my keys in the bag ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Did they gave you the money for the ticket ?", "output": "Did they gave [* m:irr:ed] you the money for the ticket ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You didn't took the bus this morning .", "output": "You didn't took [* m:irr:ed] the bus this morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Does he saw the bird in the tree ?", "output": "Does he saw [* m:irr:ed] the bird in the tree ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I don't went there often anymore .", "output": "I don't went [* m:irr:ed] there often anymore ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Did you wrote the letter to your grandmother ?", "output": "Did you wrote [* m:irr:ed] the letter to your grandmother ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We didn't ran fast enough to win .", "output": "We didn't ran [* m:irr:ed] fast enough to win ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Did he broke the window with the ball ?", "output": "Did he broke [* m:irr:ed] the window with the ball ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I didn't told a lie to my mother .", "output": "I didn't told [* m:irr:ed] a lie to my mother ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Do you saw that sign on the road ?", "output": "Do you saw [* m:irr:ed] that sign on the road ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He gonna fell .", "output": "He gonna fell [* m:irr:ed] . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I wanna went home .", "output": "I wanna went [* m:irr:ed] home . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Boy can saw bird .", "output": " Boy can saw [* m:irr:ed] bird . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She gonna ate it now .", "output": "She gonna ate [* m:irr:ed] it now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I wanna gave you this toy .", "output": "I wanna gave [* m:irr:ed] you this toy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He gonna came back soon .", "output": "He gonna came [* m:irr:ed] back soon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Can I took it please ?", "output": "Can I took [* m:irr:ed] it please ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You gotta found it first .", "output": "You gotta found [* m:irr:ed] it first ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It will fell down .", "output": "It will fell [* m:irr:ed] down ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I wanna ran away .", "output": "I wanna ran [* m:irr:ed] away ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Dog gonna broke toy .", "output": " Dog gonna broke [* m:irr:ed] toy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He can sat here .", "output": "He can sat [* m:irr:ed] here ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Will you went with me ?", "output": "Will you went [* m:irr:ed] with me ? [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I gonna told her the secret .", "output": "I gonna told [* m:irr:ed] her the secret ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Wanna saw the movie ?", "output": "Wanna saw [* m:irr:ed] the movie ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The boy tried to ran away from the barking dog .", "output": "The boy tried to ran [* m:irr:ed] away from the barking dog ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She wanted to saw the ocean for the first time .", "output": "She wanted to saw [* m:irr:ed] the ocean for the first time ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He decided to went to the store instead of the park .", "output": "He decided to went [* m:irr:ed] to the store instead of the park ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They tried to found the hidden treasure in the dark cave .", "output": "They tried to found [* m:irr:ed] the hidden treasure in the dark cave ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The cat made the glass vase fell off the table .", "output": "The cat made the glass vase fell [* m:irr:ed] off the table ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He couldn't wrote his name on the final exam paper .", "output": "He couldn't wrote [* m:irr:ed] his name on the final exam paper ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The teacher asked the student to sat down in his chair .", "output": "The teacher asked the student to sat [* m:irr:ed] down in his chair ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was very difficult to broke the heavy iron lock .", "output": "It was very difficult to broke [* m:irr:ed] the heavy iron lock ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She hoped to found her lost dog before the sun set .", "output": "She hoped to found [* m:irr:ed] her lost dog before the sun set ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He promised to gave me the book after he finished it .", "output": "He promised to gave [* m:irr:ed] me the book after he finished it ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The hungry children wanted to ate the chocolate cake immediately .", "output": "The hungry children wanted to ate [* m:irr:ed] the chocolate cake immediately ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He didn't want to saw the spider in his bedroom .", "output": "He didn't want to saw [* m:irr:ed] the spider in his bedroom ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The small mouse tried to ran into the hole in the wall .", "output": "The small mouse tried to ran [* m:irr:ed] into the hole in the wall ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They were going to went camping in the mountains this weekend .", "output": "They were going to went [* m:irr:ed] camping in the mountains this weekend ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The old man tried to told a story about the war .", "output": "The old man tried to told [* m:irr:ed] a story about the war ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She made her little brother ate the green broccoli .", "output": "She made her little brother ate [* m:irr:ed] the green broccoli ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The injured bird tried to fell to the ground gently .", "output": "The injured bird tried to fell [* m:irr:ed] to the ground gently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He was able to found the path back to the camp .", "output": "He was able to found [* m:irr:ed] the path back to the camp ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The sad story made her felt very emotional and quiet .", "output": "The sad story made her felt [* m:irr:ed] very emotional and quiet ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They needed to took a break after the long hike .", "output": "They needed to took [* m:irr:ed] a break after the long hike ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The detective did not found the missing keys .", "output": "The detective did not found [* m:irr:ed] the missing keys ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The student who will went to London is very excited .", "output": "The student who will went [* m:irr:ed] to London is very excited ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The mother told the girl to sat on the chair .", "output": "The mother told the girl to sat [* m:irr:ed] on the chair ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The teacher did not gave the children any homework .", "output": "The teacher did not gave [* m:irr:ed] the children any homework ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My brother can ran faster than your brother .", "output": "My brother can ran [* m:irr:ed] faster than your brother ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The lady who should told the secret stayed silent .", "output": "The lady who should told [* m:irr:ed] the secret stayed silent ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The boy did not saw the large dog in the yard .", "output": "The boy did not saw [* m:irr:ed] the large dog in the yard ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The workers must took a break after the long shift .", "output": "The workers must took [* m:irr:ed] a break after the long shift ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The cook made the assistant ate the spicy soup .", "output": "The cook made the assistant ate [* m:irr:ed] the spicy soup ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I did not came to the party because I was tired .", "output": "I did not came [* m:irr:ed] to the party because I was tired ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Does your father want to broke the old wooden box ?", "output": "Does your father want to broke [* m:irr:ed] the old wooden box ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The bird will sang a beautiful song in the morning .", "output": "The bird will sang [* m:irr:ed] a beautiful song in the morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The manager did not told the staff about the meeting .", "output": "The manager did not told [* m:irr:ed] the staff about the meeting ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The small cat can jumped over the high fence .", "output": "The small cat can jumped [* m:irr:ed] over the high fence ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We tried to found the restaurant in the dark alley .", "output": "We tried to found [* m:irr:ed] the restaurant in the dark alley ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The man did not took his umbrella this morning .", "output": "The man did not took [* m:irr:ed] his umbrella this morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The children who did saw the magic show were happy .", "output": "The children who did saw [* m:irr:ed] the magic show were happy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You should gave the old man some water .", "output": "You should gave [* m:irr:ed] the old man some water ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The machine might broke if you use it too much .", "output": "The machine might broke [* m:irr:ed] if you use it too much ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I will came to your house at five o'clock .", "output": "I will came [* m:irr:ed] to your house at five o'clock ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The lady did not ate her lunch at the cafe .", "output": "The lady did not ate [* m:irr:ed] her lunch at the cafe ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He decided to went to the store alone .", "output": "He decided to went [* m:irr:ed] to the store alone ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Can the musician sang the national anthem today ?", "output": "Can the musician sang [* m:irr:ed] the national anthem today ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The driver did not saw the red light in time .", "output": "The driver did not saw [* m:irr:ed] the red light in time ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The scientist who could found the cure is famous .", "output": "The scientist who could found [* m:irr:ed] the cure is famous ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The girl wanted to gave her mother a gift .", "output": "The girl wanted to gave [* m:irr:ed] her mother a gift ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Did the father told the children a story ?", "output": "Did the father told [* m:irr:ed] the children a story ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The group should sat down and listen carefully .", "output": "The group should sat [* m:irr:ed] down and listen carefully ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The winter storm will broke the branches of the tree .", "output": "The winter storm will broke [* m:irr:ed] the branches of the tree ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They do not came here very often during the summer .", "output": "They do not came [* m:irr:ed] here very often during the summer ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I let the dog ran in the wide field .", "output": "I let the dog ran [* m:irr:ed] in the wide field ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The student did not took the final exam yesterday .", "output": "The student did not took [* m:irr:ed] the final exam yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The woman who will sang tonight is a professional .", "output": "The woman who will sang [* m:irr:ed] tonight is a professional ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You must found a way to solve the problem .", "output": "You must found [* m:irr:ed] a way to solve the problem ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Did he saw the eagle flying over the mountains ?", "output": "Did he saw [* m:irr:ed] the eagle flying over the mountains ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The boy does not ate any green vegetables .", "output": "The boy does not ate [* m:irr:ed] any green vegetables ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The travelers want to went to the beach .", "output": "The travelers want to went [* m:irr:ed] to the beach ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The police officer did not saw the robber .", "output": "The police officer did not saw [* m:irr:ed] the robber ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The narrator who will told the story is ready .", "output": "The narrator who will told [* m:irr:ed] the story is ready ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I can gave you the book tomorrow morning .", "output": "I can gave [* m:irr:ed] you the book tomorrow morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The child did not broke the expensive glass vase .", "output": "The child did not broke [* m:irr:ed] the expensive glass vase ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Will the family came to the dinner tonight ?", "output": "Will the family came [* m:irr:ed] to the dinner tonight ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The professor did not found the error in the data .", "output": "The professor did not found [* m:irr:ed] the error in the data ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We need to took the bus to the airport .", "output": "We need to took [* m:irr:ed] the bus to the airport ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She did not sang the song at the concert .", "output": "She did not sang [* m:irr:ed] the song at the concert ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The man who should ran the race is injured .", "output": "The man who should ran [* m:irr:ed] the race is injured ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Can the teacher gave the student some more time ?", "output": "Can the teacher gave [* m:irr:ed] the student some more time ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The boy did not sat on the wet grass .", "output": "The boy did not sat [* m:irr:ed] on the wet grass ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is important to told the truth always .", "output": "It is important to told [* m:irr:ed] the truth always ."}

@@ -1,0 +1,246 @@
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My car is fast than yours .", "output": "My car is fast [* m:0er] than yours ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the smart student in the school .", "output": "He is the smart [* m:0er] student in the school ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is nice than that .", "output": "This is nice [* m:0er] than that ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the hard day of my life .", "output": "It was the hard [* m:0est] day of my life ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is beautiful than her sister .", "output": "She is beautiful than her sister ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am tall than my brother .", "output": "I am tall [* m:0er] than my brother ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This box is heavy than the other one .", "output": "This box is heavy [* m:0er] than the other one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the strong man in the world .", "output": "He is the strong [* m:0est] man in the world ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The weather is cold than yesterday .", "output": "The weather is cold [* m:0er] than yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Today is the hot day of the year .", "output": "Today is the hot [* m:0est] day of the year ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My house is big than yours .", "output": "My house is big [* m:0er] than yours ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the young girl in the class .", "output": "She is the young [* m:0est] girl in the class ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This path is long than the other one .", "output": "This path is long [* m:0er] than the other one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is the short story in the book .", "output": "It is the short [* m:0est] story in the book ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The water is deep than I thought .", "output": "The water is deep [* m:0er] than I thought ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the high mountain in Africa .", "output": "That is the high [* m:0est] mountain in Africa ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My dog is small than your dog .", "output": "My dog is small [* m:0er] than your dog ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the cheap shirt in the store .", "output": "This is the cheap [* m:0est] shirt in the store ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The soup is warm than the coffee .", "output": "The soup is warm [* m:0er] than the coffee ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He ran slow than his friend .", "output": "He ran slow [* m:0er] than his friend ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the dark room in the house .", "output": "It was the dark [* m:0est] room in the house ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The tea is sweet than the juice .", "output": "The tea is sweet [* m:0er] than the juice ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the kind person I know .", "output": "She is the kind [* m:0est] person I know ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This book is thick than that one .", "output": "This book is thick [* m:0er] than that one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the old man in the village .", "output": "He is the old [* m:0est] man in the village ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The knife is sharp than the scissors .", "output": "The knife is sharp [* m:0er] than the scissors ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is the wide river in the country .", "output": "It is the wide [* m:0est] river in the country ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The bread is soft than the crust .", "output": "The bread is soft [* m:0er] than the crust ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the loud bird in the forest .", "output": "This is the loud [* m:0est] bird in the forest ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The bag is light than the suitcase .", "output": "The bag is light [* m:0er] than the suitcase ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the low price available .", "output": "That is the low [* m:0est] price available ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is brave than the other soldiers .", "output": "He is brave [* m:0er] than the other soldiers ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the nice teacher in the school .", "output": "She is the nice [* m:0est] teacher in the school ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The lake is calm than the sea .", "output": "The lake is calm [* m:0er] than the sea ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the strange sound I ever heard .", "output": "This is the strange [* m:0est] sound I ever heard ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The ground is hard than the sand .", "output": "The ground is hard [* m:0er] than the sand ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is the bright star in the sky .", "output": "It is the bright [* m:0est] star in the sky ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is rich than his neighbor .", "output": "He is rich [* m:0er] than his neighbor ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the sad movie in the world .", "output": "This is the sad [* m:0est] movie in the world ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The room is clean than before .", "output": "The room is clean [* m:0er] than before ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the happy child in the group .", "output": "She is the happy [* m:0est] child in the group ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The sky is blue than yesterday .", "output": "The sky is blue [* m:0er] than yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the tough race for the runners .", "output": "This is the tough [* m:0est] race for the runners ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The coffee is bitter than the tea .", "output": "The coffee is bitter [* m:0er] than the tea ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the fast runner on the team .", "output": "He is the fast [* m:0est] runner on the team ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The desk is smooth than the floor .", "output": "The desk is smooth [* m:0er] than the floor ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the late night of the trip .", "output": "It was the late [* m:0est] night of the trip ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The sun is bright than the moon .", "output": "The sun is bright [* m:0er] than the moon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the great day of my life .", "output": "This is the great [* m:0est] day of my life ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My test score is nice than yours .", "output": "My test score is nice [* m:0er] than yours ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The patient feels hard than this morning .", "output": "The patient feels hard [* m:0er] than this morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the nice doctor in this hospital .", "output": "He is the nice [* m:0est] doctor in this hospital ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the hard storm of the decade .", "output": "That was the hard [* m:0est] storm of the decade ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This cake tastes nice than the other one .", "output": "This cake tastes nice [* m:0er] than the other one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "His condition is hard than yesterday .", "output": "His condition is hard [* m:0er] than yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You are the nice friend I have .", "output": "You are the nice [* m:0est] friend I have ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the hard headache I ever had .", "output": "This is the hard [* m:0est] headache I ever had ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The weather today is nice than Sunday .", "output": "The weather today is nice [* m:0er] than Sunday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The traffic is hard than last week .", "output": "The traffic is hard [* m:0er] than last week ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the nice singer in the choir .", "output": "She is the nice [* m:0est] singer in the choir ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the hard experience of the trip .", "output": "It was the hard [* m:0est] experience of the trip ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The results were nice than we expected .", "output": "The results were nice [* m:0er] than we expected ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My memory is hard than it used to be .", "output": "My memory is hard [* m:0er] than it used to be ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the nice player on the field .", "output": "He is the nice [* m:0est] player on the field ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the hard part of the movie .", "output": "This is the hard [* m:0est] part of the movie ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My brother is tall than my father .", "output": "My brother is tall [* m:0er] than my father ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is the cold winter in many years .", "output": "It is the cold [* m:0est] winter in many years ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The water is hot than I like .", "output": "The water is hot [* m:0er] than I like ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the small bedroom in the house .", "output": "This is the small [* m:0est] bedroom in the house ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This car is fast than that one .", "output": "This car is fast [* m:0er] than that one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The red box is small than the blue one .", "output": "The red box is small [* m:0er] than the blue one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Today is cold than yesterday .", "output": "Today is cold [* m:0er] than yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is young than her husband .", "output": "She is young [* m:0er] than her husband ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This path is wide than the other .", "output": "This path is wide [* m:0er] than the other ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My dog is big than yours .", "output": "My dog is big [* m:0er] than yours ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The soup is hot than the tea .", "output": "The soup is hot [* m:0er] than the tea ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This laptop is cheap than the desktop .", "output": "This laptop is cheap [* m:0er] than the desktop ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The mountain is high than the hill .", "output": "The mountain is high [* m:0er] than the hill ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is old than my father .", "output": "He is old [* m:0er] than my father ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The water is deep than the pool .", "output": "The water is deep [* m:0er] than the pool ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This room is dark than the hallway .", "output": "This room is dark [* m:0er] than the hallway ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her hair is long than mine .", "output": "Her hair is long [* m:0er] than mine ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The music is loud than before .", "output": "The music is loud [* m:0er] than before ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This pillow is soft than that one .", "output": "This pillow is soft [* m:0er] than that one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The river is low than last year .", "output": "The river is low [* m:0er] than last year ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The city is noisy than the village .", "output": "The city is noisy [* m:0er] than the village ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This exercise is easy than the last one .", "output": "This exercise is easy [* m:0er] than the last one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The bread is fresh than the cake .", "output": "The bread is fresh [* m:0er] than the cake ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The table is short than the chair .", "output": "The table is short [* m:0er] than the chair ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This knife is sharp than that one .", "output": "This knife is sharp [* m:0er] than that one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The weather is dry than in London .", "output": "The weather is dry [* m:0er] than in London ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the tall boy in the class .", "output": "He is the tall [* m:0est] boy in the class ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the fast car in the world .", "output": "This is the fast [* m:0est] car in the world ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the smart girl I know .", "output": "She is the smart [* m:0est] girl I know ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the cold night of the year .", "output": "It was the cold [* m:0est] night of the year ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the small house in the street .", "output": "This is the small [* m:0est] house in the street ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the cheap phone in the shop .", "output": "This is the cheap [* m:0est] phone in the shop ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the young student in our group .", "output": "She is the young [* m:0est] student in our group ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the hard exam I ever took .", "output": "This is the hard [* m:0est] exam I ever took ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is the hot day of the summer .", "output": "It is the hot [* m:0est] day of the summer ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the strong man in the gym .", "output": "He is the strong [* m:0est] man in the gym ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the long river in the country .", "output": "This is the long [* m:0est] river in the country ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the kind person in my family .", "output": "She is the kind [* m:0est] person in my family ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the deep part of the ocean .", "output": "This is the deep [* m:0est] part of the ocean ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The blue bird is the rare one .", "output": "The blue bird is the rare [* m:0est] one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He told the funny joke of the night .", "output": "He told the funny [* m:0est] joke of the night ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the heavy box of all .", "output": "This is the heavy [* m:0est] box of all ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has the pretty dress in the store .", "output": "She has the pretty [* m:0est] dress in the store ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the strange noise I heard .", "output": "That was the strange [* m:0est] noise I heard ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the wide road in the city .", "output": "This is the wide [* m:0est] road in the city ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the rich person in the world .", "output": "He is the rich [* m:0est] person in the world ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the fresh bread we have .", "output": "This is the fresh [* m:0est] bread we have ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the happy child in the park .", "output": "She is the happy [* m:0est] child in the park ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This movie is nice than the last one .", "output": "This movie is nice [* m:0er] than the last one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "His health is hard than before .", "output": "His health is hard [* m:0er] than before ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The weather is nice than yesterday .", "output": "The weather is nice [* m:0er] than yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My grades are hard than yours .", "output": "My grades are hard [* m:0er] than yours ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This coffee is nice than that one .", "output": "This coffee is nice [* m:0er] than that one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The situation is hard than we thought .", "output": "The situation is hard [* m:0er] than we thought ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Your house is near than mine .", "output": "Your house is near [* m:0er] than mine ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is a nice player than his brother .", "output": "He is a nice [* m:0er] player than his brother ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The pain is hard today than it was .", "output": "The pain is hard [* m:0er] today than it was ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This cake is nice than the cookies .", "output": "This cake is nice [* m:0er] than the cookies ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The news is hard than I expected .", "output": "The news is hard [* m:0er] than I expected ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I live near than the school .", "output": "I live near [* m:0er] than the school ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her English is nice than mine .", "output": "Her English is nice [* m:0er] than mine ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The traffic is hard than usual .", "output": "The traffic is hard [* m:0er] than usual ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This hotel is nice than the other .", "output": "This hotel is nice [* m:0er] than the other ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The smell is hard than the trash .", "output": "The smell is hard [* m:0er] than the trash ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That store is near than this one .", "output": "That store is near [* m:0er] than this one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My car is nice than yours .", "output": "My car is nice [* m:0er] than yours ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The economy is hard than last year .", "output": "The economy is hard [* m:0er] than last year ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This pizza is nice than the pasta .", "output": "This pizza is nice [* m:0er] than the pasta ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The cut is hard than the bruise .", "output": "The cut is hard [* m:0er] than the bruise ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He ran near than the others .", "output": "He ran near [* m:0er] than the others ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This book is nice than that movie .", "output": "This book is nice [* m:0er] than that movie ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The weather is hard than in winter .", "output": "The weather is hard [* m:0er] than in winter ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The team is nice than last season .", "output": "The team is nice [* m:0er] than last season ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the nice day of my life .", "output": "This is the nice [* m:0est] day of my life ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the hard storm ever .", "output": "It was the hard [* m:0est] storm ever ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the nice student in the class .", "output": "He is the nice [* m:0est] student in the class ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the hard experience I had .", "output": "That was the hard [* m:0est] experience I had ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the nice restaurant in town .", "output": "This is the nice [* m:0est] restaurant in town ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the hard timing for a meeting .", "output": "It was the hard [* m:0est] timing for a meeting ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the nice athlete in the school .", "output": "She is the nice [* m:0est] athlete in the school ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the hard hotel I stayed in .", "output": "This is the hard [* m:0est] hotel I stayed in ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He lives in the near house in the valley .", "output": "He lives in the near [* m:0est] house in the valley ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the nice news I heard all day .", "output": "This is the nice [* m:0est] news I heard all day ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the hard luck for the team .", "output": "It was the hard [* m:0est] luck for the team ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the near point of the island .", "output": "That is the near [* m:0est] point of the island ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She gave the nice performance today .", "output": "She gave the nice [* m:0est] performance today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the hard cold I ever had .", "output": "This is the hard [* m:0est] cold I ever had ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has the nice voice in the choir .", "output": "He has the nice [* m:0est] voice in the choir ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the hard mistake of the project .", "output": "That was the hard [* m:0est] mistake of the project ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the near galaxy in the universe .", "output": "This is the near [* m:0est] galaxy in the universe ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the nice baker in the city .", "output": "She is the nice [* m:0est] baker in the city ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the hard road for driving .", "output": "This is the hard [* m:0est] road for driving ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the nice friend I have .", "output": "He is the nice [* m:0est] friend I have ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the hard day at work .", "output": "It was the hard [* m:0est] day at work ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the nice part of the movie .", "output": "This is the nice [* m:0est] part of the movie ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the hard idea for a party .", "output": "That was the hard [* m:0est] idea for a party ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the nice teacher in the department .", "output": "She is the nice [* m:0est] teacher in the department ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the hard accident on the highway .", "output": "It was the hard [* m:0est] accident on the highway ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the nice deal we can find .", "output": "This is the nice [* m:0est] deal we can find ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Summer is hot than winter .", "output": "Summer is hot [* m:0er] than winter ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He runs slow than his friend .", "output": "He runs slow [* m:0er] than his friend ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This mountain is high than the other .", "output": "This mountain is high [* m:0er] than the other ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My bag is heavy than yours .", "output": "My bag is heavy [* m:0er] than yours ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This road is wide than the street .", "output": "This road is wide [* m:0er] than the street ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The soup is thick than the juice .", "output": "The soup is thick [* m:0er] than the juice ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is old than his sister .", "output": "He is old [* m:0er] than his sister ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is young than her cousin .", "output": "She is young [* m:0er] than her cousin ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This book is cheap than the laptop .", "output": "This book is cheap [* m:0er] than the laptop ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The knife is sharp than the spoon .", "output": "The knife is sharp [* m:0er] than the spoon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This task is hard than that task .", "output": "This task is hard [* m:0er] than that task ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My cat is fat than your cat .", "output": "My cat is fat [* m:0er] than your cat ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The air is clean than in the city .", "output": "The air is clean [* m:0er] than in the city ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is strong than the other boy .", "output": "He is strong [* m:0er] than the other boy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The river is broad than the creek .", "output": "The river is broad [* m:0er] than the creek ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This pencil is short than that one .", "output": "This pencil is short [* m:0er] than that one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The table is smooth than the wall .", "output": "The table is smooth [* m:0er] than the wall ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the smart girl in the class .", "output": "She is the smart [* m:0est] girl in the class ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the big house in the street .", "output": "This is the big [* m:0est] house in the street ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Winter is the cold season .", "output": "Winter is the cold [* m:0est] season ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the young boy in the group .", "output": "He is the young [* m:0est] boy in the group ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the loud noise I ever heard .", "output": "That was the loud [* m:0est] noise I ever heard ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the tall woman in the office .", "output": "She is the tall [* m:0est] woman in the office ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the fast car in the race .", "output": "It was the fast [* m:0est] car in the race ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He told the short story .", "output": "He told the short [* m:0est] story ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the old book in the library .", "output": "This is the old [* m:0est] book in the library ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The Sahara is the hot desert .", "output": "The Sahara is the hot [* m:0est] desert ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Mount Everest is the high mountain .", "output": "Mount Everest is the high [* m:0est] mountain ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the hard exam of the year .", "output": "This is the hard [* m:0est] exam of the year ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the dark night of the month .", "output": "It was the dark [* m:0est] night of the month ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the rich man in the town .", "output": "He is the rich [* m:0est] man in the town ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the clean room in the house .", "output": "This is the clean [* m:0est] room in the house ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the deep lake in the world .", "output": "That is the deep [* m:0est] lake in the world ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You are the sweet girl .", "output": "You are the sweet [* m:0est] girl ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The turtle is the slow animal .", "output": "The turtle is the slow [* m:0est] animal ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the small bird in the garden .", "output": "This is the small [* m:0est] bird in the garden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the strong fighter .", "output": "He is the strong [* m:0est] fighter ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the new car on the lot .", "output": "This is the new [* m:0est] car on the lot ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the soft pillow .", "output": "It was the soft [* m:0est] pillow ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has the long hair in the school .", "output": "She has the long [* m:0est] hair in the school ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Coffee is nice than tea .", "output": "Coffee is nice [* m:0er] than tea ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I feel nice than yesterday .", "output": "I feel nice [* m:0er] than yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The weather is hard than before .", "output": "The weather is hard [* m:0er] than before ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The pain is hard than this morning .", "output": "The pain is hard [* m:0er] than this morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "California is near than Nevada .", "output": "California is near [* m:0er] than Nevada ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Your cake is nice than her cake .", "output": "Your cake is nice [* m:0er] than her cake ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This school is nice than that school .", "output": "This school is nice [* m:0er] than that school ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The flu is hard than a cold .", "output": "The flu is hard [* m:0er] than a cold ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The library is near than the park .", "output": "The library is near [* m:0er] than the park ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am nice than you at chess .", "output": "I am nice [* m:0er] than you at chess ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The report is hard than I expected .", "output": "The report is hard [* m:0er] than I expected ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The stars are near than the moon .", "output": "The stars are near [* m:0er] than the moon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This burger is nice than that one .", "output": "This burger is nice [* m:0er] than that one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "His behavior is hard than yesterday .", "output": "His behavior is hard [* m:0er] than yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The hospital is near than the clinic .", "output": "The hospital is near [* m:0er] than the clinic ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This wine is nice than the other .", "output": "This wine is nice [* m:0er] than the other ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The error is hard than we thought .", "output": "The error is hard [* m:0er] than we thought ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The station is near than the bus stop .", "output": "The station is near [* m:0er] than the bus stop ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This method is nice than that .", "output": "This method is nice [* m:0er] than that ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The smell is hard than before .", "output": "The smell is hard [* m:0er] than before ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Pluto is near than Mars .", "output": "Pluto is near [* m:0er] than Mars ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the nice player in the team .", "output": "He is the nice [* m:0est] player in the team ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Friday was the hard day of my life .", "output": "Friday was the hard [* m:0est] day of my life ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the near city in the country .", "output": "That is the near [* m:0est] city in the country ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the nice movie I ever saw .", "output": "This is the nice [* m:0est] movie I ever saw ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He made the hard mistake .", "output": "He made the hard [* m:0est] mistake ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That star is the near one .", "output": "That star is the near [* m:0est] one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the hard soup in the world .", "output": "This is the hard [* m:0est] soup in the world ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Which planet is the near ?", "output": "Which planet is the near [* m:0est] ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the hard experience .", "output": "It was the hard [* m:0est] experience ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the near point of the trip .", "output": "This is the near [* m:0est] point of the trip ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the nice news .", "output": "That was the nice [* m:0est] news ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the hard cook I know .", "output": "She is the hard [* m:0est] cook I know ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The near place is China .", "output": "The near [* m:0est] place is China ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the nice deal in town .", "output": "This is the nice [* m:0est] deal in town ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He had the hard luck .", "output": "He had the hard [* m:0est] luck ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "What is the near distance you ran ?", "output": "What is the near [* m:0est] distance you ran ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the nice song .", "output": "That is the nice [* m:0est] song ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The near star is very small .", "output": "The near [* m:0est] star is very small ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the nice student here .", "output": "He is the nice [* m:0est] student here ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Where is the near station ?", "output": "Where is the near [* m:0est] station ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You are the nice dancer .", "output": "You are the nice [* m:0est] dancer ."}

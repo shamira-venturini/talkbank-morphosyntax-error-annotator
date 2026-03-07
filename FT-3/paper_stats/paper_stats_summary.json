@@ -1,0 +1,31 @@
+{
+  "rows_total": 10533,
+  "composition": {
+    "synthetic": 5943,
+    "DLD": 694,
+    "TD": 3896
+  },
+  "trace_ambiguous_rows": 25,
+  "trace_ambiguous_percent": 0.24,
+  "method_counts": {
+    "curated_synthetic_input": 2486,
+    "curated_synthetic_exact": 1744,
+    "synthetic_no_real_match": 1713,
+    "real_input_clean": 1036,
+    "real_output_exact": 3554
+  },
+  "error_count_distribution": {
+    "0": 4960,
+    "1": 5395,
+    "2": 168,
+    "3": 10
+  },
+  "mean_error_count": 0.546948,
+  "median_error_count": 1,
+  "rows_with_any_error_tag": 5573,
+  "rows_with_multi_error_tags": 178,
+  "total_error_tags": 5761,
+  "unique_detailed_labels": 42,
+  "top5_error_tag_share_percent": 19.77,
+  "top10_error_tag_share_percent": 34.23
+}

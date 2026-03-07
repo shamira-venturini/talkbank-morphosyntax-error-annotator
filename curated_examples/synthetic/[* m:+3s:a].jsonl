@@ -1,0 +1,97 @@
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We lives in a very big house .", "output": "We lives [* m:+3s:a] in a very big house ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They plays football every Saturday morning .", "output": "They plays [* m:+3s:a] football every Saturday morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I likes chocolate ice cream for dessert .", "output": "I likes [* m:+3s:a] chocolate ice cream for dessert ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You wants a cup of coffee now .", "output": "You wants [* m:+3s:a] a cup of coffee now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The students studies hard for the exam .", "output": "The students studies [* m:+3s:a] hard for the exam ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We works at the office downtown .", "output": "We works [* m:+3s:a] at the office downtown ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They goes to school by bus .", "output": "They goes [* m:+3s:a] to school by bus ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I knows the answer to that question .", "output": "I knows [* m:+3s:a] the answer to that question ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You walks too fast for me to keep up .", "output": "You walks [* m:+3s:a] too fast for me to keep up ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My friends likes listening to pop music .", "output": "My friends likes [* m:+3s:a] listening to pop music ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We thinks about the future a lot .", "output": "We thinks [* m:+3s:a] about the future a lot ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They has a new car in the driveway .", "output": "They has [* m:+3s:a] a new car in the driveway ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I feels tired after the long journey .", "output": "I feels [* m:+3s:a] tired after the long journey ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You helps me with my English homework .", "output": "You helps [* m:+3s:a] me with my English homework ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The dogs barks at the mailman every day .", "output": "The dogs barks [* m:+3s:a] at the mailman every day ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Me wants cookie .", "output": "Me [:: I] [* s:r:gc:pro] wants [* m:+3s:a] cookie ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They has got it .", "output": "They has [* m:+3s:a] got it ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I likes the red ball .", "output": "I likes [* m:+3s:a] the red ball ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We plays with the toys now .", "output": "We plays [* m:+3s:a] now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You has a big blue toy .", "output": "You has [* m:+3s:a] a big blue toy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Them knows my name .", "output": "Them knows [* m:+3s:a] my name ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I goes to the park .", "output": "I goes [* m:+3s:a] to the park ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They don't likes the soup .", "output": "They don't likes [* m:+3s:a] the soup ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Us wants more orange juice .", "output": "Us wants [* m:+3s:a] juice ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I sees you hiding there .", "output": "I sees [* m:+3s:a] you hiding there ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They comes home late .", "output": "They comes [* m:+3s:a] home late ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You did likes it yesterday .", "output": "You did likes [* m:+3s:a] it yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They takes the ball from me .", "output": "They takes [* m:+3s:a] the ball from me ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The people in the street walks very fast .", "output": "The people in the street walks [* m:+3s:a] very fast ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Many workers in the factory feels tired after the shift .", "output": "Many workers in the factory feels [* m:+3s:a] tired after the shift ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The researchers thinks that the data is correct .", "output": "The researchers thinks [* m:+3s:a] that the data is correct ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Several birds sings in the morning forest .", "output": "Several birds sings [* m:+3s:a] in the morning forest ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The children in the park plays with a yellow ball .", "output": "The children in the park plays [* m:+3s:a] with a yellow ball ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Some students forgets their books in the locker .", "output": "Some students forgets [* m:+3s:a] their books in the locker ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "All the teachers knows the rules of the school .", "output": "All the teachers knows [* m:+3s:a] the rules of the school ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The members of the club meets every week at five .", "output": "The members of the club meets [* m:+3s:a] every week at five ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Those cars goes very fast on the highway .", "output": "Those cars goes [* m:+3s:a] very fast on the highway ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The neighbors helps each other with the garden .", "output": "The neighbors helps [* m:+3s:a] each other with the garden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My cousins lives in another city far away .", "output": "My cousins lives [* m:+3s:a] in another city far away ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The flowers in the garden looks beautiful in spring .", "output": "The flowers in the garden looks [* m:+3s:a] beautiful in spring ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Both boys wants to win the competition .", "output": "Both boys wants [* m:+3s:a] to win the competition ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The players on the team runs every morning .", "output": "The players on the team runs [* m:+3s:a] every morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The books on the shelf belongs to the library .", "output": "The books on the shelf belongs [* m:+3s:a] to the library ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The clouds in the sky moves slowly toward the east .", "output": "The clouds in the sky moves [* m:+3s:a] slowly toward the east ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The shops in the mall opens late on Sundays .", "output": "The shops in the mall opens [* m:+3s:a] late on Sundays ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The dogs in the kennel barks loudly at night .", "output": "The dogs in the kennel barks [* m:+3s:a] loudly at night ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The scientists sees the change in the atmosphere .", "output": "The scientists sees [* m:+3s:a] the change in the atmosphere ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Many trees loses their leaves during the autumn .", "output": "Many trees loses [* m:+3s:a] their leaves during the autumn ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I likes the new teacher at the school .", "output": "I likes [* m:+3s:a] the new teacher at the school ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You wants more coffee for breakfast .", "output": "You wants [* m:+3s:a] more coffee for breakfast ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We needs to find the lost keys in the garden .", "output": "We needs [* m:+3s:a] to find the lost keys in the garden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They walks to the market every morning .", "output": "They walks [* m:+3s:a] to the market every morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The students works very hard on the science project .", "output": "The students works [* m:+3s:a] very hard on the science project ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My friends calls me on the phone every day .", "output": "My friends calls [* m:+3s:a] me on the phone every day ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I believes that the story is true .", "output": "I believes [* m:+3s:a] that the story is true ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You looks very tired this afternoon .", "output": "You looks [* m:+3s:a] very tired this afternoon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We helps the neighbor with her large garden .", "output": "We helps [* m:+3s:a] the neighbor with her large garden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They plays football in the large field behind the house .", "output": "They plays [* m:+3s:a] football in the large field behind the house ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The children dances during the school party .", "output": "The children dances [* m:+3s:a] during the school party ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My parents lives in a small village near the mountains .", "output": "My parents lives [* m:+3s:a] in a small village near the mountains ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I starts my work at eight o'clock every morning .", "output": "I starts [* m:+3s:a] my work at eight o'clock every morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You prepares a delicious meal for the guests .", "output": "You prepares [* m:+3s:a] a delicious meal for the guests ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We discusses the plan for the summer trip .", "output": "We discusses [* m:+3s:a] the plan for the summer trip ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They searches for the cat in the city park .", "output": "They searches [* m:+3s:a] for the cat in the city park ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The players climbs the steep mountain carefully .", "output": "The players climbs [* m:+3s:a] the steep mountain carefully ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I watches the news on television every night .", "output": "I watches [* m:+3s:a] the news on television every night ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You washes the car on Saturdays .", "output": "You washes [* m:+3s:a] the car on Saturdays ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We finishes the homework before dinner .", "output": "We finishes [* m:+3s:a] the homework before dinner ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He helps you with the math problems .", "output": "He helps [* m:+3s:a] you with the math problems ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She will walks to the store later today .", "output": "She will walks [* m:+3s:a] to the store later today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We looks for the missing document in the office .", "output": "We looks [* m:+3s:a] for the missing document in the office ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They should waits for the bus at the corner .", "output": "They should waits [* m:+3s:a] for the bus at the corner ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I might visits the museum next week .", "output": "I might visits [* m:+3s:a] the museum next week ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The teachers who likes the students are very kind .", "output": "The teachers who likes [* m:+3s:a] the students are very kind ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I see the birds that flies near the river .", "output": "I see the birds that flies [* m:+3s:a] near the river ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You know the people who lives next door .", "output": "You know the people who lives [* m:+3s:a] next door ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We found the dogs that barks all night long .", "output": "We found the dogs that barks [* m:+3s:a] all night long ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The coach gave the trophies to the players who wins the race .", "output": "The coach gave the trophies to the players who wins [* m:+3s:a] the race ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "does you thinks that it will rain tomorrow ?", "output": "does [* m:+3s:a] you thinks that it will rain tomorrow ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Why does they wants to leave the party so early ?", "output": "Why does [* m:+3s:a] they want to leave the party so early ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "does I looks okay in this new suit ?", "output": "does [* m:+3s:a] I looks okay in this new suit ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Why does we needs a new car right now ?", "output": "Why does [* m:+3s:a] we needs a new car right now ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I does not likes the taste of the medicine .", "output": "I does [* m:+3s:a] not like the taste of the medicine ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You does not wants to miss the morning train .", "output": "You does [* m:+3s:a] not want to miss the morning train ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We does not needs any more help today .", "output": "We does not needs [* m:+3s:a] any more help today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They does not walks to the library anymore .", "output": "They does [* m:+3s:a] not walk to the library anymore ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The boys who works at the factory are very tired .", "output": "The boys who works [* m:+3s:a] at the factory are very tired ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I often listens to music in my room .", "output": "I often listens [* m:+3s:a] to music in my room ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You usually stays at the hotel near the beach .", "output": "You usually stays [* m:+3s:a] at the hotel near the beach ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We always prepares for the exam in advance .", "output": "We always prepares [* m:+3s:a] for the exam in advance ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They rarely watches television in the afternoon .", "output": "They rarely watches [* m:+3s:a] television in the afternoon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The cats that jumps on the table are black .", "output": "The cats that jumps [* m:+3s:a] on the table are black ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I follows the instructions very easily .", "output": "I follows [* m:+3s:a] the instructions very easily ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You will finishes the project by Friday afternoon .", "output": "You will finishes [* m:+3s:a] the project by Friday afternoon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We should discusses the results of the clinical study .", "output": "We should discusses [* m:+3s:a] the results of the clinical study ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They starts the race before the sun sets .", "output": "They starts [* m:+3s:a] the race before the sun sets ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The neighbors who helps us are very friendly people .", "output": "The neighbors who helps [* m:+3s:a] us are very friendly people ."}

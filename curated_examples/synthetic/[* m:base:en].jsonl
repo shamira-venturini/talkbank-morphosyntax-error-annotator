@@ -1,0 +1,98 @@
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have take the exam .", "output": "I have take [* m:base:en] the exam ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has write many letters .", "output": "She has write [* m:base:en] many letters ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We had speak about the problem .", "output": "We had speak [* m:base:en] about the problem ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They have eat all the food .", "output": "They have eat [* m:base:en] all the food ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has forget my name .", "output": "He has forget [* m:base:en] my name ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have break my leg once .", "output": "I have break [* m:base:en] my leg once ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You have steal my idea .", "output": "You have steal [* m:base:en] my idea ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has hide the gift .", "output": "She has hide [* m:base:en] the gift ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We have shake hands before .", "output": "We have shake [* m:base:en] hands before ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The teacher has speak to my parents .", "output": "The teacher has speak [* m:base:en] to my parents ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have fall down the stairs .", "output": "I have fall [* m:base:en] down the stairs ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Has he take the medicine ?", "output": "Has he take [* m:base:en] the medicine ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They have freeze the meat .", "output": "They have freeze [* m:base:en] the meat ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have never bite an apple like this .", "output": "I have never bite [* m:base:en] an apple like this ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has write his homework .", "output": "He has write [* m:base:en] his homework ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was break .", "output": "It was break [* m:base:en] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Cookie have eat .", "output": "Cookie have eat [* m:base:en] . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Toy was hide .", "output": " Toy was hide [* m:base:en] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Car was steal .", "output": " Car was steal [* m:base:en] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Word was speak .", "output": " Word was speak [* m:base:en] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Paper was write .", "output": " Paper was write [* m:base:en] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He have fall .", "output": "He have [* m:vun:a] fall [* m:base:en] . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Box was shake .", "output": " Box was shake [* m:base:en] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Leg was break .", "output": " Leg was break [* m:base:en] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Key was forget .", "output": " Key was forget [* m:base:en] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Milk was take .", "output": " Milk was take [* m:base:en] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Water was freeze .", "output": "Water was freeze [* m:base:en] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Man was bite .", "output": " Man was bite [* m:base:en] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have take pill .", "output": "I have take [* m:base:en] pill . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Letter was write me.", "output": " Letter was write [* m:base:en] me. [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The break vase lay on the rug .", "output": "The break [* m:base:en] vase lay on the rug ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He found the hide map in the attic .", "output": "He found the hide [* m:base:en] map in the attic ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The steal jewelry was never found .", "output": "The steal [* m:base:en] jewelry was never found ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She looked at the fall leaves .", "output": "She looked at the fall [* m:base:en] leaves ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The freeze pond was safe for skating .", "output": "The freeze [* m:base:en] pond was safe for skating ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every word was speak with caution .", "output": "Every word was speak [* m:base:en] with caution ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The letter was write in pencil .", "output": "The letter was write [* m:base:en] in pencil ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He had forget the umbrella at home .", "output": "He had forget [* m:base:en] the umbrella at home ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The dog had bite the mailman .", "output": "The dog had bite [* m:base:en] the mailman ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The tree had fall during the storm .", "output": "The tree had fall [* m:base:en] during the storm ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The shake soda exploded .", "output": "The shake [* m:base:en] soda exploded ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The eat apple was on the table .", "output": "The eat [* m:base:en] apple was on the table ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The take photos were blurry .", "output": "The take [* m:base:en] photos were blurry ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The ice was break by the ship .", "output": "The ice was break [* m:base:en] by the ship ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "A secret was hide in the cellar .", "output": "A secret was hide [* m:base:en] in the cellar ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The truth was finally speak .", "output": "The truth was finally speak [* m:base:en] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The poem was write by a child .", "output": "The poem was write [* m:base:en] by a child ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The car had shake violently .", "output": "The car had shake [* m:base:en] violently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The food was eat by the guests .", "output": "The food was eat [* m:base:en] by the guests ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The bike was steal from the porch .", "output": "The bike was steal [* m:base:en] from the porch ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The lake has freeze already because of the cold .", "output": "The lake has freeze [* m:base:en] already because of the cold ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have take the medicine recently .", "output": "I have take [* m:base:en] the medicine recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The window was break by the storm yesterday .", "output": "The window was break [* m:base:en] by the storm yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has write three letters since this morning .", "output": "She has write [* m:base:en] three letters since this morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They have speak about the problem recently .", "output": "They have speak [* m:base:en] about the problem recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The reward was give to the winner already .", "output": "The reward was give [* m:base:en] to the winner already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has eat all the cookies recently .", "output": "He has eat [* m:base:en] all the cookies recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Many leaves had fall from the tree by then .", "output": "Many leaves had fall [* m:base:en] from the tree by then ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The keys were hide in the garden recently .", "output": "The keys were hide [* m:base:en] in the garden recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have see that movie twice already .", "output": "I have see [* m:base:en] that movie twice already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has go to the office recently .", "output": "He has go [* m:base:en] to the office recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The letter was write by the author already .", "output": "The letter was write [* m:base:en] by the author already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has take the dog for a walk recently .", "output": "She has take [* m:base:en] the dog for a walk recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The meat was freeze by the chef already .", "output": "The meat was freeze [* m:base:en] by the chef already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They had speak to the manager by then .", "output": "They had speak [* m:base:en] to the manager by then ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The glass has break into many pieces recently .", "output": "The glass has break [* m:base:en] into many pieces recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have give him the money already .", "output": "I have give [* m:base:en] him the money already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "A star has fall from the sky recently .", "output": "A star has fall [* m:base:en] from the sky recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She had hide the treasure by then .", "output": "She had hide [* m:base:en] the treasure by then ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have see the results of the test already .", "output": "I have see [* m:base:en] the results of the test already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has go home to his family recently .", "output": "He has go [* m:base:en] home to his family recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The report was write in pencil already .", "output": "The report was write [* m:base:en] in pencil already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has take the children to school recently .", "output": "She has take [* m:base:en] the children to school recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The water has freeze in the pipes already .", "output": "The water has freeze [* m:base:en] in the pipes already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They have speak about the new project recently .", "output": "They have speak [* m:base:en] about the new project recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The toy was break by the child already .", "output": "The toy was break [* m:base:en] by the child already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have give her the flowers recently .", "output": "I have give [* m:base:en] her the flowers recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The apple has eat by the bird recently .", "output": "The apple has eat [* m:base:en] by the bird recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He had hide the letter under the desk by then .", "output": "He had hide [* m:base:en] the letter under the desk by then ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have see the mountains already .", "output": "I have see [* m:base:en] the mountains already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has go to the market recently .", "output": "She has go [* m:base:en] to the market recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The email was write yesterday already .", "output": "The email was write [* m:base:en] yesterday already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They have take the wrong bus recently .", "output": "They have take [* m:base:en] the wrong bus recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The ground has freeze during the night already .", "output": "The ground has freeze [* m:base:en] during the night already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have speak to my parents recently .", "output": "I have speak [* m:base:en] to my parents recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The vase was break into pieces already .", "output": "The vase was break [* m:base:en] into pieces already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has give a speech recently .", "output": "He has give [* m:base:en] a speech recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The bread has eat by the dog recently .", "output": "The bread has eat [* m:base:en] by the dog recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The snow had fall heavily by then .", "output": "The snow had fall [* m:base:en] heavily by then ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has hide the keys somewhere recently .", "output": "She has hide [* m:base:en] the keys somewhere recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I had see the ocean by then .", "output": "I had see [* m:base:en] the ocean by then ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They have go on a trip recently .", "output": "They have go [* m:base:en] on a trip recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The poem was write in a notebook already .", "output": "The poem was write [* m:base:en] in a notebook already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has take the test twice already .", "output": "He has take [* m:base:en] the test twice already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The lake was freeze for a month already .", "output": "The lake was freeze [* m:base:en] for a month already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have speak with the doctor already .", "output": "I have speak [* m:base:en] with the doctor already ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The mirror has break recently .", "output": "The mirror has break [* m:base:en] recently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has give us a great idea recently .", "output": "She has give [* m:base:en] us a great idea recently ."}

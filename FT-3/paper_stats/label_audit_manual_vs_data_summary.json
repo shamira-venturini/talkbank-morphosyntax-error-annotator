@@ -1,0 +1,12 @@
+{
+  "labels_in_data": 42,
+  "labels_matching_manual_text": 37,
+  "labels_not_found_in_manual_text": 5,
+  "not_found_labels": [
+    "[* s:r:gc:det]",
+    "[* m:++er]",
+    "[* m:0est]",
+    "[* m:0er]",
+    "[* m:++est]"
+  ]
+}

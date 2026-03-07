@@ -1,0 +1,42 @@
+{
+  "experiment_dir": "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon",
+  "stage_file_counts": {
+    "1": 6,
+    "2": 6,
+    "3": 6
+  },
+  "label_source_splits": [
+    "train"
+  ],
+  "holdout_label_source_splits": [
+    "holdout",
+    "train"
+  ],
+  "reconstruction_mode": "drop_all",
+  "rows_updated_by_file": {
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage1_eval.jsonl": 693,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage1_eval_coverage.jsonl": 380,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage1_holdout.jsonl": 591,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage1_test.jsonl": 687,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage1_test_coverage.jsonl": 380,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage1_train.jsonl": 6406,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage2_eval.jsonl": 693,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage2_eval_coverage.jsonl": 380,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage2_holdout.jsonl": 591,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage2_test.jsonl": 687,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage2_test_coverage.jsonl": 380,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage2_train.jsonl": 6406,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage3_eval.jsonl": 693,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage3_eval_coverage.jsonl": 380,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage3_holdout.jsonl": 591,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage3_test.jsonl": 687,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage3_test_coverage.jsonl": 380,
+    "/Users/shamiraventurini/PycharmProjects/CLAN-annotator/FT-3/experiments/exp3_abs_off_no_recon/stage3_train.jsonl": 6406
+  },
+  "prompt_preview_stage1": "You are a TalkBank CHAT annotator for morphosyntactic error coding.\n\nTask:\nAnnotate the input utterance by inserting valid CHAT error tags inline.\n\nRules:\n1. Preserve original token order, spelling, casing, punctuation, disfluencies, and CHAT symbols.\n2. Do NOT rewrite, paraphrase, or correct the ut",
+  "prompt_preview_stage2": "You are a TalkBank CHAT annotator for morphosyntactic error coding.\n\nTask:\nAnnotate the input utterance by inserting valid CHAT error tags inline.\n\nRules:\n1. Preserve original token order, spelling, casing, punctuation, disfluencies, and CHAT symbols.\n2. Do NOT rewrite, paraphrase, or correct the ut",
+  "prompt_preview_stage3": "You are a TalkBank CHAT annotator for morphosyntactic error coding.\n\nTask:\nAnnotate the input utterance by inserting valid CHAT error tags inline.\n\nRules:\n1. Preserve original token order, spelling, casing, punctuation, disfluencies, and CHAT symbols.\n2. Do NOT rewrite, paraphrase, or correct the ut",
+  "holdout_prompt_preview_stage1": "You are a TalkBank CHAT annotator for morphosyntactic error coding.\n\nTask:\nAnnotate the input utterance by inserting valid CHAT error tags inline.\n\nRules:\n1. Preserve original token order, spelling, casing, punctuation, disfluencies, and CHAT symbols.\n2. Do NOT rewrite, paraphrase, or correct the ut",
+  "holdout_prompt_preview_stage2": "You are a TalkBank CHAT annotator for morphosyntactic error coding.\n\nTask:\nAnnotate the input utterance by inserting valid CHAT error tags inline.\n\nRules:\n1. Preserve original token order, spelling, casing, punctuation, disfluencies, and CHAT symbols.\n2. Do NOT rewrite, paraphrase, or correct the ut",
+  "holdout_prompt_preview_stage3": "You are a TalkBank CHAT annotator for morphosyntactic error coding.\n\nTask:\nAnnotate the input utterance by inserting valid CHAT error tags inline.\n\nRules:\n1. Preserve original token order, spelling, casing, punctuation, disfluencies, and CHAT symbols.\n2. Do NOT rewrite, paraphrase, or correct the ut"
+}

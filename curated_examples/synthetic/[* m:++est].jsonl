@@ -1,0 +1,142 @@
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the bestest day ever !", "output": "That is the bestest [: best] [* m:++est] day ever !"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My car is the fastestest .", "output": "My car is the fastestest [: fastest] [* m:++est] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have the biggestest piece of cake .", "output": "I have the biggestest [: biggest] [* m:++est] piece of cake ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the sweetestest candy in the world !", "output": "This is the sweetestest [: sweetest] [* m:++est] candy in the world !"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the prettiestest princess .", "output": "She is the prettiestest [: prettiest] [* m:++est] princess ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the loudestest noise I ever heard !", "output": "That was the loudestest [: loudest] [* m:++est] noise I ever heard !"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You are my bestest xxx .", "output": "You are my bestest [: best] [* m:++est] xxx ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the smallestest toy in my box .", "output": "This is the smallestest [: smallest] [* m:++est] toy in my box ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the tallestest xxx in the whole class .", "output": "He is the tallestest [: tallest] [* m:++est] xxx in the whole class ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the most funniest joke !", "output": "That is the most funniest [* m:++est] joke !"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Look at the most cutest puppy .", "output": "Look at the most cutest [* m:++est] puppy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most baddest dream .", "output": "This is the most baddest [* m:++est] dream ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My mom is the kindestest .", "output": "My mom is the kindestest [: kindest] [* m:++est] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The most happiest person in the room is me .", "output": "The most happiest [* m:++est] person in the room is me ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I found the most cleanest rock in the garden .", "output": "I found the most cleanest [* m:++est] rock in the garden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most cheapest hotel in the city .", "output": "This is the most cheapest [* m:++est] hotel in the city ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the most smartest student here .", "output": "She is the most smartest [* m:++est] student here ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the most highest mountain in the country .", "output": "It was the most highest [* m:++est] mountain in the country ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most easiest exam I ever had .", "output": "This is the most easiest [* m:++est] exam I ever had ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the most strongest man in the world .", "output": "He is the most strongest [* m:++est] man in the world ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the most weirdest thing to happen .", "output": "That was the most weirdest [* m:++est] thing to happen ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I want to buy the most largest size .", "output": "I want to buy the most largest [* m:++est] size ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Yesterday was the most coldest day of the month .", "output": "Yesterday was the most coldest [* m:++est] day of the month ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most newest version of the software .", "output": "This is the most newest [* m:++est] version of the software ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the most kindest person I know .", "output": "She is the most kindest [* m:++est] person I know ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is the most quietest place to study .", "output": "It is the most quietest [* m:++est] place to study ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They have the most busiest schedule this week .", "output": "They have the most busiest [* m:++est] schedule this week ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most clearest water in the lake .", "output": "This is the most clearest [* m:++est] water in the lake ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He gave the most briefest explanation possible .", "output": "He gave the most briefest [* m:++est] explanation possible ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most simplest way to learn guitar .", "output": "This is the most simplest [* m:++est] way to learn guitar ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the worstest storm of the year .", "output": "It was the worstest [: worst] [* m:++est] storm of the year ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He was the most meanest dog in the neighborhood .", "output": "He was the most meanest [* m:++est] dog in the neighborhood ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the most strangest story I ever heard .", "output": "That was the most strangest [* m:++est] story I ever heard ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the most lonesomest night in the woods .", "output": "It was the most lonesomest [: lonesome] [* m:++est] night in the woods ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He had the most worstest luck of anyone I knew .", "output": "He had the most worstest [: worst] [* m:++est] luck of anyone I knew ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She wore the most brightest dress to the party .", "output": "She wore the most brightest [* m:++est] dress to the party ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the most roughest terrain we ever crossed .", "output": "It was the most roughest [* m:++est] terrain we ever crossed ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He told the most tallest tale about a giant .", "output": "He told the most tallest [* m:++est] tale about a giant ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They lived in the most oldest house in town .", "output": "They lived in the most oldest [* m:++est] house in town ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the most toughest job I ever did .", "output": "It was the most toughest [* m:++est] job I ever did ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He was the most wisest man in the village .", "output": "He was the most wisest [* m:++est] man in the village ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the most poorest family in the county .", "output": "That was the most poorest [* m:++est] family in the county ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the most furthest I ever traveled from home .", "output": "It was the most furthest [* m:++est] I ever traveled from home ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She was the most luckiest girl alive that day .", "output": "She was the most luckiest [* m:++est] girl alive that day ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The most richest folks live on the hill .", "output": "The most richest [* m:++est] folks live on the hill ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the most bitterest winter on record .", "output": "That was the most bitterest [* m:++est] winter on record ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He was the most bestest player on the team .", "output": "He was the most bestest [: best] [* m:++est] player on the team ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the bestest meal I ever tasted .", "output": "It was the bestest [: best] [* m:++est] meal I ever tasted ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We took the most shortest path through the swamp .", "output": "We took the most shortest [* m:++est] path through the swamp ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the most saddest song on the radio .", "output": "That was the most saddest [* m:++est] song on the radio ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have the biggestest balloon .", "output": "I have the biggestest [: biggest] [* m:++est] balloon ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is my bestest xxx .", "output": "He is my bestest [: best] [* m:++est] xxx ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the prettiestest girl in school .", "output": "She is the prettiestest [: prettiest] [* m:++est] girl in school ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I want the most biggest cookie .", "output": "I want the most biggest [* m:++est] cookie ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He ran the fastestest of all .", "output": "He ran the fastestest [: fastest] [* m:++est] of all ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most hottest soup .", "output": "This is the most hottest [* m:++est] soup ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You are the kindestest person .", "output": "You are the kindestest [: kindest] [* m:++est] person ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I have the most smallest feet .", "output": "I have the most smallest [* m:++est] feet ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the worstest dream .", "output": "It was the worstest [: worst] [* m:++est] dream ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the smartestest in the class .", "output": "She is the smartestest [: smartest] [* m:++est] in the class ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That's the most coldest water .", "output": "That's the most coldest [* m:++est] water ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the strongestest hero .", "output": "He is the strongestest [: strongest] [* m:++est] hero ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most baddest thing .", "output": "This is the most baddest [* m:++est] thing ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The kitten is the softestest .", "output": "The kitten is the softestest [: softest] [* m:++est] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am the tallestest xxx .", "output": "I am the tallestest [: tallest] [* m:++est] xxx ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the newestest car .", "output": "This is the newestest [: newest] [* m:++est] car ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has the most loudest voice .", "output": "He has the most loudest [* m:++est] voice ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She made the most prettiest drawing .", "output": "She made the most prettiest [* m:++est] drawing ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is the darkestest night .", "output": "It is the darkestest [: darkest] [* m:++est] night ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That's the most saddest story .", "output": "That's the most saddest [* m:++est] story ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the most fastest runner .", "output": "He is the most fastest [* m:++est] runner ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This room is the cleanestest .", "output": "This room is the cleanestest [: cleanest] [* m:++est] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I want the most sweetest candy .", "output": "I want the most sweetest [* m:++est] candy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the most strangest animal .", "output": "That is the most strangest [* m:++est] animal ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the most smartest kid .", "output": "He is the most smartest [* m:++est] kid ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most happiest day of my life .", "output": "This is the most happiest [* m:++est] day of my life ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the most kindest teacher .", "output": "She is the most kindest [* m:++est] teacher ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the most cheapest hotel in the city .", "output": "It was the most cheapest [* m:++est] hotel in the city ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the most strongest player on the team .", "output": "He is the most strongest [* m:++est] player on the team ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That movie was the most scariest .", "output": "That movie was the most scariest [* m:++est] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most oldest building here .", "output": "This is the most oldest [* m:++est] building here ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She has the most longest hair .", "output": "She has the most longest [* m:++est] hair ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is the most coldest month of the year .", "output": "It is the most coldest [* m:++est] month of the year ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most easiest task .", "output": "This is the most easiest [* m:++est] task ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They are the most richest family .", "output": "They are the most richest [* m:++est] family ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the most tallest student .", "output": "He is the most tallest [* m:++est] student ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the most brightest light .", "output": "That was the most brightest [* m:++est] light ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most shortest route .", "output": "This is the most shortest [* m:++est] route ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the most quietest girl .", "output": "She is the most quietest [* m:++est] girl ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the most deepest part of the ocean .", "output": "It was the most deepest [* m:++est] part of the ocean ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most widest river .", "output": "This is the most widest [* m:++est] river ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the most meanest person .", "output": "He is the most meanest [* m:++est] person ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the most ugliest statue .", "output": "That is the most ugliest [* m:++est] statue ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most heaviest box .", "output": "This is the most heaviest [* m:++est] box ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the most friendliest neighbor .", "output": "She is the most friendliest [* m:++est] neighbor ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He gave the most best presentation .", "output": "He gave the most best [* m:++est] presentation ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the most worst weather .", "output": "It was the most worst [* m:++est] weather ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most farthest point on the map .", "output": "This is the most farthest [* m:++est] point on the map ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She chose the most least expensive option .", "output": "She chose the most least [* m:++est] expensive option ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the most bestest meal ever .", "output": "That was the most bestest [: best] [* m:++est] meal ever ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the worstest storm of the century .", "output": "It was the worstest [: worst] [* m:++est] storm of the century ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He's the bestest player in the whole world .", "output": "He's the bestest [: best] [* m:++est] player in the whole world ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most strangest thing I ever saw .", "output": "This is the most strangest [* m:++est] thing I ever saw ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the most prettiestest dancer .", "output": "She is the most prettiestest [: prettiest] [* m:++est] dancer ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the most baddest mistake he made .", "output": "That was the most baddest [* m:++est] mistake he made ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I found the most cheapest price online .", "output": "I found the most cheapest [* m:++est] price online ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the most coldest night of the winter .", "output": "It was the most coldest [* m:++est] night of the winter ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most happiestest ending .", "output": "This is the most happiestest [: happiest] [* m:++est] ending ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the most ugliestest dog .", "output": "That is the most ugliestest [: ugliest] [* m:++est] dog ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He's the most fastestest car driver .", "output": "He's the most fastestest [: fastest] [* m:++est] car driver ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the most quietestest library .", "output": "It was the most quietestest [: quietest] [* m:++est] library ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the most biggestest house on the block .", "output": "That is the most biggestest [: biggest] [* m:++est] house on the block ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most newestest model .", "output": "This is the most newestest [: newest] [* m:++est] model ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has the bestest luck .", "output": "He has the bestest [: best] [* m:++est] luck ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the worstest day of my life .", "output": "It was the worstest [: worst] [* m:++est] day of my life ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most bestest book .", "output": "This is the most bestest [: best] [* m:++est] book ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the most worstest cook .", "output": "He is the most worstest [: worst] [* m:++est] cook ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the most funniestest show .", "output": "That is the most funniestest [: funniest] [* m:++est] show ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the most luckiestest winner .", "output": "She is the most luckiestest [: luckiest] [* m:++est] winner ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the most beautifulest sunset .", "output": "It was the most beautifulest [: most beautiful] [* m:++est] sunset ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most expensivest watch .", "output": "This is the most expensivest [: most expensive] [* m:++est] watch ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the most famousest actor .", "output": "He is the most famousest [: most famous] [* m:++est] actor ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the most deliciousest cake .", "output": "That was the most deliciousest [: most delicious] [* m:++est] cake ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is the most wonderfulest time .", "output": "It is the most wonderfulest [: most wonderful] [* m:++est] time ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the most talentedest artist .", "output": "She is the most talentedest [: most talented] [* m:++est] artist ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the most successfulest businessman .", "output": "He is the most successfulest [: most successful] [* m:++est] businessman ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That was the most interestingest book .", "output": "That was the most interestingest [: most interesting] [* m:++est] book ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most difficultest exam .", "output": "This is the most difficultest [: most difficult] [* m:++est] exam ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She gave the most bestest advice .", "output": "She gave the most bestest [: best] [* m:++est] advice ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the most worstest accident .", "output": "It was the most worstest [: worst] [* m:++est] accident ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He had the most bestest score .", "output": "He had the most bestest [: best] [* m:++est] score ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the most clearestest water .", "output": "That is the most clearestest [: clearest] [* m:++est] water ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most loveliestest garden .", "output": "This is the most loveliestest [: loveliest] [* m:++est] garden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is the most bravestest knight .", "output": "He is the most bravestest [: bravest] [* m:++est] knight ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That's the most scariestest story .", "output": "That's the most scariestest [: scariest] [* m:++est] story ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most easiestest way .", "output": "This is the most easiestest [: easiest] [* m:++est] way ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the most cleverestest student .", "output": "She is the most cleverestest [: cleverest] [* m:++est] student ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It was the most strangestest day .", "output": "It was the most strangestest [: strangest] [* m:++est] day ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He has the most tallestest tree .", "output": "He has the most tallestest [: tallest] [* m:++est] tree ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "That is the most loudestest alarm .", "output": "That is the most loudestest [: loudest] [* m:++est] alarm ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This is the most smallestest kitten .", "output": "This is the most smallestest [: smallest] [* m:++est] kitten ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is the most prettiestest flower .", "output": "She is the most prettiestest [: prettiest] [* m:++est] flower ."}

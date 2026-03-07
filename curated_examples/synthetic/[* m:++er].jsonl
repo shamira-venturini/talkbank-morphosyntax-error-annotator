@@ -1,0 +1,148 @@
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This city is more bigger than mine .", "output": "This city is more bigger [* m:++er] than mine ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My new phone is more cheaper than the old one .", "output": "My new phone is more cheaper [* m:++er] than the old one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "English is more easier for me now .", "output": "English is more easier [* m:++er] for me now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The plane is more faster than the train .", "output": "The plane is more faster [* m:++er] than the train ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This book is more better than that one .", "output": "This book is more better [* m:++er] than that one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The weather is more hotter today .", "output": "The weather is more hotter [* m:++er] today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "His house is more larger than ours .", "output": "His house is more larger [* m:++er] than ours ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This task is more simpler to do .", "output": "This task is more simpler [* m:++er] to do ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My brother is more taller than me .", "output": "My brother is more taller [* m:++er] than me ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The food here is more tastier .", "output": "The food here is more tastier [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I want a more smaller bag .", "output": "I want a more smaller [* m:++er] bag ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The movie was more scarier than I thought .", "output": "The movie was more scarier [* m:++er] than I thought ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This street is more noisier at night .", "output": "This street is more noisier [* m:++er] at night ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is more prettier in person .", "output": "She is more prettier [* m:++er] in person ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is more luckier than the others .", "output": "He is more luckier [* m:++er] than the others ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am fasterer than you .", "output": "I am fasterer [: faster] [* m:++er] than you ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My xxx is biggerer than yours .", "output": "My xxx is biggerer [: bigger] [* m:++er] than yours ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This ice cream is gooderer .", "output": "This ice cream is gooderer [: better] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He ran quickerer to the finish line .", "output": "He ran quickerer [: quicker] [* m:++er] to the finish line ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I feel badderer today .", "output": "I feel badderer [: worse] [* m:++er] today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My tower is tallerer !", "output": "My tower is tallerer [: taller] [* m:++er] !"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The soup is hotterer than before .", "output": "The soup is hotterer [: hotter] [* m:++er] than before ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This pencil is shorterer .", "output": "This pencil is shorterer [: shorter] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Look , my drawing is nicerer .", "output": "Look , my drawing is nicerer [: nicer] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I can jump higherer than him .", "output": "I can jump higherer [: higher] [* m:++er] than him ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The water is colderer in the pool .", "output": "The water is colderer [: colder] [* m:++er] in the pool ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My kitty is softerer .", "output": "My kitty is softerer [: softer] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I want the largerer piece of cake .", "output": "I want the largerer [: larger] [* m:++er] piece of cake ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The baby is smallerer than me .", "output": "The baby is smallerer [: smaller] [* m:++er] than me ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This path is widerer .", "output": "This path is widerer [: wider] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The situation got worser every day .", "output": "The situation got worser [: worse] [* m:++er] every day ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Things couldn't get no more worse than this .", "output": "Things couldn't get no more worse [* m:++er] than this ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He thought he was more smarter than the rest .", "output": "He thought he was more smarter [* m:++er] than the rest ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The road became more narrower as we drove .", "output": "The road became more narrower [* m:++er] as we drove ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I reckon this one is betterer than the last .", "output": "I reckon this one is betterer [: better] [* m:++er] than the last ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The rain fell more harder against the roof .", "output": "The rain fell more harder [* m:++er] against the roof ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every year the winter gets colderer .", "output": "Every year the winter gets colderer [: colder] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He was much more stronger in his youth .", "output": "He was much more stronger [* m:++er] in his youth ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He felt more angrier after the meeting .", "output": "He felt more angrier [* m:++er] after the meeting ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The light grew more dimmer in the hallway .", "output": "The light grew more dimmer [* m:++er] in the hallway ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She was even more kinder than her sister .", "output": "She was even more kinder [* m:++er] than her sister ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The old man was even more wiser than the books said .", "output": "The old man was even more wiser [* m:++er] than the books said ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We need to find a more safer place .", "output": "We need to find a more safer [* m:++er] place ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wind blew more louder through the trees .", "output": "The wind blew more louder [* m:++er] through the trees ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Life was more simpler back then .", "output": "Life was more simpler [* m:++er] back then ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The path got more steeper near the top .", "output": "The path got more steeper [* m:++er] near the top ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I've never seen a more uglier xxx .", "output": "I've never seen a more uglier [* m:++er] xxx ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The news made him feel more sadder .", "output": "The news made him feel more sadder [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The water got more deeper as we swam out .", "output": "The water got more deeper [* m:++er] as we swam out ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This sword is more sharper than that one .", "output": "This sword is more sharper [* m:++er] than that one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This car is more faster than my old one .", "output": "This car is more faster [* m:++er] than my old one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My house is more bigger than yours .", "output": "My house is more bigger [* m:++er] than yours ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is more taller than her sister .", "output": "She is more taller [* m:++er] than her sister ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The fruit in this market is more cheaper .", "output": "The fruit in this market is more cheaper [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The weather today is more colder than yesterday .", "output": "The weather today is more colder [* m:++er] than yesterday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This summer is more hotter than the last one .", "output": "This summer is more hotter [* m:++er] than the last one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He needs a more shorter pencil .", "output": "He needs a more shorter [* m:++er] pencil ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The music is more louder in this room .", "output": "The music is more louder [* m:++er] in this room ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Please be more quieter in the library .", "output": "Please be more quieter [* m:++er] in the library ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He became more richer after the investment .", "output": "He became more richer [* m:++er] after the investment ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The villagers became more poorer during the drought .", "output": "The villagers became more poorer [* m:++er] during the drought ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The kitchen is more cleaner now .", "output": "The kitchen is more cleaner [* m:++er] now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My shoes are more dirtier than yours .", "output": "My shoes are more dirtier [* m:++er] than yours ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This exercise is more easier for me .", "output": "This exercise is more easier [* m:++er] for me ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The exam was more harder than I expected .", "output": "The exam was more harder [* m:++er] than I expected ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The instructions should be more simpler .", "output": "The instructions should be more simpler [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is more smarter than the other kids .", "output": "She is more smarter [* m:++er] than the other kids ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The bus is more slower than the train .", "output": "The bus is more slower [* m:++er] than the train ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My brother is more younger than me .", "output": "My brother is more younger [* m:++er] than me ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The grandfather is more older than the grandmother .", "output": "The grandfather is more older [* m:++er] than the grandmother ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is more stronger after going to the gym .", "output": "He is more stronger [* m:++er] after going to the gym ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Her voice is more weaker today .", "output": "Her voice is more weaker [* m:++er] today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The ice is more thicker on the lake .", "output": "The ice is more thicker [* m:++er] on the lake ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This paper is more thinner than that one .", "output": "This paper is more thinner [* m:++er] than that one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The stars are more brighter tonight .", "output": "The stars are more brighter [* m:++er] tonight ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The forest is more darker at night .", "output": "The forest is more darker [* m:++er] at night ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The pool is more deeper at this end .", "output": "The pool is more deeper [* m:++er] at this end ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The river is more shallower here .", "output": "The river is more shallower [* m:++er] here ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This candy is more sweeter .", "output": "This candy is more sweeter [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I feel betterer today .", "output": "I feel betterer [: better] [* m:++er] today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The situation got worser .", "output": "The situation got worser [: worse] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I can run fasterer than you .", "output": "I can run fasterer [: faster] [* m:++er] than you ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Look at that biggerer balloon !", "output": "Look at that biggerer [: bigger] [* m:++er] !"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am tallerer than my dad .", "output": "I am tallerer [: taller] [* m:++er] than my dad ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This bug is smallerer .", "output": "This bug is smallerer [: smaller] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The water is colderer in the morning .", "output": "The water is colderer [: colder] [* m:++er] in the morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The stove is hotterer now .", "output": "The stove is hotterer [: hotter] [* m:++er] now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I want the shorterer stick .", "output": "I want the shorterer [: shorter] [* m:++er] stick ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Don't be louderer than the TV .", "output": "Don't be louderer [: louder] [* m:++er] than the TV ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is quieterer in the garden .", "output": "It is quieterer [: quieter] [* m:++er] in the garden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The king is richerer than everyone .", "output": "The king is richerer [: richer] [* m:++er] than everyone ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He feels poorerer after the loss .", "output": "He feels poorerer [: poorer] [* m:++er] after the loss ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The floor is cleanerer after scrubbing .", "output": "The floor is cleanerer [: cleaner] [* m:++er] after scrubbing ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Your hands are dirtierer .", "output": "Your hands are dirtierer [: dirtier] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This game is easierer .", "output": "This game is easierer [: easier] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The rock is harderer .", "output": "The rock is harderer [: harder] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The puppy is smarterer .", "output": "The puppy is smarterer [: smarter] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The turtle is slowerer .", "output": "The turtle is slowerer [: slower] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "My sister is youngerer .", "output": "My sister is youngerer [: younger] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Grandpa is olderer .", "output": "Grandpa is olderer [: older] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The hero is strongerer .", "output": "The hero is strongerer [: stronger] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The kitten is weakerer .", "output": "The kitten is weakerer [: weaker] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wood is thickerer .", "output": "The wood is thickerer [: thicker] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The string is thinnerer .", "output": "The string is thinnerer [: thinner] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The sun is brighterer .", "output": "The sun is brighterer [: brighter] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The cave is darkerer .", "output": "The cave is darkerer [: darker] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The hole is deeperer .", "output": "The hole is deeperer [: deeper] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The pond is shallowerer .", "output": "The pond is shallowerer [: shallower] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The cookie is sweeterer .", "output": "The cookie is sweeterer [: sweeter] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Things are more better than they used to be .", "output": "Things are more better [* m:++er] than they used to be ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It just got more worse from there .", "output": "It just got more worse [* m:++er] from there ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The sky is more clearer today .", "output": "The sky is more clearer [* m:++er] today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She is more lovelier in person .", "output": "She is more lovelier [* m:++er] in person ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The monster was more uglier than the first one .", "output": "The monster was more uglier [* m:++er] than the first one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The xxx is more friendlier than the cat .", "output": "The xxx is more friendlier [* m:++er] than the cat ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The venom is more deadlier .", "output": "The venom is more deadlier [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am more luckier than him .", "output": "I am more luckier [* m:++er] than him ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He is more lazier in the summer .", "output": "He is more lazier [* m:++er] in the summer ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is more sunnier in Florida .", "output": "It is more sunnier [* m:++er] in Florida ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The coast is more windier than the inland .", "output": "The coast is more windier [* m:++er] than the inland ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The soup is more saltier than I like .", "output": "The soup is more saltier [* m:++er] than I like ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The chili is more spicier here .", "output": "The chili is more spicier [* m:++er] here ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am more thirstier now .", "output": "I am more thirstier [* m:++er] now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The kids are more hungrier after play .", "output": "The kids are more hungrier [* m:++er] after play ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The baby is more sleepier today .", "output": "The baby is more sleepier [* m:++er] today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The crowd was more noisier at the game .", "output": "The crowd was more noisier [* m:++er] at the game ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The table is more steadier now .", "output": "The table is more steadier [* m:++er] now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This box is more heavier .", "output": "This box is more heavier [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The feather is more lighter than the lead .", "output": "The feather is more lighter [* m:++er] than the lead ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The coffee is more bitterer .", "output": "The coffee is more bitterer [: bitterer] [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The knight was more braver .", "output": "The knight was more braver [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The lake is more calmer in the evening .", "output": "The lake is more calmer [* m:++er] in the evening ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The student is more cleverer .", "output": "The student is more cleverer [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The villain was more crueler in the book .", "output": "The villain was more crueler [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The breeze is more gentler now .", "output": "The breeze is more gentler [* m:++er] now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She was more politer to me .", "output": "She was more politer [* m:++er] to me ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The water is more shallower than I thought .", "output": "The water is more shallower [* m:++er] than I thought ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The music is more mellower .", "output": "The music is more mellower [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The paint is more yellower .", "output": "The paint is more yellower [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He felt worser after the medicine .", "output": "He felt worser [: worse] [* m:++er] after the medicine ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "This one is betterer than that one .", "output": "This one is betterer [: better] [* m:++er] than that one ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I like this more better .", "output": "I like this more better [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It can't get more worse .", "output": "It can't get more worse [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The xxx is more bigger than the puppy .", "output": "The xxx is more bigger [* m:++er] than the puppy ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The mountain is more taller .", "output": "The mountain is more taller [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The plane is more faster .", "output": "The plane is more faster [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The wall is more stronger .", "output": "The wall is more stronger [* m:++er] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The task is more easier .", "output": "The task is more easier [* m:++er] ."}

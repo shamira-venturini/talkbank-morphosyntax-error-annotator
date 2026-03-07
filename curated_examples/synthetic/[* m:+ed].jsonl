@@ -1,0 +1,142 @@
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I can played guitar .", "output": "I can played [* m:+ed] guitar ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She will walked to school .", "output": "She will walked [* m:+ed] to school ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He does not liked apples .", "output": "He does not liked [* m:+ed] apples ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I want to stayed here .", "output": "I want to stayed [* m:+ed] here ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They can talked English .", "output": "They can talked [* m:+ed] English ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We will jumped over the wall .", "output": "We will jumped [* m:+ed] over the wall ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She doesn't worked today .", "output": "She doesn't worked [* m:+ed] today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I should listened to you .", "output": "I should listened [* m:+ed] to you ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Can you helped me ?", "output": "Can you helped [* m:+ed] me ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I like to watched TV .", "output": "I like to watched [* m:+ed] TV ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He will goed tomorrow .", "output": "He will goed [: go] [* m:+ed] tomorrow ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You must started the car .", "output": "You must started [* m:+ed] the car ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I do not wanted coffee .", "output": "I do not wanted [* m:+ed] coffee ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She can runned fast .", "output": "She can runned [: run] [* m:+ed] fast ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We are gonna stayed at home .", "output": "We are gonna stayed [* m:+ed] at home ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-um baby wanna played .", "output": "&-um baby wanna played [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he gonna jumped .", "output": "he gonna jumped [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-uh doggy can hitted ball .", "output": "&-uh doggy can hitted [: hit] [* m:+ed] ball ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "boy want to looked .", "output": " boy want [* m:03s:a] to looked [* m:+ed] . [+ gram]"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I will stayed .", "output": "I will stayed [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-um mommy don't liked it .", "output": "&-um mommy don't [* m:vun:a] liked [* m:+ed] it ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "girl wanna seed .", "output": " girl wanna [* m:03s:a] seed [: see] [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "birdy can flyed .", "output": " birdy can flyed [: fly] [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he gonna goed .", "output": "he gonna goed [: go] [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "baby want to opened .", "output": " baby want [* m:03s:a] to opened [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-uh I can walked .", "output": "&-uh I can walked [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "puppy wanna played ball .", "output": " puppy wanna played [* m:+ed] ball ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-um man will talked .", "output": "&-um man will talked [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he don't liked milk .", "output": "he don't [* m:vun:a] liked [* m:+ed] milk ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I wanna runned .", "output": "I wanna runned [: run] [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "In the future , the robot will helped the humans .", "output": "In the future , the robot will helped [* m:+ed] the humans ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every day the sun will started to shine .", "output": "Every day the sun will started [* m:+ed] to shine ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The students decided to listened to the lecture again .", "output": "The students decided to listened [* m:+ed] to the lecture again ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is important to watched the experiment carefully .", "output": "It is important to watched [* m:+ed] the experiment carefully ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The company will opened a new branch next year .", "output": "The company will opened [* m:+ed] a new branch next year ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "If you want to succeeded , you must worked hard .", "output": "If you want to succeeded [* m:+ed] , you must worked [* m:+ed] hard ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The teacher will talked about history tomorrow .", "output": "The teacher will talked [* m:+ed] about history tomorrow ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He doesn't seemed to understand the rules .", "output": "He doesn't seemed [* m:+ed] to understand the rules ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The machine will started automatically every morning .", "output": "The machine will started [* m:+ed] automatically every morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We are going to stayed in the hotel by the beach .", "output": "We are going to stayed [* m:+ed] in the hotel by the beach ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The doctor will examined the patient later today .", "output": "The doctor will examined [* m:+ed] the patient later today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It doesn't worked because the battery is low .", "output": "It doesn't worked [* m:+ed] because the battery is low ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They want to visited the museum during the holiday .", "output": "They want to visited [* m:+ed] the museum during the holiday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The bird will flyed south for the winter .", "output": "The bird will flyed [: fly] [* m:+ed] south for the winter ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every morning I will walked for thirty minutes .", "output": "Every morning I will walked [* m:+ed] for thirty minutes ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She can hitted the target every time .", "output": "She can hitted [: hit] [* m:+ed] the target every time ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The scientist needs to observed the cells under a microscope .", "output": "The scientist needs to observed [* m:+ed] the cells under a microscope ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He will runned in the marathon next week .", "output": "He will runned [: run] [* m:+ed] in the marathon next week ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They do not liked to wait in long lines .", "output": "They do not liked [* m:+ed] to wait in long lines ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am going to seed the doctor tomorrow .", "output": "I am going to seed [: see] [* m:+ed] the doctor tomorrow ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She must walked home .", "output": "She must walked [* m:+ed] home ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They do not liked it .", "output": "They do not liked [* m:+ed] it ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I want to watched TV .", "output": "I want to watched [* m:+ed] TV ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He will opened the door .", "output": "He will opened [* m:+ed] the door ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We don't talked to him .", "output": "We don't talked [* m:+ed] to him ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I should listened more .", "output": "I should listened [* m:+ed] more ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You can stayed here .", "output": "You can stayed [* m:+ed] here ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every day I walked to work .", "output": "Every day I walked [* m:+ed] to work ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She doesn't wanted help .", "output": "She doesn't wanted [* m:+ed] help ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I will runned to the shop .", "output": "I will runned [: run] [* m:+ed] to the shop ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Can you hitted the ball ?", "output": "Can you hitted [: hit] [* m:+ed] the ball ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I want to seed the bird .", "output": "I want to seed [: see] [* m:+ed] the bird ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They will goed now .", "output": "They will goed [: go] [* m:+ed] now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Do you talked to her ?", "output": "Do you talked [* m:+ed] to her ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "baby wanna played ball .", "output": "baby wanna played [* m:+ed] ball ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he runned .", "output": "he runned [: run] [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-um want to jumped .", "output": "&-um want to jumped [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "boy can walked .", "output": "boy can walked [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-uh doggie hitted ball .", "output": "&-uh doggie hitted [: hit] [* m:+ed] ball ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I seed him .", "output": "I seed [: see] [* m:+ed] him ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "she wanna stayed .", "output": "she wanna stayed [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-um mommy will helped .", "output": "&-um mommy will helped [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "boy don't liked .", "output": "boy don't liked [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": " gotta goed .", "output": " gotta goed [: go] [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "cat wanna looked .", "output": "cat wanna looked [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "me can played .", "output": "me can played [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "baby hitted .", "output": "baby hitted [: hit] [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he to opened .", "output": "he to opened [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-uh doggie can jumped .", "output": "&-uh doggie can jumped [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every morning , the student started his work early .", "output": "Every morning , the student started [* m:+ed] his work early ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She decided that she will stayed at the university .", "output": "She decided that she will stayed [* m:+ed] at the university ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The explorer wants to discovered the lost city .", "output": "The explorer wants to discovered [* m:+ed] the lost city ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is important to listened to the instructions .", "output": "It is important to listened [* m:+ed] to the instructions ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The children will played in the garden later today .", "output": "The children will played [* m:+ed] in the garden later today ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The author does not wanted to change the ending .", "output": "The author does not wanted [* m:+ed] to change the ending ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "A doctor should talked to the patient clearly .", "output": "A doctor should talked [* m:+ed] to the patient clearly ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They are going to opened the new museum next week .", "output": "They are going to opened [* m:+ed] the new museum next week ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He hopes that he will runned faster in the next race .", "output": "He hopes that he will runned [: run] [* m:+ed] faster in the next race ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The team can watched the replay of the game .", "output": "The team can watched [* m:+ed] the replay of the game ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every morning she walked her dog at six o'clock .", "output": "Every morning she walked [* m:+ed] her dog at six o'clock ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The group must started the project by Monday .", "output": "The group must started [* m:+ed] the project by Monday ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He doesn't liked to wait for the bus .", "output": "He doesn't liked [* m:+ed] to wait for the bus ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They will hitted the target with the arrow .", "output": "They will hitted [: hit] [* m:+ed] the target with the arrow ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The narrator will seed the protagonist in the next chapter .", "output": "The narrator will seed [: see] [* m:+ed] the protagonist in the next chapter ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She will goed to the office tomorrow morning .", "output": "She will goed [: go] [* m:+ed] to the office tomorrow morning ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The system does not worked properly during the test .", "output": "The system does not worked [* m:+ed] properly during the test ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is necessary to opened the valve slowly .", "output": "It is necessary to opened [* m:+ed] the valve slowly ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Do you liked pizza ?", "output": "Do you liked [* m:+ed] pizza ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He wants to stayed here for the night .", "output": "He wants to stayed [* m:+ed] here for the night ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every day I worked at the store .", "output": "Every day I worked [* m:+ed] at the store ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We don't played soccer on Tuesdays .", "output": "We don't played [* m:+ed] soccer on Tuesdays ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Can you helped me with this bag ?", "output": "Can you helped [* m:+ed] me with this bag ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "You should stayed home if you are sick .", "output": "You should stayed [* m:+ed] home if you are sick ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I will goed tomorrow .", "output": "I will goed [: go] [* m:+ed] tomorrow ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Does she played tennis every week ?", "output": "Does she played [* m:+ed] tennis every week ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I am gonna stayed at the hotel .", "output": "I am gonna stayed [* m:+ed] at the hotel ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "We wanna played in the park .", "output": "We wanna played [* m:+ed] in the park ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He must started the work now .", "output": "He must started [* m:+ed] now ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I can seed it from here .", "output": "I can seed [: see] [* m:+ed] it from here ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "They will hitted the ball .", "output": "They will hitted [: hit] [* m:+ed] the ball ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he gonna runned .", "output": "he gonna runned [: run] [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I can jumped .", "output": "I can jumped [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "don't liked it .", "output": " don't liked [* m:+ed] it ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "mommy want to talked .", "output": "mommy want [*  m:03s:a] to talked [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-uh boy will goed .", "output": "&-uh boy will goed [: go] [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "cat can jumped .", "output": " cat can jumped [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I wanna stayed .", "output": "I wanna stayed [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "will helped .", "output": " will helped [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "doggy don't barked .", "output": "doggy don't barked [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "&-um he gonna walked .", "output": "&-um he gonna walked [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "want to looked .", "output": " want to looked [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "can you hitted ?", "output": "can you hitted [: hit] [* m:+ed] ?"}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "he wanna seed .", "output": "he wanna seed [: see] [* m:+ed] ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "played every day .", "output": " played [* m:+ed] every day ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every morning , the student walked to the library to study .", "output": "Every morning , the student walked [* m:+ed] to the library to study ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Researchers suggest that the machine can worked efficiently .", "output": "Researchers suggest that the machine can worked [* m:+ed] efficiently ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "To understood the concept , one must read the book .", "output": "To understood [* m:+ed] the concept , one must read the book ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The narrator says that the hero will jumped over the wall .", "output": "The narrator says that the hero will jumped [* m:+ed] over the wall ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every week , the group listened to the music together .", "output": "Every week , the group listened [* m:+ed] to the music together ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "It is important to stayed focused during the exam .", "output": "It is important to stayed [* m:+ed] focused during the exam ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The report indicates that the system doesn't worked properly .", "output": "The report indicates that the system doesn't worked [* m:+ed] properly ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "She decided that she will started the project tomorrow .", "output": "She decided that she will started [* m:+ed] the project tomorrow ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Each afternoon , the boy played with his friends in the garden .", "output": "Each afternoon , the boy played [* m:+ed] with his friends in the garden ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The instructions tell you to opened the software first .", "output": "The instructions tell you to opened [* m:+ed] the software first ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "He believes that the team can played better next season .", "output": "He believes that the team can played [* m:+ed] better next season ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "To helped the environment , we must recycle more .", "output": "To helped [* m:+ed] the environment , we must recycle more ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The guide says we are gonna walked for three miles .", "output": "The guide says we are gonna walked [* m:+ed] for three miles ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Usually , the teacher talked for an hour before the break .", "output": "Usually , the teacher talked [* m:+ed] for an hour before the break ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "I hope that the weather will stayed warm for the party .", "output": "I hope that the weather will stayed [* m:+ed] warm for the party ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The manual explains how to started the engine .", "output": "The manual explains how to started [* m:+ed] the engine ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "Every Sunday , they watched the game at the stadium .", "output": "Every Sunday , they watched [* m:+ed] the game at the stadium ."}
+{"instruction": "Annotate the following sentence with CLAN error codes.", "input": "The scientist wants to observed the stars tonight .", "output": "The scientist wants to observed [* m:+ed] the stars tonight ."}
