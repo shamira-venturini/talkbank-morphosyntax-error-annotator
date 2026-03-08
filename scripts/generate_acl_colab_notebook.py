@@ -435,7 +435,7 @@ def train_stage(stage: int, lr: float, epochs: int):
             repo_ids.append(normalize_hf_repo_id(cfg.hf_repo_final_alias))
         for repo_id in dict.fromkeys(repo_ids):
             create_hf_model_repo(repo_id)
-            model.push_to_hub(repo_id, tokenizer=tokenizer, save_embedding_layers=True)
+            model.push_to_hub(repo_id, save_embedding_layers=True)
             tokenizer.push_to_hub(repo_id)
 
     # Optional Drive sync: copy only minimal artifacts.
