@@ -131,8 +131,14 @@ class Config:
     output_root: str = "/content/outputs/acl_rr_exp1_direct_stage3"
     save_predictions_splits: tuple = ("test_real", "holdout_generalization")
     save_eval_coverage_predictions: bool = False
+    eval_only_from_hub: bool = False
+    hub_eval_repo_id: str = ""
+    save_checkpoints_locally: bool = True
+    load_best_model_at_end: bool = True
+    use_early_stopping: bool = True
     save_adapter_locally: bool = True
     save_optimizer_state: bool = False
+    cleanup_local_output_after_run: bool = False
 
     # Evaluation policy
     min_label_support_confirmatory: int = 20
@@ -179,12 +185,12 @@ if cfg.save_to_drive:
     from google.colab import drive
     drive.mount("/content/drive", force_remount=False)
 
-if cfg.push_to_hub:
+if cfg.push_to_hub or cfg.eval_only_from_hub:
     from huggingface_hub import login
     from google.colab import userdata
     hf_token = userdata.get("HF_TOKEN")
     if not hf_token:
-        raise ValueError("HF_TOKEN not found in Colab Secrets while cfg.push_to_hub=True")
+        raise ValueError("HF_TOKEN not found in Colab Secrets while Hub access is enabled")
     login(token=hf_token)
 
 def normalize_hf_repo_id(repo_id: str) -> str:
@@ -232,6 +238,7 @@ import json
 import random
 import numpy as np
 import torch
+from peft import PeftModel
 from unsloth import FastLanguageModel
 
 assert torch.cuda.is_available(), "CUDA GPU not available. Switch Colab runtime to GPU."
@@ -255,6 +262,12 @@ added = tokenizer.add_tokens(chat_tokens, special_tokens=False)
 if added > 0:
     model.resize_token_embeddings(len(tokenizer))
 
+if cfg.eval_only_from_hub:
+    hub_repo_id = normalize_hf_repo_id(cfg.hub_eval_repo_id)
+    model = PeftModel.from_pretrained(model, hub_repo_id, is_trainable=False)
+    model.eval()
+    print("Loaded adapter from Hub:", hub_repo_id)
+
 print("Added tokens:", added)
 print("Tokenizer size:", len(tokenizer))
 """
@@ -264,17 +277,20 @@ print("Tokenizer size:", len(tokenizer))
     cells.append(
         code_cell(
             """#@title 4) Attach LoRA
-model = FastLanguageModel.get_peft_model(
-    model,
-    r=cfg.lora_r,
-    lora_alpha=cfg.lora_alpha,
-    lora_dropout=cfg.lora_dropout,
-    bias="none",
-    target_modules=["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
-    modules_to_save=["embed_tokens", "lm_head"],
-    use_gradient_checkpointing="unsloth",
-    random_state=cfg.seed,
-)
+if not cfg.eval_only_from_hub:
+    model = FastLanguageModel.get_peft_model(
+        model,
+        r=cfg.lora_r,
+        lora_alpha=cfg.lora_alpha,
+        lora_dropout=cfg.lora_dropout,
+        bias="none",
+        target_modules=["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
+        modules_to_save=["embed_tokens", "lm_head"],
+        use_gradient_checkpointing="unsloth",
+        random_state=cfg.seed,
+    )
+else:
+    print("Skipping LoRA attachment because cfg.eval_only_from_hub=True")
 """
         )
     )
@@ -349,11 +365,6 @@ def build_sft_args(stage: int, lr: float, epochs: int):
         warmup_ratio=cfg.warmup_ratio,
         logging_steps=cfg.logging_steps,
         eval_steps=cfg.eval_steps,
-        save_steps=cfg.save_steps,
-        save_total_limit=2,
-        load_best_model_at_end=True,
-        metric_for_best_model="eval_loss",
-        greater_is_better=False,
         lr_scheduler_type="cosine",
         report_to="none",
         seed=cfg.seed + stage,
@@ -363,10 +374,28 @@ def build_sft_args(stage: int, lr: float, epochs: int):
         optim="adamw_8bit",
         max_grad_norm=1.0,
     )
+    if cfg.save_checkpoints_locally:
+        common.update(
+            save_steps=cfg.save_steps,
+            save_total_limit=2,
+            load_best_model_at_end=cfg.load_best_model_at_end,
+            metric_for_best_model="eval_loss",
+            greater_is_better=False,
+        )
+    else:
+        common.update(load_best_model_at_end=False)
     try:
-        return SFTConfig(evaluation_strategy="steps", save_strategy="steps", **common)
+        return SFTConfig(
+            evaluation_strategy="steps",
+            save_strategy=("steps" if cfg.save_checkpoints_locally else "no"),
+            **common,
+        )
     except TypeError:
-        return SFTConfig(eval_strategy="steps", save_strategy="steps", **common)
+        return SFTConfig(
+            eval_strategy="steps",
+            save_strategy=("steps" if cfg.save_checkpoints_locally else "no"),
+            **common,
+        )
 
 def train_stage(stage: int, lr: float, epochs: int):
     ds_train = load_split(stage, "train")
@@ -381,7 +410,7 @@ def train_stage(stage: int, lr: float, epochs: int):
         data_collator=DataCollatorForSeq2Seq(tokenizer=tokenizer),
         formatting_func=formatting_prompts_func,
         args=args,
-        callbacks=[EarlyStoppingCallback(early_stopping_patience=4)],
+        callbacks=[EarlyStoppingCallback(early_stopping_patience=4)] if cfg.use_early_stopping and cfg.save_checkpoints_locally else [],
     )
     trainer = train_on_responses_only(
         trainer,
@@ -432,11 +461,13 @@ else:
     run_order = [cfg.single_stage]
 
 stage_metrics = {}
-for stage in run_order:
-    p = cfg.stage_plan[stage]
-    stage_metrics[stage] = train_stage(stage, lr=p["lr"], epochs=p["epochs"])
-
-print("Training finished for stages:", run_order)
+if cfg.eval_only_from_hub:
+    print("Skipping training because cfg.eval_only_from_hub=True")
+else:
+    for stage in run_order:
+        p = cfg.stage_plan[stage]
+        stage_metrics[stage] = train_stage(stage, lr=p["lr"], epochs=p["epochs"])
+    print("Training finished for stages:", run_order)
 """
         )
     )
@@ -768,6 +799,9 @@ if cfg.save_to_drive:
         src = eval_dir / f"predictions_{split_name}.jsonl"
         if src.exists():
             shutil.copy(src, dst / src.name)
+
+if cfg.cleanup_local_output_after_run:
+    shutil.rmtree(Path(cfg.output_root), ignore_errors=True)
 """
         )
     )

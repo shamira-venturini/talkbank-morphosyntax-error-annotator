@@ -1,0 +1,3 @@
+run_name,experiment,split,focus_a,focus_b,focus_a_support,focus_b_support,focus_a_pred_b_count,focus_b_pred_a_count,focus_a_pred_b_rate,focus_b_pred_a_rate
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:03s:a],[* m:0ed],24,1,0,0,0.0,0.0
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:03s:a],[* m:0ed],0,0,0,0,0.0,0.0
