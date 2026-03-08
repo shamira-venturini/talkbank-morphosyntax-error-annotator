@@ -16,6 +16,13 @@ CANDIDATE_ERROR_TAG_RE = re.compile(r"\[\*[^\]]*\]")
 RECON_RE = re.compile(r"\[(::?)\s+[^\]]+\]")
 SEED_SUFFIX_RE = re.compile(r"_seed\d+$")
 DEFAULT_HOLDOUT_LABELS = ["[* m:++er]", "[* m:++est]", "[* m:0er]", "[* m:0est]"]
+PREDICTION_TO_STAGE3_SPLIT = {
+    "eval_real": "eval",
+    "test_real": "test",
+    "eval_coverage": "eval_coverage",
+    "test_coverage": "test_coverage",
+    "holdout_generalization": "holdout",
+}
 
 
 def parse_args() -> argparse.Namespace:
@@ -173,6 +180,119 @@ def holdout_labels_for_split_dir(split_dir: str) -> List[str]:
         if isinstance(labels, list) and labels:
             return [str(x) for x in labels]
     return list(DEFAULT_HOLDOUT_LABELS)
+
+
+def stage3_split_name(prediction_split_name: str) -> Optional[str]:
+    return PREDICTION_TO_STAGE3_SPLIT.get(prediction_split_name)
+
+
+def split_metadata_lookup(split_dir: str, prediction_split_name: str) -> Dict[Tuple[object, str], Dict]:
+    split_name = stage3_split_name(prediction_split_name)
+    if not split_dir or not split_name:
+        return {}
+    path = resolve_path(split_dir) / f"stage3_{split_name}.jsonl"
+    if not path.exists():
+        return {}
+    lookup: Dict[Tuple[object, str], Dict] = {}
+    with path.open("r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            row = json.loads(line)
+            key = (row.get("row_id"), row.get("input", ""))
+            lookup[key] = row
+    return lookup
+
+
+def prediction_file_map(eval_dir: Path) -> Dict[str, Path]:
+    out = {}
+    for path in sorted(eval_dir.glob("predictions_*.jsonl")):
+        split_name = path.name[len("predictions_") : -len(".jsonl")]
+        out[split_name] = path
+    return out
+
+
+def item_level_prediction_rows(
+    pred_path: Path,
+    split_name: str,
+    split_lookup: Dict[Tuple[object, str], Dict],
+    legal_labels: Set[str],
+    run_name: str,
+    experiment: str,
+    system_name: str,
+    seed: int,
+) -> List[Dict]:
+    rows: List[Dict] = []
+    with pred_path.open("r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            pred_row = json.loads(line)
+            key = (pred_row.get("row_id"), pred_row.get("input", ""))
+            meta = split_lookup.get(key, {})
+            gold_text = pred_row.get("human_gold", "")
+            pred_text = pred_row.get("model_prediction", "")
+            gold_tags = extract_valid_tags(gold_text)
+            pred_tags = extract_valid_tags(pred_text)
+            candidate_tags = extract_candidate_error_tags(pred_text)
+            syntax_valid = int(all(VALID_TAG_FULL_RE.match(t) for t in candidate_tags))
+            invalid_label_count = sum(1 for t in pred_tags if legal_labels and t not in legal_labels)
+            gold_primary = gold_tags[0] if gold_tags else ""
+            pred_primary = pred_tags[0] if pred_tags else ""
+            rows.append(
+                {
+                    "run_name": run_name,
+                    "experiment": experiment,
+                    "system_key": system_name,
+                    "seed": seed,
+                    "split": split_name,
+                    "row_id": pred_row.get("row_id"),
+                    "input": pred_row.get("input", ""),
+                    "provenance_label": meta.get("provenance_label", pred_row.get("provenance_label", "")),
+                    "trace_method": meta.get("trace_method", ""),
+                    "trace_ambiguous": int(bool(meta.get("trace_ambiguous", False))),
+                    "source_file_count": int(meta.get("source_file_count", 0) or 0),
+                    "error_count": int(meta.get("error_count", pred_row.get("error_count", 0)) or 0),
+                    "gold_has_error": int(bool(gold_tags)),
+                    "pred_has_error": int(bool(pred_tags)),
+                    "exact_text_match": int(gold_text.strip() == pred_text.strip()),
+                    "exact_tag_match": int(gold_tags == pred_tags),
+                    "primary_tag_correct": int(gold_primary == pred_primary and bool(gold_primary or pred_primary)),
+                    "gold_primary_tag": gold_primary,
+                    "pred_primary_tag": pred_primary,
+                    "gold_tag_count": len(gold_tags),
+                    "pred_tag_count": len(pred_tags),
+                    "syntax_valid": syntax_valid,
+                    "invalid_label_count": invalid_label_count,
+                    "reconstruction_presence_match": int(bool(marker_signature(gold_text)) == bool(marker_signature(pred_text))),
+                    "reconstruction_signature_match": int(marker_signature(gold_text) == marker_signature(pred_text)),
+                }
+            )
+    return rows
+
+
+def summarize_item_rows(rows: List[Dict], group_fields: Sequence[str]) -> List[Dict]:
+    grouped: Dict[Tuple[object, ...], List[Dict]] = defaultdict(list)
+    for row in rows:
+        grouped[tuple(row.get(field, "") for field in group_fields)].append(row)
+    out: List[Dict] = []
+    for key, bucket in sorted(grouped.items()):
+        summary = {field: value for field, value in zip(group_fields, key)}
+        summary.update(
+            {
+                "n": len(bucket),
+                "exact_text_accuracy": round(safe_mean([r["exact_text_match"] for r in bucket]), 6),
+                "exact_tag_accuracy": round(safe_mean([r["exact_tag_match"] for r in bucket]), 6),
+                "primary_tag_accuracy": round(safe_mean([r["primary_tag_correct"] for r in bucket]), 6),
+                "pred_error_rate": round(safe_mean([r["pred_has_error"] for r in bucket]), 6),
+                "gold_error_rate": round(safe_mean([r["gold_has_error"] for r in bucket]), 6),
+                "syntax_validity_rate": round(safe_mean([r["syntax_valid"] for r in bucket]), 6),
+            }
+        )
+        out.append(summary)
+    return out
 
 
 def analyze_predictions(
@@ -346,6 +466,7 @@ def main() -> None:
     holdout_rows: List[Dict] = []
     confusion_rows: List[Dict] = []
     overfitting_rows: List[Dict] = []
+    item_level_rows: List[Dict] = []
 
     all_summary = {"runs": []}
     seed_agg = defaultdict(lambda: defaultdict(lambda: {"micro_f1": [], "exact_match": []}))
@@ -364,6 +485,7 @@ def main() -> None:
 
         legal_labels = legal_label_set_for_split_dir(split_dir)
         holdout_labels = holdout_labels_for_split_dir(split_dir)
+        prediction_files = prediction_file_map(eval_dir)
 
         run_out = {
             "run_name": run_name,
@@ -484,6 +606,21 @@ def main() -> None:
                         "gold_support": conf["gold_support"],
                     }
                 )
+
+        for pred_split, pred_path in prediction_files.items():
+            split_lookup = split_metadata_lookup(split_dir, pred_split)
+            item_level_rows.extend(
+                item_level_prediction_rows(
+                    pred_path=pred_path,
+                    split_name=pred_split,
+                    split_lookup=split_lookup,
+                    legal_labels=legal_labels,
+                    run_name=run_name,
+                    experiment=experiment,
+                    system_name=system_key(run_name),
+                    seed=seed,
+                )
+            )
 
         all_summary["runs"].append(run_out)
 
@@ -684,6 +821,84 @@ def main() -> None:
             ],
         )
 
+    if item_level_rows:
+        write_csv(
+            out_dir / "mixed_model_ready_items.csv",
+            item_level_rows,
+            [
+                "run_name",
+                "experiment",
+                "system_key",
+                "seed",
+                "split",
+                "row_id",
+                "input",
+                "provenance_label",
+                "trace_method",
+                "trace_ambiguous",
+                "source_file_count",
+                "error_count",
+                "gold_has_error",
+                "pred_has_error",
+                "exact_text_match",
+                "exact_tag_match",
+                "primary_tag_correct",
+                "gold_primary_tag",
+                "pred_primary_tag",
+                "gold_tag_count",
+                "pred_tag_count",
+                "syntax_valid",
+                "invalid_label_count",
+                "reconstruction_presence_match",
+                "reconstruction_signature_match",
+            ],
+        )
+
+        synthetic_rows = [row for row in item_level_rows if row.get("provenance_label") == "synthetic"]
+        write_csv(
+            out_dir / "synthetic_artifact_summary.csv",
+            summarize_item_rows(
+                synthetic_rows,
+                ["run_name", "experiment", "system_key", "split", "trace_method", "error_count"],
+            ),
+            [
+                "run_name",
+                "experiment",
+                "system_key",
+                "split",
+                "trace_method",
+                "error_count",
+                "n",
+                "exact_text_accuracy",
+                "exact_tag_accuracy",
+                "primary_tag_accuracy",
+                "pred_error_rate",
+                "gold_error_rate",
+                "syntax_validity_rate",
+            ],
+        )
+        write_csv(
+            out_dir / "provenance_summary.csv",
+            summarize_item_rows(
+                item_level_rows,
+                ["run_name", "experiment", "system_key", "split", "provenance_label"],
+            ),
+            [
+                "run_name",
+                "experiment",
+                "system_key",
+                "split",
+                "provenance_label",
+                "n",
+                "exact_text_accuracy",
+                "exact_tag_accuracy",
+                "primary_tag_accuracy",
+                "pred_error_rate",
+                "gold_error_rate",
+                "syntax_validity_rate",
+            ],
+        )
+
     (out_dir / "paper_analysis_summary.json").write_text(
         json.dumps(all_summary, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
@@ -707,6 +922,9 @@ def main() -> None:
             "- `top_confusions.csv`: top gold->pred confusions from prediction files",
             f"- `focus_confusion_03s_vs_0ed.csv`: targeted confusion between `{args.focus_tag_a}` and `{args.focus_tag_b}`",
             "- `overfitting_report.csv`: eval->test generalization gaps (overfitting proxy)",
+            "- `mixed_model_ready_items.csv`: item-level merged prediction table for R mixed models",
+            "- `synthetic_artifact_summary.csv`: grouped synthetic-only performance by trace method and error count",
+            "- `provenance_summary.csv`: grouped performance by provenance label",
             "",
             "## Experiment-specific analyses",
             "- Exp1/Exp2: use shared analyses; for Exp2 compare deltas vs matched Exp1 baseline",

@@ -22,3 +22,6 @@ env/
 docs/
 archive/
 *.md
+
+# Obsolete pre-prompt-fix results (archival only, not paper-facing)
+results/_obsolete_prompt_whitelist_20260308/

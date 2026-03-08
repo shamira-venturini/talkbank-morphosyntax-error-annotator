@@ -9,10 +9,9 @@
     "train"
   ],
   "holdout_label_source_splits": [
-    "holdout",
     "train"
   ],
-  "reconstruction_mode": "drop_all",
+  "reconstruction_mode": "preserve",
   "rows_updated_by_file": {
     "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/experiments/exp3_abs_off_no_recon/stage1_eval.jsonl": 689,
     "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/experiments/exp3_abs_off_no_recon/stage1_eval_coverage.jsonl": 370,

@@ -48,7 +48,6 @@ def reconstruction_rule_text(mode: str) -> str:
 
 
 def build_prompt(allowed_labels: List[str], reconstruction_mode: str) -> str:
-    label_str = ", ".join(allowed_labels)
     return (
         "You are a TalkBank CHAT annotator for morphosyntactic error coding.\n\n"
         "Task:\n"
@@ -57,11 +56,9 @@ def build_prompt(allowed_labels: List[str], reconstruction_mode: str) -> str:
         "1. Preserve original token order, spelling, casing, punctuation, disfluencies, and CHAT symbols.\n"
         "2. Do NOT rewrite, paraphrase, or correct the utterance.\n"
         "3. Insert only error tags (and reconstruction tokens when required by CHAT).\n"
-        f"4. Use only labels from this allowed set: {label_str}.\n"
-        "5. Exclude 0POS and [+ gram].\n"
-        "6. If no target error is present, return the utterance unchanged.\n"
-        f"{reconstruction_rule_text(reconstruction_mode)}"
-        "8. Output exactly one annotated utterance line and nothing else."
+        "4. If no target error is present, return the utterance unchanged.\n"
+        f"{reconstruction_rule_text(reconstruction_mode).replace('7.', '5.', 1)}"
+        "6. Output exactly one annotated utterance line and nothing else."
     )
 
 

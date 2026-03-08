@@ -1,3 +1,0 @@
-run_name,experiment,system_key,seed,split_pair,eval_split,test_split,eval_micro_f1,test_micro_f1,micro_f1_gap,eval_exact_match,test_exact_match,exact_match_gap,micro_gap_flag_ge_0_05,micro_gap_flag_ge_0_10
-acl_rr_exp1_direct_stage3_seed3407,exp1,acl_rr_exp1_direct_stage3,3407,real_eval_to_real_test,eval_real,test_real,0.860215,0.78534,0.074875,0.937591,0.922853,0.014738,1,0
-acl_rr_exp1_direct_stage3_seed3407,exp1,acl_rr_exp1_direct_stage3,3407,coverage_eval_to_coverage_test,eval_coverage,test_coverage,0.91358,0.904891,0.008689,0.786486,0.772973,0.013514,0,0

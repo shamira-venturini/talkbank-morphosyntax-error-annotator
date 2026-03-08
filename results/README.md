@@ -1,5 +1,12 @@
 This directory stores small, GitHub-safe result bundles exported from Colab runs.
 
+Status update (2026-03-08):
+- Pre-retraining outputs generated with the old prompt constraint rules were moved to
+  `results/_obsolete_prompt_whitelist_20260308/`.
+- That folder is archival only and excluded from version control.
+- Treat those runs as non-canonical; do not use them for paper-facing comparisons.
+- Use this `results/` root for reruns produced after prompt cleanup.
+
 Expected contents per run:
 - `run_summary.json`
 - `paper_main_metrics.csv`

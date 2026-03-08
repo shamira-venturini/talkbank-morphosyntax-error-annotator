@@ -9,7 +9,6 @@
     "train"
   ],
   "holdout_label_source_splits": [
-    "holdout",
     "train"
   ],
   "reconstruction_mode": "preserve",
