@@ -1,0 +1,4 @@
+seed,split,baseline_system,compare_system,baseline_micro_f1,compare_micro_f1,micro_f1_delta_compare_minus_baseline,baseline_exact_match,compare_exact_match,exact_match_delta_compare_minus_baseline
+3407,test_real,nonword_only,preserve,0.7872340425531914,0.7936507936507936,0.006416751097602202,0.9374090247452693,0.9228529839883551,-0.01455604075691419
+3407,test_coverage,nonword_only,preserve,0.9024390243902438,0.904891304347826,0.0024522799575822374,0.845945945945946,0.7837837837837838,-0.06216216216216219
+3407,holdout_generalization,nonword_only,preserve,0.0,0.0,0.0,0.0,0.0,0.0

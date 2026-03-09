@@ -1,0 +1,4 @@
+split,seed,row_id,input,gold,nonword_only,preserve,gold_tags,nonword_only_tags,preserve_tags
+test_real,3407,4471,&-uh cry .,&-uh cry.,&-uh cry [* m:03s:a] .,&-uh cry .,,[* m:03s:a],
+test_real,3407,4922,she tried it with a net then scooped it up and send it out of the water .,she tried it with a net then scooped it up and send [* m:base:ed] it out of the water .,she tried it with a net then scooped it up and send [* m:03s:a] it out of the water .,she tried it with a net then scooped it up and send [:: sent] [* m:base:ed] it out of the water .,[* m:base:ed],[* m:03s:a],[* m:base:ed]
+test_real,3407,6567,and he took one pack^s of cookie .,and he took one pack^s of cookie .,and he took one pack^s [: pack] [* m:++s] of cookie .,and he took one pack^s of cookie .,,[* m:++s],

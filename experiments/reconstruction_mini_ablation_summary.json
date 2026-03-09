@@ -1,0 +1,236 @@
+{
+  "source_experiment_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/experiments/exp3_abs_on_manual",
+  "sampling_seed": 3407,
+  "train_per_label": 24,
+  "clean_train_count": 288,
+  "train_primary_label_counts": {
+    "CLEAN": 288,
+    "[* m:++ed:i]": 24,
+    "[* m:++ed]": 24,
+    "[* m:++en:i]": 24,
+    "[* m:++s:i]": 24,
+    "[* m:++s]": 24,
+    "[* m:+3s:a]": 24,
+    "[* m:+3s]": 24,
+    "[* m:+ed]": 24,
+    "[* m:+en]": 24,
+    "[* m:+ing]": 24,
+    "[* m:+s:a]": 24,
+    "[* m:0's]": 24,
+    "[* m:03s:a]": 24,
+    "[* m:0ed]": 24,
+    "[* m:0ing]": 24,
+    "[* m:0s:a]": 24,
+    "[* m:=ed]": 24,
+    "[* m:=en]": 24,
+    "[* m:=s]": 24,
+    "[* m:allo]": 24,
+    "[* m:base:ed]": 24,
+    "[* m:base:en]": 24,
+    "[* m:base:er]": 24,
+    "[* m:base:est]": 24,
+    "[* m:base:s]": 24,
+    "[* m:irr:ed]": 24,
+    "[* m:irr:en]": 24,
+    "[* m:irr:s]": 24,
+    "[* m:sub:ed]": 24,
+    "[* m:sub:en]": 24,
+    "[* m:vsg:a]": 24,
+    "[* m:vun:a]": 24,
+    "[* s:r:der]": 24,
+    "[* s:r:gc:det]": 24,
+    "[* s:r:gc:pro]": 24,
+    "[* s:r:prep]": 24
+  },
+  "variants": {
+    "exp3_recon_mini_nonword_only": {
+      "experiment_id": "exp3_recon_mini_nonword_only",
+      "description": "Fixed baseline for reconstruction ablation: keep [:] for nonword corrections only.",
+      "source_experiment_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/experiments/exp3_abs_on_manual",
+      "sampling_seed": 3407,
+      "train_per_label": 24,
+      "clean_train_count": 288,
+      "holdout_labels": [
+        "[* m:++er]",
+        "[* m:++est]",
+        "[* m:0er]",
+        "[* m:0est]"
+      ],
+      "split_sizes_stage3": {
+        "train": 1152,
+        "eval": 689,
+        "test": 687,
+        "eval_coverage": 370,
+        "test_coverage": 370,
+        "holdout": 591
+      },
+      "source_by_split_stage3": {
+        "train": {
+          "DLD": 57,
+          "TD": 254,
+          "synthetic": 841
+        },
+        "eval": {
+          "DLD": 105,
+          "TD": 584
+        },
+        "test": {
+          "DLD": 104,
+          "TD": 583
+        },
+        "eval_coverage": {
+          "synthetic": 370
+        },
+        "test_coverage": {
+          "synthetic": 370
+        },
+        "holdout": {
+          "synthetic": 591
+        }
+      },
+      "train_primary_label_counts": {
+        "CLEAN": 288,
+        "[* m:++ed:i]": 24,
+        "[* m:++ed]": 24,
+        "[* m:++en:i]": 24,
+        "[* m:++s:i]": 24,
+        "[* m:++s]": 24,
+        "[* m:+3s:a]": 24,
+        "[* m:+3s]": 24,
+        "[* m:+ed]": 24,
+        "[* m:+en]": 24,
+        "[* m:+ing]": 24,
+        "[* m:+s:a]": 24,
+        "[* m:0's]": 24,
+        "[* m:03s:a]": 24,
+        "[* m:0ed]": 24,
+        "[* m:0ing]": 24,
+        "[* m:0s:a]": 24,
+        "[* m:=ed]": 24,
+        "[* m:=en]": 24,
+        "[* m:=s]": 24,
+        "[* m:allo]": 24,
+        "[* m:base:ed]": 24,
+        "[* m:base:en]": 24,
+        "[* m:base:er]": 24,
+        "[* m:base:est]": 24,
+        "[* m:base:s]": 24,
+        "[* m:irr:ed]": 24,
+        "[* m:irr:en]": 24,
+        "[* m:irr:s]": 24,
+        "[* m:sub:ed]": 24,
+        "[* m:sub:en]": 24,
+        "[* m:vsg:a]": 24,
+        "[* m:vun:a]": 24,
+        "[* s:r:der]": 24,
+        "[* s:r:gc:det]": 24,
+        "[* s:r:gc:pro]": 24,
+        "[* s:r:prep]": 24
+      },
+      "reconstruction_mode": "nonword_only",
+      "notes": [
+        "Mini reconstruction ablation package: balanced training subset, canonical non-train splits.",
+        "Primary-label balancing is applied only to the training split.",
+        "Eval/test/eval_coverage/test_coverage/holdout inherit the canonical row membership from source_experiment_dir.",
+        "This package is intended for no-curriculum stage-3 runs only."
+      ]
+    },
+    "exp3_recon_mini_preserve": {
+      "experiment_id": "exp3_recon_mini_preserve",
+      "description": "Reconstruction comparison condition: preserve [:] / [::] distinction.",
+      "source_experiment_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/experiments/exp3_abs_on_manual",
+      "sampling_seed": 3407,
+      "train_per_label": 24,
+      "clean_train_count": 288,
+      "holdout_labels": [
+        "[* m:++er]",
+        "[* m:++est]",
+        "[* m:0er]",
+        "[* m:0est]"
+      ],
+      "split_sizes_stage3": {
+        "train": 1152,
+        "eval": 689,
+        "test": 687,
+        "eval_coverage": 370,
+        "test_coverage": 370,
+        "holdout": 591
+      },
+      "source_by_split_stage3": {
+        "train": {
+          "DLD": 57,
+          "TD": 254,
+          "synthetic": 841
+        },
+        "eval": {
+          "DLD": 105,
+          "TD": 584
+        },
+        "test": {
+          "DLD": 104,
+          "TD": 583
+        },
+        "eval_coverage": {
+          "synthetic": 370
+        },
+        "test_coverage": {
+          "synthetic": 370
+        },
+        "holdout": {
+          "synthetic": 591
+        }
+      },
+      "train_primary_label_counts": {
+        "CLEAN": 288,
+        "[* m:++ed:i]": 24,
+        "[* m:++ed]": 24,
+        "[* m:++en:i]": 24,
+        "[* m:++s:i]": 24,
+        "[* m:++s]": 24,
+        "[* m:+3s:a]": 24,
+        "[* m:+3s]": 24,
+        "[* m:+ed]": 24,
+        "[* m:+en]": 24,
+        "[* m:+ing]": 24,
+        "[* m:+s:a]": 24,
+        "[* m:0's]": 24,
+        "[* m:03s:a]": 24,
+        "[* m:0ed]": 24,
+        "[* m:0ing]": 24,
+        "[* m:0s:a]": 24,
+        "[* m:=ed]": 24,
+        "[* m:=en]": 24,
+        "[* m:=s]": 24,
+        "[* m:allo]": 24,
+        "[* m:base:ed]": 24,
+        "[* m:base:en]": 24,
+        "[* m:base:er]": 24,
+        "[* m:base:est]": 24,
+        "[* m:base:s]": 24,
+        "[* m:irr:ed]": 24,
+        "[* m:irr:en]": 24,
+        "[* m:irr:s]": 24,
+        "[* m:sub:ed]": 24,
+        "[* m:sub:en]": 24,
+        "[* m:vsg:a]": 24,
+        "[* m:vun:a]": 24,
+        "[* s:r:der]": 24,
+        "[* s:r:gc:det]": 24,
+        "[* s:r:gc:pro]": 24,
+        "[* s:r:prep]": 24
+      },
+      "reconstruction_mode": "preserve",
+      "notes": [
+        "Mini reconstruction ablation package: balanced training subset, canonical non-train splits.",
+        "Primary-label balancing is applied only to the training split.",
+        "Eval/test/eval_coverage/test_coverage/holdout inherit the canonical row membership from source_experiment_dir.",
+        "This package is intended for no-curriculum stage-3 runs only."
+      ]
+    }
+  },
+  "recommended_training_seeds": [
+    3407,
+    3408,
+    3409
+  ]
+}

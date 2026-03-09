@@ -24,13 +24,11 @@ DEFAULT_HOLDOUT_LABELS = [
 
 LEVEL1_LABELS = [
     "[* m]",
-    "[* m:a]",
     "[* s]",
 ]
 
 LEVEL2_LABELS = [
     "[* m:++]",
-    "[* m:++:i]",
     "[* m:+]",
     "[* m:=]",
     "[* m:0]",
@@ -38,18 +36,16 @@ LEVEL2_LABELS = [
     "[* m:base]",
     "[* m:irr]",
     "[* m:sub]",
-    "[* m:vsg:a]",
-    "[* m:vun:a]",
+    "[* m:vsg]",
+    "[* m:vun]",
     "[* s:r]",
     "[* s:r:gc]",
 ]
 
 CHAT_TOKEN_CANONICAL_ORDER = [
     "[* m]",
-    "[* m:a]",
     "[* s]",
     "[* m:++]",
-    "[* m:++:i]",
     "[* m:+]",
     "[* m:=]",
     "[* m:0]",
@@ -57,8 +53,8 @@ CHAT_TOKEN_CANONICAL_ORDER = [
     "[* m:base]",
     "[* m:irr]",
     "[* m:sub]",
-    "[* m:vsg:a]",
-    "[* m:vun:a]",
+    "[* m:vsg]",
+    "[* m:vun]",
     "[* s:r]",
     "[* s:r:gc]",
     "[* m:03s:a]",
@@ -269,9 +265,6 @@ def transform_stage1_text(text: str) -> str:
     def repl(match: re.Match) -> str:
         tag = canonical_tag(match.group(0))
         if tag.startswith("[* m:"):
-            code = tag[len("[* m:") : -1]
-            if code.endswith(":a"):
-                return "[* m:a]"
             return "[* m]"
         if tag.startswith("[* s:"):
             return "[* s]"
@@ -284,8 +277,6 @@ def map_tag_stage2(tag: str) -> str:
     if tag.startswith("[* m:"):
         code = tag[len("[* m:") : -1]
         if code.startswith("++"):
-            if code.endswith(":i"):
-                return "[* m:++:i]"
             return "[* m:++]"
         if code.startswith("+"):
             return "[* m:+]"
@@ -299,10 +290,10 @@ def map_tag_stage2(tag: str) -> str:
             return "[* m:irr]"
         if code.startswith("sub"):
             return "[* m:sub]"
-        if code.startswith("vsg:a"):
-            return "[* m:vsg:a]"
-        if code.startswith("vun:a"):
-            return "[* m:vun:a]"
+        if code.startswith("vsg"):
+            return "[* m:vsg]"
+        if code.startswith("vun"):
+            return "[* m:vun]"
         if code.startswith("allo"):
             return "[* m:allo]"
         return "[* m]"
