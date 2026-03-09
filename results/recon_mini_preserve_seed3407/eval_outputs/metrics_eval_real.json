@@ -1,0 +1,381 @@
+{
+  "n": 689,
+  "exact_match": 0.7677793904208998,
+  "micro_precision": 0.24817518248175183,
+  "micro_recall": 0.3617021276595745,
+  "micro_f1": 0.2943722943722944,
+  "per_label": [
+    {
+      "tag": "[* m:=ed]",
+      "support": 27,
+      "precision": 0.85,
+      "recall": 0.6296296296296297,
+      "f1": 0.723404255319149
+    },
+    {
+      "tag": "[* m:03s:a]",
+      "support": 24,
+      "precision": 0.3684210526315789,
+      "recall": 0.5833333333333334,
+      "f1": 0.4516129032258065
+    },
+    {
+      "tag": "[* m:allo]",
+      "support": 11,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:gc:pro]",
+      "support": 9,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:ed]",
+      "support": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:gc:det]",
+      "support": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++ed:i]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0ed]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:vsg:a]",
+      "support": 2,
+      "precision": 0.16666666666666666,
+      "recall": 1.0,
+      "f1": 0.2857142857142857
+    },
+    {
+      "tag": "[* s:r:prep]",
+      "support": 2,
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1": 0.5
+    },
+    {
+      "tag": "[* m:++ed]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+3s]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+ed]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+ing]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0ing]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0s:a]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:irr:ed]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:vun:a]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:der]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++en:i]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++s]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+en]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0's]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:=en]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:irr:en]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  ],
+  "micro_f1_bootstrap": {
+    "mean": 0.29776984287187225,
+    "ci_low": 0.2192351598173516,
+    "ci_high": 0.37968156358936195
+  },
+  "confirmatory_min_support": 20,
+  "per_label_confirmatory": [
+    {
+      "tag": "[* m:=ed]",
+      "support": 27,
+      "precision": 0.85,
+      "recall": 0.6296296296296297,
+      "f1": 0.723404255319149
+    },
+    {
+      "tag": "[* m:03s:a]",
+      "support": 24,
+      "precision": 0.3684210526315789,
+      "recall": 0.5833333333333334,
+      "f1": 0.4516129032258065
+    }
+  ],
+  "per_label_exploratory": [
+    {
+      "tag": "[* m:allo]",
+      "support": 11,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:gc:pro]",
+      "support": 9,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:ed]",
+      "support": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:gc:det]",
+      "support": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++ed:i]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0ed]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:vsg:a]",
+      "support": 2,
+      "precision": 0.16666666666666666,
+      "recall": 1.0,
+      "f1": 0.2857142857142857
+    },
+    {
+      "tag": "[* s:r:prep]",
+      "support": 2,
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1": 0.5
+    },
+    {
+      "tag": "[* m:++ed]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+3s]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+ed]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+ing]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0ing]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0s:a]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:irr:ed]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:vun:a]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:der]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++en:i]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++s]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+en]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0's]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:=en]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:irr:en]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  ],
+  "by_source": {
+    "DLD": {
+      "n": 105,
+      "exact_match": 0.7047619047619048,
+      "micro_f1": 0.43636363636363634
+    },
+    "TD": {
+      "n": 584,
+      "exact_match": 0.7791095890410958,
+      "micro_f1": 0.25000000000000006
+    }
+  }
+}

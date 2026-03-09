@@ -1,9 +1,9 @@
 error_count,rows,percent
-0,4960,47.09
-1,5395,51.22
-2,168,1.59
-3,10,0.09
-mean,0.546948,
+0,4960,47.62
+1,5290,50.79
+2,155,1.49
+3,10,0.1
+mean,0.540566,
 median,1,
-rows_with_>=1_error,5573,52.91
-rows_with_>=2_errors,178,1.69
+rows_with_>=1_error,5455,52.38
+rows_with_>=2_errors,165,1.58

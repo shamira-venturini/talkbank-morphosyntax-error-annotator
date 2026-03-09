@@ -136,9 +136,9 @@ class Config:
     save_checkpoints_locally: bool = True
     load_best_model_at_end: bool = True
     use_early_stopping: bool = True
-    save_adapter_locally: bool = True
+    save_adapter_locally: bool = False
     save_optimizer_state: bool = False
-    cleanup_local_output_after_run: bool = False
+    cleanup_local_output_after_run: bool = True
 
     # Evaluation policy
     min_label_support_confirmatory: int = 20
@@ -438,19 +438,11 @@ def train_stage(stage: int, lr: float, epochs: int):
             model.push_to_hub(repo_id, save_embedding_layers=True)
             tokenizer.push_to_hub(repo_id)
 
-    # Optional Drive sync: copy only minimal artifacts.
+    # Optional Drive sync: copy only compact metrics artifacts.
     if cfg.save_to_drive:
         dst = Path(cfg.drive_root) / run_name / f"stage{stage}"
         dst.mkdir(parents=True, exist_ok=True)
         shutil.copy(stage_metrics_path, dst / stage_metrics_path.name)
-        trainer_state = Path(args.output_dir) / "trainer_state.json"
-        if trainer_state.exists():
-            shutil.copy(trainer_state, dst / "trainer_state.json")
-        if cfg.save_adapter_locally:
-            for name in ["adapter_config.json", "adapter_model.safetensors", "tokenizer_config.json", "special_tokens_map.json"]:
-                src = Path(args.output_dir) / name
-                if src.exists():
-                    shutil.copy(src, dst / name)
 
     print(f"Stage {stage} done:", metrics)
     return metrics
@@ -722,43 +714,28 @@ with paper_csv_path.open("w", encoding="utf-8") as f:
 
 if cfg.save_to_repo_results:
     repo_results_dir.mkdir(parents=True, exist_ok=True)
-    repo_manifest = {
-        "run_name": run_name,
-        "seed": cfg.seed,
-        "split_dir": cfg.split_dir,
-        "output_root": cfg.output_root,
-        "run_order": run_order,
-        "push_to_hub": cfg.push_to_hub,
-        "hf_repo_prefix": cfg.hf_repo_prefix,
-        "hf_repo_visibility": cfg.hf_repo_visibility,
-        "hf_repo_include_run_name": cfg.hf_repo_include_run_name,
-        "hf_append_stage_suffix": cfg.hf_append_stage_suffix,
-        "hf_repo_final_alias": cfg.hf_repo_final_alias,
-        "saved_predictions_splits": list(cfg.save_predictions_splits),
-    }
+    repo_eval_dir = repo_results_dir / "eval_outputs"
+    repo_eval_dir.mkdir(parents=True, exist_ok=True)
     for split_name in ["eval_real", "test_real", "eval_coverage", "test_coverage", "holdout_generalization"]:
         src = eval_dir / f"metrics_{split_name}.json"
         if src.exists():
-            shutil.copy(src, repo_results_dir / src.name)
+            shutil.copy(src, repo_eval_dir / src.name)
         for bucket_name in ["confirmatory", "exploratory"]:
             csv_src = eval_dir / f"per_label_{bucket_name}_{split_name}.csv"
             if csv_src.exists():
-                shutil.copy(csv_src, repo_results_dir / csv_src.name)
-    shutil.copy(summary_path, repo_results_dir / "run_summary.json")
-    shutil.copy(paper_csv_path, repo_results_dir / "paper_main_metrics.csv")
+                shutil.copy(csv_src, repo_eval_dir / csv_src.name)
+    shutil.copy(summary_path, repo_eval_dir / "run_summary.json")
+    shutil.copy(paper_csv_path, repo_eval_dir / "paper_main_metrics.csv")
     for split_name in cfg.save_predictions_splits:
         src = eval_dir / f"predictions_{split_name}.jsonl"
         if src.exists():
-            shutil.copy(src, repo_results_dir / src.name)
+            shutil.copy(src, repo_eval_dir / src.name)
     for stage in run_order:
         stage_metrics = Path(cfg.output_root) / f"stage{stage}" / f"stage{stage}_train_metrics.json"
         if stage_metrics.exists():
-            shutil.copy(stage_metrics, repo_results_dir / stage_metrics.name)
-    git_head = subprocess.run(["git", "rev-parse", "HEAD"], capture_output=True, text=True)
-    if git_head.returncode == 0:
-        repo_manifest["repo_head"] = git_head.stdout.strip()
-    manifest_path = repo_results_dir / "results_bundle_manifest.json"
-    manifest_path.write_text(json.dumps(repo_manifest, indent=2), encoding="utf-8")
+            repo_stage_dir = repo_results_dir / f"stage{stage}"
+            repo_stage_dir.mkdir(parents=True, exist_ok=True)
+            shutil.copy(stage_metrics, repo_stage_dir / stage_metrics.name)
 
     if cfg.git_commit_repo_results or cfg.git_push_repo_results:
         subprocess.run(["git", "config", "user.name", cfg.git_user_name], check=True)

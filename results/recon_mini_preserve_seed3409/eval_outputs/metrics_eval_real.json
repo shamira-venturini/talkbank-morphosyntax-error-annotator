@@ -1,0 +1,395 @@
+{
+  "n": 689,
+  "exact_match": 0.7576197387518142,
+  "micro_precision": 0.08208955223880597,
+  "micro_recall": 0.11702127659574468,
+  "micro_f1": 0.09649122807017543,
+  "per_label": [
+    {
+      "tag": "[* m:=ed]",
+      "support": 27,
+      "precision": 0.75,
+      "recall": 0.1111111111111111,
+      "f1": 0.19354838709677416
+    },
+    {
+      "tag": "[* m:03s:a]",
+      "support": 24,
+      "precision": 0.2857142857142857,
+      "recall": 0.08333333333333333,
+      "f1": 0.12903225806451613
+    },
+    {
+      "tag": "[* m:allo]",
+      "support": 11,
+      "precision": 0.5,
+      "recall": 0.09090909090909091,
+      "f1": 0.15384615384615385
+    },
+    {
+      "tag": "[* s:r:gc:pro]",
+      "support": 9,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:ed]",
+      "support": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:gc:det]",
+      "support": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++ed:i]",
+      "support": 2,
+      "precision": 0.06666666666666667,
+      "recall": 1.0,
+      "f1": 0.125
+    },
+    {
+      "tag": "[* m:0ed]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:vsg:a]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:prep]",
+      "support": 2,
+      "precision": 0.058823529411764705,
+      "recall": 0.5,
+      "f1": 0.10526315789473684
+    },
+    {
+      "tag": "[* m:++ed]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+3s]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+ed]",
+      "support": 1,
+      "precision": 0.08333333333333333,
+      "recall": 1.0,
+      "f1": 0.15384615384615385
+    },
+    {
+      "tag": "[* m:+ing]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0ing]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0s:a]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:irr:ed]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:vun:a]",
+      "support": 1,
+      "precision": 0.058823529411764705,
+      "recall": 1.0,
+      "f1": 0.1111111111111111
+    },
+    {
+      "tag": "[* s:r:der]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++en:i]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++s]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+3s:a]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+en]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0's]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:er]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:irr:s]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  ],
+  "micro_f1_bootstrap": {
+    "mean": 0.09812664040419017,
+    "ci_low": 0.044547680902818,
+    "ci_high": 0.15311004784688995
+  },
+  "confirmatory_min_support": 20,
+  "per_label_confirmatory": [
+    {
+      "tag": "[* m:=ed]",
+      "support": 27,
+      "precision": 0.75,
+      "recall": 0.1111111111111111,
+      "f1": 0.19354838709677416
+    },
+    {
+      "tag": "[* m:03s:a]",
+      "support": 24,
+      "precision": 0.2857142857142857,
+      "recall": 0.08333333333333333,
+      "f1": 0.12903225806451613
+    }
+  ],
+  "per_label_exploratory": [
+    {
+      "tag": "[* m:allo]",
+      "support": 11,
+      "precision": 0.5,
+      "recall": 0.09090909090909091,
+      "f1": 0.15384615384615385
+    },
+    {
+      "tag": "[* s:r:gc:pro]",
+      "support": 9,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:ed]",
+      "support": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:gc:det]",
+      "support": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++ed:i]",
+      "support": 2,
+      "precision": 0.06666666666666667,
+      "recall": 1.0,
+      "f1": 0.125
+    },
+    {
+      "tag": "[* m:0ed]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:vsg:a]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:prep]",
+      "support": 2,
+      "precision": 0.058823529411764705,
+      "recall": 0.5,
+      "f1": 0.10526315789473684
+    },
+    {
+      "tag": "[* m:++ed]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+3s]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+ed]",
+      "support": 1,
+      "precision": 0.08333333333333333,
+      "recall": 1.0,
+      "f1": 0.15384615384615385
+    },
+    {
+      "tag": "[* m:+ing]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0ing]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0s:a]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:irr:ed]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:vun:a]",
+      "support": 1,
+      "precision": 0.058823529411764705,
+      "recall": 1.0,
+      "f1": 0.1111111111111111
+    },
+    {
+      "tag": "[* s:r:der]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++en:i]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++s]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+3s:a]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+en]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0's]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:er]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:irr:s]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  ],
+  "by_source": {
+    "DLD": {
+      "n": 105,
+      "exact_match": 0.6666666666666666,
+      "micro_f1": 0.10909090909090909
+    },
+    "TD": {
+      "n": 584,
+      "exact_match": 0.773972602739726,
+      "micro_f1": 0.09248554913294797
+    }
+  }
+}

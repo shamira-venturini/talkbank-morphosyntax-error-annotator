@@ -7,6 +7,9 @@ from collections import Counter, defaultdict
 from pathlib import Path
 from typing import DefaultDict, Dict, Iterable, List, Tuple
 
+SYNTHETIC_METHODS = {"curated_synthetic_exact", "curated_synthetic_input", "synthetic_no_real_match"}
+REAL_METHODS = {"real_output_exact", "real_input_clean"}
+
 
 def canonical_ws(text: str) -> str:
     text = (text or "").replace("\u2019", "'").replace("\u2018", "'")
@@ -109,6 +112,17 @@ def choose_real_label(candidates: List[dict]) -> Tuple[str, bool, Dict[str, int]
     return label, True, {"TD": counts.get("TD", 0), "DLD": counts.get("DLD", 0)}
 
 
+def enforce_provenance_label(trace_method: str, provenance_label: str) -> str:
+    """Ensure only real-matched rows can be TD/DLD."""
+    if trace_method in SYNTHETIC_METHODS:
+        return "synthetic"
+    if trace_method in REAL_METHODS and provenance_label in {"TD", "DLD"}:
+        return provenance_label
+    if trace_method in REAL_METHODS:
+        return "TD"
+    return provenance_label
+
+
 def trace_provenance(
     training_file: Path,
     curated_synthetic_dir: Path,
@@ -176,6 +190,11 @@ def trace_provenance(
                     provenance_label = "synthetic"
                     trace_method = "synthetic_no_real_match"
                     source_files = []
+
+            normalized_label = enforce_provenance_label(trace_method, provenance_label)
+            if normalized_label != provenance_label:
+                summary["provenance_label_overrides"] += 1
+                provenance_label = normalized_label
 
             if trace_ambiguous:
                 summary["ambiguous_rows"] += 1

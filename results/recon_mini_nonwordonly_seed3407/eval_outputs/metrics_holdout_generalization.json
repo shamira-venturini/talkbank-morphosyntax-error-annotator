@@ -1,0 +1,236 @@
+{
+  "n": 591,
+  "exact_match": 0.0,
+  "micro_precision": 0.0,
+  "micro_recall": 0.0,
+  "micro_f1": 0.0,
+  "per_label": [
+    {
+      "tag": "[* m:++er]",
+      "support": 152,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0est]",
+      "support": 150,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0er]",
+      "support": 145,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++est]",
+      "support": 144,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++s]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+ing]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0's]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:03s:a]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:er]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:est]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:irr:s]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:vsg:a]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:der]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:gc:det]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:prep]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  ],
+  "micro_f1_bootstrap": {
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0
+  },
+  "confirmatory_min_support": 10,
+  "per_label_confirmatory": [
+    {
+      "tag": "[* m:++er]",
+      "support": 152,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0est]",
+      "support": 150,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0er]",
+      "support": 145,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++est]",
+      "support": 144,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  ],
+  "per_label_exploratory": [
+    {
+      "tag": "[* m:++s]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+ing]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0's]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:03s:a]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:er]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:est]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:irr:s]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:vsg:a]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:der]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:gc:det]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:prep]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  ],
+  "by_source": {
+    "synthetic": {
+      "n": 591,
+      "exact_match": 0.0,
+      "micro_f1": 0.0
+    }
+  }
+}

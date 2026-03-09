@@ -1,0 +1,325 @@
+{
+  "n": 687,
+  "exact_match": 0.7641921397379913,
+  "micro_precision": 0.01639344262295082,
+  "micro_recall": 0.02040816326530612,
+  "micro_f1": 0.01818181818181818,
+  "per_label": [
+    {
+      "tag": "[* m:=ed]",
+      "support": 26,
+      "precision": 0.3333333333333333,
+      "recall": 0.038461538461538464,
+      "f1": 0.06896551724137931
+    },
+    {
+      "tag": "[* m:03s:a]",
+      "support": 25,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:allo]",
+      "support": 14,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:gc:pro]",
+      "support": 10,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:ed]",
+      "support": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:prep]",
+      "support": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++ed:i]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+ed]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0ing]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:vsg:a]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:vun:a]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:gc:det]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++ed]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0ed]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0s:a]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:der]",
+      "support": 1,
+      "precision": 0.14285714285714285,
+      "recall": 1.0,
+      "f1": 0.25
+    },
+    {
+      "tag": "[* m:++en:i]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++s:i]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:=en]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:est]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:s]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  ],
+  "micro_f1_bootstrap": {
+    "mean": 0.01795460817493739,
+    "ci_low": 0.0,
+    "ci_high": 0.045356849033319616
+  },
+  "confirmatory_min_support": 20,
+  "per_label_confirmatory": [
+    {
+      "tag": "[* m:=ed]",
+      "support": 26,
+      "precision": 0.3333333333333333,
+      "recall": 0.038461538461538464,
+      "f1": 0.06896551724137931
+    },
+    {
+      "tag": "[* m:03s:a]",
+      "support": 25,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  ],
+  "per_label_exploratory": [
+    {
+      "tag": "[* m:allo]",
+      "support": 14,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:gc:pro]",
+      "support": 10,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:ed]",
+      "support": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:prep]",
+      "support": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++ed:i]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:+ed]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0ing]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:vsg:a]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:vun:a]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:gc:det]",
+      "support": 2,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++ed]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0ed]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:0s:a]",
+      "support": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* s:r:der]",
+      "support": 1,
+      "precision": 0.14285714285714285,
+      "recall": 1.0,
+      "f1": 0.25
+    },
+    {
+      "tag": "[* m:++en:i]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:++s:i]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:=en]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:est]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "tag": "[* m:base:s]",
+      "support": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  ],
+  "by_source": {
+    "DLD": {
+      "n": 104,
+      "exact_match": 0.6153846153846154,
+      "micro_f1": 0.0
+    },
+    "TD": {
+      "n": 583,
+      "exact_match": 0.79073756432247,
+      "micro_f1": 0.025
+    }
+  }
+}

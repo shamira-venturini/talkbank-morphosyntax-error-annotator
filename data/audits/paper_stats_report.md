@@ -1,12 +1,12 @@
 # Data Statistics (Paper-Ready)
 
-- Rows: **10533**
-- Composition: synthetic **5943** (56.42%), TD **3896** (36.99%), DLD **694** (6.59%)
+- Rows: **10415**
+- Composition: synthetic **5830** (55.98%), TD **3893** (37.38%), DLD **692** (6.64%)
 - Ambiguous provenance rows: **25** (0.24%)
-- Total error tags (`[* ...]`): **5761** across **42** unique detailed labels
-- Error-count mean/median per sentence: **0.547 / 1**
-- Error density: 0 errors **4960** (47.09%), 1 error **5395** (51.22%), 2+ errors **178** (1.69%)
-- Concentration: top-5 labels = **19.77%** of all error tags; top-10 = **34.23%**
+- Total error tags (`[* ...]`): **5630** across **41** unique detailed labels
+- Error-count mean/median per sentence: **0.541 / 1**
+- Error density: 0 errors **4960** (47.62%), 1 error **5290** (50.79%), 2+ errors **165** (1.58%)
+- Concentration: top-5 labels = **20.07%** of all error tags; top-10 = **34.85%**
 
 ## Generated Tables
 - `table_01_composition.csv`

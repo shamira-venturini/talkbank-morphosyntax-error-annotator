@@ -1,9 +1,9 @@
 metric,value
-rows_total,10533
+rows_total,10415
 trace_ambiguous_rows,25
 trace_ambiguous_percent,0.24
-method::curated_synthetic_input,2486
-method::curated_synthetic_exact,1744
-method::synthetic_no_real_match,1713
-method::real_input_clean,1036
+method::curated_synthetic_input,2482
+method::curated_synthetic_exact,1688
+method::synthetic_no_real_match,1660
+method::real_input_clean,1031
 method::real_output_exact,3554

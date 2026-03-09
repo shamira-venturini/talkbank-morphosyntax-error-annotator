@@ -1,0 +1,74 @@
+{
+  "systems": [
+    "nonword_only",
+    "preserve"
+  ],
+  "splits": [
+    "eval_real",
+    "test_real",
+    "eval_coverage",
+    "test_coverage",
+    "holdout_generalization"
+  ],
+  "paired_seeds": [
+    3407,
+    3408,
+    3409
+  ],
+  "aggregate": {
+    "nonword_only": {
+      "eval_real": {
+        "mean_micro_f1": 0.1678233520482429,
+        "std_micro_f1": 0.08604958764008791,
+        "n_runs": 3
+      },
+      "test_real": {
+        "mean_micro_f1": 0.14091839533016004,
+        "std_micro_f1": 0.08691957205503949,
+        "n_runs": 3
+      },
+      "eval_coverage": {
+        "mean_micro_f1": 0.3166054080981285,
+        "std_micro_f1": 0.09285921495552414,
+        "n_runs": 3
+      },
+      "test_coverage": {
+        "mean_micro_f1": 0.3002696363607058,
+        "std_micro_f1": 0.08327746300295161,
+        "n_runs": 3
+      },
+      "holdout_generalization": {
+        "mean_micro_f1": 0.0,
+        "std_micro_f1": 0.0,
+        "n_runs": 3
+      }
+    },
+    "preserve": {
+      "eval_real": {
+        "mean_micro_f1": 0.1897557594370048,
+        "std_micro_f1": 0.0811824286775558,
+        "n_runs": 3
+      },
+      "test_real": {
+        "mean_micro_f1": 0.1658777737650977,
+        "std_micro_f1": 0.04909368905932977,
+        "n_runs": 3
+      },
+      "eval_coverage": {
+        "mean_micro_f1": 0.35790764036410405,
+        "std_micro_f1": 0.017821327965724137,
+        "n_runs": 3
+      },
+      "test_coverage": {
+        "mean_micro_f1": 0.3501464051799395,
+        "std_micro_f1": 0.01218966555070278,
+        "n_runs": 3
+      },
+      "holdout_generalization": {
+        "mean_micro_f1": 0.0,
+        "std_micro_f1": 0.0,
+        "n_runs": 3
+      }
+    }
+  }
+}

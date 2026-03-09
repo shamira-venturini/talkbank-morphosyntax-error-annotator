@@ -1,31 +1,31 @@
 {
-  "rows_total": 10533,
+  "rows_total": 10415,
   "composition": {
-    "synthetic": 5943,
-    "DLD": 694,
-    "TD": 3896
+    "synthetic": 5830,
+    "TD": 3893,
+    "DLD": 692
   },
   "trace_ambiguous_rows": 25,
   "trace_ambiguous_percent": 0.24,
   "method_counts": {
-    "curated_synthetic_input": 2486,
-    "curated_synthetic_exact": 1744,
-    "synthetic_no_real_match": 1713,
-    "real_input_clean": 1036,
+    "curated_synthetic_input": 2482,
+    "curated_synthetic_exact": 1688,
+    "synthetic_no_real_match": 1660,
+    "real_input_clean": 1031,
     "real_output_exact": 3554
   },
   "error_count_distribution": {
     "0": 4960,
-    "1": 5395,
-    "2": 168,
+    "1": 5290,
+    "2": 155,
     "3": 10
   },
-  "mean_error_count": 0.546948,
+  "mean_error_count": 0.540566,
   "median_error_count": 1,
-  "rows_with_any_error_tag": 5573,
-  "rows_with_multi_error_tags": 178,
-  "total_error_tags": 5761,
-  "unique_detailed_labels": 42,
-  "top5_error_tag_share_percent": 19.77,
-  "top10_error_tag_share_percent": 34.23
+  "rows_with_any_error_tag": 5455,
+  "rows_with_multi_error_tags": 165,
+  "total_error_tags": 5630,
+  "unique_detailed_labels": 41,
+  "top5_error_tag_share_percent": 20.07,
+  "top10_error_tag_share_percent": 34.85
 }
