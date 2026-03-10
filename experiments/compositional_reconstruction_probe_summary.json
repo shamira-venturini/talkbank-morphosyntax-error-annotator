@@ -1,0 +1,107 @@
+{
+  "experiment_family": "compositional_reconstruction_probe",
+  "input_file": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/data/processed/master_training.jsonl",
+  "experiments_root": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/experiments",
+  "seed": 3407,
+  "notes": [
+    "Exploratory only: focuses on the combined compositional package rather than a full ablation grid.",
+    "Controls already exist in the repo as the current full-curr hybrid+standard runs.",
+    "This probe asks whether component tokens plus compositional prompting interact with reconstruction mode."
+  ],
+  "existing_controls": {
+    "nonword_only_control": "recon_full_curr_nonwordonly_seed3407",
+    "preserve_control": "recon_full_curr_preserve_seed3407"
+  },
+  "variants": {
+    "recon_full_comp_nonword_only": {
+      "description": "Exploratory compositional probe with nonword-only reconstruction.",
+      "reconstruction_mode": "nonword_only",
+      "chat_token_strategy": "components",
+      "prompt_style": "compositional",
+      "split_sizes_stage3": {
+        "train": 7698,
+        "eval": 689,
+        "test": 687,
+        "eval_coverage": 370,
+        "test_coverage": 370,
+        "holdout": 591
+      },
+      "source_by_split_stage3": {
+        "train": {
+          "DLD": 482,
+          "TD": 2719,
+          "synthetic": 4497
+        },
+        "eval": {
+          "DLD": 105,
+          "TD": 584
+        },
+        "test": {
+          "DLD": 104,
+          "TD": 583
+        },
+        "eval_coverage": {
+          "synthetic": 370
+        },
+        "test_coverage": {
+          "synthetic": 370
+        },
+        "holdout": {
+          "synthetic": 591
+        }
+      },
+      "holdout_labels": [
+        "[* m:++er]",
+        "[* m:++est]",
+        "[* m:0er]",
+        "[* m:0est]"
+      ],
+      "prompt_preview_stage3": "You are a TalkBank CHAT annotator for morphosyntactic error coding.\n\nTask:\nAnnotate the input utterance by inserting valid CHAT error tags inline.\n\nRules:\n1. Preserve original token order, spelling, casing, punctuation, disfluencies, and CHAT symbols.\n2. Do NOT rewrite, paraphrase, or correct the ut"
+    },
+    "recon_full_comp_preserve": {
+      "description": "Exploratory compositional probe with preserved reconstruction markers.",
+      "reconstruction_mode": "preserve",
+      "chat_token_strategy": "components",
+      "prompt_style": "compositional",
+      "split_sizes_stage3": {
+        "train": 7698,
+        "eval": 689,
+        "test": 687,
+        "eval_coverage": 370,
+        "test_coverage": 370,
+        "holdout": 591
+      },
+      "source_by_split_stage3": {
+        "train": {
+          "DLD": 482,
+          "TD": 2719,
+          "synthetic": 4497
+        },
+        "eval": {
+          "DLD": 105,
+          "TD": 584
+        },
+        "test": {
+          "DLD": 104,
+          "TD": 583
+        },
+        "eval_coverage": {
+          "synthetic": 370
+        },
+        "test_coverage": {
+          "synthetic": 370
+        },
+        "holdout": {
+          "synthetic": 591
+        }
+      },
+      "holdout_labels": [
+        "[* m:++er]",
+        "[* m:++est]",
+        "[* m:0er]",
+        "[* m:0est]"
+      ],
+      "prompt_preview_stage3": "You are a TalkBank CHAT annotator for morphosyntactic error coding.\n\nTask:\nAnnotate the input utterance by inserting valid CHAT error tags inline.\n\nRules:\n1. Preserve original token order, spelling, casing, punctuation, disfluencies, and CHAT symbols.\n2. Do NOT rewrite, paraphrase, or correct the ut"
+    }
+  }
+}

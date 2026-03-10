@@ -106,6 +106,62 @@ CHAT_TOKEN_CANONICAL_ORDER = [
     "&+",
 ]
 
+CHAT_COMPONENT_TOKEN_CANONICAL_ORDER = [
+    "[* m]",
+    "[* s]",
+    "[* m:++]",
+    "[* m:+]",
+    "[* m:=]",
+    "[* m:0]",
+    "[* m:allo]",
+    "[* m:base]",
+    "[* m:irr]",
+    "[* m:sub]",
+    "[* m:vsg]",
+    "[* m:vun]",
+    "[* s:r]",
+    "[* s:r:gc]",
+    "[* m:++",
+    "[* m:+",
+    "[* m:=",
+    "[* m:0",
+    "[* m:base",
+    "[* m:irr",
+    "[* m:sub",
+    "[* m:vsg",
+    "[* m:vun",
+    "[* m:03s",
+    "[* m:+3s",
+    "[* m:+s",
+    "[* m:0s",
+    "[* s:r",
+    "[* s:r:gc",
+    ":ed]",
+    ":en]",
+    ":er]",
+    ":est]",
+    ":s]",
+    ":3s]",
+    ":ing]",
+    ":prep]",
+    ":der]",
+    ":pro]",
+    ":det]",
+    ":a]",
+    ":i]",
+    ":allo]",
+    "[/]",
+    "[//]",
+    "xxx",
+    "(.)",
+    "(..)",
+    "(...)",
+    "+...",
+    "[!]",
+    "&-",
+    "&+",
+]
+
 # Known off-schema outliers in current data (2 rows).
 DEFAULT_DROP_LABELS = [
     "[* m:+s]",
@@ -406,19 +462,26 @@ def write_manifest(path: Path, split_to_rows: Dict[str, Sequence[Dict]]) -> None
                 )
 
 
-def build_chat_tokens(records: Sequence[Dict], extra_labels: Sequence[str] = ()) -> List[str]:
+def build_chat_tokens(records: Sequence[Dict], extra_labels: Sequence[str] = (), strategy: str = "hybrid") -> List[str]:
     observed = set()
     for row in records:
         for tag in extract_tags(row.get("output", "")):
             observed.add(tag)
     observed.update(extra_labels)
 
-    tokens = list(CHAT_TOKEN_CANONICAL_ORDER)
-    # Preserve canonical order first, then append any previously unseen tags to stay robust.
-    for tag in sorted(observed):
-        if tag not in tokens:
-            tokens.append(tag)
-    return tokens
+    if strategy == "hybrid":
+        tokens = list(CHAT_TOKEN_CANONICAL_ORDER)
+        # Preserve canonical order first, then append any previously unseen tags to stay robust.
+        for tag in sorted(observed):
+            if tag not in tokens:
+                tokens.append(tag)
+        return tokens
+
+    if strategy == "components":
+        # Exploratory mode: keep scheme scaffolding and reusable fragments, not full detailed labels.
+        return list(dict.fromkeys(CHAT_COMPONENT_TOKEN_CANONICAL_ORDER))
+
+    raise ValueError(f"Unknown chat token strategy: {strategy}")
 
 
 def parse_args() -> argparse.Namespace:
@@ -486,6 +549,12 @@ def parse_args() -> argparse.Namespace:
         choices=["preserve", "single_colon", "drop_all", "nonword_only"],
         default="preserve",
         help="How to write reconstruction tokens in outputs.",
+    )
+    parser.add_argument(
+        "--chat-token-strategy",
+        choices=["hybrid", "components"],
+        default="hybrid",
+        help="Tokenizer augmentation strategy: current hybrid label inventory or exploratory scheme components.",
     )
     return parser.parse_args()
 
@@ -629,8 +698,12 @@ def main() -> None:
         },
     )
 
-    # Keep withheld labels tokenizable to avoid conflating semantic generalization with tokenizer OOV effects.
-    chat_tokens = build_chat_tokens(split_to_stage3["train"], extra_labels=holdout_labels)
+    # Keep withheld labels tokenizable under the default hybrid strategy; the components strategy is exploratory.
+    chat_tokens = build_chat_tokens(
+        split_to_stage3["train"],
+        extra_labels=holdout_labels,
+        strategy=args.chat_token_strategy,
+    )
     (out_dir / "chat_tokens.json").write_text(json.dumps(chat_tokens, ensure_ascii=False, indent=2) + "\n")
 
     summary = {
@@ -677,6 +750,7 @@ def main() -> None:
             ),
         },
         "reconstruction_mode": args.reconstruction_mode,
+        "chat_token_strategy": args.chat_token_strategy,
     }
     (out_dir / "summary.json").write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n")
 

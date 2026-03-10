@@ -32,33 +32,50 @@ def collect_labels(path: Path) -> List[str]:
 def reconstruction_rule_text(mode: str) -> str:
     if mode == "preserve":
         return (
-            "7. When reconstruction is needed, use CHAT reconstruction markers according to the manual: "
-            "[: target] or [:: target], preserving their intended distinction.\n"
+            "When reconstruction is needed, use CHAT reconstruction markers according to the manual: "
+            "[: target] or [:: target], preserving their intended distinction."
         )
     if mode == "drop_all":
-        return "7. Do not output reconstruction markers (no [: target] and no [:: target]).\n"
+        return "Do not output reconstruction markers (no [: target] and no [:: target])."
     if mode == "nonword_only":
         return (
-            "7. Use reconstruction markers only for nonword corrections with [: target]; "
-            "do not use [:: target].\n"
+            "Use reconstruction markers only for nonword corrections with [: target]; "
+            "do not use [:: target]."
         )
     if mode == "single_colon":
-        return "7. When reconstruction is needed, use only [: target] (never [:: target]).\n"
+        return "When reconstruction is needed, use only [: target] (never [:: target])."
     raise ValueError(f"Unknown reconstruction instruction mode: {mode}")
 
 
-def build_prompt(allowed_labels: List[str], reconstruction_mode: str) -> str:
+def build_prompt(allowed_labels: List[str], reconstruction_mode: str, prompt_style: str = "standard") -> str:
+    rules = [
+        "Preserve original token order, spelling, casing, punctuation, disfluencies, and CHAT symbols.",
+        "Do NOT rewrite, paraphrase, or correct the utterance.",
+        "Insert only error tags (and reconstruction tokens when required by CHAT).",
+        "If no target error is present, return the utterance unchanged.",
+        reconstruction_rule_text(reconstruction_mode),
+    ]
+    if prompt_style == "compositional":
+        rules.extend(
+            [
+                "Build each CHAT error tag compositionally from licensed scheme parts rather than relying on a memorized whole-label form.",
+                "Use m:* only for same-lexeme morphological contrasts and s:* only for substitutional contrasts.",
+                "Use :a only for agreement-sensitive labels that license it; do not use [* m:a] as a default label.",
+                "Use :i only where an irregular-sensitive label licenses it; do not overgenerate it.",
+                "Output only licensed CHAT tags; do not invent unattested or unsupported combinations.",
+            ]
+        )
+    elif prompt_style != "standard":
+        raise ValueError(f"Unknown prompt style: {prompt_style}")
+    rules.append("Output exactly one annotated utterance line and nothing else.")
+
+    numbered_rules = "\n".join(f"{i}. {rule}" for i, rule in enumerate(rules, start=1))
     return (
         "You are a TalkBank CHAT annotator for morphosyntactic error coding.\n\n"
         "Task:\n"
         "Annotate the input utterance by inserting valid CHAT error tags inline.\n\n"
         "Rules:\n"
-        "1. Preserve original token order, spelling, casing, punctuation, disfluencies, and CHAT symbols.\n"
-        "2. Do NOT rewrite, paraphrase, or correct the utterance.\n"
-        "3. Insert only error tags (and reconstruction tokens when required by CHAT).\n"
-        "4. If no target error is present, return the utterance unchanged.\n"
-        f"{reconstruction_rule_text(reconstruction_mode).replace('7.', '5.', 1)}"
-        "6. Output exactly one annotated utterance line and nothing else."
+        f"{numbered_rules}"
     )
 
 
@@ -107,6 +124,12 @@ def parse_args() -> argparse.Namespace:
         choices=["preserve", "single_colon", "drop_all", "nonword_only"],
         default="preserve",
         help="Instruction rule for reconstruction markers.",
+    )
+    parser.add_argument(
+        "--prompt-style",
+        choices=["standard", "compositional"],
+        default="standard",
+        help="Prompt framing: current standard instruction or exploratory compositional framing.",
     )
     return parser.parse_args()
 
@@ -158,8 +181,8 @@ def main() -> None:
             raise ValueError(
                 f"No labels found for stage {stage} with --holdout-label-source-splits={sorted(holdout_label_splits)}"
             )
-        prompts[stage] = build_prompt(sorted(label_set), args.reconstruction_mode)
-        holdout_prompts[stage] = build_prompt(sorted(holdout_label_set), args.reconstruction_mode)
+        prompts[stage] = build_prompt(sorted(label_set), args.reconstruction_mode, args.prompt_style)
+        holdout_prompts[stage] = build_prompt(sorted(holdout_label_set), args.reconstruction_mode, args.prompt_style)
 
     counts = {}
     for stage in [1, 2, 3]:
@@ -175,6 +198,7 @@ def main() -> None:
         "label_source_splits": sorted(label_splits),
         "holdout_label_source_splits": sorted(holdout_label_splits),
         "reconstruction_mode": args.reconstruction_mode,
+        "prompt_style": args.prompt_style,
         "rows_updated_by_file": counts,
         "prompt_preview_stage1": prompts[1][:300],
         "prompt_preview_stage2": prompts[2][:300],
