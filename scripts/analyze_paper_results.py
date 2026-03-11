@@ -43,7 +43,18 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--focus-tag-b",
         default="[* m:0ed]",
-        help="Second tag in the targeted confusion diagnostic.",
+        help="Regular-past target tag in the targeted confusion diagnostic.",
+    )
+    parser.add_argument(
+        "--focus-tag-c",
+        default="[* m:base:ed]",
+        help="Irregular-past target tag in the targeted confusion diagnostic.",
+    )
+    parser.add_argument(
+        "--include-holdout",
+        action="store_true",
+        default=False,
+        help="Include holdout_generalization in the main analysis bundle.",
     )
     return parser.parse_args()
 
@@ -300,6 +311,7 @@ def analyze_predictions(
     legal_labels: Set[str],
     focus_a: str,
     focus_b: str,
+    focus_c: str,
     holdout_labels: Sequence[str],
 ) -> Dict:
     rows_total = 0
@@ -317,11 +329,6 @@ def analyze_predictions(
 
     confusion = Counter()
     gold_support = Counter()
-
-    focus_ab = 0
-    focus_ba = 0
-    focus_a_support = 0
-    focus_b_support = 0
 
     holdout_set = set(holdout_labels)
     holdout_rows = 0
@@ -367,15 +374,6 @@ def analyze_predictions(
                 confusion[(primary_gold, primary_pred)] += 1
                 gold_support[primary_gold] += 1
 
-                if primary_gold == focus_a:
-                    focus_a_support += 1
-                    if primary_pred == focus_b:
-                        focus_ab += 1
-                if primary_gold == focus_b:
-                    focus_b_support += 1
-                    if primary_pred == focus_a:
-                        focus_ba += 1
-
             holdout_gold = first_holdout_label(gold_tags, holdout_set)
             if holdout_gold is not None:
                 holdout_rows += 1
@@ -410,6 +408,27 @@ def analyze_predictions(
             "operator_accuracy": pct(holdout_operator_per_label.get(label, 0), support),
         }
 
+    focus_pairs = []
+    for left, right in [(focus_a, focus_b), (focus_a, focus_c)]:
+        left_support = gold_support.get(left, 0)
+        right_support = gold_support.get(right, 0)
+        left_pred_right = confusion.get((left, right), 0)
+        right_pred_left = confusion.get((right, left), 0)
+        focus_pairs.append(
+            {
+                "focus_left": left,
+                "focus_right": right,
+                "focus_left_support": left_support,
+                "focus_right_support": right_support,
+                "focus_left_pred_right_count": left_pred_right,
+                "focus_right_pred_left_count": right_pred_left,
+                "focus_left_pred_right_rate": pct(left_pred_right, left_support),
+                "focus_right_pred_left_rate": pct(right_pred_left, right_support),
+            }
+        )
+
+    primary_pair = focus_pairs[0]
+
     return {
         "rows_total": rows_total,
         "rows_with_gold_error": rows_with_gold_error,
@@ -420,14 +439,15 @@ def analyze_predictions(
         "invalid_label_rate": pct(invalid_legal_label_total, valid_pred_tag_total),
         "reconstruction_presence_accuracy": pct(recon_presence_correct, rows_total),
         "reconstruction_signature_accuracy": pct(recon_signature_exact, rows_total),
-        "focus_a": focus_a,
-        "focus_b": focus_b,
-        "focus_a_support": focus_a_support,
-        "focus_b_support": focus_b_support,
-        "focus_a_pred_b_count": focus_ab,
-        "focus_b_pred_a_count": focus_ba,
-        "focus_a_pred_b_rate": pct(focus_ab, focus_a_support),
-        "focus_b_pred_a_rate": pct(focus_ba, focus_b_support),
+        "focus_a": primary_pair["focus_left"],
+        "focus_b": primary_pair["focus_right"],
+        "focus_a_support": primary_pair["focus_left_support"],
+        "focus_b_support": primary_pair["focus_right_support"],
+        "focus_a_pred_b_count": primary_pair["focus_left_pred_right_count"],
+        "focus_b_pred_a_count": primary_pair["focus_right_pred_left_count"],
+        "focus_a_pred_b_rate": primary_pair["focus_left_pred_right_rate"],
+        "focus_b_pred_a_rate": primary_pair["focus_right_pred_left_rate"],
+        "focus_pairs": focus_pairs,
         "top_confusions": top_confusions,
         "holdout_rows": holdout_rows,
         "holdout_exact_label_accuracy": pct(holdout_exact, holdout_rows),
@@ -462,6 +482,7 @@ def main() -> None:
     run_metrics_rows: List[Dict] = []
     syntax_rows: List[Dict] = []
     focus_rows: List[Dict] = []
+    focus_3sg_past_rows: List[Dict] = []
     reconstruction_rows: List[Dict] = []
     holdout_rows: List[Dict] = []
     confusion_rows: List[Dict] = []
@@ -471,7 +492,9 @@ def main() -> None:
     all_summary = {"runs": []}
     seed_agg = defaultdict(lambda: defaultdict(lambda: {"micro_f1": [], "exact_match": []}))
 
-    split_order = ["eval_real", "test_real", "eval_coverage", "test_coverage", "holdout_generalization"]
+    split_order = ["eval_real", "test_real", "eval_coverage", "test_coverage"]
+    if args.include_holdout:
+        split_order.append("holdout_generalization")
 
     for run_dir in run_dirs:
         run_name = run_dir.name
@@ -529,7 +552,10 @@ def main() -> None:
             seed_agg[system_key(run_name)][split_name]["micro_f1"].append(row["micro_f1"])
             seed_agg[system_key(run_name)][split_name]["exact_match"].append(row["exact_match"])
 
-        for pred_split in ["test_real", "holdout_generalization"]:
+        prediction_diagnostic_splits = ["test_real", "test_coverage"]
+        if args.include_holdout:
+            prediction_diagnostic_splits.append("holdout_generalization")
+        for pred_split in prediction_diagnostic_splits:
             pred_path = eval_dir / f"predictions_{pred_split}.jsonl"
             if not pred_path.exists():
                 continue
@@ -538,6 +564,7 @@ def main() -> None:
                 legal_labels=legal_labels,
                 focus_a=args.focus_tag_a,
                 focus_b=args.focus_tag_b,
+                focus_c=args.focus_tag_c,
                 holdout_labels=holdout_labels,
             )
             run_out["prediction_diagnostics"][pred_split] = pred_diag
@@ -570,6 +597,22 @@ def main() -> None:
                     "focus_b_pred_a_rate": pred_diag["focus_b_pred_a_rate"],
                 }
             )
+            for pair in pred_diag.get("focus_pairs", []):
+                focus_3sg_past_rows.append(
+                    {
+                        "run_name": run_name,
+                        "experiment": experiment,
+                        "split": pred_split,
+                        "focus_left": pair["focus_left"],
+                        "focus_right": pair["focus_right"],
+                        "focus_left_support": pair["focus_left_support"],
+                        "focus_right_support": pair["focus_right_support"],
+                        "focus_left_pred_right_count": pair["focus_left_pred_right_count"],
+                        "focus_right_pred_left_count": pair["focus_right_pred_left_count"],
+                        "focus_left_pred_right_rate": pair["focus_left_pred_right_rate"],
+                        "focus_right_pred_left_rate": pair["focus_right_pred_left_rate"],
+                    }
+                )
 
             reconstruction_rows.append(
                 {
@@ -582,16 +625,17 @@ def main() -> None:
                 }
             )
 
-            holdout_rows.append(
-                {
-                    "run_name": run_name,
-                    "experiment": experiment,
-                    "split": pred_split,
-                    "holdout_rows": pred_diag["holdout_rows"],
-                    "holdout_exact_label_accuracy": pred_diag["holdout_exact_label_accuracy"],
-                    "holdout_operator_accuracy": pred_diag["holdout_operator_accuracy"],
-                }
-            )
+            if args.include_holdout:
+                holdout_rows.append(
+                    {
+                        "run_name": run_name,
+                        "experiment": experiment,
+                        "split": pred_split,
+                        "holdout_rows": pred_diag["holdout_rows"],
+                        "holdout_exact_label_accuracy": pred_diag["holdout_exact_label_accuracy"],
+                        "holdout_operator_accuracy": pred_diag["holdout_operator_accuracy"],
+                    }
+                )
 
             for conf in pred_diag["top_confusions"]:
                 confusion_rows.append(
@@ -748,6 +792,25 @@ def main() -> None:
             ],
         )
 
+    if focus_3sg_past_rows:
+        write_csv(
+            out_dir / "focus_confusion_3sg_vs_past.csv",
+            focus_3sg_past_rows,
+            [
+                "run_name",
+                "experiment",
+                "split",
+                "focus_left",
+                "focus_right",
+                "focus_left_support",
+                "focus_right_support",
+                "focus_left_pred_right_count",
+                "focus_right_pred_left_count",
+                "focus_left_pred_right_rate",
+                "focus_right_pred_left_rate",
+            ],
+        )
+
     if reconstruction_rows:
         write_csv(
             out_dir / "reconstruction_diagnostics.csv",
@@ -762,7 +825,7 @@ def main() -> None:
             ],
         )
 
-    if holdout_rows:
+    if args.include_holdout and holdout_rows:
         write_csv(
             out_dir / "holdout_generalization_diagnostics.csv",
             holdout_rows,
@@ -921,6 +984,7 @@ def main() -> None:
             "- `syntax_validity.csv`: syntax-valid error-tag rate + invalid-label rate",
             "- `top_confusions.csv`: top gold->pred confusions from prediction files",
             f"- `focus_confusion_03s_vs_0ed.csv`: targeted confusion between `{args.focus_tag_a}` and `{args.focus_tag_b}`",
+            f"- `focus_confusion_3sg_vs_past.csv`: third-person singular vs regular/irregular past diagnostics (`{args.focus_tag_b}`, `{args.focus_tag_c}`)",
             "- `overfitting_report.csv`: eval->test generalization gaps (overfitting proxy)",
             "- `mixed_model_ready_items.csv`: item-level merged prediction table for R mixed models",
             "- `synthetic_artifact_summary.csv`: grouped synthetic-only performance by trace method and error count",
@@ -929,10 +993,14 @@ def main() -> None:
             "## Experiment-specific analyses",
             "- Exp1/Exp2: use shared analyses; for Exp2 compare deltas vs matched Exp1 baseline",
             "- Exp3: add `reconstruction_diagnostics.csv` (marker presence/signature agreement)",
-            "- Exp4: add `holdout_generalization_diagnostics.csv` (exact held-out label + operator-family accuracy)",
             "- Exp6: use `seed_stability_summary.csv` (mean/std across seed-matched systems)",
         ]
     )
+    if args.include_holdout:
+        lines.insert(
+            lines.index("- Exp6: use `seed_stability_summary.csv` (mean/std across seed-matched systems)"),
+            "- Exp4: add `holdout_generalization_diagnostics.csv` (exact held-out label + operator-family accuracy)",
+        )
     (out_dir / "README.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     print(f"Analyzed {len(run_dirs)} run(s). Outputs in: {out_dir}")

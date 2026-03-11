@@ -65,6 +65,7 @@ Default configuration in this notebook is the **final deployment retrain**:
 - Confirmatory per-label reporting uses minimum support threshold (`min_label_support_confirmatory`)
 - Low-support labels are reported separately as exploratory
 - Micro-F1 includes bootstrap confidence interval
+- Optional sequence-level uncertainty can be exported with saved predictions
 """
         )
     )
@@ -147,6 +148,8 @@ class Config:
     min_label_support_holdout: int = 10
     bootstrap_iterations: int = 500
     bootstrap_seed: int = 3407
+    save_prediction_uncertainty: bool = True
+    save_token_level_uncertainty: bool = False
 
     # Persistence
     save_to_drive: bool = False
@@ -180,7 +183,7 @@ print(cfg)
             """#@title 2b) Persistence setup (Drive + Hub auth)
 import os
 from pathlib import Path
-from huggingface_hub import create_repo
+from huggingface_hub import HfApi, create_repo
 
 if cfg.save_to_drive:
     from google.colab import drive
@@ -220,6 +223,17 @@ def create_hf_model_repo(repo_id: str) -> None:
         repo_type="model",
         private=(cfg.hf_repo_visibility == "private"),
         exist_ok=True,
+    )
+
+def upload_local_adapter_snapshot(repo_id: str, local_dir: Path) -> None:
+    # Reliable fallback for environments where model.push_to_hub is partial/incompatible.
+    api = HfApi()
+    api.upload_folder(
+        repo_id=normalize_hf_repo_id(repo_id),
+        repo_type="model",
+        folder_path=str(local_dir),
+        path_in_repo="",
+        commit_message=f"Upload local adapter snapshot for {run_name}",
     )
 
 run_root = Path(cfg.output_root)
@@ -436,8 +450,34 @@ def train_stage(stage: int, lr: float, epochs: int):
             repo_ids.append(normalize_hf_repo_id(cfg.hf_repo_final_alias))
         for repo_id in dict.fromkeys(repo_ids):
             create_hf_model_repo(repo_id)
-            model.push_to_hub(repo_id, save_embedding_layers=True)
-            tokenizer.push_to_hub(repo_id)
+            push_ok = False
+            try:
+                model.push_to_hub(repo_id, save_embedding_layers=True)
+                push_ok = True
+            except TypeError:
+                # Backward-compatible fallback for Unsloth versions that do not
+                # expose the `save_embedding_layers` kwarg on push_to_hub.
+                try:
+                    model.push_to_hub(repo_id)
+                    push_ok = True
+                except Exception as exc:
+                    print(f"Warning: model.push_to_hub failed for {repo_id}: {exc}")
+            except Exception as exc:
+                print(f"Warning: model.push_to_hub failed for {repo_id}: {exc}")
+
+            try:
+                tokenizer.push_to_hub(repo_id)
+                push_ok = True
+            except Exception as exc:
+                print(f"Warning: tokenizer.push_to_hub failed for {repo_id}: {exc}")
+
+            # Hard fallback: upload the full local stage folder to avoid empty repos.
+            if cfg.save_adapter_locally:
+                upload_local_adapter_snapshot(repo_id, Path(args.output_dir))
+            elif not push_ok:
+                raise RuntimeError(
+                    f"Hub push failed and cfg.save_adapter_locally=False; cannot fallback upload for {repo_id}"
+                )
 
     # Optional Drive sync: copy only compact metrics artifacts.
     if cfg.save_to_drive:
@@ -477,6 +517,58 @@ tokenizer.padding_side = "left"
 def build_prompt(instruction: str, inp: str) -> str:
     return f"### Instruction:\\n{instruction}\\n\\n### Input:\\n{inp}\\n\\n### Response:\\n"
 
+def summarize_generation_uncertainty(gen_out, prompt_len):
+    sequences = gen_out.sequences
+    generated_ids = sequences[:, prompt_len:]
+    row_stats = [{"token_logprobs": [], "token_margins": [], "generated_tokens": []} for _ in range(generated_ids.shape[0])]
+    special_ids = set(tokenizer.all_special_ids)
+    if tokenizer.pad_token_id is not None:
+        special_ids.add(tokenizer.pad_token_id)
+
+    for step_idx, step_scores in enumerate(gen_out.scores):
+        step_log_probs = torch.log_softmax(step_scores.float(), dim=-1)
+        step_ids = generated_ids[:, step_idx]
+        selected_log_probs = step_log_probs.gather(1, step_ids.unsqueeze(1)).squeeze(1)
+        top2 = torch.topk(step_log_probs, k=min(2, step_log_probs.shape[-1]), dim=-1).values
+        margins = torch.zeros_like(selected_log_probs) if top2.shape[1] == 1 else (top2[:, 0] - top2[:, 1])
+
+        for row_idx, tok_id in enumerate(step_ids.tolist()):
+            if tok_id in special_ids:
+                continue
+            row_stats[row_idx]["token_logprobs"].append(float(selected_log_probs[row_idx].item()))
+            row_stats[row_idx]["token_margins"].append(float(margins[row_idx].item()))
+            if cfg.save_token_level_uncertainty:
+                row_stats[row_idx]["generated_tokens"].append(tokenizer.decode([tok_id], skip_special_tokens=False))
+
+    summaries = []
+    for stats in row_stats:
+        token_logprobs = stats["token_logprobs"]
+        token_margins = stats["token_margins"]
+        if token_logprobs:
+            payload = {
+                "uncertainty_num_tokens": len(token_logprobs),
+                "uncertainty_seq_logprob": float(sum(token_logprobs)),
+                "uncertainty_mean_token_logprob": float(sum(token_logprobs) / len(token_logprobs)),
+                "uncertainty_min_token_logprob": float(min(token_logprobs)),
+                "uncertainty_mean_token_margin": float(sum(token_margins) / len(token_margins)),
+                "uncertainty_min_token_margin": float(min(token_margins)),
+            }
+        else:
+            payload = {
+                "uncertainty_num_tokens": 0,
+                "uncertainty_seq_logprob": None,
+                "uncertainty_mean_token_logprob": None,
+                "uncertainty_min_token_logprob": None,
+                "uncertainty_mean_token_margin": None,
+                "uncertainty_min_token_margin": None,
+            }
+        if cfg.save_token_level_uncertainty:
+            payload["uncertainty_generated_tokens"] = stats["generated_tokens"]
+            payload["uncertainty_token_logprobs"] = token_logprobs
+            payload["uncertainty_token_margins"] = token_margins
+        summaries.append(payload)
+    return summaries
+
 def batch_predict(dataset, batch_size=16, max_new_tokens=96):
     out_rows = []
     for i in tqdm(range(0, len(dataset), batch_size), desc="Predict"):
@@ -484,32 +576,49 @@ def batch_predict(dataset, batch_size=16, max_new_tokens=96):
         prompts = [build_prompt(ins, inp) for ins, inp in zip(batch["instruction"], batch["input"])]
         enc = tokenizer(prompts, return_tensors="pt", padding=True).to(model.device)
         with torch.no_grad():
-            gen = model.generate(
-                **enc,
-                do_sample=False,
-                max_new_tokens=max_new_tokens,
-                use_cache=True,
-                eos_token_id=tokenizer.eos_token_id,
-                pad_token_id=tokenizer.pad_token_id,
-            )
-        dec = tokenizer.batch_decode(gen, skip_special_tokens=False)
+            if cfg.save_prediction_uncertainty:
+                gen = model.generate(
+                    **enc,
+                    do_sample=False,
+                    max_new_tokens=max_new_tokens,
+                    use_cache=True,
+                    eos_token_id=tokenizer.eos_token_id,
+                    pad_token_id=tokenizer.pad_token_id,
+                    return_dict_in_generate=True,
+                    output_scores=True,
+                )
+                seqs = gen.sequences
+                uncertainty = summarize_generation_uncertainty(gen, enc["input_ids"].shape[1])
+            else:
+                gen = model.generate(
+                    **enc,
+                    do_sample=False,
+                    max_new_tokens=max_new_tokens,
+                    use_cache=True,
+                    eos_token_id=tokenizer.eos_token_id,
+                    pad_token_id=tokenizer.pad_token_id,
+                )
+                seqs = gen
+                uncertainty = [None] * seqs.shape[0]
+        dec = tokenizer.batch_decode(seqs, skip_special_tokens=False)
         for j, txt in enumerate(dec):
             pred = txt.split("### Response:\\n")[-1]
             pred = pred.replace("<|eot_id|>", "").replace("<|end_of_text|>", "").strip()
             if tokenizer.pad_token:
                 pred = pred.replace(tokenizer.pad_token, "").strip()
             pred = re.sub(r"([A-Za-z\\]])([\\.!\\?])", r"\\1 \\2", pred)
-            out_rows.append(
-                {
-                    "input": batch["input"][j],
-                    "instruction": batch["instruction"][j],
-                    "human_gold": batch["output"][j],
-                    "model_prediction": pred,
-                    "provenance_label": batch["provenance_label"][j] if "provenance_label" in batch else None,
-                    "error_count": batch["error_count"][j] if "error_count" in batch else None,
-                    "row_id": batch["row_id"][j] if "row_id" in batch else None,
-                }
-            )
+            row = {
+                "input": batch["input"][j],
+                "instruction": batch["instruction"][j],
+                "human_gold": batch["output"][j],
+                "model_prediction": pred,
+                "provenance_label": batch["provenance_label"][j] if "provenance_label" in batch else None,
+                "error_count": batch["error_count"][j] if "error_count" in batch else None,
+                "row_id": batch["row_id"][j] if "row_id" in batch else None,
+            }
+            if uncertainty[j]:
+                row.update(uncertainty[j])
+            out_rows.append(row)
     return out_rows
 """
         )

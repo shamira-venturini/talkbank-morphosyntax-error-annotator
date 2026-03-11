@@ -16,5 +16,23 @@
     "DLD": 692,
     "TD": 3893,
     "synthetic": 5830
+  },
+  "surface_variant_normalization": {
+    "enabled": true,
+    "rows_changed_input": 26,
+    "rows_changed_output": 5,
+    "counts_input": {
+      "token_a_other": 4,
+      "token_cause": 6,
+      "token_nother": 2,
+      "token_nt": 1
+    },
+    "counts_output": {
+      "token_cause": 5
+    },
+    "input_aligned_from_output": {
+      "align_a_other_to_raw": 4,
+      "align_optional_g": 19
+    }
   }
 }
