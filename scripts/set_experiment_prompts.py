@@ -32,18 +32,19 @@ def collect_labels(path: Path) -> List[str]:
 def reconstruction_rule_text(mode: str) -> str:
     if mode == "preserve":
         return (
-            "When reconstruction is needed, use CHAT reconstruction markers according to the manual: "
-            "[: target] or [:: target], preserving their intended distinction."
+            "Write the target form as [: target] when the incorrect morpheme yields a nonword, "
+            "and as [:: target] when the error involves an attested produced word. "
+            "For addition errors where the target is zero (no overt form), do not add a target-form marker."
         )
     if mode == "drop_all":
-        return "Do not output reconstruction markers (no [: target] and no [:: target])."
+        return "Do not output target-form markers (no [: target] and no [:: target])."
     if mode == "nonword_only":
         return (
-            "Use reconstruction markers only for nonword corrections with [: target]; "
+            "Write the correct target form only as [: target] for errors whose incorrect morpheme yields a nonword; "
             "do not use [:: target]."
         )
     if mode == "single_colon":
-        return "When reconstruction is needed, use only [: target] (never [:: target])."
+        return "When you write a target form, use only [: target] (never [:: target])."
     raise ValueError(f"Unknown reconstruction instruction mode: {mode}")
 
 
@@ -51,22 +52,24 @@ def build_prompt(allowed_labels: List[str], reconstruction_mode: str, prompt_sty
     rules = [
         "Preserve original token order, spelling, casing, punctuation, disfluencies, and CHAT symbols.",
         "Do NOT rewrite, paraphrase, or correct the utterance.",
-        "Insert only error tags (and reconstruction tokens when required by CHAT).",
+        "Insert only error tags inline, following the error token.",
         "If no target error is present, return the utterance unchanged.",
-        reconstruction_rule_text(reconstruction_mode),
     ]
     if prompt_style == "compositional":
         rules.extend(
             [
+                reconstruction_rule_text(reconstruction_mode),
                 "Build each CHAT error tag compositionally from licensed scheme parts rather than relying on a memorized whole-label form.",
                 "Use m:* only for same-lexeme morphological contrasts and s:* only for substitutional contrasts.",
-                "Use :a only for agreement-sensitive labels that license it; do not use [* m:a] as a default label.",
+                "Use :a only for agreement-sensitive labels that license it.",
                 "Use :i only where an irregular-sensitive label licenses it; do not overgenerate it.",
                 "Output only licensed CHAT tags; do not invent unattested or unsupported combinations.",
             ]
         )
     elif prompt_style != "standard":
         raise ValueError(f"Unknown prompt style: {prompt_style}")
+    else:
+        rules.append(reconstruction_rule_text(reconstruction_mode))
     rules.append("Output exactly one annotated utterance line and nothing else.")
 
     numbered_rules = "\n".join(f"{i}. {rule}" for i, rule in enumerate(rules, start=1))

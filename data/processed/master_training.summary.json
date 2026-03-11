@@ -2,14 +2,14 @@
   "input_file": "data/processed/master_training_with_provenance.jsonl",
   "output_file": "data/processed/master_training.jsonl",
   "rows": 10415,
-  "rows_with_zero_errors": 4960,
-  "rows_with_one_or_more_errors": 5455,
+  "rows_with_zero_errors": 4961,
+  "rows_with_one_or_more_errors": 5454,
   "total_error_tags": 5630,
   "mean_errors_per_sentence": 0.540566,
   "distribution_error_count": {
-    "0": 4960,
-    "1": 5290,
-    "2": 155,
+    "0": 4961,
+    "1": 5288,
+    "2": 156,
     "3": 10
   },
   "distribution_provenance_label": {

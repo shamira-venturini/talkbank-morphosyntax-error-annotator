@@ -90,6 +90,8 @@ def main() -> None:
             "--chat-token-strategy",
             cfg["chat_token_strategy"],
         ]
+        if cfg["reconstruction_mode"] == "preserve":
+            build_cmd.append("--autofill-recon-03s-baseed")
         run_cmd(build_cmd)
 
         prompt_cmd = [

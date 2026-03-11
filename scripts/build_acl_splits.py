@@ -5,7 +5,7 @@ import random
 import re
 from collections import Counter, defaultdict
 from pathlib import Path
-from typing import Dict, Iterable, List, Sequence
+from typing import Dict, Iterable, List, Sequence, Tuple
 
 from common import iter_jsonl, resolve_path, write_jsonl
 
@@ -13,6 +13,8 @@ from common import iter_jsonl, resolve_path, write_jsonl
 TAG_PATTERN = re.compile(r"\[\*\s*[ms](?::[^\]]+)?\]")
 RECON_ANY_PATTERN = re.compile(r"\[(?::|::)\s+[^\]]+\]")
 RECON_DOUBLE_PATTERN = re.compile(r"\[::\s+[^\]]+\]")
+M03_NO_RECON_PATTERN = re.compile(r"(?P<lemma>[^\s\[\]]+)\s+(?P<tag>\[\*\s*m:03s:a\])")
+MBASEED_NO_RECON_PATTERN = re.compile(r"(?P<lemma>[^\s\[\]]+)\s+(?P<tag>\[\*\s*m:base:ed\])")
 
 # Kept in the project (user decision): [* s:r:gc:det]
 DEFAULT_HOLDOUT_LABELS = [
@@ -166,6 +168,75 @@ CHAT_COMPONENT_TOKEN_CANONICAL_ORDER = [
 DEFAULT_DROP_LABELS = [
     "[* m:+s]",
 ]
+
+
+THIRD_PERSON_IRREGULAR = {
+    "do": "does",
+    "say": "says",
+}
+
+M03_AUTOFILL_EXCLUDED_LEMMAS = {
+    "be",
+    "am",
+    "is",
+    "are",
+    "was",
+    "were",
+    "been",
+    "being",
+    "have",
+    "has",
+    "had",
+}
+
+
+IRREGULAR_PAST_MAP = {
+    "be": "was",
+    "begin": "began",
+    "break": "broke",
+    "bring": "brought",
+    "buy": "bought",
+    "catch": "caught",
+    "come": "came",
+    "do": "did",
+    "drink": "drank",
+    "drive": "drove",
+    "eat": "ate",
+    "fall": "fell",
+    "feel": "felt",
+    "find": "found",
+    "fly": "flew",
+    "forget": "forgot",
+    "get": "got",
+    "give": "gave",
+    "go": "went",
+    "grow": "grew",
+    "have": "had",
+    "hear": "heard",
+    "hold": "held",
+    "keep": "kept",
+    "know": "knew",
+    "leave": "left",
+    "lose": "lost",
+    "make": "made",
+    "meet": "met",
+    "pay": "paid",
+    "read": "read",
+    "run": "ran",
+    "say": "said",
+    "see": "saw",
+    "sell": "sold",
+    "send": "sent",
+    "sit": "sat",
+    "speak": "spoke",
+    "stand": "stood",
+    "swim": "swam",
+    "take": "took",
+    "teach": "taught",
+    "tell": "told",
+    "think": "thought",
+    "write": "wrote",
+}
 
 
 def canonical_tag(tag: str) -> str:
@@ -414,6 +485,208 @@ def keep_nonword_only_reconstructions(text: str) -> str:
     return text
 
 
+def match_case(surface: str, target: str) -> str:
+    if surface.isupper():
+        return target.upper()
+    if surface[:1].isupper():
+        return target[:1].upper() + target[1:]
+    return target
+
+
+def to_third_person_singular(lemma: str) -> str:
+    lower = lemma.lower()
+    if lower in THIRD_PERSON_IRREGULAR:
+        return match_case(lemma, THIRD_PERSON_IRREGULAR[lower])
+    if len(lower) > 1 and lower.endswith("y") and lower[-2] not in "aeiou":
+        return match_case(lemma, lower[:-1] + "ies")
+    if lower.endswith(("s", "sh", "ch", "x", "z", "o")):
+        return match_case(lemma, lower + "es")
+    return match_case(lemma, lower + "s")
+
+
+def to_irregular_past(lemma: str) -> str:
+    lower = lemma.lower()
+    if lower not in IRREGULAR_PAST_MAP:
+        return ""
+    return match_case(lemma, IRREGULAR_PAST_MAP[lower])
+
+
+def autofill_selected_reconstructions(
+    split_to_rows: Dict[str, Sequence[Dict]],
+) -> Tuple[Dict[str, List[Dict]], Dict[str, int], List[Dict]]:
+    stats = Counter()
+    unresolved = []
+    updated: Dict[str, List[Dict]] = {}
+
+    for split_name, rows in split_to_rows.items():
+        out_rows: List[Dict] = []
+        for row in rows:
+            new_row = dict(row)
+            output_text = new_row.get("output", "")
+            original_text = output_text
+
+            def repl_m03(match: re.Match) -> str:
+                lemma = match.group("lemma")
+                if not lemma.isalpha():
+                    stats["m03_unresolved_nonalpha"] += 1
+                    unresolved.append(
+                        {
+                            "split": split_name,
+                            "row_id": new_row.get("row_id"),
+                            "label": "[* m:03s:a]",
+                            "token": lemma,
+                            "reason": "non_alpha_token",
+                            "input": new_row.get("input", ""),
+                            "output_before": original_text,
+                        }
+                    )
+                    return match.group(0)
+                if lemma.lower() in M03_AUTOFILL_EXCLUDED_LEMMAS:
+                    stats["m03_unresolved_label_specific_exclusion"] += 1
+                    unresolved.append(
+                        {
+                            "split": split_name,
+                            "row_id": new_row.get("row_id"),
+                            "label": "[* m:03s:a]",
+                            "token": lemma,
+                            "reason": "label_specific_exclusion_be_have_family",
+                            "input": new_row.get("input", ""),
+                            "output_before": original_text,
+                        }
+                    )
+                    return match.group(0)
+                target = to_third_person_singular(lemma)
+                stats["m03_filled_occurrences"] += 1
+                return f"{lemma} [:: {target}] {match.group('tag')}"
+
+            output_text = M03_NO_RECON_PATTERN.sub(repl_m03, output_text)
+
+            def repl_mbaseed(match: re.Match) -> str:
+                lemma = match.group("lemma")
+                if not lemma.isalpha():
+                    stats["mbaseed_unresolved_nonalpha"] += 1
+                    unresolved.append(
+                        {
+                            "split": split_name,
+                            "row_id": new_row.get("row_id"),
+                            "label": "[* m:base:ed]",
+                            "token": lemma,
+                            "reason": "non_alpha_token",
+                            "input": new_row.get("input", ""),
+                            "output_before": original_text,
+                        }
+                    )
+                    return match.group(0)
+                target = to_irregular_past(lemma)
+                if not target:
+                    stats["mbaseed_unresolved_missing_irregular_map"] += 1
+                    unresolved.append(
+                        {
+                            "split": split_name,
+                            "row_id": new_row.get("row_id"),
+                            "label": "[* m:base:ed]",
+                            "token": lemma,
+                            "reason": "missing_irregular_mapping",
+                            "input": new_row.get("input", ""),
+                            "output_before": original_text,
+                        }
+                    )
+                    return match.group(0)
+                stats["mbaseed_filled_occurrences"] += 1
+                return f"{lemma} [:: {target}] {match.group('tag')}"
+
+            output_text = MBASEED_NO_RECON_PATTERN.sub(repl_mbaseed, output_text)
+
+            if output_text != original_text:
+                stats["rows_changed"] += 1
+                new_row["output"] = output_text
+            out_rows.append(new_row)
+
+        updated[split_name] = out_rows
+
+    return updated, dict(stats), unresolved
+
+
+def collect_missing_reconstruction_rows(split_to_rows: Dict[str, Sequence[Dict]]) -> List[Dict]:
+    missing = []
+    for split_name, rows in split_to_rows.items():
+        for row in rows:
+            output_text = row.get("output", "")
+            if int(row.get("error_count", 0) or 0) <= 0:
+                continue
+            if RECON_ANY_PATTERN.search(output_text):
+                continue
+            missing.append(
+                {
+                    "split": split_name,
+                    "row_id": row.get("row_id"),
+                    "provenance_label": row.get("provenance_label", ""),
+                    "error_count": int(row.get("error_count", 0) or 0),
+                    "input": row.get("input", ""),
+                    "output": output_text,
+                    "manual_output": "",
+                    "notes": "",
+                }
+            )
+    return missing
+
+
+def merge_unresolved_into_manual_review(
+    manual_rows: Sequence[Dict],
+    unresolved_rows: Sequence[Dict],
+    split_to_rows: Dict[str, Sequence[Dict]],
+) -> List[Dict]:
+    by_key = {(str(r.get("split")), str(r.get("row_id"))): dict(r) for r in manual_rows}
+    row_lookup = {}
+    for split_name, rows in split_to_rows.items():
+        for row in rows:
+            row_lookup[(split_name, str(row.get("row_id")))] = row
+
+    for item in unresolved_rows:
+        key = (str(item.get("split")), str(item.get("row_id")))
+        if key in by_key:
+            continue
+        src = row_lookup.get(key, {})
+        by_key[key] = {
+            "split": key[0],
+            "row_id": key[1],
+            "provenance_label": src.get("provenance_label", ""),
+            "error_count": int(src.get("error_count", 0) or 0),
+            "input": src.get("input", item.get("input", "")),
+            "output": src.get("output", item.get("output_before", "")),
+            "manual_output": "",
+            "notes": f"autofill_unresolved:{item.get('label','')}:{item.get('reason','')}",
+        }
+    return list(by_key.values())
+
+
+def write_csv(path: Path, rows: Sequence[Dict], headers: Sequence[str]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=list(headers))
+        writer.writeheader()
+        for row in rows:
+            writer.writerow({h: row.get(h, "") for h in headers})
+
+
+def sanitize_zero_error_reconstruction_rows(rows: Sequence[Dict]) -> Tuple[List[Dict], Dict[str, int]]:
+    out = []
+    stats = Counter()
+    for row in rows:
+        new_row = dict(row)
+        output_text = new_row.get("output", "")
+        has_recon = bool(RECON_ANY_PATTERN.search(output_text))
+        has_error_tag = bool(TAG_PATTERN.search(output_text))
+        if has_recon and not has_error_tag and int(new_row.get("error_count", 0) or 0) == 0:
+            stats["rows_sanitized"] += 1
+            stats["reconstruction_markers_removed"] += len(RECON_ANY_PATTERN.findall(output_text))
+            if RECON_DOUBLE_PATTERN.search(output_text):
+                stats["rows_with_double_colon_removed"] += 1
+            new_row["output"] = drop_all_reconstructions(output_text)
+        out.append(new_row)
+    return out, dict(stats)
+
+
 def apply_reconstruction_mode(rows: Sequence[Dict], mode: str) -> List[Dict]:
     if mode == "preserve":
         return list(rows)
@@ -556,6 +829,15 @@ def parse_args() -> argparse.Namespace:
         default="hybrid",
         help="Tokenizer augmentation strategy: current hybrid label inventory or exploratory scheme components.",
     )
+    parser.add_argument(
+        "--autofill-recon-03s-baseed",
+        action="store_true",
+        default=False,
+        help=(
+            "For preserve mode only: auto-add [:: target] for missing [* m:03s:a] "
+            "and [* m:base:ed] corrections, then export manual review CSV for remaining no-reconstruction error rows."
+        ),
+    )
     return parser.parse_args()
 
 
@@ -568,7 +850,8 @@ def main() -> None:
     holdout_labels = args.holdout_label if args.holdout_label else DEFAULT_HOLDOUT_LABELS
     drop_labels = args.drop_label if args.drop_label else DEFAULT_DROP_LABELS
 
-    all_rows = list(iter_jsonl(in_path))
+    all_rows_raw = list(iter_jsonl(in_path))
+    all_rows, zero_error_recon_stats = sanitize_zero_error_reconstruction_rows(all_rows_raw)
     for row in all_rows:
         tags = extract_tags(row.get("output", ""))
         row["_meta"] = {
@@ -676,6 +959,47 @@ def main() -> None:
     }
     split_to_stage3 = {k: apply_reconstruction_mode(v, args.reconstruction_mode) for k, v in split_to_stage3.items()}
 
+    autofill_stats: Dict[str, int] = {}
+    autofill_unresolved_rows: List[Dict] = []
+    if args.autofill_recon_03s_baseed and args.reconstruction_mode == "preserve":
+        split_to_stage3, autofill_stats, autofill_unresolved_rows = autofill_selected_reconstructions(split_to_stage3)
+
+    manual_review_rows = collect_missing_reconstruction_rows(split_to_stage3)
+    manual_review_rows = merge_unresolved_into_manual_review(
+        manual_review_rows,
+        autofill_unresolved_rows,
+        split_to_stage3,
+    )
+    manual_review_path = out_dir / "manual_reconstruction_review_stage3.csv"
+    write_csv(
+        manual_review_path,
+        manual_review_rows,
+        headers=[
+            "split",
+            "row_id",
+            "provenance_label",
+            "error_count",
+            "input",
+            "output",
+            "manual_output",
+            "notes",
+        ],
+    )
+    unresolved_path = out_dir / "manual_reconstruction_unresolved_autofill.csv"
+    write_csv(
+        unresolved_path,
+        autofill_unresolved_rows,
+        headers=[
+            "split",
+            "row_id",
+            "label",
+            "token",
+            "reason",
+            "input",
+            "output_before",
+        ],
+    )
+
     # Stage 2 and Stage 1 transforms use exact same row membership.
     split_to_stage2 = {k: transform_rows(v, stage=2) for k, v in split_to_stage3.items()}
     split_to_stage1 = {k: transform_rows(v, stage=1) for k, v in split_to_stage3.items()}
@@ -716,6 +1040,7 @@ def main() -> None:
         "rows_dropped_off_schema": len(dropped_rows),
         "rows_holdout": len(holdout_rows),
         "rows_main_after_filters": len(train_rows) + len(eval_rows) + len(test_rows),
+        "zero_error_reconstruction_sanitation": zero_error_recon_stats,
         "split_sizes_stage3": {
             "train": len(split_to_stage3["train"]),
             "eval": len(split_to_stage3["eval"]),
@@ -739,6 +1064,7 @@ def main() -> None:
             "Holdout set is excluded from training and intended for generalization diagnostics.",
             "Ambiguous-provenance rows are excluded from non-train splits.",
             "No input overlap is allowed between train and all non-train splits.",
+            "Rows with reconstruction markers but no in-scope error tags are sanitized to unchanged outputs.",
             "The project extension label [* s:r:gc:det] is retained (det, not art).",
         ],
         "train_mixture": {
@@ -750,6 +1076,12 @@ def main() -> None:
             ),
         },
         "reconstruction_mode": args.reconstruction_mode,
+        "autofill_recon_03s_baseed": args.autofill_recon_03s_baseed,
+        "autofill_recon_03s_baseed_stats": autofill_stats,
+        "manual_reconstruction_review_stage3_file": str(manual_review_path),
+        "manual_reconstruction_review_stage3_rows": len(manual_review_rows),
+        "manual_reconstruction_unresolved_autofill_file": str(unresolved_path),
+        "manual_reconstruction_unresolved_autofill_rows": len(autofill_unresolved_rows),
         "chat_token_strategy": args.chat_token_strategy,
     }
     (out_dir / "summary.json").write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n")

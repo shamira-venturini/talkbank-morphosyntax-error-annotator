@@ -80,6 +80,8 @@ def main() -> None:
             "--reconstruction-mode",
             cfg["reconstruction_mode"],
         ]
+        if cfg["reconstruction_mode"] == "preserve":
+            build_cmd.append("--autofill-recon-03s-baseed")
         run_cmd(build_cmd)
 
         prompt_cmd = [

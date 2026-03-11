@@ -15,6 +15,11 @@
   "rows_dropped_off_schema": 2,
   "rows_holdout": 591,
   "rows_main_after_filters": 9074,
+  "zero_error_reconstruction_sanitation": {
+    "rows_sanitized": 73,
+    "reconstruction_markers_removed": 82,
+    "rows_with_double_colon_removed": 19
+  },
   "split_sizes_stage3": {
     "train": 7698,
     "eval": 689,
@@ -54,6 +59,7 @@
     "Holdout set is excluded from training and intended for generalization diagnostics.",
     "Ambiguous-provenance rows are excluded from non-train splits.",
     "No input overlap is allowed between train and all non-train splits.",
+    "Rows with reconstruction markers but no in-scope error tags are sanitized to unchanged outputs.",
     "The project extension label [* s:r:gc:det] is retained (det, not art)."
   ],
   "train_mixture": {
@@ -63,5 +69,19 @@
     "train_synthetic_ratio_actual": 0.584178
   },
   "reconstruction_mode": "preserve",
+  "autofill_recon_03s_baseed": true,
+  "autofill_recon_03s_baseed_stats": {
+    "m03_filled_occurrences": 117,
+    "rows_changed": 147,
+    "m03_unresolved_label_specific_exclusion": 1,
+    "mbaseed_filled_occurrences": 37,
+    "mbaseed_unresolved_missing_irregular_map": 7,
+    "mbaseed_unresolved_nonalpha": 5,
+    "m03_unresolved_nonalpha": 6
+  },
+  "manual_reconstruction_review_stage3_file": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/experiments/recon_full_comp_preserve/manual_reconstruction_review_stage3.csv",
+  "manual_reconstruction_review_stage3_rows": 316,
+  "manual_reconstruction_unresolved_autofill_file": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/experiments/recon_full_comp_preserve/manual_reconstruction_unresolved_autofill.csv",
+  "manual_reconstruction_unresolved_autofill_rows": 19,
   "chat_token_strategy": "components"
 }
