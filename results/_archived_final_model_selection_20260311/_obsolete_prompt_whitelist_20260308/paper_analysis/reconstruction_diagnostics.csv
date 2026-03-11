@@ -1,0 +1,3 @@
+run_name,experiment,split,rows_total,reconstruction_presence_accuracy,reconstruction_signature_accuracy
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,687,0.967977,0.962154
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,591,0.685279,0.350254

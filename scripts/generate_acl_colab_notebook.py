@@ -55,10 +55,11 @@ This notebook is execution-only. Data composition and splitting are frozen in-re
 - `holdout`: synthetic-only held-out labels for generalization (`++er`, `++est`, `0er`, `0est`)
 - minimal paper-ready results are exported back into the repo under `results/<run_name>`
 
-Default configuration in this notebook is **Experiment 1**:
-- direct Stage-3 (no curriculum)
-- 50/50 real-synthetic train split (prepared in frozen data)
-- support threshold = 20 on confirmatory real splits
+Default configuration in this notebook is the **final deployment retrain**:
+- split package: `experiments/recon_full_comp_preserve`
+- direct Stage-3 (no curriculum), seed 3407
+- compositional prompt + component token inventory + preserve reconstruction
+- save adapter/tokenizer/checkpoints locally and push final artifacts to Hugging Face Hub
 
 ## Statistical reporting policy
 - Confirmatory per-label reporting uses minimum support threshold (`min_label_support_confirmatory`)
@@ -73,7 +74,7 @@ Default configuration in this notebook is **Experiment 1**:
             """#@title 1) Environment setup
 from pathlib import Path
 
-REPO_URL = "https://github.com/shamira-venturini/talkbank-morphosyntax-error-annotator.git"
+REPO_URL = """ + f"\"{repo_url}\"" + """
 REPO_BRANCH = "master"
 REPO_DIR = Path("/content/talkbank-morphosyntax-error-annotator")
 
@@ -99,7 +100,7 @@ from pathlib import Path
 
 @dataclass
 class Config:
-    split_dir: str = "experiments/acl_rr_v1"
+    split_dir: str = "experiments/recon_full_comp_preserve"
     base_model: str = "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit"
     seed: int = 3407
     load_in_4bit: bool = True
@@ -128,17 +129,17 @@ class Config:
     eval_steps: int = 100
     save_steps: int = 100
     logging_steps: int = 20
-    output_root: str = "/content/outputs/acl_rr_exp1_direct_stage3"
-    save_predictions_splits: tuple = ("test_real", "holdout_generalization")
-    save_eval_coverage_predictions: bool = False
+    output_root: str = "/content/outputs/recon_full_comp_preserve_final"
+    save_predictions_splits: tuple = ("eval_real", "test_real", "eval_coverage", "test_coverage", "holdout_generalization")
+    save_eval_coverage_predictions: bool = True
     eval_only_from_hub: bool = False
     hub_eval_repo_id: str = ""
     save_checkpoints_locally: bool = True
     load_best_model_at_end: bool = True
     use_early_stopping: bool = True
-    save_adapter_locally: bool = False
-    save_optimizer_state: bool = False
-    cleanup_local_output_after_run: bool = True
+    save_adapter_locally: bool = True
+    save_optimizer_state: bool = True
+    cleanup_local_output_after_run: bool = False
 
     # Evaluation policy
     min_label_support_confirmatory: int = 20
@@ -148,17 +149,17 @@ class Config:
     bootstrap_seed: int = 3407
 
     # Persistence
-    save_to_drive: bool = True
+    save_to_drive: bool = False
     drive_root: str = "/content/drive/MyDrive/00-09.PhDWORK/Projects/03.02.Year_2/CLAN_annotator/CLAN_annotator_runs"
     save_to_repo_results: bool = True
     repo_results_root: str = "results"
-    push_to_hub: bool = False
+    push_to_hub: bool = True
     push_all_stages: bool = False
-    hf_repo_prefix: str = "mash-mash/clan-annotator-exp1"
+    hf_repo_prefix: str = "mash-mash/talkbank-morphosyntax-annotator-final"
     hf_repo_visibility: str = "private"
     hf_repo_include_run_name: bool = True
     hf_append_stage_suffix: bool = False
-    hf_repo_final_alias: str = ""
+    hf_repo_final_alias: str = "mash-mash/talkbank-morphosyntax-annotator-final"
     git_commit_repo_results: bool = False
     git_push_repo_results: bool = False
     git_branch: str = "master"
@@ -799,7 +800,7 @@ if cfg.cleanup_local_output_after_run:
 
 
 def main() -> None:
-    out_path = resolve_path("experiments/acl_rr_v1/ACL_SFT_CLAN_Llama3_1_8B_ACL.ipynb")
+    out_path = resolve_path("experiments/recon_full_comp_preserve/ACL_SFT_CLAN_Llama3_1_8B_FINAL.ipynb")
     out_path.parent.mkdir(parents=True, exist_ok=True)
     nb = build_notebook(infer_repo_url())
     out_path.write_text(json.dumps(nb, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

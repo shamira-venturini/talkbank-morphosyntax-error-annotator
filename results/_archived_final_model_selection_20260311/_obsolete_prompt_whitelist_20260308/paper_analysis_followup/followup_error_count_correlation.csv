@@ -1,0 +1,15 @@
+run_name,split,error_count_acc_corr,num_error_bins
+acl_rr_exp1_direct_stage3_seed3407,holdout_generalization,,2
+acl_rr_exp1_direct_stage3_seed3407,test_real,-0.7563276714016041,4
+acl_rr_exp2_abs_nonword_seed3407,eval_coverage,-0.9732259013199586,4
+acl_rr_exp2_abs_nonword_seed3407,holdout_generalization,,2
+acl_rr_exp2_abs_nonword_seed3407,test_coverage,-0.8554364283811413,3
+acl_rr_exp2_abs_nonword_seed3407,test_real,-0.2015413699492784,4
+acl_rr_exp2_abs_off_no_recon_seed3407,eval_coverage,-0.9737622844915595,4
+acl_rr_exp2_abs_off_no_recon_seed3407,holdout_generalization,,2
+acl_rr_exp2_abs_off_no_recon_seed3407,test_coverage,-0.7339552674657532,3
+acl_rr_exp2_abs_off_no_recon_seed3407,test_real,-0.19854796484026282,4
+acl_rr_exp2_abs_on_manual_seed3407,holdout_generalization,,2
+acl_rr_exp2_abs_on_manual_seed3407,test_real,-0.7595018195902588,4
+acl_rr_exp4_unseen_tags_seed3407,holdout_generalization,,2
+acl_rr_exp4_unseen_tags_seed3407,test_real,-0.7576020020541843,4

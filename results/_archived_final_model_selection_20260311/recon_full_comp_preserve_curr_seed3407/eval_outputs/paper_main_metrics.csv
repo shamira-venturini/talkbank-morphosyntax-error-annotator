@@ -1,0 +1,6 @@
+split,n,exact_match,micro_f1,ci_low,ci_high,confirmatory_labels,exploratory_labels
+eval_real,689,0.936139,0.806630,0.726665,0.874371,2,19
+test_real,687,0.908297,0.709677,0.627587,0.790254,2,17
+eval_coverage,370,0.772973,0.912807,0.884591,0.940387,36,0
+test_coverage,370,0.775676,0.907859,0.879307,0.934996,36,1
+holdout_generalization,591,0.000000,0.000000,0.000000,0.000000,4,15

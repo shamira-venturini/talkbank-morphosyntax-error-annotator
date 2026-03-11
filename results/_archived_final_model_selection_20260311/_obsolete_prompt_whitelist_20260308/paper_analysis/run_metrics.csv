@@ -1,0 +1,6 @@
+run_name,experiment,system_key,seed,split_dir,split,n,exact_match,micro_f1,macro_f1,ci_low,ci_high,confirmatory_min_support,confirmatory_labels,exploratory_labels
+acl_rr_exp1_direct_stage3_seed3407,exp1,acl_rr_exp1_direct_stage3,3407,experiments/acl_rr_v1,eval_real,689,0.9375907111756169,0.8602150537634409,0.6709215341824037,0.7910117265469062,0.9166407899639796,20,2,18
+acl_rr_exp1_direct_stage3_seed3407,exp1,acl_rr_exp1_direct_stage3,3407,experiments/acl_rr_v1,test_real,687,0.9228529839883551,0.7853403141361257,0.4292049442556542,0.7195480510752688,0.8545875050060072,20,2,15
+acl_rr_exp1_direct_stage3_seed3407,exp1,acl_rr_exp1_direct_stage3,3407,experiments/acl_rr_v1,eval_coverage,370,0.7864864864864864,0.9135802469135803,0.9118079076548139,0.8834019204389575,0.939146554230881,10,36,0
+acl_rr_exp1_direct_stage3_seed3407,exp1,acl_rr_exp1_direct_stage3,3407,experiments/acl_rr_v1,test_coverage,370,0.772972972972973,0.904891304347826,0.9022062443444115,0.8741363114497444,0.9308094225511584,10,36,0
+acl_rr_exp1_direct_stage3_seed3407,exp1,acl_rr_exp1_direct_stage3,3407,experiments/acl_rr_v1,holdout_generalization,591,0.0,0.0,0.0,0.0,0.0,10,4,7

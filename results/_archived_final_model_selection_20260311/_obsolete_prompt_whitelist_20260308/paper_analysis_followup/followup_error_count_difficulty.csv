@@ -1,0 +1,14 @@
+split,error_count,n,acc
+eval_coverage,0,20,1.0
+eval_coverage,1,690,0.8927536231884058
+eval_coverage,2,28,0.39285714285714285
+eval_coverage,3,2,0.0
+holdout_generalization,1,2950,0.0
+holdout_generalization,2,5,0.0
+test_coverage,0,20,0.85
+test_coverage,1,694,0.9063400576368876
+test_coverage,2,26,0.46153846153846156
+test_real,0,3000,0.983
+test_real,1,370,0.8297297297297297
+test_real,2,55,0.18181818181818182
+test_real,3,10,0.7

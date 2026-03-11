@@ -1,0 +1,42 @@
+run_name,experiment,split,gold,pred,count,rate_within_gold,gold_support
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:=ed],[* m:=ed],23,0.884615,26
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:03s:a],[* m:03s:a],22,0.916667,24
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:allo],[* m:allo],11,1.0,11
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* s:r:gc:pro],[* s:r:gc:pro],7,0.777778,9
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* s:r:prep],<none>,2,1.0,2
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* s:r:gc:pro],<none>,2,0.222222,9
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:vsg:a],<none>,1,0.5,2
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* s:r:gc:det],[* m:03s:a],1,0.5,2
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:++ed:i],[* m:++ed:i],1,0.5,2
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:++ed:i],[* m:++ed],1,0.5,2
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:++ed],[* m:++ed],1,1.0,1
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:+ed],<none>,1,1.0,1
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:03s:a],[* s:r:prep],1,0.041667,24
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:03s:a],<none>,1,0.041667,24
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:0ed],[* s:r:gc:pro],1,1.0,1
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:0ing],<none>,1,1.0,1
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:0s:a],<none>,1,1.0,1
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:=ed],[* m:=en],1,0.038462,26
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:=ed],[* m:base:ed],1,0.038462,26
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:=ed],<none>,1,0.038462,26
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:base:ed],<none>,1,0.5,2
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:base:ed],[* m:=ed],1,0.5,2
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:vsg:a],[* m:vsg:a],1,0.5,2
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* m:vun:a],[* m:vun:a],1,1.0,1
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,[* s:r:der],[* m:03s:a],1,1.0,1
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:++est],[* m:base:est],144,1.0,144
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:++er],[* m:base:er],132,0.868421,152
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:0er],<none>,94,0.648276,145
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:0est],<none>,86,0.573333,150
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:0est],[* m:base:est],45,0.3,150
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:0er],[* m:base:er],36,0.248276,145
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:++er],[* s:r:der],14,0.092105,152
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:0est],[* s:r:prep],12,0.08,150
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:0er],[* s:r:prep],11,0.075862,145
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:0est],[* s:r:der],5,0.033333,150
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:0er],[* s:r:der],4,0.027586,145
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:++er],[* m:base:est],3,0.019737,152
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:++er],<none>,2,0.013158,152
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:++er],[* s:r:gc:det],1,0.006579,152
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:0est],[* s:r:gc:det],1,0.006667,150
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,[* m:0est],[* m:base:en],1,0.006667,150

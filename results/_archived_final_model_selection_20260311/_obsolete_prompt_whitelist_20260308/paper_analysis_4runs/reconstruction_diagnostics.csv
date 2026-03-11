@@ -1,0 +1,9 @@
+run_name,experiment,split,rows_total,reconstruction_presence_accuracy,reconstruction_signature_accuracy
+acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,687,0.967977,0.962154
+acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,591,0.685279,0.350254
+acl_rr_exp2_abs_nonword_seed3407,exp3,test_real,687,0.988355,0.988355
+acl_rr_exp2_abs_nonword_seed3407,exp3,holdout_generalization,591,0.715736,0.715736
+acl_rr_exp2_abs_off_no_recon_seed3407,exp3,test_real,687,1.0,1.0
+acl_rr_exp2_abs_off_no_recon_seed3407,exp3,holdout_generalization,591,1.0,1.0
+acl_rr_exp4_unseen_tags_seed3407,exp4,test_real,687,0.96361,0.957787
+acl_rr_exp4_unseen_tags_seed3407,exp4,holdout_generalization,591,0.600677,0.309645
