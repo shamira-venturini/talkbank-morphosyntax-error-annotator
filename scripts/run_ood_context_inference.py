@@ -203,7 +203,7 @@ def prepare_model_and_tokenizer(
 ) -> Tuple[object, object]:
     try:
         from peft import PeftModel
-        from transformers import AutoModelForCausalLM, AutoTokenizer
+        from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
     except ModuleNotFoundError as exc:
         raise RuntimeError(
             "Missing inference dependency. Install required packages first, e.g. "
@@ -211,12 +211,34 @@ def prepare_model_and_tokenizer(
         ) from exc
 
     tokenizer = AutoTokenizer.from_pretrained(base_model, token=hf_token, use_fast=True)
-    model = AutoModelForCausalLM.from_pretrained(
-        base_model,
-        token=hf_token,
-        device_map="auto",
-        load_in_4bit=True,
-    )
+    model_kwargs = {
+        "token": hf_token,
+        "device_map": "auto",
+    }
+    try:
+        import torch
+
+        compute_dtype = torch.float16
+        if torch.cuda.is_available():
+            major_cc, _ = torch.cuda.get_device_capability()
+            if major_cc >= 8:
+                compute_dtype = torch.bfloat16
+
+        model_kwargs["quantization_config"] = BitsAndBytesConfig(
+            load_in_4bit=True,
+            bnb_4bit_quant_type="nf4",
+            bnb_4bit_use_double_quant=True,
+            bnb_4bit_compute_dtype=compute_dtype,
+        )
+        model = AutoModelForCausalLM.from_pretrained(base_model, **model_kwargs)
+    except TypeError:
+        # Compatibility fallback for older transformers that still expect load_in_4bit.
+        model_kwargs.pop("quantization_config", None)
+        model = AutoModelForCausalLM.from_pretrained(
+            base_model,
+            **model_kwargs,
+            load_in_4bit=True,
+        )
 
     extra_tokens = json.loads(chat_tokens_path.read_text(encoding="utf-8"))
     extra_tokens = list(dict.fromkeys(extra_tokens))
