@@ -5,7 +5,7 @@ import csv
 import json
 import re
 from pathlib import Path
-from statistics import mean
+from statistics import mean, median
 from typing import Dict, Iterable, List
 
 from common import resolve_path
@@ -37,6 +37,12 @@ def parse_args() -> argparse.Namespace:
         "--out-dir",
         default="results/ood_vercellotti/context_analysis",
         help="Output directory.",
+    )
+    parser.add_argument(
+        "--changed-only",
+        action="store_true",
+        default=False,
+        help="Restrict statistical comparisons to rows whose decoded outputs differ from baseline.",
     )
     return parser.parse_args()
 
@@ -97,6 +103,63 @@ def is_finite(x: float) -> bool:
     return not (x != x)
 
 
+def exact_two_sided_sign_test(pos_count: int, neg_count: int) -> float:
+    n = pos_count + neg_count
+    if n == 0:
+        return float("nan")
+    try:
+        from scipy.stats import binomtest
+
+        return float(binomtest(pos_count, n=n, p=0.5, alternative="two-sided").pvalue)
+    except Exception:
+        # Normal approximation fallback when scipy is unavailable.
+        import math
+
+        expected = n / 2.0
+        variance = n / 4.0
+        if variance == 0:
+            return float("nan")
+        z = (abs(pos_count - expected) - 0.5) / math.sqrt(variance)
+        cdf = 0.5 * (1.0 + math.erf(z / math.sqrt(2.0)))
+        return max(0.0, min(1.0, 2.0 * (1.0 - cdf)))
+
+
+def paired_stats(baseline_values: List[float], mode_values: List[float]) -> Dict[str, float]:
+    paired = [
+        (base, alt)
+        for base, alt in zip(baseline_values, mode_values)
+        if is_finite(base) and is_finite(alt)
+    ]
+    if not paired:
+        return {
+            "n_pairs": 0,
+            "baseline_mean": float("nan"),
+            "mode_mean": float("nan"),
+            "mean_delta": float("nan"),
+            "median_delta": float("nan"),
+            "positive_delta_count": 0,
+            "negative_delta_count": 0,
+            "zero_delta_count": 0,
+            "sign_test_pvalue": float("nan"),
+        }
+
+    deltas = [alt - base for base, alt in paired]
+    pos_count = sum(1 for d in deltas if d > 0)
+    neg_count = sum(1 for d in deltas if d < 0)
+    zero_count = len(deltas) - pos_count - neg_count
+    return {
+        "n_pairs": len(deltas),
+        "baseline_mean": mean(base for base, _ in paired),
+        "mode_mean": mean(alt for _, alt in paired),
+        "mean_delta": mean(deltas),
+        "median_delta": median(deltas),
+        "positive_delta_count": pos_count,
+        "negative_delta_count": neg_count,
+        "zero_delta_count": zero_count,
+        "sign_test_pvalue": exact_two_sided_sign_test(pos_count, neg_count),
+    }
+
+
 def main() -> None:
     args = parse_args()
     pred_dir = resolve_path(args.predictions_dir)
@@ -151,6 +214,7 @@ def main() -> None:
     # Pairwise vs baseline
     baseline = by_mode_lookup[args.baseline_mode]
     pairwise_rows: List[Dict] = []
+    paired_uncertainty_rows: List[Dict] = []
     changed_items: List[Dict] = []
     review_rows: List[Dict] = []
 
@@ -160,10 +224,8 @@ def main() -> None:
 
         exact_changes = 0
         tagset_changes = 0
-        baseline_unc = []
-        mode_unc = []
-        baseline_unc_changed = []
-        mode_unc_changed = []
+        uncertainty_pairs = {field: {"baseline": [], "mode": []} for field in UNCERTAINTY_FIELDS}
+        uncertainty_pairs_changed = {field: {"baseline": [], "mode": []} for field in UNCERTAINTY_FIELDS}
 
         for rid in shared_row_ids:
             base = baseline[rid]
@@ -178,16 +240,15 @@ def main() -> None:
             if not same_tagset:
                 tagset_changes += 1
 
-            base_u = maybe_float(base.get("uncertainty_mean_token_logprob"))
-            alt_u = maybe_float(alt.get("uncertainty_mean_token_logprob"))
-            if is_finite(base_u):
-                baseline_unc.append(base_u)
-            if is_finite(alt_u):
-                mode_unc.append(alt_u)
-            if changed and is_finite(base_u):
-                baseline_unc_changed.append(base_u)
-            if changed and is_finite(alt_u):
-                mode_unc_changed.append(alt_u)
+            for field in UNCERTAINTY_FIELDS:
+                base_u = maybe_float(base.get(field))
+                alt_u = maybe_float(alt.get(field))
+                if is_finite(base_u) and is_finite(alt_u):
+                    uncertainty_pairs[field]["baseline"].append(base_u)
+                    uncertainty_pairs[field]["mode"].append(alt_u)
+                    if changed:
+                        uncertainty_pairs_changed[field]["baseline"].append(base_u)
+                        uncertainty_pairs_changed[field]["mode"].append(alt_u)
 
             if changed:
                 changed_items.append(
@@ -225,6 +286,12 @@ def main() -> None:
                 )
 
         n = len(shared_row_ids)
+        summary_field = "uncertainty_mean_token_logprob"
+        source_pairs = uncertainty_pairs_changed if args.changed_only else uncertainty_pairs
+        summary_stats = paired_stats(
+            source_pairs[summary_field]["baseline"],
+            source_pairs[summary_field]["mode"],
+        )
         pairwise_rows.append(
             {
                 "baseline_mode": args.baseline_mode,
@@ -234,18 +301,41 @@ def main() -> None:
                 "exact_change_rate": exact_changes / n if n else 0.0,
                 "tagset_change_count": tagset_changes,
                 "tagset_change_rate": tagset_changes / n if n else 0.0,
-                "baseline_mean_token_logprob_mean": safe_mean(baseline_unc),
-                "mode_mean_token_logprob_mean": safe_mean(mode_unc),
-                "delta_mean_token_logprob": safe_mean(mode_unc) - safe_mean(baseline_unc)
-                if baseline_unc and mode_unc
-                else float("nan"),
-                "changed_only_baseline_mean_token_logprob_mean": safe_mean(baseline_unc_changed),
-                "changed_only_mode_mean_token_logprob_mean": safe_mean(mode_unc_changed),
-                "changed_only_delta_mean_token_logprob": safe_mean(mode_unc_changed) - safe_mean(baseline_unc_changed)
-                if baseline_unc_changed and mode_unc_changed
-                else float("nan"),
+                "paired_subset": "changed_only" if args.changed_only else "all_rows",
+                "baseline_mean_token_logprob_mean": summary_stats["baseline_mean"],
+                "mode_mean_token_logprob_mean": summary_stats["mode_mean"],
+                "delta_mean_token_logprob": summary_stats["mean_delta"],
+                "delta_mean_token_logprob_median": summary_stats["median_delta"],
+                "delta_mean_token_logprob_sign_test_pvalue": summary_stats["sign_test_pvalue"],
+                "delta_mean_token_logprob_positive_count": summary_stats["positive_delta_count"],
+                "delta_mean_token_logprob_negative_count": summary_stats["negative_delta_count"],
+                "delta_mean_token_logprob_zero_count": summary_stats["zero_delta_count"],
+                "delta_mean_token_logprob_n_pairs": summary_stats["n_pairs"],
             }
         )
+
+        for field in UNCERTAINTY_FIELDS:
+            stats = paired_stats(
+                source_pairs[field]["baseline"],
+                source_pairs[field]["mode"],
+            )
+            paired_uncertainty_rows.append(
+                {
+                    "baseline_mode": args.baseline_mode,
+                    "mode": mode,
+                    "paired_subset": "changed_only" if args.changed_only else "all_rows",
+                    "uncertainty_field": field,
+                    "n_pairs": stats["n_pairs"],
+                    "baseline_mean": stats["baseline_mean"],
+                    "mode_mean": stats["mode_mean"],
+                    "mean_delta": stats["mean_delta"],
+                    "median_delta": stats["median_delta"],
+                    "positive_delta_count": stats["positive_delta_count"],
+                    "negative_delta_count": stats["negative_delta_count"],
+                    "zero_delta_count": stats["zero_delta_count"],
+                    "sign_test_pvalue": stats["sign_test_pvalue"],
+                }
+            )
 
     write_csv(
         out_dir / "pairwise_vs_baseline.csv",
@@ -258,12 +348,35 @@ def main() -> None:
             "exact_change_rate",
             "tagset_change_count",
             "tagset_change_rate",
+            "paired_subset",
             "baseline_mean_token_logprob_mean",
             "mode_mean_token_logprob_mean",
             "delta_mean_token_logprob",
-            "changed_only_baseline_mean_token_logprob_mean",
-            "changed_only_mode_mean_token_logprob_mean",
-            "changed_only_delta_mean_token_logprob",
+            "delta_mean_token_logprob_median",
+            "delta_mean_token_logprob_sign_test_pvalue",
+            "delta_mean_token_logprob_positive_count",
+            "delta_mean_token_logprob_negative_count",
+            "delta_mean_token_logprob_zero_count",
+            "delta_mean_token_logprob_n_pairs",
+        ],
+    )
+    write_csv(
+        out_dir / "uncertainty_paired_tests.csv",
+        paired_uncertainty_rows,
+        [
+            "baseline_mode",
+            "mode",
+            "paired_subset",
+            "uncertainty_field",
+            "n_pairs",
+            "baseline_mean",
+            "mode_mean",
+            "mean_delta",
+            "median_delta",
+            "positive_delta_count",
+            "negative_delta_count",
+            "zero_delta_count",
+            "sign_test_pvalue",
         ],
     )
 
@@ -315,6 +428,7 @@ def main() -> None:
         "outputs": {
             "context_mode_summary_csv": str(out_dir / "context_mode_summary.csv"),
             "pairwise_vs_baseline_csv": str(out_dir / "pairwise_vs_baseline.csv"),
+            "uncertainty_paired_tests_csv": str(out_dir / "uncertainty_paired_tests.csv"),
             "changed_items_csv": str(out_dir / "changed_items.csv"),
             "manual_review_changed_outputs_csv": str(out_dir / "manual_review_changed_outputs.csv"),
         },

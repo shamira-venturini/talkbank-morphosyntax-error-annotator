@@ -1,3 +1,0 @@
-run_name,experiment,split,syntax_candidate_total,syntax_valid_total,syntax_invalid_total,syntax_validity_rate,invalid_label_rate
-acl_rr_exp1_direct_stage3_seed3407,exp1,test_real,95,95,0,1.0,0.0
-acl_rr_exp1_direct_stage3_seed3407,exp1,holdout_generalization,410,410,0,1.0,0.0

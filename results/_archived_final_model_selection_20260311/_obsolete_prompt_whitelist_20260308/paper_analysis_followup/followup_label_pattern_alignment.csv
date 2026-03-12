@@ -1,6 +1,0 @@
-run_name,metric,n_overlap_labels,pearson,spearman
-acl_rr_exp1_direct_stage3_seed3407,f1,2,,
-acl_rr_exp2_abs_nonword_seed3407,f1,2,,
-acl_rr_exp2_abs_off_no_recon_seed3407,f1,2,,
-acl_rr_exp2_abs_on_manual_seed3407,f1,2,,
-acl_rr_exp4_unseen_tags_seed3407,f1,2,,

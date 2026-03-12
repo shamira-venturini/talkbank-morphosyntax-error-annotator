@@ -1,7 +1,0 @@
-seed,system,split,n,exact_match,micro_f1
-3407,nonword_only,test_real,687,0.9374090247452693,0.7872340425531914
-3407,preserve,test_real,687,0.9228529839883551,0.7936507936507936
-3407,nonword_only,test_coverage,370,0.845945945945946,0.9024390243902438
-3407,preserve,test_coverage,370,0.7837837837837838,0.904891304347826
-3407,nonword_only,holdout_generalization,591,0.0,0.0
-3407,preserve,holdout_generalization,591,0.0,0.0

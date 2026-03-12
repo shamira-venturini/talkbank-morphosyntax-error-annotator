@@ -1,7 +1,0 @@
-run_name,gold_primary_tag,real,synthetic,real_n,synthetic_n,diff_syn_minus_real,weight
-acl_rr_exp2_abs_nonword_seed3407,[* m:03s:a],0.9166666666666666,0.8,24.0,10.0,-0.11666666666666659,15.491933384829668
-acl_rr_exp2_abs_nonword_seed3407,[* m:=ed],0.8076923076923077,0.6,26.0,10.0,-0.20769230769230773,16.1245154965971
-acl_rr_exp2_abs_nonword_seed3407,[* m:allo],1.0,0.7,11.0,10.0,-0.30000000000000004,10.488088481701515
-acl_rr_exp2_abs_off_no_recon_seed3407,[* m:03s:a],0.875,0.6,24.0,10.0,-0.275,15.491933384829668
-acl_rr_exp2_abs_off_no_recon_seed3407,[* m:=ed],0.8076923076923077,0.7,26.0,10.0,-0.10769230769230775,16.1245154965971
-acl_rr_exp2_abs_off_no_recon_seed3407,[* m:allo],1.0,0.6,11.0,10.0,-0.4,10.488088481701515

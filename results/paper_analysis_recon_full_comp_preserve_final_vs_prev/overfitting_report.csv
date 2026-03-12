@@ -1,5 +1,0 @@
-run_name,experiment,system_key,seed,split_pair,eval_split,test_split,eval_micro_f1,test_micro_f1,micro_f1_gap,eval_exact_match,test_exact_match,exact_match_gap,micro_gap_flag_ge_0_05,micro_gap_flag_ge_0_10
-recon_full_comp_preserve_final_seed3407,unknown,recon_full_comp_preserve_final,3407,real_eval_to_real_test,eval_real,test_real,0.89011,0.804348,0.085762,0.953556,0.935953,0.017602,1,0
-recon_full_comp_preserve_final_seed3407,unknown,recon_full_comp_preserve_final,3407,coverage_eval_to_coverage_test,eval_coverage,test_coverage,0.902606,0.932065,-0.029459,0.824324,0.827027,-0.002703,0,0
-recon_full_comp_preserve_seed3407,unknown,recon_full_comp_preserve,3407,real_eval_to_real_test,eval_real,test_real,0.861878,0.811111,0.050767,0.940493,0.922853,0.01764,1,0
-recon_full_comp_preserve_seed3407,unknown,recon_full_comp_preserve,3407,coverage_eval_to_coverage_test,eval_coverage,test_coverage,0.913343,0.927497,-0.014154,0.783784,0.794595,-0.010811,0,0

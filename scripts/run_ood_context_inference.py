@@ -175,7 +175,7 @@ def build_augmented_input(
     else:
         raise ValueError(f"Unknown context_mode: {context_mode}")
 
-    context_text = clip_context(context_text, max_context_chars=max_context_chars)
+    context_text = clip_context(context_text, max_chars=max_context_chars)
 
     if context_mode == "utterance_only":
         input_text = row["input"]
@@ -203,42 +203,52 @@ def prepare_model_and_tokenizer(
 ) -> Tuple[object, object]:
     try:
         from peft import PeftModel
-        from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+        from transformers import AutoModelForCausalLM, AutoTokenizer
+        try:
+            from transformers import BitsAndBytesConfig
+        except ImportError:
+            BitsAndBytesConfig = None
     except ModuleNotFoundError as exc:
         raise RuntimeError(
             "Missing inference dependency. Install required packages first, e.g. "
             "`pip install transformers peft bitsandbytes accelerate`."
         ) from exc
 
-    tokenizer = AutoTokenizer.from_pretrained(base_model, token=hf_token, use_fast=True)
-    model_kwargs = {
-        "token": hf_token,
-        "device_map": "auto",
-    }
+    def load_with_auth(loader, model_id: str, **kwargs):
+        if hf_token:
+            try:
+                return loader.from_pretrained(model_id, token=hf_token, **kwargs)
+            except TypeError:
+                return loader.from_pretrained(model_id, use_auth_token=hf_token, **kwargs)
+        return loader.from_pretrained(model_id, **kwargs)
+
+    tokenizer = load_with_auth(AutoTokenizer, base_model, use_fast=True)
+    model_kwargs = {"device_map": "auto"}
+    model = None
     try:
         import torch
 
-        compute_dtype = torch.float16
-        if torch.cuda.is_available():
-            major_cc, _ = torch.cuda.get_device_capability()
-            if major_cc >= 8:
-                compute_dtype = torch.bfloat16
+        if BitsAndBytesConfig is not None:
+            compute_dtype = torch.float16
+            if torch.cuda.is_available():
+                major_cc, _ = torch.cuda.get_device_capability()
+                if major_cc >= 8:
+                    compute_dtype = torch.bfloat16
 
-        model_kwargs["quantization_config"] = BitsAndBytesConfig(
-            load_in_4bit=True,
-            bnb_4bit_quant_type="nf4",
-            bnb_4bit_use_double_quant=True,
-            bnb_4bit_compute_dtype=compute_dtype,
-        )
-        model = AutoModelForCausalLM.from_pretrained(base_model, **model_kwargs)
-    except TypeError:
+            q_kwargs = dict(model_kwargs)
+            q_kwargs["quantization_config"] = BitsAndBytesConfig(
+                load_in_4bit=True,
+                bnb_4bit_quant_type="nf4",
+                bnb_4bit_use_double_quant=True,
+                bnb_4bit_compute_dtype=compute_dtype,
+            )
+            model = load_with_auth(AutoModelForCausalLM, base_model, **q_kwargs)
+    except Exception:
+        model = None
+
+    if model is None:
         # Compatibility fallback for older transformers that still expect load_in_4bit.
-        model_kwargs.pop("quantization_config", None)
-        model = AutoModelForCausalLM.from_pretrained(
-            base_model,
-            **model_kwargs,
-            load_in_4bit=True,
-        )
+        model = load_with_auth(AutoModelForCausalLM, base_model, **model_kwargs, load_in_4bit=True)
 
     extra_tokens = json.loads(chat_tokens_path.read_text(encoding="utf-8"))
     extra_tokens = list(dict.fromkeys(extra_tokens))
@@ -247,7 +257,13 @@ def prepare_model_and_tokenizer(
         if added > 0:
             model.resize_token_embeddings(len(tokenizer))
 
-    model = PeftModel.from_pretrained(model, adapter_repo, token=hf_token)
+    if hf_token:
+        try:
+            model = PeftModel.from_pretrained(model, adapter_repo, token=hf_token)
+        except TypeError:
+            model = PeftModel.from_pretrained(model, adapter_repo, use_auth_token=hf_token)
+    else:
+        model = PeftModel.from_pretrained(model, adapter_repo)
     model.eval()
     return tokenizer, model
 

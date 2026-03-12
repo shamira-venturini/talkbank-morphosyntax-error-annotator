@@ -1,6 +1,0 @@
-run_name,experiment,split,syntax_candidate_total,syntax_valid_total,syntax_invalid_total,syntax_validity_rate,invalid_label_rate
-recon_full_comp_preserve_final_seed3407,unknown,test_real,88,88,0,1.0,0.0
-recon_full_comp_preserve_final_seed3407,unknown,test_coverage,363,363,0,1.0,0.0
-recon_full_comp_preserve_final_seed3407,unknown,holdout_generalization,330,330,0,1.0,0.0
-recon_full_comp_preserve_seed3407,unknown,test_real,85,85,0,1.0,0.0
-recon_full_comp_preserve_seed3407,unknown,holdout_generalization,358,358,0,1.0,0.103352

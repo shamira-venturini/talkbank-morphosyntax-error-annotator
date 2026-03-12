@@ -1,5 +1,0 @@
-support_bucket,labels_with_eval_support,total_eval_support,mean_delta_recon_mini_preserve_seed3407_minus_recon_mini_nonwordonly_seed3407,weighted_delta_recon_mini_preserve_seed3407_minus_recon_mini_nonwordonly_seed3407
-mixed,16,168,-0.016198,-0.008715
-real_only,0,0,0.0,0.0
-synthetic_only,20,203,-0.015271,-0.015642
-unseen,0,0,0.0,0.0

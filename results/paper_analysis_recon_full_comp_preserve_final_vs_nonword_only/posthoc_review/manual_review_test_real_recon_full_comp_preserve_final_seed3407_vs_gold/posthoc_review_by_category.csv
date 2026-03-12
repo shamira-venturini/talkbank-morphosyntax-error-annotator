@@ -1,6 +1,0 @@
-source,original_category,n,correct_count,correct_rate,incorrect_count,incorrect_rate,ambiguous_count,ambiguous_rate,unsure_count,unsure_rate,unscored_count,unscored_rate,invalid_multiple_count,invalid_multiple_rate
-gold,gold_reference,44,33,0.75,6,0.136364,0,0.0,0,0.0,0,0.0,5,0.113636
-recon_full_comp_preserve_final_seed3407,false_negative,12,1,0.083333,8,0.666667,0,0.0,0,0.0,0,0.0,3,0.25
-recon_full_comp_preserve_final_seed3407,false_positive,5,4,0.8,0,0.0,0,0.0,0,0.0,0,0.0,1,0.2
-recon_full_comp_preserve_final_seed3407,other_clean_mismatch,10,8,0.8,0,0.0,0,0.0,0,0.0,0,0.0,2,0.2
-recon_full_comp_preserve_final_seed3407,wrong_label,17,13,0.764706,0,0.0,0,0.0,0,0.0,0,0.0,4,0.235294
