@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/t-00010117-1
+@Begin
+@Languages:	eng
+@Participants:	1075 Student
+@ID:	eng|Vercellotti|1075|||1||Student|level4||
+@Media:	1075_3F1, audio
+@Transcriber:	jms
+*1075:	the topic is describe your favorite meal from your childhood . 3718_7780
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S pron|your-Prs-Gen-S2 adj|favorite-S1 noun|meal-Acc adp|from pron|your-Prs-Gen-S2 noun|childhood .
+%gra:	1|2|DET 2|4|NSUBJ-OUTER 3|4|AUX 4|0|ROOT 5|7|NMOD-POSS 6|7|AMOD 7|4|OBJ 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|4|PUNCT
+*1075:	however I would like to explain my favorite dishes <which is> [/] &~a &-uh which is &-uh egg with cheese sandwiches . 8260_19324
+%mor:	adv|however pron|I-Prs-Nom-S1 aux|would-Fin-S verb|like-Inf-S part|to verb|explain-Inf-S pron|my-Prs-Gen-S1 adj|favorite-S1 noun|dish-Plur-Acc pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 noun|egg adp|with noun|cheese noun|sandwich-Plur .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|NMOD-POSS 8|9|AMOD 9|6|OBJ 10|12|NSUBJ 11|12|COP 12|9|ACL-RELCL 13|15|CASE 14|15|COMPOUND 15|12|NMOD 16|4|PUNCT
+*1075:	&-uh for this dishes <we hafta> [/] &~mak ah we hafta [/] &-uh &~t to [/] ah to get some [/] &-uh ah some [/] &-uh some ingredient . 19577_29291
+%mor:	adp|for det|this-Def-Dem-Sing noun|dish-Plur intj|ah pron|we-Prs-Nom-P1 verb|ah-Fin-Ind-Pres-P1 part|to verb|get-Inf-S intj|ah det|some-Def-Ind noun|ingredient-Acc .
+%gra:	1|3|CASE 2|3|DET 3|6|OBL 4|6|DISCOURSE 5|6|NSUBJ 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|8|DISCOURSE 10|11|DET 11|8|OBJ 12|6|PUNCT
+*1075:	that is two egg on:e american cheese and <&~litl of &~sa> [//] &-uh &~d little sauce for [/] &-uh &~f for taste and &-uh the main thing which is oil . 30972_42411
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-S3 num|two noun|egg num|one adj|American-S1 noun|cheese cconj|and adj|little-S1 noun|sauce adp|for noun|taste cconj|and det|the-Def-Art adj|main-S1 noun|thing-Ger pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 noun|oil .
+%gra:	1|7|NSUBJ 2|7|COP 3|4|NUMMOD 4|7|COMPOUND 5|7|NUMMOD 6|7|AMOD 7|0|ROOT 8|10|CC 9|10|AMOD 10|7|CONJ 11|12|CASE 12|7|NMOD 13|16|CC 14|16|DET 15|16|AMOD 16|7|CONJ 17|19|NSUBJ 18|19|COP 19|16|ACL-RELCL 20|7|PUNCT
+*1075:	&~wil we'll crush the &~boi &-uh eggs . 43716_46885
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|crush-Inf-S det|the-Def-Art noun|egg-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*1075:	and we'll mix it together with the salt . 46885_49137
+%mor:	cconj|and pron|we-Prs-Nom-P1~aux|will-Fin-S verb|mix-Inf-S pron|it-Prs-Acc-S3 adv|together adp|with det|the-Def-Art noun|salt .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|ADVMOD 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+*1075:	and we &-uh put it [//] ah &-uh oil on it . 49855_53685
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|put-Fin-Ind-Past-P1-irr intj|ah noun|oil-Acc adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DISCOURSE 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+*1075:	and we [//] we'll put the all of them in the pan . 53685_57555
+%mor:	cconj|and pron|we-Prs-Nom-P1~aux|will-Fin-S verb|put-Inf-S det|the-Def-Art det|all-Def-Tot adp|of pron|they-Prs-Acc-P3 adp|in det|the-Def-Art noun|pan .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|11|CASE 10|11|DET 11|4|OBL 12|4|PUNCT
+*1075:	in [///] &~wo when we make it <we have> [/] we have &~ta to check the eggs . 58028_62536
+%mor:	adv|when pron|we-Prs-Nom-P1 verb|make-Fin-Ind-Pres-P1 pron|it-Prs-Acc-S3 pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 part|to verb|check-Inf-S det|the-Def-Art noun|egg-Plur-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ADVCL 4|3|OBJ 5|6|NSUBJ 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|OBJ 11|6|PUNCT
+*1075:	we hafta put it down [//] ah &~da ah ah up and down and down an(d) up &-uh &~toa to [/] to be well done . 64212_72220
+%mor:	pron|we-Prs-Nom-P1 aux|hafta-Fin-Ind-Pres-P1 verb|put-Fin-Pres-S1 pron|it-Prs-Acc-S3 intj|ah intj|ah intj|ah adv|up cconj|and adv|down cconj|and adv|down cconj|and adp|up part|to aux|be-Inf-S adv|well verb|do-Part-Past-S-irr .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|DISCOURSE 6|3|DISCOURSE 7|3|DISCOURSE 8|3|ADVMOD 9|10|CC 10|8|CONJ 11|12|CC 12|8|CONJ 13|14|CC 14|12|CONJ 15|18|MARK 16|18|AUX-PASS 17|18|ADVMOD 18|14|ADVCL 19|3|PUNCT
+*1075:	after that we hafta put it the: cheese which is &-uh come ah like &-uh &~hot hot cheese <with the hot> [/] &-uh &~cha &-uh &~wi <with the hot> [/] &-uh &-uh with the hot egg . 72220_85615
+%mor:	adp|after pron|that-Dem pron|we-Prs-Nom-P1 aux|hafta-Fin-Ind-Pres-P1 verb|put-Fin-Ind-Pres-P1 pron|it-Prs-Acc-S3 det|the-Def-Art noun|cheese-Acc pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|come-Part-Past-S-irr intj|ah adp|like adj|hot-S1 noun|cheese adp|with det|the-Def-Art adj|hot-S1 noun|egg .
+%gra:	1|2|CASE 2|5|OBL 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|DET 8|5|OBJ 9|11|NSUBJ 10|11|AUX-PASS 11|8|ACL-RELCL 12|15|DISCOURSE 13|15|CASE 14|15|AMOD 15|11|OBL 16|19|CASE 17|19|DET 18|19|AMOD 19|15|NMOD 20|5|PUNCT
+*1075:	this my favorite dishes .
+%mor:	pron|this-Dem-S1 pron|my-Prs-Gen-S1 adj|favorite-S1 noun|dish-Plur .
+%gra:	1|4|NSUBJ 2|4|NMOD-POSS 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*1075:	<my mother> [//] I [/] &~real I remember that my mother she useta do that every day for me . 90100_94414
+%mor:	pron|I-Prs-Nom-S1 verb|remember-Fin-Ind-Pres-S1 sconj|that pron|my-Prs-Gen-S1 noun|mother pron|she-Prs-Nom-S3 noun|useta verb|do-Fin-Ind-Pres-S3 pron|that-Dem det|every-Def-Tot noun|day adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|8|MARK 4|5|NMOD-POSS 5|8|NSUBJ 6|7|COMPOUND 7|5|APPOS 8|2|CCOMP 9|8|OBJ 10|11|DET 11|8|OBL-UNMARKED 12|13|CASE 13|8|OBL 14|2|PUNCT
+*1075:	this is my breakfast .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|breakfast .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|0|ROOT 5|4|PUNCT
+*1075:	it was &~jus each of the &~vitamina ah vitamins and [/] &-uh &~a and help me full to start my wonderful breakfast . 100308_108620
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|each-Def-Tot adp|of det|the-Def-Art noun|ah noun|vitamin-Plur cconj|and verb|help-Inf-S pron|I-Prs-Acc-S1 adj|full-S1 part|to verb|start-Inf-S pron|my-Prs-Gen-S1 adj|wonderful-S1 noun|breakfast-Acc .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|NMOD 8|9|CC 9|3|CONJ 10|9|OBJ 11|9|XCOMP 12|13|MARK 13|11|ADVCL 14|16|NMOD-POSS 15|16|AMOD 16|13|OBJ 17|3|PUNCT
+*1075:	&-uh unlike now when I do this dishes I do it ah individually . 109276_114182
+%mor:	adp|unlike adv|now adv|when pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1 det|this-Def-Dem-Sing noun|dish-Plur-Acc pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 intj|ah adv|individually .
+%gra:	1|2|CASE 2|9|OBL 3|5|ADVMOD 4|5|NSUBJ 5|9|ADVCL 6|7|DET 7|5|OBJ 8|9|NSUBJ 9|0|ROOT 10|9|OBJ 11|9|DISCOURSE 12|9|ADVMOD 13|9|PUNCT
+*1075:	&-uh <this is a> [//] &~ha &-uh &~th this is my opinion when I get . 114860_120191
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|opinion adv|when pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|0|ROOT 5|7|ADVMOD 6|7|NSUBJ 7|4|ADVCL 8|4|PUNCT
+@End

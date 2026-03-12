@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/t-00010139-1
+@Begin
+@Languages:	eng
+@Participants:	1085 Student
+@ID:	eng|Vercellotti|1085|||2||Student|level4||
+@Media:	1085_3F2, audio
+@Transcriber:	mlv
+*1085:	in my country there [/] &~ha <there has> [//] &~ha there &~ha have many cars bicycles motorcycles and people . 2703_16658
+%mor:	adp|in pron|my-Prs-Gen-S1 noun|country pron|there-Int-S1 verb|have-Fin-Ind-Pres-P3 adj|many-S1 noun|car-Plur noun|bicycle-Plur noun|motorcycle-Plur cconj|and noun|person-Plur .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|5|OBL 4|5|EXPL 5|0|ROOT 6|7|AMOD 7|5|NSUBJ 8|9|COMPOUND 9|5|NSUBJ 10|11|CC 11|9|CONJ 12|5|PUNCT
+*1085:	there <they made> [//] the(y) ma(k)e much air pollution . 17167_23160
+%mor:	adv|there pron|they-Prs-Nom-P3 verb|make-Fin-Ind-Pres-P3 adj|much-S1 noun|air noun|pollution-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|6|AMOD 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+*1085:	the environment is bad . 23772_29418
+%mor:	det|the-Def-Art noun|environment aux|be-Fin-Ind-Pres-S3 adj|bad-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*1085:	an(d) they require many &~ka &-uh parking space in my country . 29801_42208
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|require-Fin-Ind-Pres-P3 adj|many-S1 noun|parking-Ger noun|space-Acc adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|AMOD 5|6|COMPOUND 6|3|OBJ 7|9|CASE 8|9|NMOD-POSS 9|3|OBL 10|3|PUNCT
+*1085:	in Pittsburgh there also has many cars an(d) people . 43296_54769
+%mor:	adp|in propn|Pittsburgh adv|there adv|also verb|have-Fin-Ind-Pres-S3 adj|many-S1 noun|car-Plur-Acc cconj|and noun|person-Plur .
+%gra:	1|2|CASE 2|5|OBL 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|7|AMOD 7|5|OBJ 8|9|CC 9|7|CONJ 10|5|PUNCT
+*1085:	&~a <they also> [//] need [//] they also require many parking space . 54996_64233
+%mor:	pron|they-Prs-Nom-P3 adv|also verb|require-Fin-Ind-Pres-P3 adj|many-S1 noun|parking-Ger noun|space-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|AMOD 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+*1085:	but the &~envo &~environmen environment is better than my country . 64765_77011
+%mor:	cconj|but det|the-Def-Art noun|environment aux|be-Fin-Ind-Pres-S3 adj|good-Cmp-S1 adp|than pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|5|PUNCT
+*1085:	an(d) [/] &-uh &~ha and in Pittsburgh there has many cars also make &-uh much air pollution . 77824_112098
+%mor:	cconj|and adp|in propn|Pittsburgh pron|there-Int-S1 verb|have-Fin-Ind-Pres-S3 adj|many-S1 noun|car-Plur adv|also verb|make-Inf-S adj|much-S1 noun|air noun|pollution-Acc .
+%gra:	1|5|CC 2|3|CASE 3|5|OBL 4|5|EXPL 5|0|ROOT 6|7|AMOD 7|5|NSUBJ 8|9|ADVMOD 9|5|XCOMP 10|12|AMOD 11|12|COMPOUND 12|9|OBJ 13|5|PUNCT
+@End

@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/a-00062596-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1351_4Q3, audio
+*PAR0:	my topic is about describing a famous person from the past . 800_6560
+%mor:	pron|my-Prs-Gen-S1 noun|topic aux|be-Fin-Ind-Pres-S3 sconj|about verb|describe-Part-Pres-S det|a-Ind-Art adj|famous-S1 noun|person-Acc adp|from det|the-Def-Art noun|past .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ-OUTER 3|5|COP 4|5|MARK 5|0|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|11|CASE 10|11|DET 11|8|NMOD 12|5|PUNCT
+*PAR0:	could be from my country or another country . 7400_9520
+%mor:	aux|could-Fin-S aux|be-Inf-S adp|from pron|my-Prs-Gen-S1 noun|country cconj|or det|another-Def-Ind noun|country .
+%gra:	1|5|AUX 2|5|COP 3|5|CASE 4|5|NMOD-POSS 5|0|ROOT 6|8|CC 7|8|DET 8|5|CONJ 9|5|PUNCT
+*PAR0:	the famous person from the past &-uh was &-uh like a father to me . 10680_16160
+%mor:	det|the-Def-Art adj|famous-S1 noun|person adp|from det|the-Def-Art noun|past aux|be-Fin-Ind-Past-S3-irr adp|like det|a-Ind-Art noun|father adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|10|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|10|COP 8|10|CASE 9|10|DET 10|0|ROOT 11|12|CASE 12|10|NMOD 13|10|PUNCT
+*PAR0:	he achieved many things with &-uh my country . 17600_20120
+%mor:	pron|he-Prs-Nom-S3 verb|achieve-Fin-Ind-Past-S3 adj|many-S1 noun|thing-Plur-Acc adp|with pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|2|PUNCT
+*PAR0:	and &-uh he is more than a king to the country . 22280_24850
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|more-Cmp-S1 adp|than det|a-Ind-Art noun|king-Ger adp|to det|the-Def-Art noun|country .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|7|NMOD 11|4|PUNCT
+*PAR0:	his this person names is &-uh she Jabber Asaba &-uh he took &-uh he took he [/] he had been <the king> [/] the king of Kuwait from [/] from &-uh a young age . 26040_37550
+%mor:	pron|his-Prs-S3 det|this-Def-Dem-Sing noun|person noun|name-Plur aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 propn|Jabber propn|Asaba pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr aux|be-Part-Past-S-irr det|the-Def-Art noun|king-Ger adp|of propn|Kuwait adp|from det|a-Ind-Art adj|young-S1 noun|age .
+%gra:	1|4|NMOD-POSS 2|4|DET 3|4|COMPOUND 4|7|NSUBJ 5|7|COP 6|7|NSUBJ 7|0|ROOT 8|7|FLAT 9|10|NSUBJ 10|7|ACL-RELCL 11|12|NSUBJ 12|10|CCOMP 13|17|NSUBJ 14|17|AUX 15|17|COP 16|17|DET 17|12|CCOMP 18|19|CASE 19|17|NMOD 20|23|CASE 21|23|DET 22|23|AMOD 23|17|NMOD 24|7|PUNCT
+*PAR0:	&-uh he [/] he entered &-uh in many war . 46640_51600
+%mor:	pron|he-Prs-Nom-S3 verb|enter-Fin-Ind-Past-S3 adp|in adj|many-S1 noun|war .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|AMOD 5|2|OBL 6|2|PUNCT
+*PAR0:	the famous one was the invasion of Iraq to Kuwait &-uh they tried to assess him many times . 52190_60520
+%mor:	det|the-Def-Art adj|famous-S1 noun|one aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|invasion adp|of propn|Iraq adp|to propn|Kuwait pron|they-Prs-Nom-P3 verb|try-Fin-Ind-Past-P3 part|to verb|assess-Inf-S pron|he-Prs-Acc-S3 adj|many-S1 noun|time-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|6|NSUBJ 4|6|COP 5|6|DET 6|0|ROOT 7|8|CASE 8|6|NMOD 9|10|CASE 10|6|NMOD 11|12|NSUBJ 12|6|PARATAXIS 13|14|MARK 14|12|XCOMP 15|14|OBJ 16|17|AMOD 17|14|OBL-UNMARKED 18|6|PUNCT
+*PAR0:	&-uh but &-uh in my opinion he is the best skin that we had and will have . 62080_69160
+%mor:	cconj|but adp|in pron|my-Prs-Gen-S1 noun|opinion pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|good-Sup-S1 noun|skin pron|that-Rel pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1-irr cconj|and aux|will-Fin-S verb|have-Inf-S .
+%gra:	1|9|CC 2|4|CASE 3|4|NMOD-POSS 4|9|OBL 5|9|NSUBJ 6|9|COP 7|9|DET 8|9|AMOD 9|0|ROOT 10|12|OBJ 11|12|NSUBJ 12|9|ACL-RELCL 13|15|CC 14|15|AUX 15|9|CONJ 16|9|PUNCT
+*PAR0:	and we will never have &-uh like this skin because he is been a father and more than that to each Kuwaiti &-uh ku each Kuwaiti and &-uh he supported many &-uh things like &-uh &-uh like donate donating for other countries helping other poor countries . 69870_96010
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|will-Fin-S adv|never verb|have-Inf-S adp|like det|this-Def-Dem-Sing noun|skin sconj|because pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 aux|be-Part-Past-S-irr det|a-Ind-Art noun|father cconj|and adj|more-Cmp-S1 adp|than pron|that-Dem adp|to det|each-Def-Tot adj|kuwaiti-S1 propn|ku det|each-Def-Tot propn|kuwaiti cconj|and pron|he-Prs-Nom-S3 verb|support-Fin-Ind-Past-S3 adj|many-S1 noun|thing-Plur-Acc adp|like intj|like verb|donate-Inf-S verb|donate-Ger-S adp|for adj|other-S1 noun|country-Plur verb|help-Ger-S adj|other-S1 adj|poor-S1 noun|country-Plur-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|14|MARK 10|14|NSUBJ 11|14|AUX 12|14|COP 13|14|DET 14|5|ADVCL 15|16|CC 16|14|CONJ 17|18|CASE 18|16|OBL 19|22|CASE 20|22|DET 21|22|AMOD 22|14|CONJ 23|24|DET 24|22|APPOS 25|27|CC 26|27|NSUBJ 27|5|CONJ 28|29|AMOD 29|27|OBJ 30|32|MARK 31|32|DISCOURSE 32|29|ACL 33|32|XCOMP 34|36|CASE 35|36|AMOD 36|33|OBL 37|36|ACL 38|40|AMOD 39|40|AMOD 40|37|OBJ 41|5|PUNCT
+*PAR0:	&-uh and he showed the war the whole world that he's a [/] a good person . 101000_107200
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|show-Fin-Ind-Past-S3 det|the-Def-Art noun|war det|the-Def-Art adj|whole-S1 noun|world-Acc pron|that-Rel pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-S1 noun|person .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|IOBJ 6|8|DET 7|8|AMOD 8|3|OBJ 9|14|MARK 10|14|NSUBJ 11|14|COP 12|14|DET 13|14|AMOD 14|8|ACL-RELCL 15|3|PUNCT
+*PAR0:	&-uh he never took control of poor countries . 108320_112970
+%mor:	pron|he-Prs-Nom-S3 adv|never verb|take-Fin-Ind-Past-S3-irr noun|control-Acc adp|of adj|poor-S1 noun|country-Plur .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|AMOD 7|4|NMOD 8|3|PUNCT
+*PAR0:	and so on is &-uh human . 113960_116240
+%mor:	cconj|and adv|so adp|on aux|be-Fin-Ind-Pres-S3 adj|human-S1 .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|ADVMOD 4|5|COP 5|0|ROOT 6|5|PUNCT
+@End

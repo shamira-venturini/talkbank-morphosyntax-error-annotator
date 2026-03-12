@@ -1,0 +1,72 @@
+@UTF8
+@PID:	11312/t-00010094-1
+@Begin
+@Languages:	eng
+@Participants:	1061 Student
+@ID:	eng|Vercellotti|1061|||2||Student|level4||
+@Media:	1061_4M2, audio
+@Transcriber:	jms
+*1061:	the topic today is to talk about my ideal vacation spot . 5613_7768
+%mor:	det|the-Def-Art noun|topic noun|today aux|be-Fin-Ind-Pres-S3 part|to verb|talk-Inf-S adp|about pron|my-Prs-Gen-S1 adj|ideal-S1 noun|vacation noun|spot .
+%gra:	1|2|DET 2|6|NSUBJ-OUTER 3|2|NMOD-UNMARKED 4|6|COP 5|6|MARK 6|0|ROOT 7|11|CASE 8|11|NMOD-POSS 9|11|AMOD 10|11|COMPOUND 11|6|OBL 12|6|PUNCT
+*1061:	if I have vacation I would like to go to California . 9042_14970
+%mor:	sconj|if pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 noun|vacation-Acc pron|I-Prs-Nom-S1 aux|would-Fin-S verb|like-Inf-S part|to verb|go-Inf-S adp|to propn|California .
+%gra:	1|3|MARK 2|3|NSUBJ 3|7|ADVCL 4|3|OBJ 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|9|MARK 9|7|XCOMP 10|11|CASE 11|9|OBL 12|7|PUNCT
+*1061:	because &-uh there is many place to &-uh visit there . 15375_22096
+%mor:	sconj|because pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 adj|many-S1 noun|place part|to verb|visit-Inf-S adv|there .
+%gra:	1|3|MARK 2|3|EXPL 3|0|ROOT 4|5|AMOD 5|3|NSUBJ 6|7|MARK 7|5|ACL 8|7|ADVMOD 9|3|PUNCT
+*1061:	and all my best friend &~a they are studying there . 22604_28068
+%mor:	cconj|and det|all-Def-Tot pron|my-Prs-Gen-S1 adj|good-Sup-S1 noun|friend-Acc pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 verb|study-Part-Pres-S adv|there .
+%gra:	1|8|CC 2|5|DET-PREDET 3|5|NMOD-POSS 4|5|AMOD 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|8|ADVMOD 10|8|PUNCT
+*1061:	and I can hang out with them to &-uh a lot of place . 28708_34356
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S verb|hang-Inf-S adp|out adp|with pron|they-Prs-Acc-P3 adp|to det|a-Ind-Art noun|lot adp|of noun|place .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|10|CASE 9|10|DET 10|4|OBL 11|12|CASE 12|10|NMOD 13|4|PUNCT
+*1061:	I don't know about anything there . 36012_36636
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adp|about pron|anything-Ind-S1 adv|there .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|CASE 6|4|OBL 7|6|ADVMOD 8|4|PUNCT
+*1061:	but they're told me there is a_lot place there to visit like the beach . 36936_42396
+%mor:	cconj|but pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|tell-Part-Past-S-irr pron|I-Prs-Acc-S1 pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 noun|alot noun|place adv|there part|to verb|visit-Inf-S adp|like det|the-Def-Art noun|beach .
+%gra:	1|4|CC 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|4|IOBJ 6|7|EXPL 7|4|CCOMP 8|9|COMPOUND 9|7|NSUBJ 10|7|ADVMOD 11|12|MARK 12|7|CSUBJ 13|15|CASE 14|15|DET 15|12|OBL 16|4|PUNCT
+*1061:	I like the beach so much . 45075_46311
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 det|the-Def-Art noun|beach-Acc adv|so adv|much .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|ADVMOD 6|2|ADVMOD 7|2|PUNCT
+*1061:	and ah even if you want to go outside &-uh California there is a_lot [/] &-uh a lot of places near from California . 49192_57502
+%mor:	cconj|and intj|ah adv|even sconj|if pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|go-Inf-S adp|outside propn|California pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of noun|place-Plur adv|near adp|from propn|California .
+%gra:	1|12|CC 2|12|DISCOURSE 3|6|ADVMOD 4|6|MARK 5|6|NSUBJ 6|12|ADVCL 7|8|MARK 8|6|XCOMP 9|10|CASE 10|8|OBL 11|12|EXPL 12|0|ROOT 13|14|DET 14|12|NSUBJ 15|16|CASE 16|14|NMOD 17|16|ADVMOD 18|19|CASE 19|17|OBL 20|12|PUNCT
+*1061:	&~m &-uh but I: [//] if I want to go outside California there is &-uh Las_Vegas . 57628_66411
+%mor:	cconj|but sconj|if pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|go-Inf-S adp|outside propn|California pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 propn|LasVegas .
+%gra:	1|10|CC 2|4|MARK 3|4|NSUBJ 4|10|ADVCL 5|6|MARK 6|4|XCOMP 7|8|CASE 8|6|OBL 9|10|EXPL 10|0|ROOT 11|10|NSUBJ 12|10|PUNCT
+*1061:	and inside California there is San_Francisco and San_Diego and long beach . 69876_73348
+%mor:	cconj|and adp|inside propn|California pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 propn|SanFrancisco cconj|and propn|SanDiego cconj|and adj|long-S1 noun|beach .
+%gra:	1|5|CC 2|3|CASE 3|5|OBL 4|5|EXPL 5|0|ROOT 6|5|NSUBJ 7|8|CC 8|6|CONJ 9|11|CC 10|11|AMOD 11|6|CONJ 12|5|PUNCT
+*1061:	but if I will go I will go to long beach there . 75559_78086
+%mor:	cconj|but sconj|if pron|I-Prs-Nom-S1 aux|will-Fin-S verb|go-Inf-S pron|I-Prs-Nom-S1 aux|will-Fin-S verb|go-Inf-S adp|to adj|long-S1 noun|beach adv|there .
+%gra:	1|8|CC 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|8|ADVCL 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|11|CASE 10|11|AMOD 11|8|OBL 12|8|ADVMOD 13|8|PUNCT
+*1061:	because ah it's [//] &-uh I think it's <small city> [//] ah like small city . 78676_83459
+%mor:	sconj|because intj|ah pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 intj|ah adp|like adj|small-S1 noun|city .
+%gra:	1|4|MARK 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|10|NSUBJ 6|10|COP 7|10|DISCOURSE 8|10|CASE 9|10|AMOD 10|4|CCOMP 11|4|PUNCT
+*1061:	but there is many place . 84533_86868
+%mor:	cconj|but pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 adj|many-S1 noun|place .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|AMOD 5|3|NSUBJ 6|3|PUNCT
+*1061:	&~i &~i &~i &~i it's [//] ah like [//] and I think it cheaper than San_Diego . 87085_96215
+%mor:	intj|ah cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 adj|cheap-Cmp-S1 adp|than propn|SanDiego .
+%gra:	1|4|DISCOURSE 2|4|CC 3|4|NSUBJ 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|8|CASE 8|6|OBL 9|4|PUNCT
+*1061:	if I will miss something from now: I'm going to talk about &-uh my home . 97940_103718
+%mor:	sconj|if pron|I-Prs-Nom-S1 aux|will-Fin-S verb|miss-Inf-S pron|something-Ind-S1 adp|from adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|talk-Inf-S adp|about pron|my-Prs-Gen-S1 noun|home .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|10|ADVCL 5|4|OBJ 6|7|CASE 7|4|OBL 8|10|NSUBJ 9|10|AUX 10|0|ROOT 11|12|MARK 12|10|XCOMP 13|15|CASE 14|15|NMOD-POSS 15|12|OBL 16|10|PUNCT
+*1061:	I miss a lot of things from my home . 106005_107780
+%mor:	pron|I-Prs-Nom-S1 verb|miss-Fin-Ind-Pres-S1 det|a-Ind-Art noun|lot-Acc adp|of noun|thing-Plur adp|from pron|my-Prs-Gen-S1 noun|home .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|2|PUNCT
+*1061:	&~mus the really thing I miss ah is the food . 109433_113131
+%mor:	det|the-Def-Art adv|really noun|thing-Ger pron|I-Prs-Nom-S1 verb|miss-Fin-Ind-Pres-S1 intj|ah aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|food .
+%gra:	1|3|DET 2|3|ADVMOD 3|9|NSUBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|9|DISCOURSE 7|9|COP 8|9|DET 9|0|ROOT 10|9|PUNCT
+*1061:	the food is the: bes(t) thing . 114556_116626
+%mor:	det|the-Def-Art noun|food aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|good-Sup-S1 noun|thing-Ger .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*1061:	I miss it . 117108_117406
+%mor:	pron|I-Prs-Nom-S1 verb|miss-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*1061:	I really miss it . 119008_120191
+%mor:	pron|I-Prs-Nom-S1 adv|really verb|miss-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+@End

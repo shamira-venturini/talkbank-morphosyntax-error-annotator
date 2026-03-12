@@ -1,0 +1,45 @@
+@UTF8
+@PID:	11312/t-00010152-1
+@Begin
+@Languages:	eng
+@Participants:	1118 Student
+@ID:	eng|Vercellotti|1118|||1||Student|level4||
+@Media:	1118_3F1, audio
+@Transcriber:	mlv
+*1118:	the topic is &~dis &~ch describe your ah favorite meal frong [: from] chil(d)hood . 2692_13343
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S pron|your-Prs-Gen-S2 intj|ah adj|favorite-S1 noun|meal-Acc adp|from noun|childhood .
+%gra:	1|2|DET 2|4|NSUBJ-OUTER 3|4|AUX 4|0|ROOT 5|8|NMOD-POSS 6|8|DISCOURSE 7|8|AMOD 8|4|OBJ 9|10|CASE 10|8|NMOD 11|4|PUNCT
+*1118:	mm when I was you:ng &-uh <I always> [/] assisted [/] I always assisted my mother cooking . 13818_26649
+%mor:	intj|mm adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adj|young-S1 pron|I-Prs-Nom-S1 adv|always verb|assist-Fin-Ind-Past-S1 pron|my-Prs-Gen-S1 noun|mother noun|cooking-Acc-Ger .
+%gra:	1|8|DISCOURSE 2|5|ADVMOD 3|5|NSUBJ 4|5|COP 5|8|ADVCL 6|8|NSUBJ 7|8|ADVMOD 8|0|ROOT 9|11|NMOD-POSS 10|11|COMPOUND 11|8|OBJ 12|8|PUNCT
+*1118:	because &-uh the kitchen locate near: my room . 27229_38310
+%mor:	sconj|because det|the-Def-Art noun|kitchen verb|locate-Fin-Ind-Pres-S3 adp|near pron|my-Prs-Gen-S1 noun|room .
+%gra:	1|4|MARK 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+*1118:	so: my mother always cook [//] cooked . 39560_45390
+%mor:	adv|so pron|my-Prs-Gen-S1 noun|mother adv|always verb|cook-Fin-Ind-Past-S3 .
+%gra:	1|5|ADVMOD 2|3|NMOD-POSS 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*1118:	<I smile> [//] I smell &~d the [/] the great . 47300_55114
+%mor:	pron|I-Prs-Nom-S1 verb|smell-Fin-Ind-Pres-S1 det|the-Def-Art adj|great-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*1118:	so I always help my mother cooking . 56164_63967
+%mor:	adv|so pron|I-Prs-Nom-S1 adv|always verb|help-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|mother noun|cooking-Acc-Ger .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|7|NMOD-POSS 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+*1118:	I: liked eat the dumpling wrappers . 65417_75561
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Past-S1 verb|eat-Inf-S det|the-Def-Art noun|dumpling-Ger noun|wrapper-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|2|PUNCT
+*1118:	my mother usually made it in the kitchen . 78004_87323
+%mor:	pron|my-Prs-Gen-S1 noun|mother adv|usually verb|make-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*1118:	the: dumplin:g wrap is very delicious . 89141_96339
+%mor:	det|the-Def-Art noun|dumpling-Ger noun|wrap aux|be-Fin-Ind-Pres-S3 adv|very adj|delicious-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*1118:	the dumpling cooks very simple . 99113_108550
+%mor:	det|the-Def-Art noun|dumpling-Ger verb|cook-Fin-Ind-Pres-S3 adv|very adj|simple-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|ADVMOD 5|3|XCOMP 6|3|PUNCT
+*1118:	they need ah dumpling wrappers . 109360_113211
+%mor:	pron|they-Prs-Nom-P3 verb|need-Fin-Ind-Pres-P3 intj|ah noun|dumpling-Ger noun|wrapper-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DISCOURSE 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*1118:	so &~m <I usually with my> [///] I usually make . 114167_120191
+%mor:	adv|so pron|I-Prs-Nom-S1 adv|usually verb|make-Fin-Ind-Pres-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+@End

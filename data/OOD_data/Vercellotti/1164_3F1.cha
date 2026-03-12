@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/t-00010193-1
+@Begin
+@Languages:	eng
+@Participants:	1164 Student
+@ID:	eng|Vercellotti|1164|||1||Student|level3||
+@Media:	1164_3F1, audio
+@Transcriber:	jms
+*1164:	no the topic is (d)escribe my best friend from childhood . 7645_19352
+%mor:	intj|no det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S pron|my-Prs-Gen-S1 adj|good-Sup-S1 noun|friend-Acc adp|from noun|childhood .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ-OUTER 4|5|AUX 5|0|ROOT 6|8|NMOD-POSS 7|8|AMOD 8|5|OBJ 9|10|CASE 10|8|NMOD 11|5|PUNCT
+*1164:	ah my friend &-uh his name is &-uh Fahd [% 2 syllables] . 20220_24028
+%mor:	intj|ah pron|my-Prs-Gen-S1 noun|friend pron|his-Prs-Gen-S3 noun|name aux|be-Fin-Ind-Pres-S3 propn|Fahd .
+%gra:	1|7|DISCOURSE 2|3|NMOD-POSS 3|7|VOCATIVE 4|5|NMOD-POSS 5|7|NSUBJ 6|7|COP 7|0|ROOT 8|7|PUNCT
+*1164:	I met him in &-uh elementary school . 25107_28963
+%mor:	pron|I-Prs-Nom-S1 verb|meet-Fin-Ind-Past-S1-irr pron|he-Prs-Acc-S3 adp|in adj|elementary-S1 noun|school .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|AMOD 6|2|OBL 7|2|PUNCT
+*1164:	I assisted him &-uh to &-uh his classes . 29284_35744
+%mor:	pron|I-Prs-Nom-S1 verb|assist-Fin-Ind-Past-S1 pron|he-Prs-Acc-S3 adp|to pron|his-Prs-Gen-S3 noun|class-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|NMOD-POSS 6|2|OBL 7|2|PUNCT
+*1164:	&~i &-um &~i we study &-um every day when: [/] when we were in el:ementary school together . 35822_54292
+%mor:	pron|we-Prs-Nom-P1 verb|study-Fin-Ind-Pres-P1 det|every-Def-Tot noun|day adv|when pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1-irr adp|in adj|elementary-S1 noun|school adv|together .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBL-UNMARKED 5|10|ADVMOD 6|10|NSUBJ 7|10|COP 8|10|CASE 9|10|AMOD 10|2|ADVCL 11|10|ADVMOD 12|2|PUNCT
+*1164:	we [/] &-um we useta play &-uh soccer ball . 54965_64558
+%mor:	pron|we-Prs-Nom-P1 aux|useta-Fin-Ind-Pres-P1 verb|play-Inf-S noun|soccer noun|ball-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+*1164:	mm ah we l:ived in [//] the [//] <similar area> [//] in the same area and similar &-uh houses . 64875_97597
+%mor:	intj|mm intj|ah pron|we-Prs-Nom-P1 verb|live-Fin-Ind-Past-P1 adp|in det|the-Def-Art adj|same-S1 noun|area cconj|and adj|similar-S1 noun|house-Plur .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|11|CC 10|11|AMOD 11|8|CONJ 12|4|PUNCT
+*1164:	we enjoyed together mm mm . 98565_120191
+%mor:	pron|we-Prs-Nom-P1 verb|enjoy-Fin-Ind-Past-P1 adv|together intj|mm intj|mm .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|2|DISCOURSE 5|2|DISCOURSE 6|2|PUNCT
+@End

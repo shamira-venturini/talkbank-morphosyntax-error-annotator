@@ -1,0 +1,38 @@
+@UTF8
+@PID:	11312/a-00062550-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1286_4R2, audio
+*PAR0:	the topic today is to describe a custom in my country which I do not like . 1280_9420
+%mor:	det|the-Def-Art noun|topic noun|today aux|be-Fin-Ind-Pres-S3 part|to verb|describe-Inf-S det|a-Ind-Art noun|custom-Acc adp|in pron|my-Prs-Gen-S1 noun|country pron|which-Rel-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1 part|not verb|like-Inf-S .
+%gra:	1|2|DET 2|6|NSUBJ-OUTER 3|2|NMOD-UNMARKED 4|6|COP 5|6|MARK 6|0|ROOT 7|8|DET 8|6|OBJ 9|11|CASE 10|11|NMOD-POSS 11|6|OBL 12|16|OBJ 13|16|NSUBJ 14|16|AUX 15|16|ADVMOD 16|11|ACL-RELCL 17|6|PUNCT
+*PAR0:	one custom in my country that I do not like . 12400_16650
+%mor:	num|one noun|custom adp|in pron|my-Prs-Gen-S1 noun|country pron|that-Rel pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1 part|not verb|like-Inf-S .
+%gra:	1|2|NUMMOD 2|0|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|10|OBJ 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|5|ACL-RELCL 11|2|PUNCT
+*PAR0:	is that &-uh people usually say . 17310_24080
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that noun|person-Plur adv|usually verb|say-Fin-Ind-Pres-P3 .
+%gra:	1|5|COP 2|5|MARK 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*PAR0:	some people usually say something on Directory that is people always imply what they want . 24330_38080
+%mor:	det|some-Def-Ind noun|person-Plur adv|usually verb|say-Fin-Ind-Pres-P3 pron|something-Ind-S1 adp|on noun|directory pron|that-Rel aux|be-Fin-Ind-Pres-S3 noun|person-Plur adv|always verb|imply-Fin-Ind-Pres-P3 pron|what-Rel-S1 pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Pres-P3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|12|NSUBJ 9|12|COP 10|12|NSUBJ 11|12|ADVMOD 12|7|ACL-RELCL 13|12|OBJ 14|15|NSUBJ 15|13|ACL-RELCL 16|4|PUNCT
+*PAR0:	such_as &-um when I ask you a question in when I was when I ask someone a question he usually doesn't answer the question directly . 38730_56200
+%mor:	noun|sucha-Plur adv|when pron|I-Prs-Nom-S1 verb|ask-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 det|a-Ind-Art noun|question-Acc adp|in adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adv|when pron|I-Prs-Nom-S1 verb|ask-Fin-Ind-Pres-S1 pron|someone-Ind-S1 det|a-Ind-Art noun|question-Acc pron|he-Prs-Nom-S3 adv|usually aux|do-Fin-Ind-Pres-S3~part|not verb|answer-Inf-S det|the-Def-Art noun|question-Acc adv|directly .
+%gra:	1|22|VOCATIVE 2|4|ADVMOD 3|4|NSUBJ 4|22|ADVCL 5|4|IOBJ 6|7|DET 7|4|OBJ 8|9|CASE 9|4|ADVMOD 10|11|NSUBJ 11|14|COP 12|14|ADVMOD 13|14|NSUBJ 14|22|ADVCL 15|14|IOBJ 16|17|DET 17|14|OBJ 18|22|NSUBJ 19|22|ADVMOD 20|22|AUX 21|22|ADVMOD 22|0|ROOT 23|24|DET 24|22|OBJ 25|22|ADVMOD 26|22|PUNCT
+*PAR0:	but &-um he gives me some crew to understand his answer . 56840_65440
+%mor:	cconj|but pron|he-Prs-Nom-S3 verb|give-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 det|some-Def-Ind noun|crew-Acc part|to verb|understand-Inf-S pron|his-Prs-Gen-S3 noun|answer-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|8|MARK 8|3|ADVCL 9|10|NMOD-POSS 10|8|OBJ 11|3|PUNCT
+*PAR0:	I [/] I like people to be direct because therefore &-um we can save time . 67360_74280
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 noun|person-Plur-Acc part|to aux|be-Inf-S adj|direct-S1 sconj|because adv|therefore pron|we-Prs-Nom-P1 aux|can-Fin-S verb|save-Inf-S noun|time-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|MARK 5|6|COP 6|2|XCOMP 7|11|MARK 8|11|ADVMOD 9|11|NSUBJ 10|11|AUX 11|2|ADVCL 12|11|OBJ 13|2|PUNCT
+*PAR0:	and we can do things more effect effectively . 74990_79680
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|can-Fin-S verb|do-Inf-S noun|thing-Plur-Acc adj|more-Cmp-S1 noun|effect-Acc adv|effectively .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|AMOD 7|4|OBJ 8|4|ADVMOD 9|4|PUNCT
+*PAR0:	&-um also this custom influence many area in Taiwan like &-uh in the United States people usually say thing or &-um answer the question directly . 81760_105750
+%mor:	adv|also det|this-Def-Dem-Sing adj|custom-S1 noun|influence adj|many-S1 noun|area adp|in propn|Taiwan verb|like-Fin-Ind-Pres-P3 adp|in det|the-Def-Art verb|Unite-Part-Past-S propn|State-Plur noun|person-Plur adv|usually verb|say-Fin-Ind-Pres-P3 noun|thing-Acc-Ger cconj|or verb|answer-Fin-Ind-Pres-P3 det|the-Def-Art noun|question-Acc adv|directly .
+%gra:	1|9|ADVMOD 2|4|DET 3|4|AMOD 4|9|NSUBJ 5|6|AMOD 6|9|NSUBJ 7|8|CASE 8|6|NMOD 9|0|ROOT 10|13|CASE 11|13|DET 12|13|AMOD 13|9|OBL 14|16|NSUBJ 15|16|ADVMOD 16|9|PARATAXIS 17|16|OBJ 18|19|CC 19|16|CONJ 20|21|DET 21|19|OBJ 22|19|ADVMOD 23|9|PUNCT
+*PAR0:	I like this because we don't have to guess &-um that what other people think we can easily &-uh . 109470_119160
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|this-Dem-S1 sconj|because pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|have-Inf-S part|to verb|guess-Inf-S sconj|that pron|what-Int-S1 adj|other-S1 noun|person-Plur verb|think-Fin-Ind-Pres-P3 pron|we-Prs-Nom-P1 aux|can-Fin-S adv|easily .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|8|MARK 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|2|ADVCL 9|10|MARK 10|8|XCOMP 11|15|MARK 12|15|OBJ 13|14|AMOD 14|15|NSUBJ 15|10|CCOMP 16|17|NSUBJ 17|15|CCOMP 18|15|ADVMOD 19|2|PUNCT
+@End

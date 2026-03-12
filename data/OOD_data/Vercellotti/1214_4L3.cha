@@ -1,0 +1,29 @@
+@UTF8
+@PID:	11312/a-00062523-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1214_4L3, audio
+*PAR0:	&-uh the topic is &-uh talk about famous person from the past . 960_5010
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|talk-Inf-S adp|about adj|famous-S1 noun|person adp|from det|the-Def-Art noun|past .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|AMOD 7|4|OBL 8|10|CASE 9|10|DET 10|7|NMOD 11|4|PUNCT
+*PAR0:	&-uh I would like to talk about &-uh a famous person in &-uh Saudi Arabia his name Rebi [/] Rebi &-uh is &-uh &-uh a minister of labor in Saudi Arabia &-uh he did &-uh he died in &-uh August &-uh two thousand ten &-uh before &-um four [/] four months ago four months ago &-uh he achieved &-uh &-um a lot of thing in Saudi Arabia like &-uh when he &-uh finished his &-uh &-uh phd &-uh from London he &-uh came to Saudi Arabia and worked [/] worked &-uh in King Saudi at King Saudi University after that he &-uh worked at &-uh Sabic &-uh company Sabic Company Saudi Arabia and after that &-uh he worked &-uh &-um &-uh a minister of &-uh &-um healthy health . 6240_63340
+%mor:	pron|I-Prs-Nom-S1 aux|would-Fin-S verb|like-Inf-S part|to verb|talk-Inf-S adp|about det|a-Ind-Art adj|famous-S1 noun|person adp|in adj|Saudi-S1 propn|Arabia pron|his-Prs-Gen-S3 noun|name propn|Rebi aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|minister adp|of noun|labor adp|in adj|Saudi-S1 propn|Arabia pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr pron|he-Prs-Nom-S3 verb|die-Fin-Ind-Past-S3 adp|in propn|August num|two num|thousand num|ten adp|before num|four noun|month-Plur adv|ago num|four noun|month-Plur adv|ago pron|he-Prs-Nom-S3 verb|achieve-Fin-Ind-Past-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|thing-Ger adp|in adj|Saudi-S1 propn|Arabia adp|like adv|when pron|he-Prs-Nom-S3 verb|finish-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|phd-Acc adp|from propn|London pron|he-Prs-Nom-S3 verb|come-Fin-Ind-Past-S3-irr adp|to adj|Saudi-S1 propn|Arabia cconj|and verb|work-Fin-Ind-Past-S3 adp|in propn|King-Ger propn|Saudi adp|at propn|King-Ger adj|Saudi-S1 propn|University sconj|after sconj|that pron|he-Prs-Nom-S3 verb|work-Fin-Ind-Past-S3 adp|at propn|Sabic noun|company propn|Sabic propn|Company adj|Saudi-S1 propn|Arabia cconj|and sconj|after sconj|that pron|he-Prs-Nom-S3 verb|work-Fin-Ind-Past-S3 det|a-Ind-Art noun|minister-Acc adp|of adj|healthy-S1 noun|health .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|12|CASE 11|12|AMOD 12|9|NMOD 13|14|NMOD-POSS 14|9|NMOD 15|18|NSUBJ 16|18|COP 17|18|DET 18|3|PARATAXIS 19|20|CASE 20|18|NMOD 21|23|CASE 22|23|AMOD 23|18|NMOD 24|27|NSUBJ 25|27|AUX 26|27|NSUBJ 27|3|PARATAXIS 28|29|CASE 29|27|OBL 30|31|COMPOUND 31|32|COMPOUND 32|36|OBL-UNMARKED 33|36|CASE 34|35|NUMMOD 35|36|OBL-UNMARKED 36|27|ADVMOD 37|38|NUMMOD 38|39|OBL-UNMARKED 39|41|ADVMOD 40|41|NSUBJ 41|27|PARATAXIS 42|43|DET 43|41|OBJ 44|45|CASE 45|43|NMOD 46|48|CASE 47|48|AMOD 48|43|NMOD 49|58|MARK 50|52|ADVMOD 51|52|NSUBJ 52|58|ADVCL 53|54|NMOD-POSS 54|52|OBJ 55|56|CASE 56|52|OBL 57|58|NSUBJ 58|41|PARATAXIS 59|61|CASE 60|61|AMOD 61|58|OBL 62|63|CC 63|58|CONJ 64|66|CASE 65|66|COMPOUND 66|63|OBL 67|70|CASE 68|70|COMPOUND 69|70|AMOD 70|63|OBL 71|74|MARK 72|71|FIXED 73|74|NSUBJ 74|58|ADVCL 75|81|CASE 76|77|COMPOUND 77|81|COMPOUND 78|79|COMPOUND 79|81|COMPOUND 80|81|AMOD 81|74|OBL 82|86|CC 83|86|MARK 84|83|FIXED 85|86|NSUBJ 86|74|CONJ 87|88|DET 88|86|OBJ 89|91|CASE 90|91|AMOD 91|88|NMOD 92|3|PUNCT
+*PAR0:	and &-uh he &-uh achieved &-uh &-um &-uh a lot of &-uh I think like he opened &-uh ho . 83080_92720
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|achieve-Fin-Ind-Past-S3 det|a-Ind-Art noun|lot-Acc adp|of pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|like pron|he-Prs-Nom-S3 verb|open-Fin-Ind-Past-S3 intj|ho .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|MARK 7|8|NSUBJ 8|5|ACL-RELCL 9|11|MARK 10|11|NSUBJ 11|8|ADVCL 12|3|DISCOURSE 13|3|PUNCT
+*PAR0:	he established &-uh a lot of hospital . 94880_96920
+%mor:	pron|he-Prs-Nom-S3 verb|establish-Fin-Ind-Past-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|hospital .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|2|PUNCT
+*PAR0:	and &-uh he &-uh focused for &-uh the hospital . 97760_101200
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|focus-Fin-Ind-Past-S3 adp|for det|the-Def-Art noun|hospital .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR0:	and &-uh another thing after that he worked in &-um &-uh minister of labor . 103040_109650
+%mor:	cconj|and det|another-Def-Ind noun|thing-Ger sconj|after sconj|that pron|he-Prs-Nom-S3 verb|work-Fin-Ind-Past-S3 adp|in noun|minister adp|of noun|labor .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|7|MARK 5|7|MARK 6|7|NSUBJ 7|3|ACL 8|9|CASE 9|7|OBL 10|11|CASE 11|9|NMOD 12|3|PUNCT
+*PAR0:	and he changed &-uh the work and the system for work in Saudi Arabia &-uh . 110040_114660
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|change-Fin-Ind-Past-S3 det|the-Def-Art noun|work-Acc cconj|and det|the-Def-Art noun|system adp|for noun|work adp|in adj|Saudi-S1 propn|Arabia .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CC 7|8|DET 8|5|CONJ 9|10|CASE 10|3|OBL 11|13|CASE 12|13|AMOD 13|10|NMOD 14|3|PUNCT
+@End

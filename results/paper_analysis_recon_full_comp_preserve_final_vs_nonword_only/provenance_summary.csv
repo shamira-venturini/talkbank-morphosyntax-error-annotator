@@ -1,0 +1,11 @@
+run_name,experiment,system_key,split,provenance_label,n,exact_text_accuracy,exact_tag_accuracy,primary_tag_accuracy,pred_error_rate,gold_error_rate,syntax_validity_rate
+recon_full_comp_nonword_only_seed3407,unknown,recon_full_comp_nonword_only,holdout_generalization,synthetic,591,0,0,0,0.590525,1,1
+recon_full_comp_nonword_only_seed3407,unknown,recon_full_comp_nonword_only,test_real,DLD,104,0.894231,0.932692,0.192308,0.230769,0.230769,1
+recon_full_comp_nonword_only_seed3407,unknown,recon_full_comp_nonword_only,test_real,TD,583,0.941681,0.958834,0.075472,0.09777,0.108062,1
+recon_full_comp_preserve_final_seed3407,unknown,recon_full_comp_preserve_final,eval_coverage,synthetic,370,0.824324,0.878378,0.87027,0.945946,0.97027,1
+recon_full_comp_preserve_final_seed3407,unknown,recon_full_comp_preserve_final,eval_real,DLD,105,0.914286,0.942857,0.2,0.219048,0.247619,1
+recon_full_comp_preserve_final_seed3407,unknown,recon_full_comp_preserve_final,eval_real,TD,584,0.960616,0.979452,0.099315,0.107877,0.111301,1
+recon_full_comp_preserve_final_seed3407,unknown,recon_full_comp_preserve_final,holdout_generalization,synthetic,591,0.055838,0.055838,0.055838,0.556684,1,1
+recon_full_comp_preserve_final_seed3407,unknown,recon_full_comp_preserve_final,test_coverage,synthetic,370,0.827027,0.905405,0.897297,0.951351,0.972973,1
+recon_full_comp_preserve_final_seed3407,unknown,recon_full_comp_preserve_final,test_real,DLD,104,0.884615,0.942308,0.192308,0.230769,0.230769,1
+recon_full_comp_preserve_final_seed3407,unknown,recon_full_comp_preserve_final,test_real,TD,583,0.945111,0.962264,0.077187,0.096055,0.108062,1

@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/t-00010176-1
+@Begin
+@Languages:	eng
+@Participants:	1156 Student
+@ID:	eng|Vercellotti|1156|||2||Student|level4||
+@Media:	1156_4R2, audio
+@Transcriber:	jms
+*1156:	&-uh I took my TOEFL [% 2 syllables] last week . 2246_2941
+%mor:	pron|I-Prs-Nom-S1 verb|take-Fin-Ind-Past-S1-irr pron|my-Prs-Gen-S1 noun|toefl-Acc adj|last-S1 noun|week .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|6|AMOD 6|2|OBL-UNMARKED 7|2|PUNCT
+*1156:	and it wasn't as I expected . 5650_9346
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr~part|not sconj|as pron|I-Prs-Nom-S1 verb|expect-Fin-Ind-Past-S1 .
+%gra:	1|7|CC 2|7|NSUBJ-OUTER 3|7|COP 4|7|ADVMOD 5|7|MARK 6|7|NSUBJ 7|0|ROOT 8|7|PUNCT
+*1156:	I mean the result wasn't as good as I expect . 9858_13094
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 det|the-Def-Art noun|result aux|be-Fin-Ind-Past-S3-irr~part|not adv|as adj|good-S1 sconj|as pron|I-Prs-Nom-S1 verb|expect-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|8|PARATAXIS 3|4|DET 4|8|NSUBJ 5|8|COP 6|8|ADVMOD 7|8|ADVMOD 8|0|ROOT 9|11|MARK 10|11|NSUBJ 11|8|ADVCL 12|8|PUNCT
+*1156:	it was frustrating to me . 15546_16362
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|frustrating-S1 adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*1156:	anyway <if I should> [//] &-uh I think I should have studied more and ah prepared more for TOEFL &-um . 17086_28384
+%mor:	intj|anyway pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S verb|study-Part-Past-S adj|more-Cmp-S1 cconj|and intj|ah verb|prepare-Part-Past-S adj|more-Cmp-S1 adp|for noun|toefl .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|7|NSUBJ 5|7|AUX 6|7|AUX 7|3|CCOMP 8|7|OBJ 9|11|CC 10|11|DISCOURSE 11|7|CONJ 12|11|OBJ 13|14|CASE 14|12|OBL 15|3|PUNCT
+*1156:	that will be clearly if I: read a book about the strategies of TOEFL . 30266_33544
+%mor:	pron|that-Dem aux|will-Fin-S aux|be-Inf-S adv|clearly sconj|if pron|I-Prs-Nom-S1 verb|read-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|book-Acc adp|about det|the-Def-Art noun|strategy-Plur adp|of noun|toefl .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|0|ROOT 5|7|MARK 6|7|NSUBJ 7|4|ADVCL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|14|CASE 14|12|NMOD 15|4|PUNCT
+*1156:	and <that gonna> [//] make [//] that gonna help me &-uh s:o much to: ah increase my scores &-uh . 37591_45881
+%mor:	cconj|and sconj|that verb|go-Part-Pres-S~part|to verb|help-Inf-S pron|I-Prs-Acc-S1 adv|so adj|much-S1 part|to intj|ah verb|increase-Inf-S pron|my-Prs-Gen-S1 noun|score-Plur-Acc .
+%gra:	1|3|CC 2|3|MARK 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|8|ADVMOD 8|5|ADVMOD 9|11|MARK 10|11|DISCOURSE 11|5|ADVCL 12|13|NMOD-POSS 13|11|OBJ 14|3|PUNCT
+*1156:	in addition to that <if I:> [/] if I took a course in TOEFL &-uh preparation that would help me so much in getting better scores &-uh . 45881_62926
+%mor:	adp|in noun|addition adp|to pron|that-Dem sconj|if pron|I-Prs-Nom-S1 verb|take-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|course-Acc adp|in noun|toefl noun|preparation pron|that-Rel aux|would-Fin-S verb|help-Inf-S pron|I-Prs-Acc-S1 adv|so adv|much sconj|in verb|get-Part-Pres-S adj|good-Cmp-S1 noun|score-Plur-Acc .
+%gra:	1|2|CASE 2|0|ROOT 3|4|CASE 4|2|NMOD 5|7|MARK 6|7|NSUBJ 7|2|ACL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|COMPOUND 12|7|OBL 13|15|NSUBJ 14|15|AUX 15|12|ACL-RELCL 16|15|OBJ 17|18|ADVMOD 18|15|ADVMOD 19|20|MARK 20|15|ADVCL 21|22|AMOD 22|20|OBJ 23|2|PUNCT
+*1156:	the score is evident that I needta improve my skills . 66185_67076
+%mor:	det|the-Def-Art noun|score aux|be-Fin-Ind-Pres-S3 adj|evident-S1 sconj|that pron|I-Prs-Nom-S1 aux|needta-Fin-Ind-Pres-S1 verb|improve-Inf-S pron|my-Prs-Gen-S1 noun|skill-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|10|NMOD-POSS 10|8|OBJ 11|4|PUNCT
+*1156:	and the methods useta examine my skills are really accurate . 67691_75390
+%mor:	cconj|and det|the-Def-Art noun|method-Plur noun|useta verb|examine-Fin-Ind-Pres-P3 pron|my-Prs-Gen-S1 noun|skill-Plur-Acc aux|be-Fin-Ind-Pres-P3 adv|really adj|accurate-S1 .
+%gra:	1|10|CC 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|10|CSUBJ 6|7|NMOD-POSS 7|5|OBJ 8|10|COP 9|10|ADVMOD 10|0|ROOT 11|10|PUNCT
+*1156:	and I believe that they are really accurate . 78169_79086
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|believe-Fin-Ind-Pres-S1 sconj|that pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 adv|really adj|accurate-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|8|MARK 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|3|CCOMP 9|3|PUNCT
+*1156:	my [//] &-uh &~m in my perspective that I needta [/] &~prepa to [/] to: improve myself &-uh and modify myself in [/] in speaking and in listening . 79280_92702
+%mor:	adp|in pron|my-Prs-Gen-S1 noun|perspective sconj|that pron|I-Prs-Nom-S1 part|to verb|improve-Inf-S pron|myself-Prs-Acc-reflx-S1 cconj|and verb|modify-Inf-S pron|myself-Prs-Acc-reflx-S1 sconj|in verb|speak-Part-Pres-S cconj|and adp|in verb|listen-Part-Pres-S .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|ACL 8|7|OBJ 9|10|CC 10|7|CONJ 11|10|OBJ 12|13|MARK 13|10|ADVCL 14|16|CC 15|16|CASE 16|13|CONJ 17|3|PUNCT
+*1156:	&~an &~d moreover that I need to &-uh enhance and increase my vocabulary . 93124_101884
+%mor:	adv|moreover sconj|that pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 part|to verb|enhance-Inf-S cconj|and verb|increase-Inf-S pron|my-Prs-Gen-S1 noun|vocabulary-Acc .
+%gra:	1|4|ADVMOD 2|4|MARK 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|CC 8|6|CONJ 9|10|NMOD-POSS 10|6|OBJ 11|4|PUNCT
+*1156:	I think that I still have lack of vocabulary even that I think I have enough vocabulary . 104645_107126
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|that pron|I-Prs-Nom-S1 adv|still verb|have-Fin-Ind-Pres-S1 noun|lack-Acc adp|of noun|vocabulary adv|even sconj|that pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 adj|enough-S1 noun|vocabulary-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|ADVMOD 6|2|CCOMP 7|6|OBJ 8|9|CASE 9|7|NMOD 10|13|ADVMOD 11|13|MARK 12|13|NSUBJ 13|6|ADVCL 14|15|NSUBJ 15|13|CCOMP 16|17|AMOD 17|15|OBJ 18|2|PUNCT
+*1156:	I really still need more academic more complicated words to be included within my speech &-uh . 109420_117065
+%mor:	pron|I-Prs-Nom-S1 adv|really adv|still verb|need-Fin-Ind-Pres-S1 adj|more-Cmp-S1 adj|academic-S1 adv|more adj|complicated-S1 noun|word-Plur-Acc part|to aux|be-Inf-S verb|include-Part-Past-S adp|within pron|my-Prs-Gen-S1 noun|speech .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|ADVMOD 4|0|ROOT 5|9|AMOD 6|9|AMOD 7|8|ADVMOD 8|9|AMOD 9|4|OBJ 10|12|MARK 11|12|AUX-PASS 12|4|ADVCL 13|15|CASE 14|15|NMOD-POSS 15|12|OBL 16|4|PUNCT
+*1156:	&~i I should have done this before .
+%mor:	pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S verb|do-Part-Past-S-irr pron|this-Dem-S1 adv|before .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+@End

@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/t-00010104-1
+@Begin
+@Languages:	eng
+@Participants:	1062 Student
+@ID:	eng|Vercellotti|1062|||2||Student|level4||
+@Media:	1062_4P2, audio
+@Transcriber:	jms
+*1062:	&~f first of all the topic is ah to talk about something you regret that you have done . 3105_8618
+%mor:	adj|first-S1 adp|of det|all-Def-Tot det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 intj|ah part|to verb|talk-Inf-S adp|about pron|something-Ind-S1 pron|you-Prs-Nom-S2 verb|regret-Fin-Ind-Pres-S2 sconj|that pron|you-Prs-Nom-S2 aux|have-Fin-Ind-Pres-S2 verb|do-Part-Past-S-irr .
+%gra:	1|9|NSUBJ-OUTER 2|3|CASE 3|5|DET-PREDET 4|5|DET 5|9|NSUBJ-OUTER 6|9|COP 7|9|DISCOURSE 8|9|MARK 9|0|ROOT 10|11|CASE 11|9|OBL 12|13|NSUBJ 13|11|ACL-RELCL 14|17|MARK 15|17|NSUBJ 16|17|AUX 17|13|CCOMP 18|9|PUNCT
+*1062:	&-uh in my: life or my experience ah I didn't study &~in hard in high school . 9328_12971
+%mor:	adp|in pron|my-Prs-Gen-S1 noun|life cconj|or pron|my-Prs-Gen-S1 noun|experience intj|ah pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|study-Inf-S adv|hard adp|in adj|high-S1 noun|school .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|11|OBL 4|6|CC 5|6|NMOD-POSS 6|3|CONJ 7|11|DISCOURSE 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|0|ROOT 12|11|ADVMOD 13|15|CASE 14|15|AMOD 15|11|OBL 16|11|PUNCT
+*1062:	and the result I got a low high score . 19295_22377
+%mor:	cconj|and det|the-Def-Art noun|result pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1-irr det|a-Ind-Art adj|low-S1 adj|high-S1 noun|score-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|OBL-UNMARKED 4|5|NSUBJ 5|0|ROOT 6|9|DET 7|9|AMOD 8|9|AMOD 9|5|OBJ 10|5|PUNCT
+*1062:	and if [///] I should have studied &~har &~d . 23241_30945
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S verb|study-Part-Past-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*1062:	because I [/] &~wa <I was> [//] I [/] &~wasn &~tin I [/] <I wanted> [/] <to study> [/] I wanted to study medicine . 31770_40965
+%mor:	sconj|because pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Past-S1 part|to verb|study-Inf-S noun|medicine-Acc .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*1062:	but ah after my high school &-uh and my score and my score it was lower [^ c] that I couldn't study I couldn't &~st study medicine . 41375_56264
+%mor:	cconj|but intj|ah adp|after pron|my-Prs-Gen-S1 adj|high-S1 noun|school cconj|and pron|my-Prs-Gen-S1 noun|score cconj|and pron|my-Prs-Gen-S1 noun|score pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|low-Cmp-S1 sconj|that pron|I-Prs-Nom-S1 aux|could-Fin-S~part|not verb|study-Inf-S pron|I-Prs-Nom-S1 aux|could-Fin-S~part|not verb|study-Inf-S noun|medicine-Acc .
+%gra:	1|15|CC 2|15|DISCOURSE 3|6|CASE 4|6|NMOD-POSS 5|6|AMOD 6|15|OBL 7|9|CC 8|9|NMOD-POSS 9|6|CONJ 10|12|CC 11|12|NMOD-POSS 12|6|CONJ 13|15|EXPL 14|15|COP 15|0|ROOT 16|20|MARK 17|20|NSUBJ 18|20|AUX 19|20|ADVMOD 20|15|CSUBJ 21|24|NSUBJ 22|24|AUX 23|24|ADVMOD 24|15|PARATAXIS 25|24|OBJ 26|15|PUNCT
+*1062:	mm and &-uh <if I> [/] if I had &~study &~d &~ha &~d I would studied now medicine . 56627_65878
+%mor:	intj|mm cconj|and sconj|if pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 aux|would-Fin-S verb|study-Part-Past-S adv|now noun|medicine-Acc .
+%gra:	1|8|DISCOURSE 2|8|CC 3|5|MARK 4|5|NSUBJ 5|8|ADVCL 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|8|ADVMOD 10|8|OBJ 11|8|PUNCT
+*1062:	&~fil <what [% whispering]> [///] an:d [///] ah finally [///] to [///] <what would you [% whispered]> [///] <if I:> [//] &~ha <(ha)d if I would like did something> [//] if I had done something differently like <study hard> [//] &~i &~i studied hard &~befo before I &~g &~graduate &~t maybe that's &~k coul(d) make me now &~st study medicine but . 66091_120191
+%mor:	intj|ah sconj|if pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1-irr verb|do-Part-Past-S-irr pron|something-Ind-S1 adv|differently intj|like verb|study-Fin-Ind-Past-S3 adv|hard sconj|before pron|I-Prs-Nom-S1 adv|maybe pron|that-Dem~aux|be-Fin-Ind-Pres-S3 aux|could-Fin-S verb|make-Inf-S pron|I-Prs-Acc-S1 adv|now verb|study-Inf-S noun|medicine-Acc cconj|but .
+%gra:	1|9|DISCOURSE 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|17|ADVCL 6|5|OBJ 7|5|ADVMOD 8|9|DISCOURSE 9|0|ROOT 10|9|ADVMOD 11|12|CASE 12|17|NSUBJ 13|17|ADVMOD 14|17|NSUBJ 15|17|AUX 16|17|AUX 17|9|ADVCL 18|17|OBJ 19|20|ADVMOD 20|17|XCOMP 21|20|OBJ 22|17|PUNCT 23|9|PUNCT
+@End

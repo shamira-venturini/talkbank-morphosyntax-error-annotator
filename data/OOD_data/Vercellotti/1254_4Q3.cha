@@ -1,0 +1,42 @@
+@UTF8
+@PID:	11312/a-00062529-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@ID:	eng|Vercellotti|PAR1|||||Participant|||
+@Media:	1254_4Q3, audio
+*PAR0:	I will talk about the famous person in my country . 2260_5810
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S verb|talk-Inf-S adp|about det|the-Def-Art adj|famous-S1 noun|person adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|DET 6|7|AMOD 7|3|OBL 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|3|PUNCT
+*PAR0:	&-uh and he was &-uh King Abazi &-uh also he &-uh he was the first king of <the in> [/] the in the Kingdom of Saudi Arabia and &-uh he he's achieved to build &-uh Islamic &-uh country that have &-uh powerful . 7200_25810
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr propn|King-Ger propn|Abazi adv|also pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art adj|first-S1 noun|king-Ger adp|of det|the-Def-Art adp|in det|the-Def-Art propn|Kingdom adp|of adj|Saudi-S1 propn|Arabia cconj|and pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|achieve-Part-Past-S part|to verb|build-Inf-S adj|Islamic-S1 noun|country-Acc pron|that-Rel aux|have-Fin-Ind-Pres-P3 adj|powerful-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|FLAT 6|12|ADVMOD 7|12|NSUBJ 8|12|NSUBJ 9|12|COP 10|12|DET 11|12|AMOD 12|4|PARATAXIS 13|14|CASE 14|12|NMOD 15|17|CASE 16|17|DET 17|12|NMOD 18|20|CASE 19|20|AMOD 20|17|NMOD 21|25|CC 22|25|NSUBJ-PASS 23|25|NSUBJ-PASS 24|25|AUX-PASS 25|4|CONJ 26|27|MARK 27|25|ADVCL 28|29|AMOD 29|27|OBJ 30|32|NSUBJ 31|32|AUX 32|29|ACL-RELCL 33|4|PUNCT
+*PAR0:	&-uh and he fight to united all the kingdom . 33250_39470
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|fight-Fin-Ind-Pres-S3 part|to verb|unite-Inf-S det|all-Def-Tot det|the-Def-Art noun|kingdom-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|DET-PREDET 7|8|DET 8|5|OBJ 9|3|PUNCT
+*PAR0:	&-uh and he [/] he won that because he is <he was> [/] he was have &-uh a good &-uh a good idea . 41060_51110
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|win-Fin-Ind-Past-S3-irr pron|that-Dem sconj|because pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|have-Inf-S det|a-Ind-Art adj|good-S1 det|a-Ind-Art adj|good-S1 noun|idea-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|10|MARK 6|7|NSUBJ 7|10|REPARANDUM 8|10|NSUBJ 9|10|AUX 10|3|ADVCL 11|15|DET 12|15|AMOD 13|15|DET 14|15|AMOD 15|10|OBJ 16|3|PUNCT
+*PAR0:	and &-uh and he won that because he united all the kingdom . 63290_69200
+%mor:	cconj|and cconj|and pron|he-Prs-Nom-S3 verb|win-Fin-Ind-Past-S3-irr pron|that-Dem sconj|because pron|he-Prs-Nom-S3 verb|unite-Fin-Ind-Past-S3 det|all-Def-Tot det|the-Def-Art noun|kingdom-Acc .
+%gra:	1|4|CC 2|4|CC 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|8|MARK 7|8|NSUBJ 8|4|ADVCL 9|11|DET-PREDET 10|11|DET 11|8|OBJ 12|4|PUNCT
+*PAR0:	and he fight to build this Islamic &-uh country . 71610_75930
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|fight-Fin-Ind-Pres-S3 part|to verb|build-Inf-S det|this-Def-Dem-Sing adj|Islamic-S1 noun|country-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|DET 7|8|AMOD 8|5|OBJ 9|3|PUNCT
+*PAR0:	&-uh and he was he want to build &-uh a good country . 77730_88680
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr pron|he-Prs-Nom-S3 verb|want-Inf-S part|to verb|build-Inf-S det|a-Ind-Art adj|good-S1 noun|country-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|10|DET 9|10|AMOD 10|7|OBJ 11|5|PUNCT
+*PAR0:	that's how powerful and also it's islamic . 89570_93240
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|how adj|powerful-S1 cconj|and adv|also pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|islamic-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|9|CC 6|9|ADVMOD 7|9|NSUBJ 8|9|COP 9|4|CONJ 10|4|PUNCT
+*PAR0:	so he went that . 95570_99520
+%mor:	adv|so pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr pron|that-Dem .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR0:	and we have a good &-uh country and have a powerful and also it's Islamic country . 105030_113590
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art adj|good-S1 noun|country-Acc cconj|and verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art adj|powerful-S1 cconj|and adv|also pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|Islamic-S1 noun|country .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|8|CC 8|3|CONJ 9|10|DET 10|16|AMOD 11|12|CC 12|10|CONJ 13|16|NSUBJ 14|16|COP 15|16|AMOD 16|8|CCOMP 17|3|PUNCT
+*PAR1:	hi .
+%mor:	intj|hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

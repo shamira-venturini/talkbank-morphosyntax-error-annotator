@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/t-00010107-1
+@Begin
+@Languages:	eng
+@Participants:	1067 Student
+@ID:	eng|Vercellotti|1067|||1||Student|level4||
+@Media:	1067_3F1, audio
+@Transcriber:	jms
+*1067:	the topic is describe my favorite meal from childhood . 2243_7521
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S pron|my-Prs-Gen-S1 adj|favorite-S1 noun|meal-Acc adp|from noun|childhood .
+%gra:	1|2|DET 2|4|NSUBJ-OUTER 3|4|AUX 4|0|ROOT 5|7|NMOD-POSS 6|7|AMOD 7|4|OBJ 8|9|CASE 9|7|NMOD 10|4|PUNCT
+*1067:	tha(t) dish is called kabsa@n . 8950_11100
+%mor:	det|that-Def-Dem-Sing noun|dish aux|be-Fin-Ind-Pres-S3 verb|call-Part-Past-S n|kab .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|4|XCOMP 6|4|PUNCT
+*1067:	&~fl the ingredients for that &-uh dishes ah <needta> [//] &-uh &~ra: some [//] need ah a_lot rice and ah &~ma ah I think &-uh &~the two [//] &~uth fours &-uh teaspoons of salt and need cup of oil ah need &-uh &~w one white onion and one tomato need [/] &-uh need also for &-uh &-uh chicken or meat . 13124_44747
+%mor:	det|the-Def-Art noun|ingredient-Plur adp|for det|that-Def-Dem-Sing noun|dish-Plur intj|ah verb|need-Fin-Ind-Pres-P3 intj|ah noun|alot noun|rice-Acc cconj|and intj|ah intj|ah pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|four-Plur noun|teaspoon-Plur-Acc adp|of noun|salt cconj|and verb|need-Fin-Ind-Pres-P3 noun|cup-Acc adp|of noun|oil intj|ah verb|need-Fin-Ind-Pres-P3 num|one adj|white-S1 noun|onion-Acc cconj|and num|one noun|tomato verb|need-Fin-Ind-Pres-P3 adv|also adp|for noun|chicken cconj|or noun|meat .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|DISCOURSE 7|0|ROOT 8|7|DISCOURSE 9|10|COMPOUND 10|7|OBJ 11|15|CC 12|15|DISCOURSE 13|15|DISCOURSE 14|15|NSUBJ 15|7|CONJ 16|17|NUMMOD 17|15|OBJ 18|19|CASE 19|17|NMOD 20|21|CC 21|15|CONJ 22|21|OBJ 23|24|CASE 24|22|NMOD 25|26|DISCOURSE 26|15|CCOMP 27|29|NUMMOD 28|29|AMOD 29|26|OBJ 30|33|CC 31|32|NUMMOD 32|33|NSUBJ 33|26|CONJ 34|33|ADVMOD 35|36|CASE 36|33|OBL 37|38|CC 38|36|CONJ 39|7|PUNCT
+*1067:	&~a &~o and &~tath that's usually my mother create it to me in: childhood . 45059_55801
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|usually pron|my-Prs-Gen-S1 noun|mother verb|create-Inf-S pron|it-Prs-Acc-S3 adp|to pron|I-Prs-Acc-S1 adp|in noun|childhood .
+%gra:	1|7|CC 2|7|NSUBJ-OUTER 3|7|COP 4|7|ADVMOD 5|6|NMOD-POSS 6|7|NSUBJ 7|0|ROOT 8|7|OBJ 9|10|CASE 10|7|OBL 11|12|CASE 12|7|OBL 13|7|PUNCT
+*1067:	but now I miss . 56752_58938
+%mor:	cconj|but adv|now pron|I-Prs-Nom-S1 verb|miss-Fin-Ind-Pres-S1 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*1067:	it's favorite because from [//] &-uh I ate from childhood until now . 60313_66100
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|favorite-S1 sconj|because pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Past-S1-irr adp|from noun|childhood adp|until adv|now .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|MARK 5|6|NSUBJ 6|3|ADVCL 7|8|CASE 8|6|OBL 9|10|CASE 10|6|OBL 11|3|PUNCT
+*1067:	&-uh &~i it is favorite . 66700_68119
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|favorite-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*1067:	there is four &~ins things for that meal . 69107_73090
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 num|four noun|thing-Plur adp|for det|that-Def-Dem-Sing noun|meal .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*1067:	<that I> [///] there's [//] &-uh &~i &~a an(d) that's the [//] &~mum &~m &~my and then my favorite dishes for me and my family . 74323_81899
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 cconj|and adv|then pron|my-Prs-Gen-S1 adj|favorite-S1 noun|dish-Plur adp|for pron|I-Prs-Acc-S1 cconj|and pron|my-Prs-Gen-S1 noun|family .
+%gra:	1|8|CC 2|8|NSUBJ 3|8|COP 4|8|CC 5|8|ADVMOD 6|8|NMOD-POSS 7|8|AMOD 8|0|ROOT 9|10|CASE 10|8|NMOD 11|13|CC 12|13|NMOD-POSS 13|10|CONJ 14|8|PUNCT
+*1067:	I ate it before . 83948_84444
+%mor:	pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 adv|before .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*1067:	and I <eat it> [//] &~eas eating now in USA . 88140_89197
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|eat-Part-Pres-S adv|now adp|in propn|USA .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|6|CASE 6|3|OBL 7|3|PUNCT
+*1067:	<there is> [///] ah no [///] <I can> [/] I [/] I can create it by myself because I learn from my mother how to cook that dishes . 89896_101375
+%mor:	intj|ah pron|I-Prs-Nom-S1 aux|can-Fin-S verb|create-Inf-S pron|it-Prs-Acc-S3 adp|by pron|myself-Prs-Acc-reflx-S1 sconj|because pron|I-Prs-Nom-S1 verb|learn-Fin-Ind-Pres-S1 adp|from pron|my-Prs-Gen-S1 noun|mother adv|how part|to verb|cook-Inf-S det|that-Def-Dem-Sing noun|dish-Plur-Acc .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|10|MARK 9|10|NSUBJ 10|4|ADVCL 11|13|CASE 12|13|NMOD-POSS 13|10|OBL 14|10|ADVMOD 15|16|MARK 16|14|ACL 17|18|DET 18|16|OBJ 19|4|PUNCT
+*1067:	and I like it &~eve . 102012_102493
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*1067:	<I like> [/] ah I like that . 103859_104089
+%mor:	intj|ah pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|that-Dem .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*1067:	ah I ate it here with ah some individual . 105288_111257
+%mor:	intj|ah pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 adv|here adp|with intj|ah det|some-Def-Ind noun|individual .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|9|CASE 7|9|DISCOURSE 8|9|DET 9|3|OBL 10|3|PUNCT
+*1067:	&~s and &-uh now I take assist ah from my cousin to [/] <to make it> [/] ah to make it good &-uh &~ne . 111965_120191
+%mor:	cconj|and adv|now pron|I-Prs-Nom-S1 verb|take-Fin-Ind-Pres-S1 noun|assist-Acc intj|ah adp|from pron|my-Prs-Gen-S1 noun|cousin intj|ah part|to verb|make-Inf-S pron|it-Prs-Acc-S3 adj|good-S1 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|DISCOURSE 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|4|DISCOURSE 11|12|MARK 12|4|ADVCL 13|12|OBJ 14|12|XCOMP 15|4|PUNCT
+@End

@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/t-00010165-1
+@Begin
+@Languages:	eng
+@Participants:	1150 Student
+@ID:	eng|Vercellotti|1150|||3||Student|level4||
+@Media:	1150_5U3, audio
+@Transcriber:	jms
+*1150:	today's topic is &-uh when the gap between the rich and the poor is so large you needta balance your desire for luxury with compassion for the ones are in need . 2317_20452
+%mor:	noun|today~part|s noun|topic aux|be-Fin-Ind-Pres-S3 adv|when det|the-Def-Art noun|gap adp|between det|the-Def-Art adj|rich-S1 cconj|and det|the-Def-Art noun|poor aux|be-Fin-Ind-Pres-S3 adv|so adj|large-S1 pron|you-Prs-Nom-S2 noun|needta verb|balance-Inf-S pron|your-Prs-Gen-S2 noun|desire-Acc adp|for noun|luxury adp|with noun|compassion adp|for det|the-Def-Art noun|one-Plur aux|be-Fin-Ind-Pres-P3 adp|in noun|need .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|16|NSUBJ-OUTER 4|16|COP 5|0|ROOT 6|7|DET 7|16|NSUBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|13|CC 12|13|DET 13|10|CONJ 14|16|COP 15|16|ADVMOD 16|5|ADVCL-RELCL 17|19|NSUBJ 18|19|NSUBJ 19|16|PARATAXIS 20|21|NMOD-POSS 21|19|OBJ 22|23|CASE 23|21|NMOD 24|25|CASE 25|23|NMOD 26|28|CASE 27|28|DET 28|25|NMOD 29|31|COP 30|31|CASE 31|19|PARATAXIS 32|5|PUNCT
+*1150:	for example the rich are becoming richer . 21219_24928
+%mor:	adp|for noun|example det|the-Def-Art adj|rich-S1 aux|be-Fin-Ind-Pres-P3 verb|become-Part-Pres-S adj|richer-Cmp-S1 .
+%gra:	1|2|CASE 2|6|OBL 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|XCOMP 8|6|PUNCT
+*1150:	and the poor are becoming poorer . 26854_28285
+%mor:	cconj|and det|the-Def-Art adj|poor-S1 aux|be-Fin-Ind-Pres-P3 verb|become-Part-Pres-S adj|poorer-Cmp-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|XCOMP 7|5|PUNCT
+*1150:	so we needta find a solution to help out and balance between the rich and the poor . 28794_40628
+%mor:	adv|so pron|we-Prs-Nom-P1 aux|needta-Fin-Pres-S verb|find-Inf-S det|a-Ind-Art noun|solution-Acc part|to verb|help-Inf-S adp|out cconj|and verb|balance-Inf-S adp|between det|the-Def-Art adj|rich-S1 cconj|and det|the-Def-Art adj|poor-S1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|MARK 8|6|ACL 9|8|COMPOUND-PRT 10|11|CC 11|8|CONJ 12|14|CASE 13|14|DET 14|11|OBL 15|17|CC 16|17|DET 17|14|CONJ 18|4|PUNCT
+*1150:	mm &-uh <we needta> [//] the rich needta donate money and &-uh build &-uh charities ah to help the poor and &-uh to stop poverty all over the world . 41230_63149
+%mor:	intj|mm det|the-Def-Art adj|rich-S1 noun|needta verb|donate-Fin-Ind-S noun|money-Acc cconj|and verb|build-Fin-S noun|charity-Plur-Acc adv|ah part|to verb|help-Inf-S det|the-Def-Art adj|poor-S1 cconj|and part|to verb|stop-Inf-S noun|poverty-Acc adv|all adp|over det|the-Def-Art noun|world .
+%gra:	1|5|DISCOURSE 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|8|CC 8|5|CONJ 9|8|OBJ 10|8|ADVMOD 11|12|MARK 12|8|ADVCL 13|14|DET 14|12|OBJ 15|17|CC 16|17|MARK 17|12|CONJ 18|17|OBJ 19|22|ADVMOD 20|22|CASE 21|22|DET 22|17|OBL 23|5|PUNCT
+*1150:	and [/] and in my opinion I say &-uh &~ev &-uh every rich &~pershon person should give at least one percent of his money to help the poor every year . 63801_87342
+%mor:	cconj|and adp|in pron|my-Prs-Gen-S1 noun|opinion pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Pres-S1 det|every-Def-Tot adj|rich-S1 noun|person aux|should-Fin-S verb|give-Inf-S adp|at adj|least-Sup-S1 num|one noun|percent-Acc adp|of pron|his-Prs-Gen-S3 noun|money part|to verb|help-Inf-S det|the-Def-Art adj|poor-S1 det|every-Def-Tot noun|year .
+%gra:	1|6|CC 2|4|CASE 3|4|NMOD-POSS 4|6|OBL 5|6|NSUBJ 6|0|ROOT 7|9|DET 8|9|AMOD 9|11|NSUBJ 10|11|AUX 11|6|CCOMP 12|13|CASE 13|14|NMOD 14|15|NUMMOD 15|11|OBJ 16|18|CASE 17|18|NMOD-POSS 18|15|NMOD 19|20|MARK 20|11|ADVCL 21|22|DET 22|20|OBJ 23|24|DET 24|20|OBL-UNMARKED 25|6|PUNCT
+*1150:	and the [/] &~p the poor should try to improve them self . 87966_100096
+%mor:	cconj|and det|the-Def-Art noun|poor aux|should-Fin-S verb|try-Inf-S part|to verb|improve-Inf-S pron|they-Prs-Acc-P3 noun|self-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|7|OBJ 10|5|PUNCT
+*1150:	but the rich has an important &-uh position to help the poor . 100528_120191
+%mor:	cconj|but det|the-Def-Art noun|rich verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|important-S1 noun|position-Acc part|to verb|help-Inf-S det|the-Def-Art adj|poor-S1 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|9|MARK 9|7|ACL 10|11|DET 11|9|OBJ 12|4|PUNCT
+@End

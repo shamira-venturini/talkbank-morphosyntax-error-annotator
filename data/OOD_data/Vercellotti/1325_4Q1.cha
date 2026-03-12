@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/a-00062576-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1325_4Q1, audio
+*PAR0:	the topic is &-uh about the city . 1120_4440
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 adp|about det|the-Def-Art noun|city .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR0:	I come from my city name is Seha is located &-uh in Libya in the south of Libya it is a big &-uh city . 4660_16650
+%mor:	pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from pron|my-Prs-Gen-S1 noun|city noun|name aux|be-Fin-Ind-Pres-S3 propn|Seha aux|be-Fin-Ind-Pres-S3 verb|locate-Part-Past-S adp|in propn|Libya adp|in det|the-Def-Art noun|south adp|of propn|Libya pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|city .
+%gra:	1|2|NSUBJ 2|10|PARATAXIS 3|6|CASE 4|6|NMOD-POSS 5|6|COMPOUND 6|2|OBL 7|10|COP 8|10|NSUBJ-PASS 9|10|AUX-PASS 10|0|ROOT 11|12|CASE 12|10|OBL 13|15|CASE 14|15|DET 15|10|OBL 16|17|CASE 17|15|NMOD 18|22|NSUBJ 19|22|COP 20|22|DET 21|22|AMOD 22|10|PARATAXIS 23|10|PUNCT
+*PAR0:	and it is the capital of the south . 18080_20320
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|capital adp|of det|the-Def-Art noun|south .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|5|PUNCT
+*PAR0:	&-uh it is &-um mainly hot and dry &-uh all over the time and sometimes raining . 21840_30470
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|mainly adj|hot-S1 cconj|and adj|dry-S1 adv|all adp|over det|the-Def-Art noun|time cconj|and adv|sometimes verb|rain-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|6|CC 6|4|CONJ 7|10|ADVMOD 8|10|CASE 9|10|DET 10|4|OBL 11|13|CC 12|13|ADVMOD 13|10|CONJ 14|4|PUNCT
+*PAR0:	and &-uh &-uh she is a big . 33900_39410
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|5|PUNCT
+*PAR0:	he is a it is a big and &-uh look &-uh quiet city and have many &-uh shop places . 41670_51960
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 cconj|and noun|look adj|quiet-S1 noun|city cconj|and verb|have-Fin-Ind-Pres-P3 adj|many-S1 noun|shop noun|place-Plur-Acc .
+%gra:	1|11|NSUBJ 2|11|COP 3|11|REPARANDUM 4|11|NSUBJ 5|11|COP 6|11|DET 7|11|AMOD 8|10|CC 9|10|ADVMOD 10|7|CONJ 11|0|ROOT 12|13|CC 13|11|CONJ 14|16|AMOD 15|16|COMPOUND 16|13|OBJ 17|11|PUNCT
+*PAR0:	&-uh &-um at many colleges many scholars and small &-uh small sites of activities . 57120_66000
+%mor:	adp|at adj|many-S1 noun|college-Plur adj|many-S1 noun|scholar-Plur cconj|and adj|small-S1 adj|small-S1 noun|site-Plur adp|of noun|activity-Plur .
+%gra:	1|3|CASE 2|3|AMOD 3|5|NMOD 4|5|AMOD 5|0|ROOT 6|9|CC 7|9|AMOD 8|9|AMOD 9|5|CONJ 10|11|CASE 11|9|NMOD 12|5|PUNCT
+*PAR0:	we can do there exactly . 66440_69200
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|do-Inf-S adv|there adv|exactly .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+*PAR0:	I can't dare any special activity there . 69580_71880
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|dare-Inf-S det|any-Def-Ind adj|special-S1 noun|activity-Acc adv|there .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|ADVMOD 9|4|PUNCT
+*PAR0:	&-uh the only thing I can dare I can do there is &-uh shopping maybe in the weekend . 72080_79340
+%mor:	det|the-Def-Art adj|only-S1 noun|thing-Ger pron|I-Prs-Nom-S1 aux|can-Fin-S verb|dare-Inf-S pron|I-Prs-Nom-S1 aux|can-Fin-S verb|do-Inf-S pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 noun|shopping-Ger adv|maybe adp|in det|the-Def-Art noun|weekend .
+%gra:	1|3|DET 2|3|AMOD 3|11|NSUBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|9|NSUBJ 8|9|AUX 9|6|CCOMP 10|11|EXPL 11|0|ROOT 12|11|NSUBJ 13|16|ADVMOD 14|16|CASE 15|16|DET 16|11|OBL 17|11|PUNCT
+*PAR0:	and &-uh in or in &-uh if there is any event I will &-uh &-uh buy &-uh a new [/] new dresses or something like that . 82120_95200
+%mor:	cconj|and adv|in cconj|or adv|in sconj|if pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|any-Def-Ind noun|event pron|I-Prs-Nom-S1 aux|will-Fin-S verb|buy-Inf-S det|a-Ind-Art adj|new-S1 noun|dress-Plur-Acc cconj|or pron|something-Ind-S1 adp|like pron|that-Dem .
+%gra:	1|12|CC 2|12|ADVMOD 3|4|CC 4|2|CONJ 5|7|MARK 6|7|EXPL 7|12|ADVCL 8|9|DET 9|7|NSUBJ 10|12|NSUBJ 11|12|AUX 12|0|ROOT 13|15|DET 14|15|AMOD 15|12|OBJ 16|17|CC 17|15|CONJ 18|19|CASE 19|17|NMOD 20|12|PUNCT
+*PAR0:	so it is &-um a quiet and &-uh beautiful city . 96360_101730
+%mor:	adv|so pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|quiet-S1 cconj|and adj|beautiful-S1 noun|city .
+%gra:	1|8|DISCOURSE 2|8|NSUBJ 3|8|COP 4|8|DET 5|8|AMOD 6|7|CC 7|5|CONJ 8|0|ROOT 9|8|PUNCT
+*PAR0:	and everything is &-uh &-uh comfortable there . 103800_107440
+%mor:	cconj|and pron|everything-Tot-S1 aux|be-Fin-Ind-Pres-S3 adj|comfortable-S1 adv|there .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR0:	and &-uh the thing I think it &-uh it is &-uh very hot on that time . 109790_117900
+%mor:	cconj|and det|the-Def-Art noun|thing-Ger pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|very adj|hot-S1 adp|on det|that-Def-Dem-Sing noun|time .
+%gra:	1|10|CC 2|3|DET 3|10|NSUBJ-OUTER 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBJ 7|5|NSUBJ 8|10|COP 9|10|ADVMOD 10|0|ROOT 11|13|CASE 12|13|DET 13|10|OBL 14|10|PUNCT
+@End

@@ -1,0 +1,27 @@
+@UTF8
+@PID:	11312/t-00010136-1
+@Begin
+@Languages:	eng
+@Participants:	1081 Student
+@ID:	eng|Vercellotti|1081|||1||Student|level4||
+@Media:	1081_5S1, audio
+@Transcriber:	jms
+*1081:	today I'm gonna to talk about &-uh &-uh violence on tv . 2556_6262
+%mor:	noun|today pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to part|to verb|talk-Inf-S adp|about noun|violence adp|on noun|TV .
+%gra:	1|4|OBL-UNMARKED 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|MARK 6|7|MARK 7|4|XCOMP 8|9|CASE 9|7|OBL 10|11|CASE 11|7|OBL 12|4|PUNCT
+*1081:	in fact in my country &-uh we didn't have &-uh &-uh violence &-uh shown &-uh in [//] &~d on tv . 7901_16688
+%mor:	adp|in noun|fact adp|in pron|my-Prs-Gen-S1 noun|country pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Past-P1-irr~part|not verb|have-Inf-S noun|violence-Acc verb|show-Part-Past-S-irr adp|on noun|TV .
+%gra:	1|2|CASE 2|9|OBL 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|0|ROOT 10|9|OBJ 11|10|ACL 12|13|CASE 13|11|OBL 14|9|PUNCT
+*1081:	but we have &-uh &-uh some issues &-uh &-uh &-uh that [/] &-uh that [//] what [//] &-uh &-uh showing [//] &-uh <w:hat are> [//] &~shuh what is showing &-uh on satellite or &-uh video games . 16688_32960
+%mor:	cconj|but pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|some-Def-Ind noun|issue-Plur-Acc pron|what-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|show-Part-Pres-S adp|on noun|satellite cconj|or noun|video noun|game-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|13|CASE 10|13|COMPOUND 11|12|CC 12|10|CONJ 13|8|OBL 14|3|PUNCT
+*1081:	&-uh &-uh &~mo the family [//] &-uh families ah must &-uh &~m &~m get &-uh <a crucial> [/] &-uh decision [/] a &~kra crucial [/] crucial decision about <what they> [//] &-uh what the children &-uh watch &-uh on tv or what [/] &-uh &-uh what &-uh they [/] &-uh they buy &-uh &-uh about video games . 34184_64209
+%mor:	det|the-Def-Art noun|family-Plur pron|ah-Prs-Acc-P3 aux|must-Fin-S verb|get-Inf-S det|a-Ind-Art adj|crucial-S1 noun|decision-Acc adp|about pron|what-Rel-S1 det|the-Def-Art noun|child-Plur verb|watch-Fin-Ind-Pres-P3 adp|on noun|TV cconj|or pron|what-Rel-S1 pron|they-Prs-Nom-P3 verb|buy-Fin-Ind-Pres-P3 adp|about noun|video noun|game-Plur .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|10|CASE 10|8|NMOD 11|12|DET 12|13|NSUBJ 13|10|ACL-RELCL 14|15|CASE 15|13|OBL 16|17|CC 17|15|CONJ 18|19|NSUBJ 19|17|ACL-RELCL 20|22|CASE 21|22|COMPOUND 22|19|OBL 23|5|PUNCT
+*1081:	&-uh &-uh because &-uh this kind of &-uh games &-uh &-uh generate &-uh them to &-uh violence [/] &-uh violence [% 3 syllables] . 64830_82005
+%mor:	sconj|because det|this-Def-Dem-Sing noun|kind adp|of noun|game-Plur verb|generate-Fin-Ind-Pres-P3 pron|they-Prs-Acc-P3 adp|to noun|violence .
+%gra:	1|6|MARK 2|3|DET 3|6|NSUBJ 4|5|CASE 5|3|NMOD 6|0|ROOT 7|6|OBJ 8|9|CASE 9|6|OBL 10|6|PUNCT
+*1081:	or [///] &-uh &-uh so &-uh &~i they [//] &-uh the families &-uh must &-uh banned [% 2 syllables] &-uh &-uh what &-uh &-uh their children watching &-uh on tv or what they &-uh playing &-uh by ah video games &-uh . 82005_120191
+%mor:	adv|so det|the-Def-Art noun|family-Plur aux|must-Fin-S verb|ban-Inf-Past-S pron|what-Int-S1 pron|their-Prs-Gen-P3 noun|child-Plur verb|watch-Ger-S adp|on noun|TV cconj|or pron|what-Rel-S1 pron|they-Prs-Nom-P3 verb|play-Part-Pres-S adp|by intj|ah noun|video noun|game-Plur .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|NMOD-POSS 8|9|NSUBJ 9|6|ACL-RELCL 10|11|CASE 11|9|OBL 12|13|CC 13|11|CONJ 14|15|NSUBJ 15|13|ACL-RELCL 16|19|CASE 17|19|DISCOURSE 18|19|COMPOUND 19|15|OBL 20|5|PUNCT
+@End

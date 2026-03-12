@@ -1,0 +1,32 @@
+@UTF8
+@PID:	11312/a-00062586-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1334_4Q3, audio
+*PAR0:	&-uh I would like to talk about the famous people from the past ancient China &-uh his name is Kun &-um his principal thought &-uh were &-uh let people know we don't need to have arms and warmth . 1200_18320
+%mor:	pron|I-Prs-Nom-S1 aux|would-Fin-S verb|like-Inf-S part|to verb|talk-Inf-S adp|about det|the-Def-Art adj|famous-S1 noun|person-Plur adp|from det|the-Def-Art adj|past-S1 adj|ancient-S1 propn|China pron|his-Prs-Gen-S3 noun|name aux|be-Fin-Ind-Pres-S3 propn|Kun pron|his-Prs-Gen-S3 adj|principal-S1 noun|thought aux|be-Fin-Ind-Past-P3-irr verb|let-Inf-S noun|person-Plur-Acc verb|know-Inf-S pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|need-Inf-S part|to verb|have-Inf-S noun|arm-Plur-Acc cconj|and noun|warmth .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|14|CASE 11|14|DET 12|14|AMOD 13|14|AMOD 14|9|NMOD 15|16|NMOD-POSS 16|18|NSUBJ 17|23|COP 18|23|NSUBJ 19|21|NMOD-POSS 20|21|AMOD 21|23|NSUBJ-OUTER 22|23|AUX 23|3|PARATAXIS 24|23|OBJ 25|23|XCOMP 26|29|NSUBJ 27|29|AUX 28|29|ADVMOD 29|25|CCOMP 30|31|MARK 31|29|XCOMP 32|31|OBJ 33|34|CC 34|32|CONJ 35|3|PUNCT
+*PAR0:	and [/] and in every people they might we must have love and peace . 29090_34810
+%mor:	cconj|and adp|in det|every-Def-Tot noun|person-Plur pron|they-Prs-Nom-P3 aux|might-Fin-S pron|we-Prs-Nom-P1 aux|must-Fin-S verb|have-Inf-S noun|love-Acc cconj|and noun|peace .
+%gra:	1|9|CC 2|4|CASE 3|4|DET 4|9|OBL 5|9|NSUBJ 6|9|AUX 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|9|OBJ 11|12|CC 12|10|CONJ 13|9|PUNCT
+*PAR0:	and he [/] he tried to convince the kings in different cities . 36810_47180
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|try-Fin-Ind-Past-S3 part|to verb|convince-Inf-S det|the-Def-Art noun|king-Plur-Acc adp|in adj|different-S1 noun|city-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|10|CASE 9|10|AMOD 10|5|OBL 11|3|PUNCT
+*PAR0:	they don't they didn't need to fight to other cities or countries . 48300_54770
+%mor:	pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3-irr~part|not verb|need-Inf-S part|to verb|fight-Inf-S adp|to adj|other-S1 noun|city-Plur cconj|or noun|country-Plur .
+%gra:	1|2|NSUBJ 2|7|REPARANDUM 3|7|ADVMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|9|MARK 9|7|XCOMP 10|12|CASE 11|12|AMOD 12|9|OBL 13|14|CC 14|12|CONJ 15|7|PUNCT
+*PAR0:	and then their citizens will have a better life . 56880_64569
+%mor:	cconj|and adv|then pron|their-Prs-Gen-P3 noun|citizen-Plur aux|will-Fin-S verb|have-Inf-S det|a-Ind-Art adj|good-Cmp-S1 noun|life-Acc .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|NMOD-POSS 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|AMOD 9|6|OBJ 10|6|PUNCT
+*PAR0:	&-uh but it's &-uh but they was &-uh hard work &-uh cause the leader they wanted [/] wanted to have had more power and [/] and dance in their country . 67240_94440
+%mor:	cconj|but pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 cconj|but pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-S3-irr adj|hard-S1 noun|work verb|cause-Inf-S det|the-Def-Art noun|leader-Acc pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Past-P3 part|to aux|have-Inf-S verb|have-Part-Past-S-irr adj|more-Cmp-S1 noun|power-Acc cconj|and noun|dance adp|in pron|their-Prs-Gen-P3 noun|country .
+%gra:	1|8|CC 2|3|NSUBJ 3|8|COP 4|8|CC 5|8|NSUBJ 6|8|COP 7|8|AMOD 8|0|ROOT 9|8|ADVCL 10|11|DET 11|9|OBJ 12|13|NSUBJ 13|11|ACL-RELCL 14|16|MARK 15|16|AUX 16|13|XCOMP 17|18|AMOD 18|16|OBJ 19|20|CC 20|18|CONJ 21|23|CASE 22|23|NMOD-POSS 23|16|OBL 24|8|PUNCT
+*PAR0:	so they try they [/] they wanted to fight other countries . 96220_101830
+%mor:	adv|so pron|they-Prs-Nom-P3 verb|try-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Past-P3 part|to verb|fight-Inf-S adj|other-S1 noun|country-Plur-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|NSUBJ 5|3|CCOMP 6|7|MARK 7|5|XCOMP 8|9|AMOD 9|7|OBJ 10|3|PUNCT
+*PAR0:	and &-uh and obtained more than . 102260_109860
+%mor:	cconj|and cconj|and verb|obtain-Fin-Ind-Past-S3 adj|more-Cmp-S1 adp|than .
+%gra:	1|3|CC 2|3|CC 3|0|ROOT 4|3|OBJ 5|3|PUNCT 6|3|PUNCT
+@End

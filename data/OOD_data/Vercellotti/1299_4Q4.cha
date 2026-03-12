@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/a-00062569-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1299_4Q4, audio
+*PAR0:	my topic is to describe a custom in your culture or in other culture which you can like . 1680_7050
+%mor:	pron|my-Prs-Gen-S1 noun|topic aux|be-Fin-Ind-Pres-S3 part|to verb|describe-Inf-S det|a-Ind-Art noun|custom-Acc adp|in pron|your-Prs-Gen-S2 noun|culture cconj|or adp|in adj|other-S1 noun|culture pron|which-Rel-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|like-Inf-S .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ-OUTER 3|5|COP 4|5|MARK 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|14|CC 12|14|CASE 13|14|AMOD 14|10|CONJ 15|18|OBJ 16|18|NSUBJ 17|18|AUX 18|14|ACL-RELCL 19|5|PUNCT
+*PAR0:	hmm . 8820_9020
+%mor:	intj|hmm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	I don't like <drinking custom> [/] drinking custom in our country . 12820_17430
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S verb|drink-Ger-S noun|custom-Acc adp|in pron|our-Prs-Gen-P1 noun|country .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|XCOMP 6|5|OBJ 7|9|CASE 8|9|NMOD-POSS 9|5|OBL 10|4|PUNCT
+*PAR0:	but sometimes I [/] I like drink drinking with others . 18320_23090
+%mor:	cconj|but adv|sometimes pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 noun|drink noun|drinking-Acc-Ger adp|with noun|other-Plur .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|6|COMPOUND 6|4|OBJ 7|8|CASE 8|4|OBL 9|4|PUNCT
+*PAR0:	but sometimes the drinking culture drinking country makes me upset or frustrated . 23400_29290
+%mor:	cconj|but adv|sometimes det|the-Def-Art noun|drinking-Ger noun|culture noun|drinking-Ger noun|country verb|make-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 adj|upset-S1 cconj|or adj|frustrated-S1 .
+%gra:	1|8|CC 2|8|ADVMOD 3|7|DET 4|5|COMPOUND 5|7|COMPOUND 6|7|COMPOUND 7|8|NSUBJ 8|0|ROOT 9|8|OBJ 10|8|XCOMP 11|12|CC 12|10|CONJ 13|8|PUNCT
+*PAR0:	lot of people feel . 30040_30880
+%mor:	noun|lot adp|of noun|person-Plur verb|feel-Fin-Ind-Pres-P3 .
+%gra:	1|4|NSUBJ 2|3|CASE 3|1|NMOD 4|0|ROOT 5|4|PUNCT
+*PAR0:	the primary feature of drinking culture is that many people [/] people who are for drinking with other who were drinking with others . 33440_48780
+%mor:	det|the-Def-Art adj|primary-S1 noun|feature adp|of noun|drinking-Ger noun|culture aux|be-Fin-Ind-Pres-S3 sconj|that adj|many-S1 noun|person-Plur pron|who-Rel aux|be-Fin-Ind-Pres-P3 sconj|for verb|drink-Part-Pres-S adp|with adj|other-S1 pron|who-Rel aux|be-Fin-Ind-Past-P3-irr verb|drink-Part-Pres-S adp|with noun|other-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|10|NSUBJ 4|6|CASE 5|6|COMPOUND 6|3|NMOD 7|10|COP 8|10|MARK 9|10|AMOD 10|0|ROOT 11|14|NSUBJ 12|14|COP 13|14|MARK 14|10|ACL-RELCL 15|16|CASE 16|14|OBL 17|19|NSUBJ 18|19|AUX 19|16|ACL-RELCL 20|21|CASE 21|19|OBL 22|10|PUNCT
+*PAR0:	used to give to alcohol to another person . 51880_55840
+%mor:	verb|use-Part-Past-S part|to verb|give-Inf-S adp|to noun|alcohol adp|to det|another-Def-Ind noun|person .
+%gra:	1|0|ROOT 2|3|MARK 3|1|XCOMP 4|5|CASE 5|3|OBL 6|8|CASE 7|8|DET 8|3|OBL 9|1|PUNCT
+*PAR0:	assuming these conversative behaviors <makes people> [/] makes people be reader . 57260_69440
+%mor:	verb|assume-Part-Pres-S det|this-Def-Dem-Plur adj|conversative-S1 noun|behavior-Plur-Acc verb|make-Fin-Ind-Pres-S3 noun|person-Plur-Acc aux|be-Inf-S noun|reader .
+%gra:	1|5|CSUBJ 2|4|DET 3|4|AMOD 4|1|OBJ 5|0|ROOT 6|5|OBJ 7|8|COP 8|5|XCOMP 9|5|PUNCT
+*PAR0:	the so because they some people query group their bank that <they they> [/] they have they has a quite other respect . 71680_89190
+%mor:	det|the-Def-Art adv|so sconj|because pron|they-Prs-Nom-P3 det|some-Def-Ind noun|person-Plur verb|query-Fin-Ind-Pres-P3 noun|group-Acc pron|their-Prs-Gen-P3 noun|bank-Acc sconj|that pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adv|quite adj|other-S1 noun|respect-Acc .
+%gra:	1|2|DET 2|7|ADVMOD 3|7|MARK 4|7|NSUBJ 5|6|DET 6|7|NSUBJ 7|0|ROOT 8|7|OBJ 9|10|NMOD-POSS 10|7|OBJ 11|13|MARK 12|13|NSUBJ 13|7|ADVCL 14|15|NSUBJ 15|13|CCOMP 16|19|DET 17|18|ADVMOD 18|19|AMOD 19|15|OBJ 20|7|PUNCT
+*PAR0:	they has a meeting day he has a meeting they have most power to do stuff . 94890_101600
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|meeting-Ger noun|day-Acc pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|meeting-Acc-Ger pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 adj|most-Sup-S1 noun|power-Acc part|to verb|do-Inf-S noun|stuff-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|9|DET 9|7|OBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|13|AMOD 13|11|OBJ 14|15|MARK 15|13|ACL 16|15|OBJ 17|2|PUNCT
+@End

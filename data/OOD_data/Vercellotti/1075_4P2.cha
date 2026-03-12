@@ -1,0 +1,27 @@
+@UTF8
+@PID:	11312/t-00010121-1
+@Begin
+@Languages:	eng
+@Participants:	1075 Student
+@ID:	eng|Vercellotti|1075|||2||Student|level4||
+@Media:	1075_4P2, audio
+@Transcriber:	jms
+*1075:	first of all I graduate from the university . 1230_7426
+%mor:	adj|first-S1 adp|of det|all-Def-Tot pron|I-Prs-Nom-S1 verb|graduate-Fin-Ind-Pres-S1 adp|from det|the-Def-Art noun|university .
+%gra:	1|5|ADVMOD 2|3|CASE 3|1|OBL 4|5|NSUBJ 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*1075:	so I decide now to complete &-er <as occupation> [//] &-uh job [//] or [/] &-uh or [//] occupation part in my life or I'm complete my study . 7815_22366
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|decide-Fin-Ind-Pres-S1 adv|now part|to verb|complete-Inf-S noun|occupation noun|part-Acc adp|in pron|my-Prs-Gen-S1 noun|life cconj|or pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|complete-S1 pron|my-Prs-Gen-S1 noun|study-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|6|MARK 6|3|XCOMP 7|8|COMPOUND 8|6|OBJ 9|11|CASE 10|11|NMOD-POSS 11|6|OBL 12|15|CC 13|15|NSUBJ 14|15|COP 15|3|CONJ 16|17|NMOD-POSS 17|15|OBJ 18|3|PUNCT
+*1075:	so &-uh &~i &-uh I [//] &~groy &~i &-uh and [//] &-uh I would like to speak <about the:> [/] &~bout <about the:> [//] &-uh &-uh about [/] &-uh about my g_p_a . 24543_44217
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|would-Fin-S verb|like-Inf-S part|to verb|speak-Inf-S adp|about pron|my-Prs-Gen-S1 noun|gpa .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|4|PUNCT
+*1075:	<if I> [/] &-uh <if I> [//] had [//] study [//] <if I had> [/] if I had been studying a_lot I would have great g_p_a . 44981_66353
+%mor:	sconj|if pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1-irr aux|be-Part-Past-S-irr verb|study-Part-Pres-S noun|alot-Acc pron|I-Prs-Nom-S1 aux|would-Fin-S verb|have-Inf-S adj|great-S1 noun|gpa-Acc .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|9|ADVCL 6|5|OBJ 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|11|AMOD 11|9|OBJ 12|9|PUNCT
+*1075:	<and next> [///] &-uh &-uh could have [% whispering] differently [% reading prompt] so &-uh &-uh <I should> [/] &-um &-uh I [/] &~shou I should &-uh study a_lot to get the &~gra good grade . 67205_95862
+%mor:	aux|could-Fin-S verb|have-Inf-S adv|differently sconj|so pron|I-Prs-Nom-S1 aux|should-Fin-S verb|study-Inf-S noun|alot-Acc part|to verb|get-Inf-S det|the-Def-Art adj|good-S1 noun|grade-Acc .
+%gra:	1|2|AUX 2|0|ROOT 3|2|ADVMOD 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|2|ADVCL 8|7|OBJ 9|10|MARK 10|7|ADVCL 11|13|DET 12|13|AMOD 13|10|OBJ 14|2|PUNCT
+*1075:	and finally I [/] &-um <I would> [//] or [//] I [/] &-uh <I I> [/] &~wa I would had study a_lot to get the grade [//] good grade . 96596_111920
+%mor:	cconj|and adv|finally pron|I-Prs-Nom-S1 aux|would-Fin-S verb|have-Inf-S verb|study-Inf-S noun|alot-Acc part|to verb|get-Inf-S det|the-Def-Art adj|good-S1 noun|grade-Acc .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|XCOMP 7|6|OBJ 8|9|MARK 9|6|ADVCL 10|12|DET 11|12|AMOD 12|9|OBJ 13|5|PUNCT
+@End

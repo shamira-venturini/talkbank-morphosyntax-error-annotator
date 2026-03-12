@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/t-00010125-1
+@Begin
+@Languages:	eng
+@Participants:	1077 Student
+@ID:	eng|Vercellotti|1077|||2||Student|level4||
+@Media:	1077_3G2, audio
+@Transcriber:	jms
+*1077:	the topic is transportation . 1860_3660
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 noun|transportation .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*1077:	<the transportation in my country is> [///] &~debe &-uh the transportation in my country depends on cars . 6220_11187
+%mor:	det|the-Def-Art noun|transportation adp|in pron|my-Prs-Gen-S1 noun|country verb|depend-Fin-Ind-Pres-S3 adp|on noun|car-Plur .
+%gra:	1|2|DET 2|6|NSUBJ 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|0|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+*1077:	because [/] &-uh <because of> [//] &-uh because [/] &-um because &-uh of &-uh we have &~va hot weather . 11886_23382
+%mor:	sconj|because adp|of pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 adj|hot-S1 noun|weather-Acc .
+%gra:	1|4|MARK 2|1|FIXED 3|4|NSUBJ 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|4|PUNCT
+*1077:	so ah we [/] we didn't have &-uh enough buses . 23924_29892
+%mor:	adv|so intj|ah pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Past-P1-irr~part|not verb|have-Inf-S adj|enough-S1 noun|bus-Plur-Acc .
+%gra:	1|6|ADVMOD 2|6|DISCOURSE 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|AMOD 8|6|OBJ 9|6|PUNCT
+*1077:	but in Pittsburgh &-uh the buses are available for everyone . 31083_35604
+%mor:	cconj|but adp|in propn|Pittsburgh det|the-Def-Art noun|bus-Plur aux|be-Fin-Ind-Pres-P3 adj|available-S1 adp|for pron|everyone-Tot-S1 .
+%gra:	1|7|CC 2|3|CASE 3|7|OBL 4|5|DET 5|7|NSUBJ 6|7|COP 7|0|ROOT 8|9|CASE 9|7|OBL 10|7|PUNCT
+*1077:	and &-uh <in my country> [/] the [/] &~ba ah in my country the cars &~si &-uh are too many . 36118_49423
+%mor:	cconj|and intj|ah adp|in pron|my-Prs-Gen-S1 noun|country det|the-Def-Art noun|car-Plur aux|be-Fin-Ind-Pres-P3 adv|too adj|many-S1 .
+%gra:	1|10|CC 2|10|DISCOURSE 3|5|CASE 4|5|NMOD-POSS 5|10|OBL 6|7|DET 7|10|NSUBJ 8|10|COP 9|10|ADVMOD 10|0|ROOT 11|10|PUNCT
+*1077:	and ah <there are> [/] &-uh there are fewer [/] &-uh fewer &-uh motor bikes . 50729_63788
+%mor:	cconj|and intj|ah pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|few-Cmp-S1 noun|motor noun|bike-Plur .
+%gra:	1|4|CC 2|4|DISCOURSE 3|4|EXPL 4|0|ROOT 5|7|AMOD 6|7|COMPOUND 7|4|NSUBJ 8|4|PUNCT
+*1077:	but ah in ah Pittsburgh <the transportation are> [/] &-uh the transportation are &-uh &~m &~m more ah . 65579_75508
+%mor:	cconj|but intj|ah adp|in intj|ah propn|Pittsburgh det|the-Def-Art noun|transportation aux|be-Fin-Ind-Pres-P3 adv|more intj|ah .
+%gra:	1|10|CC 2|10|DISCOURSE 3|4|CASE 4|10|DISCOURSE 5|7|REPARANDUM 6|7|DET 7|10|NSUBJ 8|10|COP 9|10|ADVMOD 10|0|ROOT 11|10|PUNCT
+*1077:	&-uh in Pittsburgh they have &-uh buses and &-uh trains and the subways and [/] &-uh and cars . 76020_91244
+%mor:	adp|in propn|Pittsburgh pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 noun|bus-Plur-Acc cconj|and noun|train-Plur cconj|and det|the-Def-Art noun|subway-Plur cconj|and noun|car-Plur .
+%gra:	1|2|CASE 2|4|OBL 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|7|CC 7|5|CONJ 8|10|CC 9|10|DET 10|5|CONJ 11|12|CC 12|10|CONJ 13|4|PUNCT
+*1077:	&-uh in my country <we used to:> [/] we useta have a bus . 91462_98370
+%mor:	adp|in pron|my-Prs-Gen-S1 noun|country pron|we-Prs-Nom-P1 aux|useta-Fin-Ind-Pres-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|bus-Acc .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*1077:	but it's was a bad idea . 99396_105556
+%mor:	cconj|but pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|bad-S1 noun|idea .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|COP 5|7|DET 6|7|AMOD 7|0|ROOT 8|7|PUNCT
+*1077:	mm and in Pittsburgh there are a_lot of buses . 106044_117067
+%mor:	intj|mm cconj|and adp|in propn|Pittsburgh pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|alot adp|of noun|bus-Plur .
+%gra:	1|6|DISCOURSE 2|4|CC 3|4|CASE 4|6|OBL 5|6|EXPL 6|0|ROOT 7|6|NSUBJ 8|9|CASE 9|7|NMOD 10|6|PUNCT
+*1077:	&~s and we can depend on it . 117172_120191
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|can-Fin-S verb|depend-Inf-S adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+@End

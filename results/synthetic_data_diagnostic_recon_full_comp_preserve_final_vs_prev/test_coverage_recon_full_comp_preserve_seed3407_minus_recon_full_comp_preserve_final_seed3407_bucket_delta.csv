@@ -1,0 +1,5 @@
+support_bucket,labels_with_eval_support,total_eval_support,mean_delta_recon_full_comp_preserve_seed3407_minus_recon_full_comp_preserve_final_seed3407,weighted_delta_recon_full_comp_preserve_seed3407_minus_recon_full_comp_preserve_final_seed3407
+mixed,26,270,-0.008309,-0.007313
+real_only,0,0,0.0,0.0
+synthetic_only,10,103,0.005288,0.005134
+unseen,0,0,0.0,0.0

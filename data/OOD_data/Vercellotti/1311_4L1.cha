@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/a-00062573-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1311_4L1, audio
+*PAR0:	okay . 2210_2450
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	my country is China my country is China I lived in Beijing before I came to United States &-um my &-uh Beijing is a &-uh China is a very correlated country . 2750_16010
+%mor:	pron|my-Prs-Gen-S1 noun|country aux|be-Fin-Ind-Pres-S3 propn|China pron|my-Prs-Gen-S1 noun|country aux|be-Fin-Ind-Pres-S3 propn|China pron|I-Prs-Nom-S1 verb|live-Fin-Ind-Past-S1 adp|in propn|Beijing-Ger sconj|before pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Past-S1-irr adp|to verb|Unite-Part-Past-S propn|State-Plur pron|my-Prs-Gen-S1 propn|Beijing-Ger aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art propn|China aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very verb|correlate-Part-Past-S noun|country .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|NMOD-POSS 6|8|NSUBJ 7|8|COP 8|4|PARATAXIS 9|10|NSUBJ 10|8|ACL-RELCL 11|12|CASE 12|10|OBL 13|15|MARK 14|15|NSUBJ 15|10|ADVCL 16|18|CASE 17|18|AMOD 18|15|OBL 19|20|NMOD-POSS 20|23|NSUBJ 21|23|COP 22|23|DET 23|28|NSUBJ 24|28|COP 25|28|DET 26|27|ADVMOD 27|28|AMOD 28|8|PARATAXIS 29|4|PUNCT
+*PAR0:	especially Beijing is a always lot of people around walking around the &-um &-uh streets . 17660_26200
+%mor:	adv|especially propn|Beijing-Ger aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|always noun|lot adp|of noun|person-Plur adv|around verb|walk-Part-Pres-S adp|around det|the-Def-Art noun|street-Plur .
+%gra:	1|6|ADVMOD 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|ADVMOD 6|0|ROOT 7|8|CASE 8|6|NMOD 9|6|ADVMOD 10|8|ACL 11|13|CASE 12|13|DET 13|10|OBL 14|6|PUNCT
+*PAR0:	and &-uh a lot of &-uh they don't have a lot of parking space . 26800_30960
+%mor:	cconj|and det|a-Ind-Art noun|lot adp|of pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|have-Inf-S det|a-Ind-Art noun|lot-Acc adp|of noun|parking-Ger noun|space .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ 4|5|CASE 5|3|NMOD 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|10|DET 10|8|OBJ 11|13|CASE 12|13|COMPOUND 13|10|NMOD 14|8|PUNCT
+*PAR0:	&-uh especially &-uh but also &-uh Beijing is a very &-uh Beijing is a history historical city . 32080_42200
+%mor:	adv|especially cconj|but adv|also propn|Beijing-Ger aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very propn|Beijing-Ger aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|history adj|historical-S1 noun|city .
+%gra:	1|13|ADVMOD 2|13|CC 3|8|ADVMOD 4|8|NSUBJ 5|8|COP 6|8|DET 7|8|ADVMOD 8|13|NSUBJ 9|13|COP 10|13|DET 11|13|COMPOUND 12|13|AMOD 13|0|ROOT 14|13|PUNCT
+*PAR0:	&-uh there are a lot of &-uh there are different &-uh &-uh Den [/] Den descents capital is in Beijing like &-uh &-uh Chin Denna City and &-uh &-uh Han Denna <we have> [/] we have a long [/] long histories . 42840_57470
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art noun|lot adp|of pron|there-Int-S1 aux|be-Fin-Ind-Pres-P3 adj|different-S1 propn|Den noun|descent-Plur noun|capital aux|be-Fin-Ind-Pres-S3 adp|in propn|Beijing-Ger adp|like propn|Chin propn|Denna propn|City cconj|and propn|Han propn|Denna pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art adj|long-S1 noun|history-Plur-Acc .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|11|CASE 6|4|EXPL 7|2|COP 8|11|AMOD 9|11|COMPOUND 10|11|COMPOUND 11|14|NSUBJ 12|14|COP 13|14|CASE 14|2|PARATAXIS 15|16|CASE 16|14|NMOD 17|16|FLAT 18|16|FLAT 19|20|CC 20|16|CONJ 21|20|FLAT 22|23|NSUBJ 23|14|CONJ 24|26|DET 25|26|AMOD 26|23|OBJ 27|2|PUNCT
+*PAR0:	we have long [/] long history in Beijing and &-uh there are a lot of good buildings very a townish buildings in Beijing like a great war &-uh like Great war . 64950_78680
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 adj|long-S1 noun|history-Acc adp|in propn|Beijing-Ger cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art noun|lot adp|of adj|good-S1 noun|building-Plur adv|very det|a-Ind-Art adj|townish-S1 noun|building-Plur adp|in propn|Beijing-Ger adp|like det|a-Ind-Art adj|great-S1 noun|war adp|like adj|great-S1 noun|war .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|6|CASE 6|2|OBL 7|9|CC 8|9|EXPL 9|2|CONJ 10|11|DET 11|9|NSUBJ 12|14|CASE 13|14|AMOD 14|11|NMOD 15|18|ADVMOD 16|18|DET 17|18|AMOD 18|14|APPOS 19|20|CASE 20|18|NMOD 21|24|CASE 22|24|DET 23|24|AMOD 24|18|NMOD 25|27|CASE 26|27|AMOD 27|24|NMOD 28|2|PUNCT
+*PAR0:	&-uh and it is the worst . 79760_82200
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|bad-Sup-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|5|PUNCT
+*PAR0:	&-uh it is &-uh it is the biggest &-uh prize in world ands the Forbidden city . 82480_89930
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|big-Sup-S1 noun|prize adp|in noun|world cconj|and det|the-Def-Art adj|Forbidden-S1 noun|city .
+%gra:	1|7|NSUBJ 2|7|COP 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|0|ROOT 8|9|CASE 9|7|NMOD 10|13|CC 11|13|DET 12|13|AMOD 13|9|CONJ 14|7|PUNCT
+*PAR0:	and it's thet choir . 91350_92260
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|thet-Def-Art noun|choir .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|5|PUNCT
+*PAR0:	and &-uh &-uh &-uh and &-uh a lot of stuff . 93960_98460
+%mor:	cconj|and cconj|and det|a-Ind-Art noun|lot adp|of noun|stuff .
+%gra:	1|4|CC 2|4|CC 3|4|DET 4|0|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+*PAR0:	and &-uh Beijing is &-uh Beijing has a lot of cars . 102760_106640
+%mor:	cconj|and propn|Beijing-Ger aux|be-Fin-Ind-Pres-S3 propn|Beijing-Ger verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|car-Plur .
+%gra:	1|5|CC 2|5|NSUBJ-OUTER 3|5|COP 4|5|NSUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|5|PUNCT
+*PAR0:	and &-uh you always get &-uh traffic jam . 106970_109840
+%mor:	cconj|and pron|you-Prs-Nom-S2 adv|always verb|get-Fin-Ind-Pres-S2 noun|traffic noun|jam-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|COMPOUND 6|4|OBJ 7|4|PUNCT
+*PAR0:	I don't . 110690_111000
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR0:	&-uh the ir is not very good in Beijing so &-um that's my city . 111920_114770
+%mor:	det|the-Def-Art noun|ir aux|be-Fin-Ind-Pres-S3 part|not adv|very adj|good-S1 adp|in propn|Beijing-Ger adv|so pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|city .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|ADVMOD 6|0|ROOT 7|8|CASE 8|6|OBL 9|13|ADVMOD 10|13|NSUBJ 11|13|COP 12|13|NMOD-POSS 13|6|PARATAXIS 14|6|PUNCT
+*PAR0:	that's all . 118480_118810
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR0:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

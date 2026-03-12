@@ -1,0 +1,42 @@
+@UTF8
+@PID:	11312/t-00010145-1
+@Begin
+@Languages:	eng
+@Participants:	1110 Student
+@ID:	eng|Vercellotti|1110|||1||Student|level4||
+@Media:	1110_3F1, audio
+@Transcriber:	mlv
+*1110:	<my favorite> [/] &~ba my favorite dish when I was childhood it was &-uh a black rice with a fish . 2788_13708
+%mor:	pron|my-Prs-Gen-S1 adj|favorite-S1 noun|dish adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr noun|childhood pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|black-S1 noun|rice adp|with det|a-Ind-Art noun|fish .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|12|NSUBJ 4|7|ADVMOD 5|7|NSUBJ 6|7|COP 7|12|ADVCL 8|12|NSUBJ 9|12|COP 10|12|DET 11|12|AMOD 12|0|ROOT 13|15|CASE 14|15|DET 15|12|NMOD 16|12|PUNCT
+*1110:	it's become black by &-uh fry the: onion and some oil . 14727_21771
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|become-Part-Past-S-irr adj|black-S1 adp|by verb|fry-Inf-S det|the-Def-Art noun|onion-Acc cconj|and det|some-Def-Ind noun|oil .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|XCOMP 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|11|CC 10|11|DET 11|8|CONJ 12|3|PUNCT
+*1110:	&~a &-uh my mother was made it when I was chil(d) . 21917_28096
+%mor:	pron|my-Prs-Gen-S1 noun|mother aux|be-Fin-Ind-Past-S3-irr verb|make-Part-Past-S-irr pron|it-Prs-Acc-S3 adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr noun|child .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|4|OBJ 6|9|ADVMOD 7|9|NSUBJ 8|9|COP 9|4|ADVCL 10|4|PUNCT
+*1110:	&~i &~i you can add &-uh some [/] &~i &~i some sour sauce with it . 28296_35028
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|add-Inf-S det|some-Def-Ind adj|sour-S1 noun|sauce-Acc adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|8|CASE 8|3|OBL 9|3|PUNCT
+*1110:	it's my favorite . 36139_37101
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|favorite .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|0|ROOT 5|4|PUNCT
+*1110:	an:d there is another way to create the fish too by creamy sauce sometimes behind the [/] &-uh the rice . 37791_50844
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|another-Def-Ind noun|way part|to verb|create-Inf-S det|the-Def-Art noun|fish-Acc adv|too adp|by adj|creamy-S1 noun|sauce adv|sometimes adp|behind det|the-Def-Art noun|rice .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|MARK 7|5|ACL 8|9|DET 9|7|OBJ 10|13|ADVMOD 11|13|CASE 12|13|AMOD 13|7|OBL 14|17|ADVMOD 15|17|CASE 16|17|DET 17|7|OBL 18|3|PUNCT
+*1110:	and &-uh it's kind of seafood &-uh plate . 51423_60547
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|kind adp|of noun|seafood noun|plate .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|ADVMOD 5|4|FIXED 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*1110:	&-uh and &-uh sometimes <when I was> [/] when I was young <I was> [/] &~chi &-uh I was add some ketchup behind it . 61196_80096
+%mor:	cconj|and adv|sometimes adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adj|young-S1 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|add-Inf-S det|some-Def-Ind noun|ketchup-Acc adp|behind pron|it-Prs-Acc-S3 .
+%gra:	1|9|CC 2|9|ADVMOD 3|6|ADVMOD 4|6|NSUBJ 5|6|COP 6|9|ADVCL 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|11|DET 11|9|OBJ 12|13|CASE 13|9|OBL 14|9|PUNCT
+*1110:	&-uh &~wa &~i we can put behind it ah some salads . 80684_93853
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|put-Inf-S adp|behind pron|it-Prs-Acc-S3 intj|ah det|some-Def-Ind noun|salad-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|DISCOURSE 7|8|DET 8|3|PARATAXIS 9|3|PUNCT
+*1110:	&~i from time to times I really miss to eat it this dishes . 97909_101209
+%mor:	adp|from noun|time adp|to noun|time-Plur pron|I-Prs-Nom-S1 adv|really verb|miss-Fin-Ind-Pres-S1 part|to verb|eat-Inf-S pron|it-Prs-Acc-S3 det|this-Def-Dem-Sing noun|dish-Plur .
+%gra:	1|2|CASE 2|7|OBL 3|4|CASE 4|2|NMOD 5|7|NSUBJ 6|7|ADVMOD 7|0|ROOT 8|9|MARK 9|7|XCOMP 10|9|OBJ 11|12|DET 12|9|OBL-UNMARKED 13|7|PUNCT
+*1110:	it's &-uh kind of &-uh brown [/] brown rice &-uh . 101650_120191
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|kind adp|of adj|brown-S1 noun|rice .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|ADVMOD 4|3|FIXED 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+@End

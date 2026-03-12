@@ -1,0 +1,39 @@
+@UTF8
+@PID:	11312/t-00010170-1
+@Begin
+@Languages:	eng
+@Participants:	1155 Student
+@ID:	eng|Vercellotti|1155|||1||Student|level3||
+@Media:	1155_3F1, audio
+@Transcriber:	jms
+*1155:	my best friend is actually &-uh my cousin . 3145_7406
+%mor:	pron|my-Prs-Gen-S1 adj|good-Sup-S1 noun|friend aux|be-Fin-Ind-Pres-S3 adv|actually pron|my-Prs-Gen-S1 noun|cousin .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|7|NSUBJ 4|7|COP 5|7|ADVMOD 6|7|NMOD-POSS 7|0|ROOT 8|7|PUNCT
+*1155:	&-uh I met him when I was six years old . 7738_11730
+%mor:	pron|I-Prs-Nom-S1 verb|meet-Fin-Ind-Past-S1-irr pron|he-Prs-Acc-S3 adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr num|six noun|year-Plur adj|old-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|9|ADVMOD 5|9|NSUBJ 6|9|COP 7|8|NUMMOD 8|9|OBL-UNMARKED 9|2|ADVCL 10|2|PUNCT
+*1155:	&-uh he is honest . 12325_15144
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|honest-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*1155:	and he has sense of humor . 15938_20524
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|sense-Acc adp|of noun|humor .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|CASE 6|4|NMOD 7|3|PUNCT
+*1155:	&-uh we used to hang out together . 21082_24716
+%mor:	pron|we-Prs-Nom-P1 verb|use-Fin-Ind-Past-P1 part|to verb|hang-Inf-S adp|out adv|together .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|COMPOUND-PRT 6|4|ADVMOD 7|2|PUNCT
+*1155:	we useta play soccer together . 27185_28670
+%mor:	pron|we-Prs-Nom-P1 aux|useta-Fin-Ind-Pres-P1 verb|play-Inf-S noun|soccer-Acc adv|together .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*1155:	&-uh and &-uh we use to spend <our time> [//] most of our times &-uh together . 29139_42332
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|use-Fin-Ind-Pres-P1 part|to verb|spend-Inf-S adj|most-Sup-S1 adp|of pron|our-Prs-Gen-P1 noun|time-Plur adv|together .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|5|ADVMOD 11|3|PUNCT
+*1155:	so &-uh and <we have> [//] the [//] we have similar interests &~i as &-uh we &-uh both likes to play soccer . 42671_58404
+%mor:	adv|so cconj|and pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 adj|similar-S1 noun|interest-Plur-Acc sconj|as pron|we-Prs-Nom-P1 det|both-Def-Tot verb|like-Fin-Ind-Pres-S3 part|to verb|play-Inf-S noun|soccer-Acc .
+%gra:	1|4|DISCOURSE 2|4|CC 3|4|NSUBJ 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|10|MARK 8|10|NSUBJ 9|8|DET 10|4|ADVCL 11|12|MARK 12|10|XCOMP 13|12|OBJ 14|4|PUNCT
+*1155:	we both like to go swimming . 59510_62795
+%mor:	pron|we-Prs-Nom-P1 det|both-Def-Tot verb|like-Fin-Ind-Pres-P1 part|to verb|go-Inf-S verb|swim-Ger-S .
+%gra:	1|3|NSUBJ 2|1|DET 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|XCOMP 7|3|PUNCT
+*1155:	and we usually &-uh go in picnic together &-uh that's it . 63772_84653
+%mor:	cconj|and pron|we-Prs-Nom-P1 adv|usually verb|go-Fin-Ind-Pres-P1 adp|in noun|picnic adv|together pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|ADVMOD 8|10|NSUBJ 9|10|COP 10|4|PARATAXIS 11|4|PUNCT
+@End

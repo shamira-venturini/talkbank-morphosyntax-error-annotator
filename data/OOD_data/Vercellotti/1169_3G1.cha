@@ -1,0 +1,54 @@
+@UTF8
+@PID:	11312/t-00010212-1
+@Begin
+@Languages:	eng
+@Participants:	1169 Student
+@ID:	eng|Vercellotti|1169|||1||Student|level4||
+@Media:	1169_3G1, audio
+@Transcriber:	mlv
+*1169:	yeah when I was &-uh child I had &-uh one friend . 3359_8509
+%mor:	intj|yeah adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr noun|child pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr num|one noun|friend-Acc .
+%gra:	1|7|DISCOURSE 2|5|ADVMOD 3|5|NSUBJ 4|5|COP 5|7|ADVCL 6|7|NSUBJ 7|0|ROOT 8|9|NUMMOD 9|7|OBJ 10|7|PUNCT
+*1169:	&-uh and I met him when we was &-uh in the primary school . 9325_15695
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|meet-Fin-Ind-Past-S1-irr pron|he-Prs-Acc-S3 adv|when pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Past-P1-irr adp|in det|the-Def-Art adj|primary-S1 noun|school .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|11|ADVMOD 6|11|NSUBJ 7|11|COP 8|11|CASE 9|11|DET 10|11|AMOD 11|3|ADVCL 12|3|PUNCT
+*1169:	&-uh we useta play soccer together every day mm &-uh at night . 16294_25709
+%mor:	pron|we-Prs-Nom-P1 aux|useta-Fin-Ind-Pres-P1 verb|play-Inf-Pres-S noun|soccer-Acc adv|together det|every-Def-Tot noun|day intj|mm adp|at noun|night .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|7|DET 7|3|OBL-UNMARKED 8|3|DISCOURSE 9|10|CASE 10|3|OBL 11|3|PUNCT
+*1169:	and we useta study together &~f &-uh for primary school and intermediate and elementary and the university too . 25709_34799
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|useta-Fin-Ind-Pres-P1 verb|study-Fin-Ind-Pres-P1 adv|together adp|for adj|primary-S1 noun|school cconj|and adj|intermediate-S1 cconj|and adj|elementary-S1 cconj|and det|the-Def-Art noun|university adv|too .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|ADVMOD 6|8|CASE 7|8|AMOD 8|4|OBL 9|10|CC 10|8|CONJ 11|12|CC 12|8|CONJ 13|15|CC 14|15|DET 15|8|CONJ 16|4|ADVMOD 17|4|PUNCT
+*1169:	so &-uh I like him too much because he was &-uh very polite person . 35348_41432
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|he-Prs-Acc-S3 adv|too adj|much-S1 sconj|because pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|very adj|polite-S1 noun|person .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|ADVMOD 6|3|ADVMOD 7|12|MARK 8|12|NSUBJ 9|12|COP 10|11|ADVMOD 11|12|AMOD 12|3|ADVCL 13|3|PUNCT
+*1169:	and &-uh he [/] he wasn't similar to any other person . 42922_49109
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr~part|not adj|similar-S1 adp|to det|any-Def-Ind adj|other-S1 noun|person .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|5|PUNCT
+*1169:	he was assist me and I did too . 51901_53569
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|assist-Inf-S pron|I-Prs-Acc-S1 cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr adv|too .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|CC 6|7|NSUBJ 7|3|CONJ 8|7|ADVMOD 9|3|PUNCT
+*1169:	&-uh I can't &~ident identify &-uh any other person like him . 54610_62612
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|identify-Inf-S det|any-Def-Ind adj|other-S1 noun|person-Acc adp|like pron|he-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|9|CASE 9|7|NMOD 10|4|PUNCT
+*1169:	but &-uh usually I can find a [/] &-uh a good person . 63193_69003
+%mor:	cconj|but adv|usually pron|I-Prs-Nom-S1 aux|can-Fin-S verb|find-Inf-S det|a-Ind-Art adj|good-S1 noun|person-Acc .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|5|PUNCT
+*1169:	&-uh we try to enjoy our life together . 69586_73054
+%mor:	pron|we-Prs-Nom-P1 verb|try-Fin-Ind-Pres-P1 part|to verb|enjoy-Inf-S pron|our-Prs-Gen-P1 noun|life-Acc adv|together .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|NMOD-POSS 6|4|OBJ 7|4|ADVMOD 8|2|PUNCT
+*1169:	but now I miss him because he [/] &~wa <he is> [//] he's in my country . 75362_80523
+%mor:	cconj|but adv|now pron|I-Prs-Nom-S1 verb|miss-Fin-Ind-Pres-S1 pron|he-Prs-Acc-S3 sconj|because pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|11|MARK 7|11|NSUBJ 8|11|COP 9|11|CASE 10|11|NMOD-POSS 11|4|ADVCL 12|4|PUNCT
+*1169:	and I'm here to studying . 81525_85190
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|here part|to verb|study-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*1169:	&-uh but I'm trying to be in contact with him . 85955_92917
+%mor:	cconj|but pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|try-Part-Pres-S part|to aux|be-Inf-S adp|in noun|contact adp|with pron|he-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|MARK 6|8|COP 7|8|CASE 8|4|XCOMP 9|10|CASE 10|8|NMOD 11|4|PUNCT
+*1169:	because &-uh we still &-uh like to contact other [//] &-uh each other . 93632_100545
+%mor:	sconj|because pron|we-Prs-Nom-P1 adv|still verb|like-Fin-Ind-Pres-P1 part|to verb|contact-Inf-S det|each-Def-Rcp adj|other-S1 .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|7|FIXED 9|4|PUNCT
+*1169:	and &-uh we trying to create &-uh a good &-uh business together because that would help us to be more successful and to be more &-uh enjoy in our life . 101291_120191
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|try-Part-Pres-S part|to verb|create-Inf-S det|a-Ind-Art adj|good-S1 noun|business-Acc adv|together sconj|because pron|that-Dem aux|would-Fin-S verb|help-Inf-S pron|we-Prs-Acc-P1 part|to aux|be-Inf-S adv|more adj|successful-S1 cconj|and part|to aux|be-Inf-S adv|more verb|enjoy-Inf-S adp|in pron|our-Prs-Gen-P1 noun|life .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|DET 7|8|AMOD 8|5|OBJ 9|5|ADVMOD 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|5|ADVCL 14|13|OBJ 15|18|MARK 16|18|COP 17|18|ADVMOD 18|13|XCOMP 19|23|CC 20|23|MARK 21|23|COP 22|23|ADVMOD 23|18|CONJ 24|26|CASE 25|26|NMOD-POSS 26|23|OBL 27|3|PUNCT
+@End

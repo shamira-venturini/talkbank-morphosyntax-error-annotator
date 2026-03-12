@@ -1,0 +1,35 @@
+@UTF8
+@PID:	11312/a-00062509-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1164_4L1, audio
+*PAR0:	the topic today is &-uh describe the city . 1240_7360
+%mor:	det|the-Def-Art noun|topic noun|today aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S det|the-Def-Art noun|city-Acc .
+%gra:	1|2|DET 2|5|NSUBJ-OUTER 3|2|NMOD-UNMARKED 4|5|COP 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR0:	I come from . 7700_8400
+%mor:	pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|CASE 4|2|PUNCT
+*PAR0:	I come from &-uh real city . 10180_12290
+%mor:	pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from adj|real-S1 noun|city .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|AMOD 5|2|OBL 6|2|PUNCT
+*PAR0:	&-uh Riyadh is in &-um Saudi Arabia &-uh Rial is &-uh capital of Saudi Arabia and &-uh Rial is &-uh the biggest city in my country . 14040_25530
+%mor:	propn|Riyadh aux|be-Fin-Ind-Pres-S3 adp|in adj|Saudi-S1 propn|Arabia propn|Rial aux|be-Fin-Ind-Pres-S3 noun|capital adp|of adj|Saudi-S1 propn|Arabia cconj|and propn|Rial aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|big-Sup-S1 noun|city adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|AMOD 5|0|ROOT 6|8|NSUBJ 7|8|COP 8|5|PARATAXIS 9|11|CASE 10|11|AMOD 11|8|NMOD 12|17|CC 13|17|NSUBJ 14|17|COP 15|17|DET 16|17|AMOD 17|8|CONJ 18|20|CASE 19|20|NMOD-POSS 20|17|NMOD 21|5|PUNCT
+*PAR0:	the Rial looks like Shanghai because &-uh it's a flourish city . 33410_44590
+%mor:	det|the-Def-Art propn|Rial verb|look-Fin-Ind-Pres-S3 adp|like propn|Shanghai sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|flourish noun|city .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|11|MARK 7|11|NSUBJ 8|11|COP 9|11|DET 10|11|COMPOUND 11|3|ADVCL 12|3|PUNCT
+*PAR0:	and &-uh all the real has &-uh many tall buildings and &-uh new buildings . 46190_51950
+%mor:	cconj|and det|all-Def-Tot det|the-Def-Art adj|real-S1 verb|have-Fin-Ind-Pres-S3 adj|many-S1 adj|tall-S1 noun|building-Plur-Acc cconj|and adj|new-S1 noun|building-Plur .
+%gra:	1|5|CC 2|4|DET-PREDET 3|4|DET 4|5|NSUBJ 5|0|ROOT 6|8|AMOD 7|8|AMOD 8|5|OBJ 9|11|CC 10|11|AMOD 11|8|CONJ 12|5|PUNCT
+*PAR0:	and &-uh in real you can &-uh do many things . 58200_63770
+%mor:	cconj|and adp|in adj|real-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|do-Inf-S adj|many-S1 noun|thing-Plur-Acc .
+%gra:	1|6|CC 2|3|CASE 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|AMOD 8|6|OBJ 9|6|PUNCT
+*PAR0:	and &-uh people in real health &-uh do many activities . 64849_69050
+%mor:	cconj|and noun|person-Plur adp|in adj|real-S1 noun|health verb|do-Fin-Ind-Pres-P3 adj|many-S1 noun|activity-Plur-Acc .
+%gra:	1|6|CC 2|6|NSUBJ 3|5|CASE 4|5|AMOD 5|2|NMOD 6|0|ROOT 7|8|AMOD 8|6|OBJ 9|6|PUNCT
+*PAR0:	&-uh such_as &-um you can &-uh you can &-um see a soccer game in the famous &-uh team in &-uh my country is &-uh National Club and [/] and you can &-uh visit &-uh many popular &-uh places in Riyadh &-uh such_as &-um &-uh Riyadh Museum and &-uh &-uh Riyadh University &-uh in &-uh Riyad I spent &-uh my time with my friend . 70440_114990
+%mor:	noun|sucha-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|a-Ind-Art noun|soccer noun|game-Acc adp|in det|the-Def-Art adj|famous-S1 noun|team adp|in pron|my-Prs-Gen-S1 noun|country aux|be-Fin-Ind-Pres-S3 adj|National-S1 propn|Club cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|visit-Inf-S adj|many-S1 adj|popular-S1 noun|place-Plur-Acc adp|in propn|Riyadh propn|suchas propn|Riyadh propn|Museum cconj|and propn|Riyadh propn|University adp|in propn|Riyad pron|I-Prs-Nom-S1 verb|spend-Fin-Ind-Past-S1-irr pron|my-Prs-Gen-S1 noun|time-Acc adp|with pron|my-Prs-Gen-S1 noun|friend .
+%gra:	1|6|VOCATIVE 2|3|NSUBJ 3|6|REPARANDUM 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|COMPOUND 9|6|OBJ 10|13|CASE 11|13|DET 12|13|AMOD 13|9|NMOD 14|16|CASE 15|16|NMOD-POSS 16|13|NMOD 17|19|COP 18|19|AMOD 19|6|PARATAXIS 20|23|CC 21|23|NSUBJ 22|23|AUX 23|6|CONJ 24|26|AMOD 25|26|AMOD 26|23|OBJ 27|31|CASE 28|31|COMPOUND 29|31|COMPOUND 30|31|COMPOUND 31|26|NMOD 32|34|CC 33|34|COMPOUND 34|31|CONJ 35|36|CASE 36|31|NMOD 37|38|NSUBJ 38|23|PARATAXIS 39|40|NMOD-POSS 40|38|OBJ 41|43|CASE 42|43|NMOD-POSS 43|38|OBL 44|6|PUNCT
+@End

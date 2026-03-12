@@ -1,0 +1,39 @@
+@UTF8
+@PID:	11312/t-00010242-1
+@Begin
+@Languages:	eng
+@Participants:	1199 Student
+@ID:	eng|Vercellotti|1199|||2||Student|level4||
+@Media:	1199_5S2, audio
+@Transcriber:	jms
+*1199:	the topic is what are some of the risks [% 2 syllables] of using the internet and how can I protect myself . 7877_9665
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 det|some-Def-Ind adp|of det|the-Def-Art noun|risk-Plur sconj|of verb|use-Ger-S det|the-Def-Art noun|internet-Acc cconj|and adv|how aux|can-Fin-S pron|I-Prs-Nom-S1 verb|protect-Inf-S pron|myself-Prs-Acc-reflx-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|COP 6|4|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|11|MARK 11|9|ACL 12|13|DET 13|11|OBJ 14|18|CC 15|18|ADVMOD 16|18|AUX 17|18|NSUBJ 18|4|CONJ 19|18|OBJ 20|4|PUNCT
+*1199:	&-uh for me someone [//] if I use the internet &-um someone could be steal my personal informations . 9927_21576
+%mor:	adp|for pron|I-Prs-Acc-S1 sconj|if pron|I-Prs-Nom-S1 verb|use-Fin-Ind-Pres-S1 det|the-Def-Art noun|internet-Acc pron|someone-Ind-S1 aux|could-Fin-S aux|be-Inf-S verb|steal-Inf-S pron|my-Prs-Gen-S1 adj|personal-S1 noun|information-Plur-Acc .
+%gra:	1|2|CASE 2|11|OBL 3|5|MARK 4|5|NSUBJ 5|11|ADVCL 6|7|DET 7|5|OBJ 8|11|NSUBJ 9|11|AUX 10|11|AUX 11|0|ROOT 12|14|NMOD-POSS 13|14|AMOD 14|11|OBJ 15|11|PUNCT
+*1199:	and then my <resistant system> [//] resistance system could be wiped out . 25767_27387
+%mor:	cconj|and adv|then pron|my-Prs-Gen-S1 noun|resistance noun|system aux|could-Fin-S aux|be-Inf-S verb|wipe-Part-Past-S adp|out .
+%gra:	1|8|CC 2|8|ADVMOD 3|5|NMOD-POSS 4|5|COMPOUND 5|8|NSUBJ-PASS 6|8|AUX 7|8|AUX-PASS 8|0|ROOT 9|8|COMPOUND-PRT 10|8|PUNCT
+*1199:	and if I always communicate with someone who I don't know maybe they will &~s steal my information . 30227_37292
+%mor:	cconj|and sconj|if pron|I-Prs-Nom-S1 adv|always verb|communicate-Fin-Ind-Pres-S1 adp|with pron|someone-Ind-S1 pron|who-Rel pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|maybe pron|they-Prs-Nom-P3 aux|will-Fin-S verb|steal-Inf-S pron|my-Prs-Gen-S1 noun|information-Acc .
+%gra:	1|16|CC 2|5|MARK 3|5|NSUBJ 4|5|ADVMOD 5|16|ADVCL 6|7|CASE 7|5|OBL 8|12|OBJ 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|7|ACL-RELCL 13|16|ADVMOD 14|16|NSUBJ 15|16|AUX 16|0|ROOT 17|18|NMOD-POSS 18|16|OBJ 19|16|PUNCT
+*1199:	and [/] &-uh and at the meantime I &~d don't know what are they doing for me . 37712_45160
+%mor:	cconj|and adp|at det|the-Def-Art noun|meantime pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|do-Part-Pres-S adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|8|CC 2|4|CASE 3|4|DET 4|8|OBL 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|12|OBJ 10|12|AUX 11|12|NSUBJ 12|8|CCOMP 13|14|CASE 14|12|OBL 15|8|PUNCT
+*1199:	so how can I protect myselfs [: myself] [* m:+s] and ah reinforce my laptop . 47955_52013
+%mor:	adv|so adv|how aux|can-Fin-S pron|I-Prs-Nom-S1 verb|protect-Inf-S pron|myself-Prs-Acc-reflx-S1 cconj|and intj|ah verb|reinforce-Inf-S pron|my-Prs-Gen-S1 noun|laptop-Acc .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|9|CC 8|9|DISCOURSE 9|5|CONJ 10|11|NMOD-POSS 11|9|OBJ 12|5|PUNCT
+*1199:	the first way to do is always reset my firewall and ah check there's [//] if there is any virus in my laptops . 54415_64580
+%mor:	det|the-Def-Art adj|first-S1 noun|way part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 adv|always verb|reset-Inf-S pron|my-Prs-Gen-S1 noun|firewall-Acc cconj|and intj|ah verb|check-Inf-S sconj|if pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|any-Def-Ind noun|virus adp|in pron|my-Prs-Gen-S1 noun|laptop-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|8|NSUBJ-OUTER 4|5|MARK 5|3|ACL 6|8|COP 7|8|ADVMOD 8|0|ROOT 9|10|NMOD-POSS 10|8|OBJ 11|13|CC 12|13|DISCOURSE 13|8|CONJ 14|16|MARK 15|16|EXPL 16|13|CCOMP 17|18|DET 18|16|NSUBJ 19|21|CASE 20|21|NMOD-POSS 21|18|NMOD 22|8|PUNCT
+*1199:	&~an and the second one is mm I try to not clicked the popup in all the screams [: screens] because those things always trigger some virus and &-uh access to my ah personal informations in my laptops . 64897_85265
+%mor:	cconj|and det|the-Def-Art adj|second-S1 noun|one aux|be-Fin-Ind-Pres-S3 intj|mm pron|I-Prs-Nom-S1 verb|try-Fin-Ind-Pres-S1 part|to part|not verb|click-Part-Past-S det|the-Def-Art noun|popup-Acc adp|in det|all-Def-Tot det|the-Def-Art noun|screen-Plur sconj|because det|that-Def-Dem-Plur noun|thing-Plur adv|always verb|trigger-Fin-Ind-Pres-P3 det|some-Def-Ind noun|virus-Acc cconj|and noun|access adp|to pron|my-Prs-Gen-S1 intj|ah adj|personal-S1 noun|information-Plur adp|in pron|my-Prs-Gen-S1 noun|laptop-Plur .
+%gra:	1|8|CC 2|4|DET 3|4|AMOD 4|8|NSUBJ-OUTER 5|8|COP 6|8|DISCOURSE 7|8|NSUBJ 8|0|ROOT 9|11|MARK 10|11|ADVMOD 11|8|XCOMP 12|13|DET 13|11|OBJ 14|17|CASE 15|17|DET-PREDET 16|17|DET 17|11|OBL 18|22|MARK 19|20|DET 20|22|NSUBJ 21|22|ADVMOD 22|11|ADVCL 23|24|DET 24|22|OBJ 25|26|CC 26|24|CONJ 27|31|CASE 28|31|NMOD-POSS 29|31|DISCOURSE 30|31|AMOD 31|26|NMOD 32|34|CASE 33|34|NMOD-POSS 34|31|NMOD 35|8|PUNCT
+*1199:	and then it will wiped out all my systems . 86662_90554
+%mor:	cconj|and adv|then pron|it-Prs-Nom-S3 aux|will-Fin-S verb|wipe-Part-Past-S adp|out det|all-Def-Tot pron|my-Prs-Gen-S1 noun|system-Plur-Acc .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|DET-PREDET 8|9|NMOD-POSS 9|5|OBJ 10|5|PUNCT
+*1199:	so &-uh because of there is diverse mm virus or diverse mm ways to hacked into my computer I should always protec(t) it &-uh from the firewall or mm . 91089_120191
+%mor:	adv|so adp|because adp|of pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 adj|diverse-S1 noun|mm noun|virus cconj|or adj|diverse-S1 noun|mm noun|way-Plur part|to verb|hack-Part-Past-S adp|into pron|my-Prs-Gen-S1 noun|computer pron|I-Prs-Nom-S1 aux|should-Fin-S adv|always verb|protect-Inf-S pron|it-Prs-Acc-S3 adp|from det|the-Def-Art noun|firewall cconj|or intj|mm .
+%gra:	1|5|ADVMOD 2|5|MARK 3|2|FIXED 4|5|EXPL 5|0|ROOT 6|8|AMOD 7|8|COMPOUND 8|5|NSUBJ 9|12|CC 10|12|AMOD 11|12|COMPOUND 12|8|CONJ 13|14|MARK 14|12|ACL 15|17|CASE 16|17|NMOD-POSS 17|14|OBL 18|21|NSUBJ 19|21|AUX 20|21|ADVMOD 21|5|PARATAXIS 22|21|OBJ 23|25|CASE 24|25|DET 25|21|OBL 26|27|CC 27|21|DISCOURSE 28|5|PUNCT
+@End

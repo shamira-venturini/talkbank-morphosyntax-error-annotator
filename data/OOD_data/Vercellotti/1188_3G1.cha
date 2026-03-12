@@ -1,0 +1,45 @@
+@UTF8
+@PID:	11312/t-00010229-1
+@Begin
+@Languages:	eng
+@Participants:	1188 Student
+@ID:	eng|Vercellotti|1188|||1||Student|level3||
+@Media:	1188_3G1, audio
+@Transcriber:	jms
+*1188:	young is my best ah friend from &~ch chil(d)hood . 3550_6219
+%mor:	adj|young-S1 aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 adj|good-Sup-S1 intj|ah noun|friend adp|from noun|childhood .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|NMOD-POSS 4|6|AMOD 5|6|DISCOURSE 6|0|ROOT 7|8|CASE 8|6|NMOD 9|6|PUNCT
+*1188:	he is my senior &~hi ah school classmate . 7930_13014
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 adj|senior-S1 noun|ah noun|school noun|classmate .
+%gra:	1|7|NSUBJ 2|7|COP 3|7|NMOD-POSS 4|7|AMOD 5|6|COMPOUND 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*1188:	and we live together . 13854_19111
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|live-Fin-Ind-Pres-P1 adv|together .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*1188:	<we live> [//] &~nee and we all live in Tainan . 20090_26670
+%mor:	cconj|and pron|we-Prs-Nom-P1 det|all-Def-Tot verb|live-Fin-Ind-Pres-P1 adp|in propn|Tainan .
+%gra:	1|4|CC 2|4|NSUBJ 3|2|DET 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*1188:	&-uh &-um &-um because we are &~th very similar so we become a good frien(d) . 27686_44645
+%mor:	sconj|because pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 adv|very adj|similar-S1 adv|so pron|we-Prs-Nom-P1 verb|become-Fin-Ind-Pres-P1 det|a-Ind-Art adj|good-S1 noun|friend .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|8|ADVMOD 7|8|NSUBJ 8|5|PARATAXIS 9|11|DET 10|11|AMOD 11|8|XCOMP 12|5|PUNCT
+*1188:	&~s everyday we go to the school together and ah play basketball together . 44838_55675
+%mor:	adv|everyday pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 adp|to det|the-Def-Art noun|school adv|together cconj|and intj|ah verb|play-Fin-Ind-Pres-P1 noun|basketball-Acc adv|together .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|ADVMOD 8|10|CC 9|10|DISCOURSE 10|3|CONJ 11|10|OBJ 12|10|ADVMOD 13|3|PUNCT
+*1188:	so we become a very good friend . 56571_60843
+%mor:	adv|so pron|we-Prs-Nom-P1 verb|become-Fin-Ind-Pres-P1 det|a-Ind-Art adv|very adj|good-S1 noun|friend .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|7|DET 5|6|ADVMOD 6|7|AMOD 7|3|XCOMP 8|3|PUNCT
+*1188:	but when I study high school &~m because [//] <individual [?] study> [//] because we &~s study differen(t) major so we must ah spare [=? separate] each other . 61209_78297
+%mor:	cconj|but adv|when pron|I-Prs-Nom-S1 verb|study-Fin-Ind-Pres-S1 adj|high-S1 noun|school-Acc sconj|because pron|we-Prs-Nom-P1 verb|study-Fin-Ind-Pres-P1 adj|different-S1 noun|major-Acc adv|so pron|we-Prs-Nom-P1 aux|must-Fin-S intj|ah verb|spare-Inf-S det|each-Def-Rcp adj|other-S1 .
+%gra:	1|16|CC 2|4|ADVMOD 3|4|NSUBJ 4|16|ADVCL 5|6|AMOD 6|4|OBJ 7|9|MARK 8|9|NSUBJ 9|4|ADVCL 10|11|AMOD 11|9|OBJ 12|16|ADVMOD 13|16|NSUBJ 14|16|AUX 15|16|DISCOURSE 16|0|ROOT 17|16|OBJ 18|17|FIXED 19|16|PUNCT
+*1188:	but ah we still communication each other every weeks . 78790_85445
+%mor:	cconj|but intj|ah pron|we-Prs-Nom-P1 adv|still verb|communication-Fin-Ind-Pres-P1 det|each-Def-Rcp adj|other-S1 det|every-Def-Tot noun|week-Plur .
+%gra:	1|5|CC 2|5|DISCOURSE 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|6|FIXED 8|9|DET 9|5|OBL-UNMARKED 10|5|PUNCT
+*1188:	but ah when I was study university because we study [//] <to from &~a and> [//] study in differen(t) areas so we &~nee must ah spare each other . 88484_101669
+%mor:	cconj|but intj|ah adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr noun|study noun|university sconj|because pron|we-Prs-Nom-P1 verb|study-Fin-Ind-Pres-P1 adp|in adj|different-S1 noun|area-Plur adv|so pron|we-Prs-Nom-P1 aux|must-Fin-S intj|ah verb|spare-Inf-S det|each-Def-Rcp adj|other-S1 .
+%gra:	1|18|CC 2|18|DISCOURSE 3|7|ADVMOD 4|7|NSUBJ 5|7|COP 6|7|COMPOUND 7|10|ADVCL 8|10|MARK 9|10|NSUBJ 10|18|ADVCL 11|13|CASE 12|13|AMOD 13|10|OBL 14|18|ADVMOD 15|18|NSUBJ 16|18|AUX 17|18|DISCOURSE 18|0|ROOT 19|18|OBJ 20|19|FIXED 21|18|PUNCT
+*1188:	so we [//] become [//] not [//] we [/] we didn't communication every week . 102823_112074
+%mor:	adv|so pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Past-P1-irr~part|not noun|communication-Acc det|every-Def-Tot noun|week .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|ADVMOD 5|3|OBJ 6|7|DET 7|3|OBL-UNMARKED 8|3|PUNCT
+*1188:	now we just communication in the &~imp important time . 113018_120191
+%mor:	adv|now pron|we-Prs-Nom-P1 adv|just noun|communication adp|in det|the-Def-Art adj|important-S1 noun|time .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|NMOD 9|4|PUNCT
+@End

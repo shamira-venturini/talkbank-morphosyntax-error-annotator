@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/t-00010147-1
+@Begin
+@Languages:	eng
+@Participants:	1110 Student
+@ID:	eng|Vercellotti|1110|||3||Student|level4||
+@Media:	1110_3F3, audio
+@Transcriber:	jms
+*1110:	today I will talking about the person become famous <in my> [/] in my city . 5248_7485
+%mor:	noun|today pron|I-Prs-Nom-S1 aux|will-Fin-S verb|talk-Part-Pres-S adp|about det|the-Def-Art noun|person verb|become-Inf-S adj|famous-S1 adp|in pron|my-Prs-Gen-S1 noun|city .
+%gra:	1|4|OBL-UNMARKED 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|XCOMP 9|8|XCOMP 10|12|CASE 11|12|NMOD-POSS 12|9|OBL 13|4|PUNCT
+*1110:	&-um his name is &-uh Saleh_Kamel . 8125_13297
+%mor:	pron|his-Prs-Gen-S3 noun|name aux|be-Fin-Ind-Pres-S3 propn|SalehKamel .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*1110:	he did many things in: [/] in my city . 15297_17748
+%mor:	pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3-irr adj|many-S1 noun|thing-Plur-Acc adp|in pron|my-Prs-Gen-S1 noun|city .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|2|PUNCT
+*1110:	&-uh it was a challenge for him . 18305_20805
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|challenge adp|for pron|he-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+*1110:	but &~he &-uh he could do it . 21218_24358
+%mor:	cconj|but pron|he-Prs-Nom-S3 aux|could-Fin-S verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*1110:	<he had> [//] &-uh he: assist to build &-uh a university and college &-uh in my city . 25570_36747
+%mor:	pron|he-Prs-Nom-S3 verb|assist-Fin-Ind-Pres-S3 part|to verb|build-Inf-S det|a-Ind-Art noun|university-Acc cconj|and noun|college adp|in pron|my-Prs-Gen-S1 noun|city .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|8|CC 8|6|CONJ 9|11|CASE 10|11|NMOD-POSS 11|4|OBL 12|2|PUNCT
+*1110:	&-uh he had &-uh a creating channels [//] a group of channels &-uh ah in tv . 38385_50079
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art verb|create-Ger-S det|a-Ind-Art noun|group-Acc adp|of noun|channel-Plur intj|ah adp|in noun|TV .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|XCOMP 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|2|DISCOURSE 10|11|CASE 11|4|OBL 12|2|PUNCT
+*1110:	an:d &-uh <he had very> [//] &-uh many [//] &~da <many very> [//] he had very &-uh works &-uh in my country . 50794_70035
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr adv|very noun|work-Plur-Acc adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|ADVMOD 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|3|PUNCT
+*1110:	like ah &-um he build &-uh some mosque . 70035_74935
+%mor:	intj|like intj|ah pron|he-Prs-Nom-S3 verb|build-Fin-Ind-Pres-S3 det|some-Def-Ind noun|mosque-Acc .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*1110:	he [//] &-uh build [//] &-uh <a big> [//] he owns a big resort in Jeddah &-uh for having fun and relaxing &-uh on the beach . 75601_93267
+%mor:	pron|he-Prs-Nom-S3 verb|own-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|resort-Acc adp|in propn|Jeddah sconj|for verb|have-Part-Pres-S noun|fun-Acc cconj|and verb|relax-Part-Pres-S adp|on det|the-Def-Art noun|beach .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|7|CASE 7|5|NMOD 8|9|MARK 9|2|ADVCL 10|9|OBJ 11|12|CC 12|9|CONJ 13|15|CASE 14|15|DET 15|12|OBL 16|2|PUNCT
+*1110:	&-uh he become famous because he's a business man . 93804_96050
+%mor:	pron|he-Prs-Nom-S3 verb|become-Fin-Ind-Past-S3-irr adj|famous-S1 sconj|because pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|business noun|man .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|9|MARK 5|9|NSUBJ 6|9|COP 7|9|DET 8|9|COMPOUND 9|2|ADVCL 10|2|PUNCT
+*1110:	and he has a sense of humor . 99828_100288
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|sense-Acc adp|of noun|humor .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|3|PUNCT
+*1110:	and he had a good &-uh &-uh points and ideas . 102084_112698
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|good-S1 noun|point-Plur-Acc cconj|and noun|idea-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|8|CC 8|6|CONJ 9|3|PUNCT
+@End

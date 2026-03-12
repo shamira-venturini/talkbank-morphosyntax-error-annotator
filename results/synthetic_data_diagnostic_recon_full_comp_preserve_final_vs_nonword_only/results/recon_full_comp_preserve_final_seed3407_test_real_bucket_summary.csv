@@ -1,0 +1,5 @@
+support_bucket,labels_in_bucket,labels_with_eval_support,total_eval_support,mean_f1_unweighted,mean_f1_weighted_by_eval_support,mean_train_synthetic_share
+mixed,16,16,98,0.532342,0.783474,0.829031
+real_only,0,0,0,0.0,0.0,0.0
+synthetic_only,0,0,0,0.0,0.0,0.0
+unseen,0,0,0,0.0,0.0,0.0

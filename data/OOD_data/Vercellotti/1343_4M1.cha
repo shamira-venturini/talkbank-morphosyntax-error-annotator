@@ -1,0 +1,42 @@
+@UTF8
+@PID:	11312/a-00062591-1
+@Begin
+@Languages:	eng
+@Participants:	PAR1 Participant, PAR0 Participant
+@ID:	eng|Vercellotti|PAR1|||||Participant|||
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1343_4M1, audio
+*PAR1:	now &-uh today's topic is about my city . 2160_6280
+%mor:	adv|now noun|today~part|s noun|topic aux|be-Fin-Ind-Pres-S3 adp|about pron|my-Prs-Gen-S1 noun|city .
+%gra:	1|8|ADVMOD 2|4|NMOD-POSS 3|2|CASE 4|8|NSUBJ 5|8|COP 6|8|CASE 7|8|NMOD-POSS 8|0|ROOT 9|8|PUNCT
+*PAR1:	actually I'm come from Korea actually in Seoul it's capital city of South Korea it's in the middle of the South Korea is [/] is the biggest city in my country . 8060_25290
+%mor:	adv|actually pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|come-Part-Pres-S adp|from propn|Korea adv|actually adp|in propn|Seoul pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|capital noun|city adp|of propn|South propn|Korea pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|middle adp|of det|the-Def-Art propn|South propn|Korea aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|big-Sup-S1 noun|city adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|9|ADVMOD 8|9|CASE 9|4|OBL 10|13|NSUBJ 11|13|COP 12|13|COMPOUND 13|4|PARATAXIS 14|16|CASE 15|16|COMPOUND 16|13|NMOD 17|21|NSUBJ 18|21|COP 19|21|CASE 20|21|DET 21|13|PARATAXIS 22|25|CASE 23|25|DET 24|25|COMPOUND 25|21|NMOD 26|29|COP 27|29|DET 28|29|AMOD 29|13|CONJ 30|32|CASE 31|32|NMOD-POSS 32|29|NMOD 33|4|PUNCT
+*PAR1:	&-um I was born in Seoul and &-uh two thousand million people lives in there . 27680_37890
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|bear-Part-Past-S adp|in propn|Seoul cconj|and num|two num|thousand num|million noun|person-Plur verb|live-Fin-Ind-Pres-S3 adp|in adv|there .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|0|ROOT 4|5|CASE 5|3|OBL 6|11|CC 7|9|COMPOUND 8|9|COMPOUND 9|10|NUMMOD 10|11|NSUBJ 11|3|CONJ 12|13|CASE 13|11|OBL 14|3|PUNCT
+*PAR1:	and there's a Han River in the middle of my hometown . 40560_45250
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art propn|Han propn|River adp|in det|the-Def-Art noun|middle adp|of pron|my-Prs-Gen-S1 noun|hometown .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|NSUBJ 7|9|CASE 8|9|DET 9|3|OBL 10|12|CASE 11|12|NMOD-POSS 12|9|NMOD 13|3|PUNCT
+*PAR1:	so you can go there . 50760_52440
+%mor:	adv|so pron|you-Prs-Nom-S2 aux|can-Fin-S verb|go-Inf-S adv|there .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR1:	if you can go there you have a lots of fun like shopping and many sports and many movie theater like that . 53900_69510
+%mor:	sconj|if pron|you-Prs-Nom-S2 aux|can-Fin-S verb|go-Inf-S adv|there pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 det|a-Ind-Art noun|lot-Plur-Acc adp|of noun|fun adp|like noun|shopping-Ger cconj|and adj|many-S1 noun|sport-Plur cconj|and adj|many-S1 noun|movie noun|theater adp|like pron|that-Dem .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|7|ADVCL 5|4|ADVMOD 6|7|NSUBJ 7|0|ROOT 8|9|DET 9|7|OBJ 10|11|CASE 11|9|NMOD 12|13|CASE 13|11|NMOD 14|16|CC 15|16|AMOD 16|13|CONJ 17|20|CC 18|20|AMOD 19|20|COMPOUND 20|13|CONJ 21|22|CASE 22|20|NMOD 23|7|PUNCT
+*PAR1:	so every education culture and historic places are focused on this capital city . 70700_84360
+%mor:	adv|so det|every-Def-Tot noun|education noun|culture cconj|and adj|historic-S1 noun|place-Plur aux|be-Fin-Ind-Pres-P3 verb|focus-Part-Past-S adp|on det|this-Def-Dem-Sing noun|capital noun|city .
+%gra:	1|9|ADVMOD 2|4|DET 3|4|COMPOUND 4|9|NSUBJ-PASS 5|7|CC 6|7|AMOD 7|4|CONJ 8|9|AUX-PASS 9|0|ROOT 10|13|CASE 11|13|DET 12|13|COMPOUND 13|9|OBL 14|9|PUNCT
+*PAR1:	and &-um . 87120_87770
+%mor:	cconj|and .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	how . 90400_90520
+%mor:	adv|how .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	there's many &-uh historical places that is famous for &-um ch [/] ch . 91520_103140
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adj|many-S1 adj|historical-S1 noun|place-Plur pron|that-Rel aux|be-Fin-Ind-Pres-S3 adj|famous-S1 adp|for noun|ch .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|AMOD 4|5|AMOD 5|2|NSUBJ 6|8|NSUBJ 7|8|COP 8|5|ACL-RELCL 9|10|CASE 10|8|OBL 11|2|PUNCT
+*PAR1:	how can I call chosen kingdom of my country . 108760_113740
+%mor:	adv|how aux|can-Fin-S pron|I-Prs-Nom-S1 verb|call-Inf-S verb|choose-Part-Past-S-irr noun|kingdom-Acc adp|of pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|4|PUNCT
+@End

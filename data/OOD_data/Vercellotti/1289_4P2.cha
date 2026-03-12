@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/a-00062556-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1289_4P2, audio
+*PAR0:	hi . 1520_1690
+%mor:	intj|hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	today I want to talk about one custom in my culture that &-uh affect me &-um very much because I don't like &-uh this kind of custom . 1830_13340
+%mor:	noun|today pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|talk-Inf-S adp|about num|one noun|custom adp|in pron|my-Prs-Gen-S1 noun|culture pron|that-Rel verb|affect-Fin-Ind-Pres-P3 pron|I-Prs-Acc-S1 adv|very adv|much sconj|because pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S det|this-Def-Dem-Sing noun|kind-Acc adp|of noun|custom .
+%gra:	1|3|OBL-UNMARKED 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|NUMMOD 8|5|OBL 9|11|CASE 10|11|NMOD-POSS 11|8|NMOD 12|13|NSUBJ 13|8|ACL-RELCL 14|13|OBJ 15|16|ADVMOD 16|13|ADVMOD 17|21|MARK 18|21|NSUBJ 19|21|AUX 20|21|ADVMOD 21|13|ADVCL 22|23|DET 23|21|OBJ 24|25|CASE 25|23|NMOD 26|3|PUNCT
+*PAR0:	I think the custom sh &-uh isup so supposed to be &-uh people like to compare with others whatever . 17580_25930
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art adj|custom-S1 noun|sh noun|isup-Acc adv|so verb|suppose-Part-Past-S part|to aux|be-Inf-S noun|person-Plur verb|like-Inf-S part|to verb|compare-Inf-S adp|with noun|other-Plur pron|whatever-Int-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|2|OBJ 7|8|ADVMOD 8|6|ACL 9|12|MARK 10|12|COP 11|12|XCOMP 12|8|XCOMP 13|14|MARK 14|12|XCOMP 15|16|CASE 16|14|OBL 17|14|OBJ 18|2|PUNCT
+*PAR0:	&-uh like to compare with grade at your school . 29720_34040
+%mor:	verb|like-Fin-Imp-S part|to verb|compare-Inf-S adp|with noun|grade adp|at pron|your-Prs-Gen-S2 noun|school .
+%gra:	1|0|ROOT 2|3|MARK 3|1|XCOMP 4|5|CASE 5|3|OBL 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|1|PUNCT
+*PAR0:	compare like compare with your &-uh your salary . 34700_39140
+%mor:	verb|compare-Fin-Imp-S intj|like verb|compare-Fin-Imp-S adp|with pron|your-Prs-Gen-S2 pron|your-Prs-Gen-S2 noun|salary .
+%gra:	1|0|ROOT 2|3|DISCOURSE 3|1|XCOMP 4|7|CASE 5|7|NMOD-POSS 6|7|NMOD-POSS 7|3|OBL 8|1|PUNCT
+*PAR0:	&-uh because I know sometimes people like to compare with others . 42440_48200
+%mor:	sconj|because pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 adv|sometimes noun|person-Plur verb|like-Fin-Ind-Pres-P3 part|to verb|compare-Inf-S adp|with noun|other-Plur .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|6|ADVMOD 5|6|NSUBJ 6|3|CCOMP 7|8|MARK 8|6|XCOMP 9|10|CASE 10|8|OBL 11|3|PUNCT
+*PAR0:	but &-uh these are two things I don't like to compare with others . 49880_55480
+%mor:	cconj|but pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 num|two noun|thing-Plur pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S part|to verb|compare-Inf-S adp|with noun|other-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|NUMMOD 5|0|ROOT 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|5|ACL-RELCL 10|11|MARK 11|9|XCOMP 12|13|CASE 13|11|OBL 14|5|PUNCT
+*PAR0:	one is salary . 55800_56880
+%mor:	num|one aux|be-Fin-Ind-Pres-S3 noun|salary .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR0:	and one is great . 57320_58320
+%mor:	cconj|and num|one aux|be-Fin-Ind-Pres-S3 adj|great-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR0:	&-uh when [/] when I &-uh visit someone or my parents take me to &-uh to her friends &-uh &-uh home they always talk about their son and their daughter's present &-uh their presentation at school or company . 59800_81050
+%mor:	adv|when pron|I-Prs-Nom-S1 verb|visit-Fin-Ind-Pres-S1 pron|someone-Ind-S1 cconj|or pron|my-Prs-Gen-S1 noun|parent-Plur verb|take-Fin-Ind-Pres-P3 pron|I-Prs-Acc-S1 adp|to adp|to pron|her-Prs-Gen-S3 noun|friend-Plur adv|home pron|they-Prs-Nom-P3 adv|always verb|talk-Fin-Ind-Pres-P3 adp|about pron|their-Prs-Gen-P3 noun|son cconj|and pron|their-Prs-Gen-P3 noun|daughter~part|s verb|present-Inf-S pron|their-Prs-Gen-P3 noun|presentation-Acc adp|at noun|school cconj|or noun|company .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|17|ADVCL 4|3|OBJ 5|7|CC 6|7|NMOD-POSS 7|4|CONJ 8|17|ADVCL 9|8|OBJ 10|8|OBL 11|13|CASE 12|13|NMOD-POSS 13|8|OBL 14|8|ADVMOD 15|17|NSUBJ 16|17|ADVMOD 17|0|ROOT 18|20|CASE 19|20|NMOD-POSS 20|17|OBL 21|23|CC 22|23|NMOD-POSS 23|20|CONJ 24|23|CASE 25|17|CONJ 26|27|NMOD-POSS 27|25|OBJ 28|29|CASE 29|25|OBL 30|31|CC 31|29|CONJ 32|17|PUNCT
+*PAR0:	for example they one time I my mother take me took me to her friend's house . 87760_98880
+%mor:	adp|for noun|example pron|they-Prs-Nom-P3 num|one noun|time pron|I-Prs-Nom-S1 pron|my-Prs-Gen-S1 noun|mother verb|take-Fin-Ind-Pres-S1 pron|I-Prs-Acc-S1 verb|take-Fin-Ind-Past-S3-irr pron|I-Prs-Acc-S1 adp|to pron|her-Prs-Gen-S3 noun|friend~part|s noun|house .
+%gra:	1|2|CASE 2|11|OBL 3|11|NSUBJ 4|5|NUMMOD 5|11|OBL-UNMARKED 6|8|DEP 7|8|NMOD-POSS 8|9|NSUBJ 9|5|ACL-RELCL 10|9|OBJ 11|0|ROOT 12|11|OBJ 13|17|CASE 14|15|NMOD-POSS 15|17|NMOD-POSS 16|15|CASE 17|11|OBL 18|11|PUNCT
+*PAR0:	and &-uh they began to talk about &-uh son and &-uh daughters . 99960_106230
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|begin-Fin-Ind-Past-P3-irr part|to verb|talk-Inf-S adp|about noun|son cconj|and noun|daughter-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|CASE 7|5|OBL 8|9|CC 9|7|CONJ 10|3|PUNCT
+*PAR0:	and &-uh my parents' friend &-uh &-um mention about his son's &-uh salary . 108130_116510
+%mor:	cconj|and pron|my-Prs-Gen-S1 noun|parent-Plur~part|s noun|friend verb|mention-Fin-Ind-Pres-P3 adp|about pron|his-Prs-Gen-S3 noun|son~part|s noun|salary .
+%gra:	1|6|CC 2|3|NMOD-POSS 3|5|NMOD-POSS 4|3|CASE 5|6|NSUBJ 6|0|ROOT 7|11|CASE 8|9|NMOD-POSS 9|11|NMOD-POSS 10|9|CASE 11|6|OBL 12|6|PUNCT
+*PAR0:	blah [/] blah . 119350_119600
+%mor:	intj|blah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	blah . 119670_119760
+%mor:	intj|blah .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

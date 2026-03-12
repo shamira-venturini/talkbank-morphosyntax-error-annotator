@@ -1,0 +1,69 @@
+@UTF8
+@PID:	11312/t-00010102-1
+@Begin
+@Languages:	eng
+@Participants:	1062 Student
+@ID:	eng|Vercellotti|1062|||3||Student|level4||
+@Media:	1062_3G3, audio
+@Transcriber:	jms
+*1062:	the topic is someone I admire . 2930_3306
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 pron|someone-Ind-S1 pron|I-Prs-Nom-S1 verb|admire-Fin-Ind-Pres-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|4|PUNCT
+*1062:	my father is: the famous one in my life . 4684_4948
+%mor:	pron|my-Prs-Gen-S1 noun|father aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|famous-S1 noun|one adp|in pron|my-Prs-Gen-S1 noun|life .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|6|PUNCT
+*1062:	and I want to be like him . 7167_9133
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to aux|be-Inf-S adp|like pron|he-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|COP 6|7|CASE 7|3|XCOMP 8|3|PUNCT
+*1062:	because <when he was child he has> [//] when he was child he had many problem . 12341_18788
+%mor:	sconj|because adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr noun|child pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr adj|many-S1 noun|problem-Acc .
+%gra:	1|7|MARK 2|5|ADVMOD 3|5|NSUBJ 4|5|COP 5|7|ADVCL 6|7|NSUBJ 7|0|ROOT 8|9|AMOD 9|7|OBJ 10|7|PUNCT
+*1062:	<his dad> [/] his [/] &~da d(ad) [//] &-uh his dad died when he was child . 19583_25423
+%mor:	pron|his-Prs-Gen-S3 noun|dad verb|die-Fin-Ind-Past-S3 adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr noun|child .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|0|ROOT 4|7|ADVMOD 5|7|NSUBJ 6|7|COP 7|3|ADVCL 8|3|PUNCT
+*1062:	&~a also &-uh &~o <his mother take> [//] &~k &~ta took [//] ah his mother took care about him . 26297_33225
+%mor:	adv|also intj|ah pron|his-Prs-Gen-S3 noun|mother verb|take-Fin-Ind-Past-S3-irr noun|care-Acc adp|about pron|he-Prs-Acc-S3 .
+%gra:	1|5|ADVMOD 2|5|DISCOURSE 3|4|NMOD-POSS 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|8|CASE 8|5|OBL 9|5|PUNCT
+*1062:	&-uh he [/] &~wor ah <he work> [//] he worked [% 2 syllables] &~wa when he was child <to help> [/] &~t to help his mother . 33576_40760
+%mor:	intj|ah pron|he-Prs-Nom-S3 verb|work-Fin-Ind-Past-S3 adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr noun|child part|to verb|help-Inf-S pron|his-Prs-Gen-S3 noun|mother-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|7|ADVMOD 5|7|NSUBJ 6|7|COP 7|3|ADVCL 8|9|MARK 9|7|ADVCL 10|11|NMOD-POSS 11|9|OBJ 12|3|PUNCT
+*1062:	also when he was &-uh fifteen years old he left his mother to: work different cities . 42152_52612
+%mor:	adv|also adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr num|fifteen noun|year-Plur adj|old-S1 pron|he-Prs-Nom-S3 verb|leave-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|mother-Acc part|to verb|work-Inf-S adj|different-S1 noun|city-Plur-Acc .
+%gra:	1|9|ADVMOD 2|7|ADVMOD 3|7|NSUBJ 4|7|COP 5|6|NUMMOD 6|7|OBL-UNMARKED 7|9|ADVCL 8|9|NSUBJ 9|0|ROOT 10|11|NMOD-POSS 11|9|OBJ 12|13|MARK 13|9|ADVCL 14|15|AMOD 15|13|OBJ 16|9|PUNCT
+*1062:	&-uh when he grew up he grew up in &-uh farm ah . 52876_58092
+%mor:	adv|when pron|he-Prs-Nom-S3 verb|grow-Fin-Ind-Past-S3-irr adp|up pron|he-Prs-Nom-S3 verb|grow-Fin-Ind-Past-S3-irr adp|up adp|in noun|farm intj|ah .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ADVCL 4|3|COMPOUND-PRT 5|6|NSUBJ 6|0|ROOT 7|6|COMPOUND-PRT 8|9|CASE 9|6|OBL 10|6|DISCOURSE 11|6|PUNCT
+*1062:	an(d) he help many people . 59680_60245
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|help-Fin-Ind-Pres-S3 adj|many-S1 noun|person-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+*1062:	&~i they have &~i same problem . 62396_65002
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 adj|same-S1 noun|problem-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*1062:	after that he traveled to Philestine to work . 66013_71456
+%mor:	sconj|after sconj|that pron|he-Prs-Nom-S3 verb|travel-Fin-Ind-Past-S3 adp|to propn|Philestine part|to verb|work-Inf-S .
+%gra:	1|4|MARK 2|1|FIXED 3|4|NSUBJ 4|0|ROOT 5|6|CASE 6|4|OBL 7|8|MARK 8|4|ADVCL 9|4|PUNCT
+*1062:	and &-uh he spent f:ive years there . 72548_76841
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|spend-Fin-Ind-Past-S3-irr num|five noun|year-Plur-Acc adv|there .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NUMMOD 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*1062:	&-uh and after that he go to the Iraq . 77468_80776
+%mor:	cconj|and sconj|after sconj|that pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Pres-S3 adp|to det|the-Def-Art propn|Iraq .
+%gra:	1|5|CC 2|5|MARK 3|2|FIXED 4|5|NSUBJ 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*1062:	&~s and he spent &~f three years for work . 82026_85387
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|spend-Fin-Ind-Past-S3-irr num|three noun|year-Plur-Acc adp|for noun|work .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NUMMOD 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+*1062:	then &~h <he came> [//] he stayed in Kuwait . 86525_88742
+%mor:	adv|then pron|he-Prs-Nom-S3 verb|stay-Fin-Ind-Past-S3 adp|in propn|Kuwait .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*1062:	and he bought a [/] &~far <a farm> [/] ah &~a a farm ah . 89133_94148
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|buy-Fin-Ind-Past-S3-irr intj|ah det|a-Ind-Art noun|farm-Acc intj|ah .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|DISCOURSE 5|6|DET 6|3|OBJ 7|3|DISCOURSE 8|3|PUNCT
+*1062:	&-uh after that he: [//] &~t &-uh also he took care about twenty child . 94148_102009
+%mor:	adp|after pron|that-Dem adv|also pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr noun|care-Acc adp|about num|twenty noun|child .
+%gra:	1|2|CASE 2|5|OBL 3|5|ADVMOD 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|9|CASE 8|9|NUMMOD 9|5|OBL 10|5|PUNCT
+*1062:	and they [//] he educated &~the ah them in a good way . 105302_107295
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|educate-Fin-Ind-Past-S3 adp|ah pron|they-Prs-Acc-P3 adp|in det|a-Ind-Art adj|good-S1 noun|way .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|9|CASE 7|9|DET 8|9|AMOD 9|3|OBL 10|3|PUNCT
+*1062:	&~a &~i and he's [//] <he has> [//] &-uh he's challenge his self in all his life . 107369_120191
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|challenge-Inf-S pron|his-Prs-Gen-S3 noun|self-Acc adp|in det|all-Def-Tot pron|his-Prs-Gen-S3 noun|life .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|10|CASE 8|10|DET-PREDET 9|10|NMOD-POSS 10|4|OBL 11|4|PUNCT
+@End

@@ -7,6 +7,7 @@ from pathlib import Path
 from statistics import mean, pstdev
 from typing import Dict, Iterable, List, Optional, Sequence, Set, Tuple
 
+from analyze_blinded_review import analyze_review_bundle
 from common import resolve_path
 
 
@@ -55,6 +56,15 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         default=False,
         help="Include holdout_generalization in the main analysis bundle.",
+    )
+    parser.add_argument(
+        "--blinded-review-dir",
+        action="append",
+        default=None,
+        help=(
+            "Optional directory containing `blinded_review_sheet.csv` and `answer_key.csv`. "
+            "Repeat to include multiple post-hoc review bundles."
+        ),
     )
     return parser.parse_args()
 
@@ -962,6 +972,42 @@ def main() -> None:
             ],
         )
 
+    posthoc_review_summaries: List[Dict] = []
+    for review_dir_arg in args.blinded_review_dir or []:
+        review_dir = resolve_path(review_dir_arg)
+        review_sheet = review_dir / "blinded_review_sheet.csv"
+        answer_key = review_dir / "answer_key.csv"
+        if not review_sheet.exists() or not answer_key.exists():
+            raise SystemExit(
+                f"Missing blinded review files in {review_dir}: expected blinded_review_sheet.csv and answer_key.csv"
+            )
+        bundle_name = review_dir.name
+        summary = analyze_review_bundle(
+            review_sheet=review_sheet,
+            answer_key=answer_key,
+            out_dir=out_dir / "posthoc_review" / bundle_name,
+        )
+        summary["bundle_name"] = bundle_name
+        posthoc_review_summaries.append(summary)
+
+    if posthoc_review_summaries:
+        write_csv(
+            out_dir / "posthoc_review_summary.csv",
+            posthoc_review_summaries,
+            [
+                "bundle_name",
+                "review_sheet",
+                "answer_key",
+                "n_review_rows",
+                "n_answer_key_rows",
+                "n_merged_source_rows",
+                "n_scored_source_rows",
+                "sources",
+                "decision_counts",
+                "head_to_head_pair_outcomes",
+            ],
+        )
+
     (out_dir / "paper_analysis_summary.json").write_text(
         json.dumps(all_summary, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
@@ -996,6 +1042,17 @@ def main() -> None:
             "- Exp6: use `seed_stability_summary.csv` (mean/std across seed-matched systems)",
         ]
     )
+    if posthoc_review_summaries:
+        lines.extend(
+            [
+                "",
+                "## Post-hoc blinded review",
+                "- `posthoc_review_summary.csv`: bundle-level counts for adjudicated blinded reviews",
+                "- `posthoc_review/<bundle>/posthoc_review_by_source.csv`: correctness/ambiguity rates by source",
+                "- `posthoc_review/<bundle>/posthoc_review_by_category.csv`: rates broken down by original disagreement category",
+                "- `posthoc_review/<bundle>/posthoc_review_gold_comparison_summary.csv`: source-vs-gold adjudication outcomes",
+            ]
+        )
     if args.include_holdout:
         lines.insert(
             lines.index("- Exp6: use `seed_stability_summary.csv` (mean/std across seed-matched systems)"),

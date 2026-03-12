@@ -1,0 +1,45 @@
+@UTF8
+@PID:	11312/t-00010116-1
+@Begin
+@Languages:	eng
+@Participants:	1073 Student
+@ID:	eng|Vercellotti|1073|||2||Student|level4||
+@Media:	1073_5T2, audio
+@Transcriber:	jms
+*1073:	the topic is describe an extravagant lifestyle .
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S det|a-Ind-Art adj|extravagant-S1 noun|lifestyle-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+*1073:	compare and contrast an extravagant lifestyle with an ordinary lifestyle [% reading topic] . 7165_8514
+%mor:	verb|compare-Fin-Imp-S cconj|and verb|contrast-Fin-Imp-S det|a-Ind-Art adj|extravagant-S1 noun|lifestyle-Acc adp|with det|a-Ind-Art adj|ordinary-S1 noun|lifestyle .
+%gra:	1|0|ROOT 2|3|CC 3|1|CONJ 4|6|DET 5|6|AMOD 6|3|OBJ 7|10|CASE 8|10|DET 9|10|AMOD 10|3|OBL 11|1|PUNCT
+*1073:	people whom live with an &~extravang &~estra extravagant lifestyle &-um they live unhealthy life because they [/] they buyin(g) &~g &-uh stuff are not needed into their life . 9069_30822
+%mor:	noun|person-Plur pron|whom-Rel-S1 verb|live-Fin-Ind-Pres-P3 adp|with det|a-Ind-Art adj|extravagant-S1 noun|lifestyle pron|they-Prs-Nom-P3 verb|live-Fin-Ind-Pres-P3 adj|unhealthy-S1 noun|life-Acc sconj|because pron|they-Prs-Nom-P3 verb|buy-Ger-S noun|stuff-Acc aux|be-Fin-Ind-Pres-P3 part|not verb|need-Part-Past-S adp|into pron|their-Prs-Gen-P3 noun|life .
+%gra:	1|9|NSUBJ 2|3|NSUBJ 3|1|ACL-RELCL 4|7|CASE 5|7|DET 6|7|AMOD 7|3|OBL 8|9|NSUBJ 9|0|ROOT 10|11|AMOD 11|9|OBJ 12|18|MARK 13|14|NSUBJ 14|18|ADVCL 15|14|OBJ 16|18|AUX-PASS 17|18|ADVMOD 18|9|ADVCL 19|21|CASE 20|21|NMOD-POSS 21|18|OBL 22|9|PUNCT
+*1073:	but they need it as a &~exa &-uh accessory . 31039_36968
+%mor:	cconj|but pron|they-Prs-Nom-P3 verb|need-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 adp|as det|a-Ind-Art noun|accessory .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*1073:	so &-uh it's [/] &-uh <it's it's it's> [/] it's consider as a [/] &-uh a luxury life . 37591_46128
+%mor:	adv|so pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|consider-Inf-S adp|as det|a-Ind-Art noun|luxury noun|life .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+*1073:	so: from my opinion the [/] &~th the ordinary lifestyle it's simple . 47896_55007
+%mor:	adv|so adp|from pron|my-Prs-Gen-S1 noun|opinion det|the-Def-Art adj|ordinary-S1 noun|lifestyle pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|simple-S1 .
+%gra:	1|10|ADVMOD 2|4|CASE 3|4|NMOD-POSS 4|10|OBL 5|7|DET 6|7|AMOD 7|10|NSUBJ 8|10|NSUBJ 9|10|COP 10|0|ROOT 11|10|PUNCT
+*1073:	there's no &-uh luxury there . 55883_59814
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|no-Def-Neg noun|luxury adv|there .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|ADVMOD 6|2|PUNCT
+*1073:	but <it's the same> [/] it's the same life in the luxury life [//] lifestyle . 60921_68457
+%mor:	cconj|but pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|same-S1 noun|life adp|in det|the-Def-Art adj|luxury-S1 noun|lifestyle .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|10|CASE 8|10|DET 9|10|AMOD 10|6|NMOD 11|6|PUNCT
+*1073:	so my perspective I prefer the [/] the &-um ordinary lifestyle because it's ah simple and ah &~i &-um not wasting money . 69002_90551
+%mor:	adv|so pron|my-Prs-Gen-S1 noun|perspective pron|I-Prs-Nom-S1 verb|prefer-Fin-Ind-Pres-S1 det|the-Def-Art adj|ordinary-S1 noun|lifestyle-Acc sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 intj|ah adj|simple-S1 cconj|and intj|ah part|not verb|waste-Part-Pres-S noun|money-Acc .
+%gra:	1|5|DISCOURSE 2|3|NMOD-POSS 3|5|NSUBJ 4|5|NSUBJ 5|0|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|13|MARK 10|13|NSUBJ 11|13|COP 12|13|DISCOURSE 13|5|ADVCL 14|17|CC 15|17|DISCOURSE 16|17|ADVMOD 17|13|CONJ 18|17|OBJ 19|5|PUNCT
+*1073:	&-um you can live an happily life . 91053_99164
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|live-Inf-S det|a-Ind-Art adv|happily noun|life-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|ADVMOD 6|3|OBJ 7|3|PUNCT
+*1073:	however the extravagant lifestyle it wasting money &-um being &-uh difficult . 99929_112587
+%mor:	adv|however det|the-Def-Art adj|extravagant-S1 noun|lifestyle pron|it-Prs-Nom-S3 verb|waste-Ger-S noun|money-Acc aux|be-Part-Pres-S adj|difficult-S1 .
+%gra:	1|9|ADVMOD 2|4|DET 3|4|AMOD 4|9|NSUBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|OBJ 8|9|COP 9|0|ROOT 10|9|PUNCT
+*1073:	so it's hard to describe the both of them thank you . 113005_120191
+%mor:	adv|so pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|hard-S1 part|to verb|describe-Inf-S det|the-Def-Art det|both-Def-Tot adp|of pron|they-Prs-Acc-P3 verb|thank-Fin-Ind-Pres-S3 pron|you-Prs-Acc-S2 .
+%gra:	1|4|ADVMOD 2|4|EXPL 3|4|COP 4|0|ROOT 5|6|MARK 6|4|CSUBJ 7|8|DET 8|11|NSUBJ 9|10|CASE 10|8|NMOD 11|6|XCOMP 12|11|OBJ 13|4|PUNCT
+@End

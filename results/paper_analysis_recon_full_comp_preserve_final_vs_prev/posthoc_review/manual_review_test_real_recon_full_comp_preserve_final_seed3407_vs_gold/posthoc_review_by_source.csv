@@ -1,0 +1,3 @@
+source,n,correct_count,correct_rate,incorrect_count,incorrect_rate,ambiguous_count,ambiguous_rate,unsure_count,unsure_rate,unscored_count,unscored_rate,invalid_multiple_count,invalid_multiple_rate
+gold,44,33,0.75,6,0.136364,0,0.0,0,0.0,0,0.0,5,0.113636
+recon_full_comp_preserve_final_seed3407,44,26,0.590909,8,0.181818,0,0.0,0,0.0,0,0.0,10,0.227273

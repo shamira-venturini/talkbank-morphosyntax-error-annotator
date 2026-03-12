@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/a-00062530-1
+@Begin
+@Languages:	eng
+@Participants:	PAR1 Participant, PAR0 Participant
+@ID:	eng|Vercellotti|PAR1|||||Participant|||
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1254_4Q4, audio
+*PAR1:	I wanna talk about an old custom that was before &-uh before long time ago . 1580_8970
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1~part|to verb|talk-Inf-S adp|about det|a-Ind-Art adj|old-S1 noun|custom pron|that-Rel aux|be-Fin-Ind-Past-S3-irr adv|before adp|before adj|long-S1 noun|time adv|ago .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|11|NSUBJ 10|11|COP 11|8|ACL-RELCL 12|14|CASE 13|14|AMOD 14|11|OBL 15|11|ADVMOD 16|2|PUNCT
+*PAR1:	&-uh but they [/] they now they finished and no one do it because the Islams stop [/] stop it for a long time ago . 10360_24130
+%mor:	cconj|but pron|they-Prs-Nom-P3 adv|now pron|they-Prs-Nom-P3 verb|finish-Fin-Ind-Past-P3 cconj|and det|no-Def-Neg pron|one-Neg-S1 verb|do-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 sconj|because det|the-Def-Art propn|Islams-Plur verb|stop-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 adp|for det|a-Ind-Art adj|long-S1 noun|time adv|ago .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|ADVMOD 4|5|NSUBJ 5|0|ROOT 6|9|CC 7|8|DET 8|9|NSUBJ 9|5|CONJ 10|9|OBJ 11|14|MARK 12|13|DET 13|14|NSUBJ 14|9|ADVCL 15|14|OBJ 16|19|CASE 17|19|DET 18|19|AMOD 19|14|OBL 20|14|ADVMOD 21|5|PUNCT
+*PAR1:	the customs the custom is &-uh to if [/] if a man have &-uh have a new baby . 24800_34400
+%mor:	det|the-Def-Art noun|custom-Plur det|the-Def-Art noun|custom aux|be-Fin-Ind-Pres-S3 adp|to sconj|if det|a-Ind-Art noun|man aux|have-Fin-Ind-Pres-P3 verb|have-Inf-S det|a-Ind-Art adj|new-S1 noun|baby-Acc .
+%gra:	1|2|DET 2|11|NSUBJ-OUTER 3|4|DET 4|2|NSUBJ 5|11|COP 6|0|ROOT 7|11|MARK 8|9|DET 9|11|NSUBJ 10|11|AUX 11|6|ADVCL 12|14|DET 13|14|AMOD 14|11|OBJ 15|6|PUNCT
+*PAR1:	and it was girl . 36810_38200
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr noun|girl .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR1:	&-uh he kill her cause she is a girl . 39120_42210
+%mor:	pron|he-Prs-Nom-S3 verb|kill-Fin-Ind-Pres-S3 pron|her-Prs-Acc-S3 sconj|cause pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|girl .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|8|MARK 5|8|NSUBJ 6|8|COP 7|8|DET 8|2|ADVCL 9|2|PUNCT
+*PAR1:	and he kill her all his babies until the [/] the son will come because they didn't like &-uh girls because they are weak . 43920_55160
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|kill-Fin-Ind-Pres-S3 pron|her-Prs-Acc-S3 det|all-Def-Tot pron|his-Prs-Gen-S3 noun|baby-Plur-Acc sconj|until det|the-Def-Art noun|son aux|will-Fin-S verb|come-Inf-S sconj|because pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3-irr~part|not verb|like-Inf-S noun|girl-Plur-Acc sconj|because pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 adj|weak-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|DET-PREDET 6|7|NMOD-POSS 7|3|OBJ 8|12|MARK 9|10|DET 10|12|NSUBJ 11|12|AUX 12|3|ADVCL 13|17|MARK 14|17|NSUBJ 15|17|AUX 16|17|ADVMOD 17|12|ADVCL 18|17|OBJ 19|22|MARK 20|22|NSUBJ 21|22|COP 22|17|ADVCL 23|3|PUNCT
+*PAR1:	and they maybe do something wrong . 55460_58720
+%mor:	cconj|and pron|they-Prs-Nom-P3 adv|maybe verb|do-Fin-Ind-Pres-P3 pron|something-Ind-S1 adj|wrong-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+*PAR1:	and they didn't respect her . 59120_60920
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3-irr~part|not verb|respect-Inf-S pron|her-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR1:	so even if she &-uh <if she> [/] if she a good and &-uh and have a good career they call her because they didn't respect girls . 61960_75550
+%mor:	adv|so adv|even sconj|if pron|she-Prs-Nom-S3 sconj|if pron|she-Prs-Nom-S3 det|a-Ind-Art adj|good-S1 cconj|and cconj|and verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art adj|good-S1 noun|career-Acc pron|they-Prs-Nom-P3 verb|call-Fin-Ind-Pres-P3 pron|her-Prs-Acc-S3 sconj|because pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3-irr~part|not verb|respect-Inf-S noun|girl-Plur-Acc .
+%gra:	1|16|ADVMOD 2|8|ADVMOD 3|8|MARK 4|8|NSUBJ 5|8|MARK 6|8|NSUBJ 7|8|DET 8|16|ADVCL 9|11|CC 10|11|CC 11|8|CONJ 12|14|DET 13|14|AMOD 14|11|OBJ 15|16|NSUBJ 16|0|ROOT 17|16|OBJ 18|22|MARK 19|22|NSUBJ 20|22|AUX 21|22|ADVMOD 22|16|ADVCL 23|22|OBJ 24|16|PUNCT
+*PAR1:	so there was a lot of stories about it . 78560_82400
+%mor:	adv|so pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|lot adp|of noun|story-Plur adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|9|CASE 9|7|NMOD 10|3|PUNCT
+*PAR1:	and they call all the girls who will &-uh who come to the life . 83560_90120
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|call-Fin-Ind-Pres-P3 det|all-Def-Tot det|the-Def-Art noun|girl-Plur-Acc pron|who-Rel aux|will-Fin-S pron|who-Rel verb|come-Fin-Ind-Pres-P3 adp|to det|the-Def-Art noun|life .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET-PREDET 5|6|DET 6|3|OBJ 7|10|NSUBJ 8|6|ACL-RELCL 9|10|NSUBJ 10|6|ACL-RELCL 11|13|CASE 12|13|DET 13|10|OBL 14|3|PUNCT
+*PAR1:	so this is a bad custom that happened for &-um before a long time ago . 91050_97690
+%mor:	adv|so pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|bad-S1 noun|custom pron|that-Rel verb|happen-Fin-Ind-Past-S3 adp|for adp|before det|a-Ind-Art adj|long-S1 noun|time adv|ago .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|8|NSUBJ 8|6|ACL-RELCL 9|8|OBL 10|13|CASE 11|13|DET 12|13|AMOD 13|8|OBL 14|8|ADVMOD 15|6|PUNCT
+*PAR1:	but the Islam they finish it . 97880_100490
+%mor:	cconj|but det|the-Def-Art propn|Islam pron|they-Prs-Nom-P3 verb|finish-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR1:	this is what I was talking about . 104120_107500
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|talk-Part-Pres-S adp|about .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|3|CASE 8|3|PUNCT
+*PAR0:	okay . 117880_118120
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	it looks like everyone is done recording .
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|everyone-Tot-S1 aux|be-Fin-Ind-Pres-S3 verb|do-Part-Past-S-irr noun|recording-Ger .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|MARK 4|7|NSUBJ 5|7|COP 6|7|AMOD 7|2|ADVCL 8|2|PUNCT
+@End

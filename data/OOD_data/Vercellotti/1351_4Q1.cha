@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/a-00062594-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1351_4Q1, audio
+*PAR0:	hi . 890_1060
+%mor:	intj|hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	the title of this recording is describe the city you come from . 1730_6940
+%mor:	det|the-Def-Art noun|title adp|of det|this-Def-Dem-Sing noun|recording-Ger aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S det|the-Def-Art noun|city-Acc pron|you-Prs-Nom-S2 verb|come-Fin-Ind-Pres-S2 adp|from .
+%gra:	1|2|DET 2|7|NSUBJ-OUTER 3|5|CASE 4|5|DET 5|2|NMOD 6|7|COP 7|0|ROOT 8|9|DET 9|7|OBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|11|OBL 13|7|PUNCT
+*PAR0:	the city I come from is Kuwait &-uh it is in Asia specifically in the Middle East it is &-uh &-uh at &-uh <near the Gulf> [/] near the Gulf Bay &-uh it is &-um eight hundred thousand kilometers . 7890_30810
+%mor:	det|the-Def-Art noun|city pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from aux|be-Fin-Ind-Pres-S3 propn|Kuwait pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adp|in propn|Asia adv|specifically adp|in det|the-Def-Art adj|Middle-S1 propn|East pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adp|at adp|near det|the-Def-Art propn|Gulf propn|Bay pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 num|eight num|hundred num|thousand noun|kilometer-Plur .
+%gra:	1|2|DET 2|7|NSUBJ 3|4|NSUBJ 4|2|ACL-RELCL 5|4|OBL 6|7|COP 7|0|ROOT 8|11|NSUBJ 9|11|COP 10|11|CASE 11|7|ACL-RELCL 12|23|ADVMOD 13|16|CASE 14|16|DET 15|16|AMOD 16|11|OBL 17|23|NSUBJ 18|23|COP 19|23|CASE 20|23|CASE 21|23|DET 22|23|COMPOUND 23|11|PARATAXIS 24|29|NSUBJ 25|29|COP 26|27|COMPOUND 27|29|NUMMOD 28|29|NUMMOD 29|23|PARATAXIS 30|7|PUNCT
+*PAR0:	&-uh its population is &-uh maybe one million or &-um little more . 32740_39420
+%mor:	pron|it-Prs-Nom-S3~part|s noun|population aux|be-Fin-Ind-Pres-S3 adv|maybe num|one num|million cconj|or adj|little-S1 adj|more-Cmp-S1 .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|7|NSUBJ 4|7|COP 5|7|ADVMOD 6|7|COMPOUND 7|0|ROOT 8|9|CC 9|7|CONJ 10|7|CONJ 11|7|PUNCT
+*PAR0:	I like everything about it . 41120_42870
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|everything-Tot-S1 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+*PAR0:	cause it's my home country . 43010_44460
+%mor:	sconj|cause pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|home noun|country .
+%gra:	1|6|MARK 2|6|NSUBJ 3|6|COP 4|6|NMOD-POSS 5|6|COMPOUND 6|0|ROOT 7|6|PUNCT
+*PAR0:	it's a country that I live in . 44830_46550
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|country pron|that-Rel pron|I-Prs-Nom-S1 verb|live-Fin-Ind-Pres-S1 adp|in .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|7|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|5|CASE 9|4|PUNCT
+*PAR0:	I I've been raised in . 47280_48870
+%mor:	pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 aux|be-Part-Past-S-irr verb|raise-Part-Past-S adp|in .
+%gra:	1|5|NSUBJ-PASS 2|5|NSUBJ-PASS 3|5|AUX 4|5|AUX-PASS 5|0|ROOT 6|5|OBL 7|5|PUNCT
+*PAR0:	and &-uh I've learned it &-uh my country when I see outside my house or my window I look at some houses some &-uh streets . 49540_64980
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|learn-Part-Past-S pron|it-Prs-Acc-S3 pron|my-Prs-Gen-S1 noun|country-Acc adv|when pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adp|outside pron|my-Prs-Gen-S1 noun|house cconj|or pron|my-Prs-Gen-S1 noun|window pron|I-Prs-Nom-S1 verb|look-Fin-Ind-Pres-S1 adp|at det|some-Def-Ind noun|house-Plur det|some-Def-Ind noun|street-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|IOBJ 6|7|NMOD-POSS 7|4|OBJ 8|10|ADVMOD 9|10|NSUBJ 10|18|ADVCL 11|13|CASE 12|13|NMOD-POSS 13|10|OBL 14|16|CC 15|16|NMOD-POSS 16|13|CONJ 17|18|NSUBJ 18|4|CONJ 19|21|CASE 20|21|DET 21|18|OBL 22|23|DET 23|18|OBL-UNMARKED 24|4|PUNCT
+*PAR0:	there's no mountains no oceans . 66200_68070
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|no-Def-Neg noun|mountain-Plur det|no-Def-Neg noun|ocean-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|6|DET 6|4|APPOS 7|2|PUNCT
+*PAR0:	but &-uh there's many things that I like it . 69570_72710
+%mor:	cconj|but pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adj|many-S1 noun|thing-Plur pron|that-Rel pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|AMOD 5|3|NSUBJ 6|8|OBJ 7|8|NSUBJ 8|5|ACL-RELCL 9|8|OBJ 10|3|PUNCT
+*PAR0:	&-uh I &-uh there I can do many things . 75250_79310
+%mor:	pron|I-Prs-Nom-S1 adv|there pron|I-Prs-Nom-S1 aux|can-Fin-S verb|do-Inf-S adj|many-S1 noun|thing-Plur-Acc .
+%gra:	1|5|NSUBJ 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|AMOD 7|5|OBJ 8|5|PUNCT
+*PAR0:	for example . 80700_82140
+%mor:	adp|for noun|example .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*PAR0:	there is a which is a place where men meet and like play cards . 82490_88340
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|place adv|where noun|man-Plur verb|meet-Fin-Ind-Pres-P3 cconj|and verb|like-Fin-Ind-Pres-P3 noun|play noun|card-Plur-Acc .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|7|NSUBJ 5|7|COP 6|7|DET 7|3|ACL-RELCL 8|10|ADVMOD 9|10|NSUBJ 10|7|ACL-RELCL 11|12|CC 12|10|CONJ 13|14|COMPOUND 14|12|OBJ 15|2|PUNCT
+*PAR0:	play video games and make many things &-uh talk about anything they want . 89670_95400
+%mor:	verb|play-Fin-Imp-S noun|video noun|game-Plur-Acc cconj|and verb|make-Fin-Imp-S adj|many-S1 noun|thing-Plur-Acc verb|talk-Inf-S adp|about pron|anything-Ind-S1 pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Pres-P3 .
+%gra:	1|0|ROOT 2|3|COMPOUND 3|1|OBJ 4|5|CC 5|1|CONJ 6|7|AMOD 7|5|OBJ 8|5|XCOMP 9|10|CASE 10|8|OBL 11|12|NSUBJ 12|10|ACL-RELCL 13|1|PUNCT
+*PAR0:	&-uh it is a nice country . 98780_100110
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|nice-S1 noun|country .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*PAR0:	and I hope I am here for their life . 101540_104060
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 adv|here adp|for pron|their-Prs-Gen-P3 noun|life .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|3|PUNCT
+*PAR0:	so I hope I [/] I go back to my country . 104820_107470
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S1 adv|back adp|to pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|NSUBJ 5|3|CCOMP 6|5|ADVMOD 7|9|CASE 8|9|NMOD-POSS 9|5|OBL 10|3|PUNCT
+*PAR0:	and I'm very &-uh eager <to see it> [/] to see it again . 108410_114200
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|very adj|eager-S1 part|to verb|see-Inf-S pron|it-Prs-Acc-S3 adv|again .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|7|ADVMOD 10|5|PUNCT
+*PAR0:	thank you . 118040_118370
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+@End

@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/t-00010241-1
+@Begin
+@Languages:	eng
+@Participants:	1199 Student
+@ID:	eng|Vercellotti|1199|||1||Student|level4||
+@Media:	1199_5S1, audio
+@Transcriber:	jms
+*1199:	the topic is the [//] my opinion of violence on tv . 3449_9479
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|opinion adp|of noun|violence adp|on noun|TV .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|NMOD-POSS 5|0|ROOT 6|7|CASE 7|5|NMOD 8|9|CASE 9|5|NMOD 10|5|PUNCT
+*1199:	mm in my country &-uh the violence movie is shown on tv is many kinds of &-uh action movies such as &~sh &-um kungfu movie and &-uh some detective movies . 10205_27162
+%mor:	intj|mm adp|in pron|my-Prs-Gen-S1 noun|country det|the-Def-Art noun|violence noun|movie aux|be-Fin-Ind-Pres-S3 verb|show-Part-Past-S-irr adp|on noun|TV aux|be-Fin-Ind-Pres-S3 adj|many-S1 noun|kind-Plur adp|of noun|action noun|movie-Plur adj|such-S1 adp|as noun|kungfu noun|movie cconj|and det|some-Def-Ind noun|detective noun|movie-Plur .
+%gra:	1|9|DISCOURSE 2|4|CASE 3|4|NMOD-POSS 4|9|OBL 5|7|DET 6|7|COMPOUND 7|9|NSUBJ-PASS 8|9|AUX-PASS 9|0|ROOT 10|11|CASE 11|9|OBL 12|14|COP 13|14|AMOD 14|9|ADVCL 15|17|CASE 16|17|COMPOUND 17|14|NMOD 18|21|CASE 19|18|FIXED 20|21|COMPOUND 21|17|NMOD 22|25|CC 23|25|DET 24|25|COMPOUND 25|21|CONJ 26|9|PUNCT
+*1199:	and ah some people think ah the violent movies &-uh will [/] mm <will trigger> [//] no [///] &~i will generate ah some negative &~infa impact on society especially for the children <who is> [//] who are teenagers or some [/] some people &~vi very small . 28986_56056
+%mor:	cconj|and intj|ah det|some-Def-Ind noun|person-Plur verb|think-Fin-Ind-Pres-P3 intj|ah det|the-Def-Art adj|violent-S1 noun|movie-Plur noun|mm aux|will-Fin-S verb|generate-Inf-S intj|ah det|some-Def-Ind adj|negative-S1 noun|impact-Acc adp|on noun|society adv|especially adp|for det|the-Def-Art noun|child-Plur pron|who-Rel aux|be-Fin-Ind-Pres-P3 noun|teenager-Plur cconj|or det|some-Def-Ind noun|person-Plur adv|very adj|small-S1 .
+%gra:	1|5|CC 2|5|DISCOURSE 3|4|DET 4|5|NSUBJ 5|0|ROOT 6|12|DISCOURSE 7|10|DET 8|10|AMOD 9|10|COMPOUND 10|12|NSUBJ 11|12|AUX 12|5|CCOMP 13|12|DISCOURSE 14|16|DET 15|16|AMOD 16|12|OBJ 17|18|CASE 18|16|NMOD 19|22|ADVMOD 20|22|CASE 21|22|DET 22|12|OBL 23|25|NSUBJ 24|25|COP 25|22|ACL-RELCL 26|28|CC 27|28|DET 28|25|CONJ 29|30|ADVMOD 30|25|CONJ 31|5|PUNCT
+*1199:	&-uh &-uh and &-uh <in my:> [//] (o)pinion [//] &-uh <I don't think people should> [//] &-uh <be I: don't think> [//] in my opinion I don't think violent movies should be banned on tv . 56056_73726
+%mor:	cconj|and adp|in pron|my-Prs-Gen-S1 noun|opinion pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S adj|violent-S1 noun|movie-Plur aux|should-Fin-S aux|be-Inf-S verb|ban-Part-Past-S adp|on noun|TV .
+%gra:	1|8|CC 2|4|CASE 3|4|NMOD-POSS 4|8|OBL 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|10|AMOD 10|13|NSUBJ-PASS 11|13|AUX 12|13|AUX-PASS 13|8|CCOMP 14|15|CASE 15|13|OBL 16|8|PUNCT
+*1199:	ah first &-uh these movies &~f &~f &-uh especially for adults could relax their work stress . 74386_80936
+%mor:	intj|ah adv|first det|this-Def-Dem-Plur noun|movie-Plur adv|especially adp|for noun|adult-Plur aux|could-Fin-S verb|relax-Inf-S pron|their-Prs-Gen-P3 noun|work noun|stress-Acc .
+%gra:	1|9|DISCOURSE 2|9|ADVMOD 3|4|DET 4|9|NSUBJ 5|7|ADVMOD 6|7|CASE 7|4|NMOD 8|9|AUX 9|0|ROOT 10|12|NMOD-POSS 11|12|COMPOUND 12|9|OBJ 13|9|PUNCT
+*1199:	and secondly &-uh if we eliminate ah these movies from society &-uh people just ah see some love stories . 81970_90558
+%mor:	cconj|and adv|secondly sconj|if pron|we-Prs-Nom-P1 verb|eliminate-Fin-Ind-Pres-P1 intj|ah det|this-Def-Dem-Plur noun|movie-Plur-Acc adp|from noun|society noun|person-Plur adv|just intj|ah verb|see-Fin-S det|some-Def-Ind noun|love noun|story-Plur-Acc .
+%gra:	1|14|CC 2|14|ADVMOD 3|5|MARK 4|5|NSUBJ 5|14|ADVCL 6|8|DISCOURSE 7|8|DET 8|5|OBJ 9|10|CASE 10|8|NMOD 11|8|NMOD 12|14|ADVMOD 13|14|DISCOURSE 14|0|ROOT 15|17|DET 16|17|COMPOUND 17|14|OBJ 18|14|PUNCT
+*1199:	&-um &~i it seems to be very ah bored . 91172_95208
+%mor:	pron|it-Prs-Nom-S3 verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S adv|very intj|ah adj|bored-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|MARK 4|7|COP 5|7|ADVMOD 6|7|DISCOURSE 7|2|XCOMP 8|2|PUNCT
+*1199:	and &-uh &~s &~s <the second> [//] the third reason is that mm if we could see much more violent movies we could ah distinguish what is the moral behavior and what is amoral behavior . 95746_112076
+%mor:	cconj|and det|the-Def-Art adj|third-S1 noun|reason aux|be-Fin-Ind-Pres-S3 sconj|that intj|mm sconj|if pron|we-Prs-Nom-P1 aux|could-Fin-S verb|see-Inf-S adv|much adj|more-Cmp-S1 adj|violent-S1 noun|movie-Plur-Acc pron|we-Prs-Nom-P1 aux|could-Fin-S intj|ah verb|distinguish-Inf-S pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|moral-S1 noun|behavior cconj|and pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 adj|amoral-S1 noun|behavior .
+%gra:	1|19|CC 2|4|DET 3|4|AMOD 4|19|NSUBJ-OUTER 5|19|COP 6|19|MARK 7|19|DISCOURSE 8|11|MARK 9|11|NSUBJ 10|11|AUX 11|19|ADVCL 12|13|ADVMOD 13|15|AMOD 14|15|AMOD 15|11|OBJ 16|19|NSUBJ 17|19|AUX 18|19|DISCOURSE 19|0|ROOT 20|19|OBJ 21|24|COP 22|24|DET 23|24|AMOD 24|20|NSUBJ 25|26|CC 26|24|CONJ 27|29|COP 28|29|AMOD 29|24|CONJ 30|19|PUNCT
+*1199:	and ah it will trigger &-uh people's inherent consciousness to [/] &~rec to acknowledge ah &~ou . 113846_120191
+%mor:	cconj|and intj|ah pron|it-Prs-Nom-S3 aux|will-Fin-S verb|trigger-Inf-S noun|person-Plur~part|s adj|inherent-S1 noun|consciousness-Acc part|to verb|acknowledge-Inf-S intj|ah .
+%gra:	1|5|CC 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|9|NMOD-POSS 7|6|CASE 8|9|AMOD 9|5|OBJ 10|11|MARK 11|5|ADVCL 12|11|OBJ 13|5|PUNCT
+@End

@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/t-00010233-1
+@Begin
+@Languages:	eng
+@Participants:	1189 Student
+@ID:	eng|Vercellotti|1189|||1||Student|level4||
+@Media:	1189_5T1, audio
+@Transcriber:	jms
+*1189:	today's topic is describing the advantages [% 5 syllables] and disadvantage of living in a computerized society . 8304_8768
+%mor:	noun|today~part|s noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Part-Pres-S det|the-Def-Art noun|advantage-Plur-Acc cconj|and noun|disadvantage sconj|of verb|live-Ger-S adp|in det|a-Ind-Art verb|computerize-Part-Past-S noun|society .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|CC 9|7|CONJ 10|11|MARK 11|9|ACL 12|15|CASE 13|15|DET 14|15|AMOD 15|11|OBL 16|5|PUNCT
+*1189:	also what are some of the dangers associated with the frequent use of computers . 11219_15474
+%mor:	adv|also pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 det|some-Def-Ind adp|of det|the-Def-Art noun|danger-Plur verb|associate-Part-Past-S adp|with det|the-Def-Art adj|frequent-S1 noun|use adp|of noun|computer-Plur .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|COP 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|7|ACL 9|12|CASE 10|12|DET 11|12|AMOD 12|8|OBL 13|14|CASE 14|12|NMOD 15|2|PUNCT
+*1189:	in my opinion <they are> [//] &~man I think the(r)e are many advantages to live in a computerized society . 16604_24391
+%mor:	adp|in pron|my-Prs-Gen-S1 noun|opinion pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 noun|advantage-Plur part|to verb|live-Inf-S adp|in det|a-Ind-Art verb|computerize-Part-Past-S noun|society .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|7|EXPL 7|5|CCOMP 8|9|AMOD 9|7|NSUBJ 10|11|MARK 11|9|ACL 12|15|CASE 13|15|DET 14|15|AMOD 15|11|OBL 16|5|PUNCT
+*1189:	for example it is very convenient <to find> [//] the [//] &~in &~ta to find information online . 25500_34245
+%mor:	adp|for noun|example pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|very adj|convenient-S1 part|to verb|find-Inf-S noun|information-Acc adv|online .
+%gra:	1|2|CASE 2|6|OBL 3|6|EXPL 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|8|MARK 8|6|CSUBJ 9|8|OBJ 10|8|ADVMOD 11|6|PUNCT
+*1189:	&-uh in the past time if we want to find some information probably we needta go out &~t or &~t we needta go &~d to the library to find the information . 34767_47524
+%mor:	adp|in det|the-Def-Art adj|past-S1 noun|time sconj|if pron|we-Prs-Nom-P1 verb|want-Fin-Ind-Pres-P1 part|to verb|find-Inf-S det|some-Def-Ind noun|information-Acc adv|probably pron|we-Prs-Nom-P1 aux|needta-Fin-Ind-Pres-P1 verb|go-Fin-Ind-Pres-P1 adp|out cconj|or pron|we-Prs-Nom-P1 aux|needta-Fin-Pres-S verb|go-Inf-S adp|to det|the-Def-Art noun|library part|to verb|find-Inf-S det|the-Def-Art noun|information-Acc .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|15|OBL 5|7|MARK 6|7|NSUBJ 7|15|ADVCL 8|9|MARK 9|7|XCOMP 10|11|DET 11|9|OBJ 12|15|ADVMOD 13|15|NSUBJ 14|15|AUX 15|0|ROOT 16|15|COMPOUND-PRT 17|20|CC 18|20|NSUBJ 19|20|AUX 20|15|CONJ 21|23|CASE 22|23|DET 23|20|OBL 24|25|MARK 25|20|ADVCL 26|27|DET 27|25|OBJ 28|15|PUNCT
+*1189:	or we need rely on the newspaper or magazines and media . 48077_53103
+%mor:	cconj|or pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Pres-P1 verb|rely-Inf-S adp|on det|the-Def-Art noun|newspaper cconj|or noun|magazine-Plur cconj|and noun|media .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|9|CC 9|7|CONJ 10|11|CC 11|7|CONJ 12|3|PUNCT
+*1189:	but now it is very convenient to use internet . 57405_57611
+%mor:	cconj|but adv|now pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|very adj|convenient-S1 part|to verb|use-Inf-S noun|internet-Acc .
+%gra:	1|6|CC 2|6|ADVMOD 3|6|EXPL 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|8|MARK 8|6|CSUBJ 9|8|OBJ 10|6|PUNCT
+*1189:	and we &~j can know everything from internet . 58690_62564
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|can-Fin-S verb|know-Inf-S pron|everything-Tot-S1 adp|from noun|internet .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|4|PUNCT
+*1189:	so I think it is very convenient . 63766_66919
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|very adj|convenient-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|3|CCOMP 8|3|PUNCT
+*1189:	second &-uh we can shop online . 67888_72130
+%mor:	adv|second pron|we-Prs-Nom-P1 aux|can-Fin-S verb|shop-Inf-S adv|online .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*1189:	and it's also a &~ver very good advantage . 74041_79080
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|also det|a-Ind-Art adv|very adj|good-S1 noun|advantage .
+%gra:	1|8|CC 2|8|NSUBJ 3|8|COP 4|8|ADVMOD 5|8|DET 6|7|ADVMOD 7|8|AMOD 8|0|ROOT 9|8|PUNCT
+*1189:	&-um I mean if the weather is very bad and I don't want to go out [//] outside to go to the store I can just shop online . 79608_92406
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 sconj|if det|the-Def-Art noun|weather aux|be-Fin-Ind-Pres-S3 adv|very adj|bad-S1 cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S part|to verb|go-Inf-S adv|outside part|to verb|go-Inf-S adp|to det|the-Def-Art noun|store pron|I-Prs-Nom-S1 aux|can-Fin-S adv|just verb|shop-Inf-S adv|online .
+%gra:	1|2|NSUBJ 2|25|PARATAXIS 3|8|MARK 4|5|DET 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|25|ADVCL 9|13|CC 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|8|CONJ 14|15|MARK 15|13|XCOMP 16|15|ADVMOD 17|18|MARK 18|15|ADVCL 19|21|CASE 20|21|DET 21|18|OBL 22|25|NSUBJ 23|25|AUX 24|25|ADVMOD 25|0|ROOT 26|25|ADVMOD 27|25|PUNCT
+*1189:	and they will send the product to your home . 92926_98135
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|will-Fin-S verb|send-Inf-S det|the-Def-Art noun|product-Acc adp|to pron|your-Prs-Gen-S2 noun|home .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|4|PUNCT
+*1189:	so [///] and ah we can save our time . 98624_102955
+%mor:	cconj|and intj|ah pron|we-Prs-Nom-P1 aux|can-Fin-S verb|save-Inf-S pron|our-Prs-Gen-P1 noun|time-Acc .
+%gra:	1|5|CC 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|PUNCT
+*1189:	and [/] &~m and ah like we don't need drive car . 103360_103833
+%mor:	cconj|and intj|ah sconj|like pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|need-Inf-S noun|drive noun|car-Acc .
+%gra:	1|7|CC 2|7|DISCOURSE 3|7|MARK 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|9|COMPOUND 9|7|OBJ 10|7|PUNCT
+*1189:	so I think &~isis it is very good advantage . 108612_112739
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|very adj|good-S1 noun|advantage .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|8|NSUBJ 5|8|COP 6|7|ADVMOD 7|8|AMOD 8|3|CCOMP 9|3|PUNCT
+*1189:	also &-uh we can connect our friends and relatives to . 113356_120191
+%mor:	adv|also pron|we-Prs-Nom-P1 aux|can-Fin-S verb|connect-Inf-S pron|our-Prs-Gen-P1 noun|friend-Plur-Acc cconj|and noun|relative-Plur adp|to .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|8|CC 8|6|CONJ 9|4|PUNCT 10|4|PUNCT
+@End

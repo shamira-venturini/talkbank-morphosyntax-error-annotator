@@ -1,0 +1,30 @@
+@UTF8
+@PID:	11312/t-00010234-1
+@Begin
+@Languages:	eng
+@Participants:	1193 Student
+@ID:	eng|Vercellotti|1193|||1||Student|level3||
+@Media:	1193_3G1, audio
+@Transcriber:	jms
+*1193:	when I wen(t) to [//] university [//] to the university I met &-uh one guys . 2171_9485
+%mor:	adv|when pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr adp|to det|the-Def-Art noun|university pron|I-Prs-Nom-S1 verb|meet-Fin-Ind-Past-S1-irr num|one noun|guy-Plur-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|8|ADVCL 4|6|CASE 5|6|DET 6|3|OBL 7|8|NSUBJ 8|0|ROOT 9|10|NUMMOD 10|8|OBJ 11|8|PUNCT
+*1193:	after that &-uh the same guys &-uh was &-uh best friend for me . 11085_18296
+%mor:	sconj|after sconj|that det|the-Def-Art adj|same-S1 noun|guy-Plur aux|be-Fin-Ind-Past-S3-irr adj|good-Sup-S1 noun|friend adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|8|MARK 2|8|MARK 3|5|DET 4|5|AMOD 5|8|NSUBJ 6|8|COP 7|8|AMOD 8|0|ROOT 9|10|CASE 10|8|NMOD 11|8|PUNCT
+*1193:	because [/] &-uh &~do because &-uh he's assis(t) me in the university . 19254_27067
+%mor:	sconj|because pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|assist-Inf-S pron|I-Prs-Acc-S1 adp|in det|the-Def-Art noun|university .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*1193:	and &-uh &-uh &-uh mm after [//] that &-uh we &-uh after that become always &-uh together . 27759_52025
+%mor:	cconj|and intj|mm sconj|that pron|we-Prs-Nom-P1 adp|after pron|that-Dem verb|become-Fin-Ind-Pres-P1 adv|always adv|together .
+%gra:	1|7|CC 2|7|DISCOURSE 3|7|MARK 4|7|NSUBJ 5|6|CASE 6|4|NMOD 7|0|ROOT 8|9|ADVMOD 9|7|ADVMOD 10|7|PUNCT
+*1193:	and &-uh I [///] &~aft &~i after that he knows my family . 52505_54757
+%mor:	cconj|and sconj|after sconj|that pron|he-Prs-Nom-S3 verb|know-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|family-Acc .
+%gra:	1|5|CC 2|5|MARK 3|2|FIXED 4|5|NSUBJ 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|PUNCT
+*1193:	and I know his family . 59083_63246
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|his-Prs-Gen-S3 noun|family-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*1193:	and &-uh we [/] complete &-uh we [/] complete ah this [/] &-uh we complete &-uh this &-uh friend &-uh mm after that that &-uh . 63841_104525
+%mor:	cconj|and verb|complete-Fin-Imp-S adj|complete-S1 intj|ah pron|we-Prs-Nom-P1 verb|complete-Fin-Ind-Pres-P1 det|this-Def-Dem-Sing noun|friend-Acc intj|mm adp|after pron|that-Dem pron|that-Dem .
+%gra:	1|2|CC 2|6|REPARANDUM 3|2|OBJ 4|6|DISCOURSE 5|6|NSUBJ 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|DISCOURSE 10|11|CASE 11|6|OBL 12|6|OBL-UNMARKED 13|6|PUNCT
+@End

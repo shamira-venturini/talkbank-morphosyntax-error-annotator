@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/t-00010219-1
+@Begin
+@Languages:	eng
+@Participants:	1182 Student
+@ID:	eng|Vercellotti|1182|||1||Student|level4||
+@Media:	1182_4M1, audio
+@Transcriber:	jms
+*1182:	the topic &-uh is discuss a world problem . 2026_5825
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|discuss-Inf-S det|a-Ind-Art noun|world noun|problem-Acc .
+%gra:	1|2|DET 2|4|NSUBJ-OUTER 3|4|AUX 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+*1182:	today I will talk about &-uh famine problem . 6952_10290
+%mor:	noun|today pron|I-Prs-Nom-S1 aux|will-Fin-S verb|talk-Inf-S adp|about noun|famine noun|problem .
+%gra:	1|4|OBL-UNMARKED 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|COMPOUND 7|4|OBL 8|4|PUNCT
+*1182:	I'm very concerned about this problem . 12028_14079
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|very adj|concerned-S1 adp|about det|this-Def-Dem-Sing noun|problem .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*1182:	and [//] mm because there are many people <are dying> [//] are died because of famine . 14411_22518
+%mor:	intj|mm sconj|because pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 noun|person-Plur aux|be-Fin-Ind-Pres-P3 verb|die-Part-Past-S adp|because adp|of noun|famine .
+%gra:	1|4|DISCOURSE 2|4|MARK 3|4|EXPL 4|0|ROOT 5|6|AMOD 6|8|NSUBJ-PASS 7|8|AUX-PASS 8|4|CSUBJ 9|11|CASE 10|9|FIXED 11|8|OBL 12|4|PUNCT
+*1182:	and there are many people &-um are hungry because of famine &-um . 23383_33125
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 noun|person-Plur aux|be-Fin-Ind-Pres-P3 adj|hungry-S1 adp|because adp|of noun|famine .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|AMOD 5|7|NSUBJ 6|7|COP 7|3|CSUBJ 8|10|CASE 9|8|FIXED 10|7|OBL 11|3|PUNCT
+*1182:	this is one of their right to live in this &-um earth &-uh . 33863_40895
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 num|one adp|of pron|their-Prs-Gen-P3 noun|right part|to verb|live-Inf-S adp|in det|this-Def-Dem-Sing noun|earth .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|NMOD 7|8|MARK 8|6|ACL 9|11|CASE 10|11|DET 11|8|OBL 12|3|PUNCT
+*1182:	there are mm many ah organizations they try to achieve something . 40895_44274
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 intj|mm adj|many-S1 intj|ah noun|organization-Plur pron|they-Prs-Nom-P3 verb|try-Fin-Ind-Pres-P3 part|to verb|achieve-Inf-S pron|something-Ind-S1 .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|DISCOURSE 4|6|AMOD 5|6|DISCOURSE 6|2|NSUBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|10|MARK 10|8|XCOMP 11|10|OBJ 12|2|PUNCT
+*1182:	and they achieved &-uh &~s some goals to fill this gap &-uh . 46514_54378
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|achieve-Fin-Ind-Past-P3 det|some-Def-Ind noun|goal-Plur-Acc part|to verb|fill-Inf-S det|this-Def-Dem-Sing noun|gap-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|MARK 7|3|ADVCL 8|9|DET 9|7|OBJ 10|3|PUNCT
+*1182:	but I think this problem must have governmental &-uh participation &-uh . 55299_65508
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|this-Def-Dem-Sing noun|problem aux|must-Fin-S verb|have-Inf-S adj|governmental-S1 noun|participation-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|9|AMOD 9|7|OBJ 10|3|PUNCT
+*1182:	and they can do many thing <to help this> [//] &-uh to help these people to live better . 65751_76704
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|can-Fin-S verb|do-Inf-S adj|many-S1 noun|thing-Acc-Ger part|to verb|help-Inf-S det|this-Def-Dem-Plur noun|person-Plur-Acc part|to verb|live-Inf-S adj|good-Cmp-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|8|MARK 8|4|ADVCL 9|10|DET 10|8|OBJ 11|12|MARK 12|8|ADVCL 13|12|XCOMP 14|4|PUNCT
+*1182:	<they can> [//] something they can do &-uh is to make a donations &-uh to help these people &-um . 78661_89738
+%mor:	pron|something-Ind-S1 pron|they-Prs-Nom-P3 aux|can-Fin-S verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 part|to verb|make-Inf-S det|a-Ind-Art noun|donation-Plur-Acc part|to verb|help-Inf-S det|this-Def-Dem-Plur noun|person-Plur-Acc .
+%gra:	1|7|NSUBJ-OUTER 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|7|COP 6|7|MARK 7|0|ROOT 8|9|DET 9|7|OBJ 10|11|MARK 11|7|ADVCL 12|13|DET 13|11|OBJ 14|7|PUNCT
+*1182:	they can make a big organization in &-uh government government &~term &-uh to help this [/] &~prob this ah &-uh people &-um . 90089_106036
+%mor:	pron|they-Prs-Nom-P3 aux|can-Fin-S verb|make-Inf-S det|a-Ind-Art adj|big-S1 noun|organization-Acc adp|in noun|government noun|government part|to verb|help-Inf-S det|this-Def-Dem-Sing intj|ah noun|person-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CASE 8|9|COMPOUND 9|3|OBL 10|11|MARK 11|3|ADVCL 12|14|DET 13|14|DISCOURSE 14|11|OBJ 15|3|PUNCT
+*1182:	there are many many [% not rep] <solution for> [//] solutions for this problem . 108414_110742
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 adj|many-S1 noun|solution-Plur adp|for det|this-Def-Dem-Sing noun|problem .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|AMOD 4|5|AMOD 5|2|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|2|PUNCT
+*1182:	but the important thing is who is [//] &-uh will do or start this solution . 112185_120191
+%mor:	cconj|but det|the-Def-Art adj|important-S1 noun|thing-Ger aux|be-Fin-Ind-Pres-S3 pron|who-Int aux|will-Fin-S verb|do-Inf-S cconj|or verb|start-Inf-S det|this-Def-Dem-Sing noun|solution-Acc .
+%gra:	1|8|CC 2|4|DET 3|4|AMOD 4|8|NSUBJ-OUTER 5|8|COP 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|10|CC 10|8|CONJ 11|12|DET 12|10|OBJ 13|8|PUNCT
+@End

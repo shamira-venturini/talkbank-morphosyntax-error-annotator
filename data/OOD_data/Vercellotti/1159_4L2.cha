@@ -1,0 +1,56 @@
+@UTF8
+@PID:	11312/a-00062504-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1159_4L2, audio
+*PAR0:	&-uh the topic today is to describe &-uh a custom in your country in your culture or in another culture . 2680_11310
+%mor:	det|the-Def-Art noun|topic noun|today aux|be-Fin-Ind-Pres-S3 part|to verb|describe-Inf-S det|a-Ind-Art noun|custom-Acc adp|in pron|your-Prs-Gen-S2 noun|country adp|in pron|your-Prs-Gen-S2 noun|culture cconj|or adp|in det|another-Def-Ind noun|culture .
+%gra:	1|2|DET 2|6|NSUBJ-OUTER 3|2|NMOD-UNMARKED 4|6|COP 5|6|MARK 6|0|ROOT 7|8|DET 8|6|OBJ 9|11|CASE 10|11|NMOD-POSS 11|8|NMOD 12|14|CASE 13|14|NMOD-POSS 14|6|OBL 15|18|CC 16|18|CASE 17|18|DET 18|14|CONJ 19|6|PUNCT
+*PAR0:	&-um which don't like it . 12880_15000
+%mor:	pron|which-Rel-S1 aux|do-Fin-Ind-Pres-P3~part|not verb|like-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR0:	&-um the custom that I don't like &-um is &-uh wearing shoes &-um in the house in the United States &-um I saw &-uh <I have seen> [/] I have seen many people &-uh come in to house . 15760_36880
+%mor:	det|the-Def-Art noun|custom pron|that-Rel pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S noun|shoe-Plur-Acc adp|in det|the-Def-Art noun|house adp|in det|the-Def-Art verb|Unite-Part-Past-S propn|State-Plur pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1 verb|see-Part-Past-S-irr adj|many-S1 noun|person-Plur-Acc verb|come-Inf-S adp|in adp|to noun|house .
+%gra:	1|2|DET 2|9|NSUBJ-OUTER 3|7|OBJ 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|2|ACL-RELCL 8|9|COP 9|0|ROOT 10|9|OBJ 11|13|CASE 12|13|DET 13|9|OBL 14|17|CASE 15|17|DET 16|17|AMOD 17|9|OBL 18|19|NSUBJ 19|9|PARATAXIS 20|22|NSUBJ 21|22|AUX 22|19|CCOMP 23|24|AMOD 24|22|OBJ 25|22|XCOMP 26|25|COMPOUND-PRT 27|28|CASE 28|25|OBL 29|9|PUNCT
+*PAR0:	&-um &-uh with wearing shoes and our culture . 38080_41800
+%mor:	sconj|with verb|wear-Part-Pres-S noun|shoe-Plur-Acc cconj|and pron|our-Prs-Gen-P1 noun|culture .
+%gra:	1|2|MARK 2|0|ROOT 3|2|OBJ 4|6|CC 5|6|NMOD-POSS 6|3|CONJ 7|2|PUNCT
+*PAR0:	it's kind of &-um un respect to wearing shoes . 42250_47080
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|kind adp|of adj|un-S1 noun|respect sconj|to verb|wear-Ger-S noun|shoe-Plur-Acc .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|ADVMOD 4|3|FIXED 5|6|AMOD 6|0|ROOT 7|8|MARK 8|6|ACL 9|8|OBJ 10|6|PUNCT
+*PAR0:	&-uh &-uh when you are in &-um when you visit someone &-uh at home you aren't supposed to wearing your &-uh shoes &-uh you are you aren't supposed to wear your shoe your &-uh &-uh shoes . 47880_64920
+%mor:	adv|when pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 adp|in adv|when pron|you-Prs-Nom-S2 verb|visit-Fin-Ind-Pres-S2 pron|someone-Ind-S1 adp|at noun|home pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2~part|not verb|suppose-Part-Past-S sconj|to verb|wear-Part-Pres-S pron|your-Prs-Gen-S2 noun|shoe-Plur-Acc pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2~part|not verb|suppose-Part-Past-S part|to verb|wear-Inf-S pron|your-Prs-Gen-S2 noun|shoe pron|your-Prs-Gen-S2 noun|shoe-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|14|ADVCL 5|7|ADVMOD 6|7|NSUBJ 7|14|ADVCL 8|7|OBJ 9|10|CASE 10|7|OBL 11|14|NSUBJ-PASS 12|14|AUX-PASS 13|14|ADVMOD 14|0|ROOT 15|16|MARK 16|14|ADVCL 17|18|NMOD-POSS 18|16|OBJ 19|20|NSUBJ 20|24|REPARANDUM 21|24|NSUBJ-PASS 22|24|AUX-PASS 23|24|ADVMOD 24|14|PARATAXIS 25|26|MARK 26|24|XCOMP 27|28|NMOD-POSS 28|26|IOBJ 29|30|NMOD-POSS 30|26|OBJ 31|14|PUNCT
+*PAR0:	&-um at the beginning when [/] when I came here &-uh it was strange for me to see that . 67080_73640
+%mor:	adp|at det|the-Def-Art noun|beginning-Ger adv|when pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Past-S1-irr adv|here pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|strange-S1 sconj|for pron|I-Prs-Acc-S1 part|to verb|see-Inf-S pron|that-Dem .
+%gra:	1|3|CASE 2|3|DET 3|10|OBL 4|6|ADVMOD 5|6|NSUBJ 6|3|ACL 7|6|ADVMOD 8|10|EXPL 9|10|COP 10|0|ROOT 11|14|MARK 12|14|NSUBJ 13|14|MARK 14|10|CSUBJ 15|14|OBJ 16|10|PUNCT
+*PAR0:	but &-um now I'm familiar with it . 74000_76720
+%mor:	cconj|but adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|familiar-S1 adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*PAR0:	&-um &-uh it's okay with me . 77280_79560
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 adp|with pron|I-Prs-Acc-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR0:	&-uh if someone is [/] is &-uh if an American visit me &-um I expect that . 80240_87560
+%mor:	sconj|if pron|someone-Ind-S1 aux|be-Fin-Ind-Pres-S3 sconj|if det|a-Ind-Art adj|American-S1 verb|visit-Fin-Ind-Pres-S pron|I-Prs-Acc-S1 pron|I-Prs-Nom-S1 verb|expect-Fin-Ind-Pres-S1 pron|that-Dem .
+%gra:	1|7|MARK 2|7|NSUBJ-OUTER 3|10|ADVCL 4|7|MARK 5|6|DET 6|7|NSUBJ 7|10|ADVCL 8|7|OBJ 9|10|NSUBJ 10|0|ROOT 11|10|OBJ 12|10|PUNCT
+*PAR0:	and &-um &-uh &-uh actually now I don't ask him to [/] to remove his shoes . 88040_94920
+%mor:	cconj|and adv|actually adv|now pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|ask-Inf-S pron|he-Prs-Acc-S3 part|to verb|remove-Inf-S pron|his-Prs-Gen-S3 noun|shoe-Plur-Acc .
+%gra:	1|7|CC 2|7|ADVMOD 3|7|ADVMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|7|IOBJ 9|10|MARK 10|7|XCOMP 11|12|NMOD-POSS 12|10|OBJ 13|7|PUNCT
+*PAR0:	&-um even it &-um it could &-uh make some &-uh &-uh stain in at my carpet in my car carpet . 98560_108650
+%mor:	adv|even pron|it-Prs-Nom-S3 pron|it-Prs-Nom-S3 aux|could-Fin-S verb|make-Inf-S det|some-Def-Ind noun|stain-Acc adp|in adp|at pron|my-Prs-Gen-S1 noun|carpet adp|in pron|my-Prs-Gen-S1 noun|car noun|carpet .
+%gra:	1|2|ADVMOD 2|5|NSUBJ 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|11|CASE 9|11|CASE 10|11|NMOD-POSS 11|5|OBL 12|15|CASE 13|15|NMOD-POSS 14|15|COMPOUND 15|11|NMOD 16|5|PUNCT
+*PAR0:	&-uh I can't clean it . 110340_111890
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|clean-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR0:	but I like to respect people . 112160_113640
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 part|to verb|respect-Inf-S noun|person-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*PAR0:	and I like to &-um invite people to my house . 113800_118560
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 part|to verb|invite-Inf-S noun|person-Plur-Acc adp|to pron|my-Prs-Gen-S1 noun|house .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|9|CASE 8|9|NMOD-POSS 9|5|OBL 10|3|PUNCT
+*PAR0:	so that was . 118720_119460
+%mor:	adv|so pron|that-Dem aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+@End

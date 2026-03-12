@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/t-00010143-1
+@Begin
+@Languages:	eng
+@Participants:	1085 Student
+@ID:	eng|Vercellotti|1085|||1||Student|level4||
+@Media:	1085_5U1, audio
+@Transcriber:	jms
+*1085:	the topic is talk about media violence in my country . 2964_6689
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|talk-Inf-S adp|about noun|media noun|violence adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|COMPOUND 7|4|OBL 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|4|PUNCT
+*1085:	&-uh we talk about on tv and &-uh in movies . 7036_11664
+%mor:	pron|we-Prs-Nom-P1 verb|talk-Fin-Ind-Pres-P1 adp|about adp|on noun|TV cconj|and adp|in noun|movie-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBL 4|5|CASE 5|2|OBL 6|8|CC 7|8|CASE 8|5|CONJ 9|2|PUNCT
+*1085:	&-uh in Taiwan the: media violence &-uh on tv [//] &-uh some [/] <some tv> [/] &~sh some tv programs &-uh they have the &-uh time level . 12170_30392
+%mor:	adp|in propn|Taiwan det|the-Def-Art noun|media noun|violence adp|on det|some-Def-Ind noun|TV noun|program-Plur pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|the-Def-Art noun|time noun|level-Acc .
+%gra:	1|2|CASE 2|11|OBL 3|5|DET 4|5|COMPOUND 5|11|NSUBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|NMOD 10|11|NSUBJ 11|0|ROOT 12|14|DET 13|14|COMPOUND 14|11|OBJ 15|11|PUNCT
+*1085:	&-uh maybe like <the violen(t)> [//] &~te &-uh the [/] &~val violence [/] the &~va violence tv may be after the midnight . 30693_42027
+%mor:	adv|maybe adp|like det|the-Def-Art noun|violence noun|TV aux|may-Fin-S aux|be-Inf-S adp|after det|the-Def-Art noun|midnight .
+%gra:	1|4|ADVMOD 2|4|CASE 3|4|DET 4|5|COMPOUND 5|10|NSUBJ 6|10|AUX 7|10|COP 8|10|CASE 9|10|DET 10|0|ROOT 11|10|PUNCT
+*1085:	&~h and &-um &~hi &-uh media violence in movies &-um &~u almost ah they [/] they [/] they &~h have &-uh limit the age . 42697_57170
+%mor:	cconj|and noun|media noun|violence adp|in noun|movie-Plur adv|almost intj|ah pron|they-Prs-Nom-P3 aux|have-Fin-Ind-Pres-P3 verb|limit-Inf-S det|the-Def-Art noun|age-Acc .
+%gra:	1|10|CC 2|3|COMPOUND 3|10|NSUBJ 4|5|CASE 5|3|NMOD 6|7|ADVMOD 7|10|DISCOURSE 8|10|NSUBJ 9|10|AUX 10|0|ROOT 11|12|DET 12|10|OBJ 13|10|PUNCT
+*1085:	maybe <you have_to:> [//] &-uh &-uh if you wanna see the violent ah &~va you hafta enough ah <eighteen years> [/] ah eighteen years old or you hafta parents to: go with you to [/] &-uh <to see the> [/] to &~s see the violence [/] &~teev &~s violence movies . 57826_88936
+%mor:	adv|maybe sconj|if pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|see-Inf-S det|the-Def-Art adj|violent-S1 intj|ah pron|you-Prs-Nom-S2 verb|haft-Fin-Ind-Pres-S2 adv|enough intj|ah intj|ah num|eighteen noun|year-Plur adj|old-S1 cconj|or pron|you-Prs-Nom-S2 verb|haft-Fin-Ind-Pres-S2 noun|parent-Plur-Acc part|to verb|go-Inf-S adp|with pron|you-Prs-Acc-S2 part|to verb|see-Inf-S det|the-Def-Art noun|violence noun|movie-Plur-Acc .
+%gra:	1|11|ADVMOD 2|4|MARK 3|4|NSUBJ 4|11|ADVCL 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|11|DISCOURSE 10|11|NSUBJ 11|0|ROOT 12|11|ADVMOD 13|11|DISCOURSE 14|17|DISCOURSE 15|16|NUMMOD 16|17|OBL-UNMARKED 17|11|XCOMP 18|20|CC 19|20|NSUBJ 20|11|CONJ 21|20|OBJ 22|23|MARK 23|20|XCOMP 24|25|CASE 25|23|OBL 26|27|MARK 27|23|ADVCL 28|30|DET 29|30|COMPOUND 30|27|OBJ 31|11|PUNCT
+*1085:	&-uh and &-uh some ah cartoon they have &~vowl &-uh &~med &-uh &~vowlen &~vow violence . 89240_101166
+%mor:	cconj|and det|some-Def-Ind intj|ah noun|cartoon-Acc pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 noun|violence-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|DISCOURSE 4|6|OBJ 5|6|NSUBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*1085:	and I think ah &-uh the parents hafta &-uh &~t &-uh teach &-uh their children and &-uh &~d &-uh talked [/] &~a <talked about> [///] &~t taught some &-uh . 102150_120191
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 intj|ah det|the-Def-Art noun|parent-Plur aux|hafta-Fin-Ind-Pres-P3 verb|teach-Fin-Ind-Pres-P3 pron|their-Prs-Gen-P3 noun|child-Plur-Acc cconj|and verb|teach-Fin-Ind-Past-P3-irr det|some-Def-Ind .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|8|DISCOURSE 5|6|DET 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|10|NMOD-POSS 10|8|OBJ 11|12|CC 12|8|CONJ 13|12|OBJ 14|3|PUNCT
+@End

@@ -1,0 +1,69 @@
+@UTF8
+@PID:	11312/t-00010256-1
+@Begin
+@Languages:	eng
+@Participants:	1247 Student
+@ID:	eng|Vercellotti|1247|||3||Student|level4||
+@Media:	1247_4Q3, audio
+@Transcriber:	jms
+*1247:	the topic is talk about a famous person from the past . 3523_3840
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|talk-Inf-S adp|about det|a-Ind-Art adj|famous-S1 noun|person adp|from det|the-Def-Art noun|past .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|11|CASE 10|11|DET 11|8|NMOD 12|4|PUNCT
+*1247:	the person could be from your country or another country . 5989_6722
+%mor:	det|the-Def-Art noun|person aux|could-Fin-S aux|be-Inf-S adp|from pron|your-Prs-Gen-S2 noun|country cconj|or det|another-Def-Ind noun|country .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|AUX 4|7|COP 5|7|CASE 6|7|NMOD-POSS 7|0|ROOT 8|10|CC 9|10|DET 10|7|CONJ 11|7|PUNCT
+*1247:	who was the famous person .
+%mor:	pron|who-Int aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art adj|famous-S1 noun|person .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*1247:	and why was this person famous .
+%mor:	cconj|and adv|why aux|be-Fin-Ind-Past-S3-irr det|this-Def-Dem-Sing noun|person adj|famous-S1 .
+%gra:	1|6|CC 2|6|ADVMOD 3|6|COP 4|5|DET 5|6|NSUBJ 6|0|ROOT 7|6|PUNCT
+*1247:	remember this person should be from the past [% reading prompt] . 10770_13689
+%mor:	verb|remember-Fin-Imp-S det|this-Def-Dem-Sing noun|person aux|should-Fin-S aux|be-Inf-S adp|from det|the-Def-Art noun|past .
+%gra:	1|0|ROOT 2|3|DET 3|8|NSUBJ 4|8|AUX 5|8|COP 6|8|CASE 7|8|DET 8|1|CCOMP 9|1|PUNCT
+*1247:	<if one> [//] <if I> [/] &~k <if I was> [//] if I wanna choose one person that I really want to talk about I wanna talk about a &~pl soccer player . 14851_22344
+%mor:	sconj|if pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1~part|to verb|choose-Inf-S num|one noun|person-Acc pron|that-Rel pron|I-Prs-Nom-S1 adv|really verb|want-Fin-Ind-Pres-S1 part|to verb|talk-Inf-S sconj|about pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1~part|to verb|talk-Inf-S adp|about det|a-Ind-Art noun|soccer noun|player .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|NUMMOD 7|5|OBJ 8|13|OBJ 9|11|NSUBJ 10|11|ADVMOD 11|7|ACL-RELCL 12|13|MARK 13|11|XCOMP 14|16|MARK 15|16|NSUBJ 16|11|ADVCL 17|18|MARK 18|16|XCOMP 19|22|CASE 20|22|DET 21|22|COMPOUND 22|18|OBL 23|3|PUNCT
+*1247:	<he's more> [///] &~tha he's not just a soccer player . 25021_26337
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adv|just det|a-Ind-Art noun|soccer noun|player .
+%gra:	1|7|NSUBJ 2|7|COP 3|7|ADVMOD 4|7|ADVMOD 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*1247:	he's more than that .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|more-Cmp-S1 adp|than pron|that-Dem .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*1247:	in the beginning &~hidin &-uh <first first of> [/] first of all his name is Zinedine [% 3 syllables] Zidane [% 2 syllables] . 27348_32585
+%mor:	adp|in det|the-Def-Art noun|beginning-Ger adj|first-S1 adp|of det|all-Def-Tot pron|his-Prs-Gen-S3 noun|name aux|be-Fin-Ind-Pres-S3 propn|Zinedine propn|Zidane .
+%gra:	1|3|CASE 2|3|DET 3|10|NMOD 4|10|ADVMOD 5|6|CASE 6|4|OBL 7|8|NMOD-POSS 8|10|NSUBJ 9|10|COP 10|0|ROOT 11|10|FLAT 12|10|PUNCT
+*1247:	he's half algerian and half french person . 34758_36318
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|half-Def-Ind adj|algerian-S1 cconj|and noun|half adj|French-S1 noun|person .
+%gra:	1|8|NSUBJ 2|8|COP 3|8|DET-PREDET 4|8|AMOD 5|7|CC 6|7|ADVMOD 7|4|CONJ 8|0|ROOT 9|8|PUNCT
+*1247:	Zinedine Zidane started playing soccer in [/] &~many in eighteen [//] &~Nin &-uh nineteen &-uh eighty nine . 40188_43177
+%mor:	propn|Zinedine propn|Zidane verb|start-Fin-Ind-Past-S3 verb|play-Ger-S noun|soccer-Acc adp|in num|nineteen num|eighty num|nine .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|0|ROOT 4|3|XCOMP 5|4|OBJ 6|9|CASE 7|9|NUMMOD 8|9|NUMMOD 9|4|OBL 10|3|PUNCT
+*1247:	his first match with the &-uh french [//] &~na ah &~fran France national team he was entered a substitute . 44679_48427
+%mor:	pron|his-Prs-Gen-S3 adj|first-S1 noun|match adp|with det|the-Def-Art noun|ah propn|France adj|national-S1 noun|team pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|enter-Part-Past-S det|a-Ind-Art noun|substitute-Acc .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|12|NSUBJ-PASS 4|9|CASE 5|9|DET 6|9|COMPOUND 7|9|COMPOUND 8|9|AMOD 9|3|NMOD 10|12|NSUBJ-PASS 11|12|AUX-PASS 12|0|ROOT 13|14|DET 14|12|OBJ 15|12|PUNCT
+*1247:	and he scored two goals in his first match .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|score-Fin-Ind-Past-S3 num|two noun|goal-Plur-Acc adp|in pron|his-Prs-Gen-S3 adj|first-S1 noun|match .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NUMMOD 5|3|OBJ 6|9|CASE 7|9|NMOD-POSS 8|9|AMOD 9|3|OBL 10|3|PUNCT
+*1247:	so he was a noteworthy person from the &~b first match he ever played . 53715_57877
+%mor:	adv|so pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|noteworthy-S1 noun|person adp|from det|the-Def-Art adj|first-S1 noun|match pron|he-Prs-Nom-S3 adv|ever verb|play-Fin-Ind-Past-S3 .
+%gra:	1|6|ADVMOD 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|10|CASE 8|10|DET 9|10|AMOD 10|6|NMOD 11|13|NSUBJ 12|13|ADVMOD 13|10|ACL-RELCL 14|6|PUNCT
+*1247:	Zinedine Zidane achieved <more than> [/] just [/] &~mon more than &-uh just playing soccer winning &-uh titles in: soccer game . 59578_66508
+%mor:	propn|Zinedine propn|Zidane verb|achieve-Fin-Ind-Past-S3 adj|more-Cmp-S1 sconj|than adv|just verb|play-Part-Pres-S noun|soccer-Acc verb|win-Ger-S noun|title-Plur-Acc adp|in noun|soccer noun|game .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|0|ROOT 4|3|OBJ 5|7|MARK 6|7|ADVMOD 7|3|ADVCL 8|7|OBJ 9|10|AMOD 10|7|OBJ 11|13|CASE 12|13|COMPOUND 13|7|OBL 14|3|PUNCT
+*1247:	he [/] &~achi he achieve a_lot [/] &~m a_lot more . 68721_69865
+%mor:	pron|he-Prs-Nom-S3 verb|achieve-Fin-Ind-Pres-S3 noun|alot adj|more-Cmp-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*1247:	h:e was helping his country in many different ways . 72427_73214
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|help-Part-Pres-S pron|his-Prs-Gen-S3 noun|country-Acc adp|in adj|many-S1 adj|different-S1 noun|way-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|9|CASE 7|9|AMOD 8|9|AMOD 9|3|OBL 10|3|PUNCT
+*1247:	he also help the poor people the disabled &~me people . 74534_78395
+%mor:	pron|he-Prs-Nom-S3 adv|also verb|help-Fin-Ind-Pres-P3 det|the-Def-Art adj|poor-S1 noun|person-Plur-Acc det|the-Def-Art adj|disabled-S1 noun|person-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|DET 8|9|AMOD 9|3|OBJ 10|3|PUNCT
+*1247:	<he also> [/] mm <he also> [/] he also support &~br &-uh the breast cancer and &-uh children who have &-uh &-uh malaria in Africa . 79102_94760
+%mor:	intj|mm pron|he-Prs-Nom-S3 adv|also verb|support-Fin-Ind-Pres-S3 det|the-Def-Art noun|breast noun|cancer-Acc cconj|and noun|child-Plur pron|who-Rel verb|have-Fin-Ind-Pres-P3 noun|malaria-Acc adp|in propn|Africa .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|9|CC 9|7|CONJ 10|11|NSUBJ 11|7|ACL-RELCL 12|11|OBJ 13|14|CASE 14|11|OBL 15|4|PUNCT
+*1247:	<so the> [//] &-um I think that ah the potential that Zinedine Zidane have is not just to &~pr play soccer or just to <give the world> [//] show the world what he have in &~s soccer skills but also show him what kind of person he is and what kind of great mind he have that he use the power as <a good> [/] a good player to: help and to [/] to achieve more stuff [//] humanity stuff than just playing soccer . 95141_120191
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|that intj|ah det|the-Def-Art noun|potential pron|that-Rel propn|Zinedine propn|Zidane aux|have-Fin-Ind-Pres-P3 aux|be-Fin-Ind-Pres-S3 part|not adv|just part|to verb|play-Inf-S noun|soccer-Acc cconj|or adv|just part|to verb|show-Inf-S det|the-Def-Art noun|world pron|what-Rel-S1 pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adp|in noun|soccer noun|skill-Plur cconj|but adv|also verb|show-Inf-S pron|he-Prs-Acc-S3 det|what-Def-Int noun|kind-Acc adp|of noun|person pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 cconj|and det|what-Def-Int noun|kind adp|of adj|great-S1 noun|mind pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 sconj|that pron|he-Prs-Nom-S3 verb|use-Fin-Ind-Pres-S3 det|the-Def-Art noun|power-Acc adp|as det|a-Ind-Art adj|good-S1 noun|player part|to verb|help-Inf-S cconj|and part|to verb|achieve-Inf-S adj|more-Cmp-S1 noun|humanity noun|stuff-Acc sconj|than adv|just verb|play-Part-Pres-S noun|soccer-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|15|MARK 4|15|DISCOURSE 5|6|DET 6|15|NSUBJ-OUTER 7|15|OBJ 8|10|NSUBJ 9|8|FLAT 10|15|AUX 11|15|COP 12|15|ADVMOD 13|15|ADVMOD 14|15|MARK 15|2|CCOMP 16|15|OBJ 17|20|CC 18|20|ADVMOD 19|20|MARK 20|15|CONJ 21|22|DET 22|20|IOBJ 23|20|OBJ 24|25|NSUBJ 25|23|ACL-RELCL 26|28|CASE 27|28|COMPOUND 28|25|OBL 29|31|CC 30|31|ADVMOD 31|15|CONJ 32|31|IOBJ 33|34|DET 34|31|OBJ 35|36|CASE 36|34|NMOD 37|38|NSUBJ 38|36|ACL-RELCL 39|46|CC 40|41|DET 41|34|CONJ 42|44|CASE 43|44|AMOD 44|41|NMOD 45|46|NSUBJ 46|44|ACL-RELCL 47|49|MARK 48|49|NSUBJ 49|46|CCOMP 50|51|DET 51|49|OBJ 52|55|CASE 53|55|DET 54|55|AMOD 55|49|OBL 56|57|MARK 57|55|ACL 58|60|CC 59|60|MARK 60|57|CONJ 61|63|AMOD 62|63|COMPOUND 63|60|OBJ 64|66|MARK 65|66|ADVMOD 66|60|ADVCL 67|66|OBJ 68|2|PUNCT
+@End

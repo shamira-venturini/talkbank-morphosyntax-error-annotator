@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/a-00062562-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@ID:	eng|Vercellotti|PAR1|||||Participant|||
+@Media:	1295_4Q1, audio
+*PAR0:	press record . 0_700
+%mor:	noun|press noun|record .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR1:	&-uh the topic is describe of my hometown . 1680_5160
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 adj|describe-S1 adp|of pron|my-Prs-Gen-S1 noun|hometown .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+*PAR1:	and &-uh I'm from Korea and it's a beautiful . 5480_12840
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|from propn|Korea cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|beautiful-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|CASE 5|0|ROOT 6|10|CC 7|10|NSUBJ 8|10|COP 9|10|DET 10|5|CONJ 11|5|PUNCT
+*PAR1:	&-uh it has a beautiful city . 13360_15000
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|beautiful-S1 noun|city-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+*PAR1:	the soul &-uh so has a ha river and mount &-uh Naan mountain ha river is a very famous because many peoples walk around the river . 15690_34760
+%mor:	det|the-Def-Art noun|soul adv|so verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|ha noun|river-Acc cconj|and noun|mount propn|Naan noun|mountain noun|ha noun|river aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very adj|famous-S1 sconj|because adj|many-S1 noun|people-Plur verb|walk-Fin-Ind-Pres-P3 adp|around det|the-Def-Art noun|river .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|13|CC 9|13|COMPOUND 10|13|COMPOUND 11|13|COMPOUND 12|13|COMPOUND 13|17|NSUBJ 14|17|COP 15|17|DET 16|17|ADVMOD 17|4|CONJ 18|21|MARK 19|20|AMOD 20|21|NSUBJ 21|17|ADVCL 22|24|CASE 23|24|DET 24|21|OBL 25|4|PUNCT
+*PAR1:	and &-uh <they can> [/] they can fishing . 35370_39010
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|can-Fin-S verb|fishing-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR1:	and Ani is very famous to the for the Koreans drama . 43200_52570
+%mor:	cconj|and propn|Ani aux|be-Fin-Ind-Pres-S3 adv|very adj|famous-S1 adp|to det|the-Def-Art adp|for det|the-Def-Art propn|Korean-Plur noun|drama .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|11|CASE 7|11|DET 8|11|CASE 9|11|DET 10|11|COMPOUND 11|5|OBL 12|5|PUNCT
+*PAR1:	and it is very it's very high . 57120_64000
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|very pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very adj|high-S1 .
+%gra:	1|8|CC 2|8|NSUBJ-OUTER 3|8|COP 4|8|ADVMOD 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|0|ROOT 9|8|PUNCT
+*PAR1:	and we can go up there through the cable car . 64360_69240
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|can-Fin-S verb|go-Inf-S adp|up adv|there adp|through det|the-Def-Art noun|cable noun|car .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|ADVMOD 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|4|PUNCT
+*PAR1:	and it has a bus to tour the city . 69800_74440
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|bus-Acc part|to verb|tour-Inf-S det|the-Def-Art noun|city-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|MARK 7|5|ACL 8|9|DET 9|7|OBJ 10|3|PUNCT
+*PAR1:	and sometimes we can see a beautiful scene at the night . 75840_83460
+%mor:	cconj|and adv|sometimes pron|we-Prs-Nom-P1 aux|can-Fin-S verb|see-Inf-S det|a-Ind-Art adj|beautiful-S1 noun|scene-Acc adp|at det|the-Def-Art noun|night .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|11|CASE 10|11|DET 11|5|OBL 12|5|PUNCT
+*PAR1:	so it is very famous for the many people . 85960_89530
+%mor:	adv|so pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|very adj|famous-S1 adp|for det|the-Def-Art adj|many-S1 noun|person-Plur .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|5|PUNCT
+*PAR1:	and many couples go up to the Nanon Tower and they rock they get a rock . 89810_98050
+%mor:	cconj|and adj|many-S1 noun|couple-Plur verb|go-Fin-Ind-Pres-P3 adp|up adp|to det|the-Def-Art propn|Nanon propn|Tower cconj|and pron|they-Prs-Nom-P3 verb|rock-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Pres-P3 det|a-Ind-Art noun|rock-Acc .
+%gra:	1|4|CC 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|4|COMPOUND-PRT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|4|OBL 10|12|CC 11|12|NSUBJ 12|4|CONJ 13|14|NSUBJ 14|12|CCOMP 15|16|DET 16|14|OBJ 17|4|PUNCT
+*PAR1:	and they rocking the rock . 101320_104320
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|rock-Part-Pres-S det|the-Def-Art noun|rock-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR1:	and they want to steal love . 104520_107040
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Pres-P3 part|to verb|steal-Inf-S noun|love-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*PAR1:	and someone is has many shopping malls . 107330_115150
+%mor:	cconj|and pron|someone-Ind-S1 aux|be-Fin-Ind-Pres-S3 verb|have-Fin-Ind-Pres-S3 adj|many-S1 noun|shopping-Ger noun|mall-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|AMOD 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+*PAR1:	and I it's very . 115400_118720
+%mor:	cconj|and pron|I-Prs-Nom-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR0:	yeah .
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

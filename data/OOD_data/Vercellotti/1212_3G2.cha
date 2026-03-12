@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/t-00010251-1
+@Begin
+@Languages:	eng
+@Participants:	1212 Student
+@ID:	eng|Vercellotti|1212|||2||Student|level3||
+@Media:	1212_3G2, audio
+@Transcriber:	jms
+*1212:	the topic is when someone or something surprised [% 3 syllables] you . 4413_5696
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 adv|when pron|someone-Ind-S1 cconj|or pron|something-Ind-S1 verb|surprise-Part-Past-S pron|you-Prs-Acc-S2 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|NSUBJ 6|7|CC 7|5|CONJ 8|5|ACL 9|8|OBJ 10|4|PUNCT
+*1212:	in fact last year &-um I was just <one years> [//] married [//] one year married . 6334_16589
+%mor:	adp|in noun|fact adj|last-S1 noun|year pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adv|just num|one noun|year verb|marry-Part-Past-S .
+%gra:	1|2|CASE 2|10|OBL 3|4|AMOD 4|10|OBL-UNMARKED 5|10|NSUBJ-PASS 6|10|AUX-PASS 7|10|ADVMOD 8|9|NUMMOD 9|10|OBL-UNMARKED 10|0|ROOT 11|10|PUNCT
+*1212:	and then it was normal day . 19367_19670
+%mor:	cconj|and adv|then pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|normal-S1 noun|day .
+%gra:	1|6|CC 2|6|ADVMOD 3|6|NSUBJ 4|6|COP 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*1212:	in fact it was similar for other days in my life . 23233_24106
+%mor:	adp|in noun|fact pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|similar-S1 adp|for adj|other-S1 noun|day-Plur adp|in pron|my-Prs-Gen-S1 noun|life .
+%gra:	1|2|CASE 2|5|OBL 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|8|CASE 7|8|AMOD 8|5|OBL 9|11|CASE 10|11|NMOD-POSS 11|8|NMOD 12|5|PUNCT
+*1212:	but &-um suddenly when my husband went back &-um from the work &-uh he said that he mm bought tickets <for me and> [//] he [//] for us to travel to Syria . 24674_47265
+%mor:	cconj|but adv|suddenly adv|when pron|my-Prs-Gen-S1 noun|husband verb|go-Fin-Ind-Past-S3-irr adv|back adp|from det|the-Def-Art noun|work pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr sconj|that pron|he-Prs-Nom-S3 intj|mm verb|buy-Fin-Ind-Past-S3-irr noun|ticket-Plur-Acc sconj|for pron|we-Prs-Acc-P1 part|to verb|travel-Inf-S adp|to propn|Syria .
+%gra:	1|12|CC 2|12|ADVMOD 3|6|ADVMOD 4|5|NMOD-POSS 5|6|NSUBJ 6|12|ADVCL 7|6|ADVMOD 8|10|CASE 9|10|DET 10|6|OBL 11|12|NSUBJ 12|0|ROOT 13|16|MARK 14|16|NSUBJ 15|16|DISCOURSE 16|12|CCOMP 17|16|OBJ 18|21|MARK 19|21|NSUBJ 20|21|MARK 21|16|ADVCL 22|23|CASE 23|21|OBL 24|12|PUNCT
+*1212:	that was &-um big surprise for me because I was very bored . 48240_55695
+%mor:	pron|that-Dem aux|be-Fin-Ind-Past-S3-irr adj|big-S1 noun|surprise adp|for pron|I-Prs-Acc-S1 sconj|because pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adv|very adj|bored-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|0|ROOT 5|6|CASE 6|4|NMOD 7|11|MARK 8|11|NSUBJ 9|11|COP 10|11|ADVMOD 11|4|ADVCL 12|4|PUNCT
+*1212:	so of course my respond was yes .
+%mor:	adv|so adp|of noun|course pron|my-Prs-Gen-S1 noun|respond aux|be-Fin-Ind-Past-S3-irr intj|yes .
+%gra:	1|6|ADVMOD 2|6|ADVMOD 3|2|FIXED 4|5|NMOD-POSS 5|6|NSUBJ 6|7|COP 7|0|ROOT 8|7|PUNCT
+*1212:	I was very happy . 60793_61290
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adv|very adj|happy-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*1212:	and then we went . 63122_63366
+%mor:	cconj|and adv|then pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*1212:	we traveled to Syria for fifteen days . 66102_67950
+%mor:	pron|we-Prs-Nom-P1 verb|travel-Fin-Ind-Past-P1 adp|to propn|Syria adp|for num|fifteen noun|day-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|7|CASE 6|7|NUMMOD 7|2|OBL 8|2|PUNCT
+*1212:	and we spend great time there . 69428_71245
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|spend-Fin-Ind-Pres-P1 adj|great-S1 noun|time-Acc adv|there .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*1212:	and we visit [//] ah visited &-um many beautiful places . 73453_77161
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|ah-Fin-Ind-Pres-P1 verb|visit-Fin-Ind-Past-P1 adj|many-S1 adj|beautiful-S1 noun|place-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|AMOD 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+*1212:	and in fact &-uh that &-uh days I can't forget . 78350_82774
+%mor:	cconj|and adp|in noun|fact det|that-Def-Dem-Sing noun|day-Plur pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|forget-Inf-S .
+%gra:	1|9|CC 2|3|CASE 3|9|OBL 4|5|DET 5|9|OBL-UNMARKED 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|0|ROOT 10|9|PUNCT
+*1212:	I never forget <this days> [//] &-uh those days because I really enjoy it with my husband's [% 3 syllables] surprise . 84797_92046
+%mor:	pron|I-Prs-Nom-S1 adv|never verb|forget-Fin-Ind-Pres-S1 det|that-Def-Dem-Plur noun|day-Plur-Acc sconj|because pron|I-Prs-Nom-S1 adv|really verb|enjoy-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 adp|with pron|my-Prs-Gen-S1 noun|husband~part|s noun|surprise .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|MARK 7|9|NSUBJ 8|9|ADVMOD 9|3|ADVCL 10|9|OBJ 11|15|CASE 12|13|NMOD-POSS 13|15|NMOD-POSS 14|13|CASE 15|9|OBL 16|3|PUNCT
+*1212:	&-um in fact this is the significant trip in my life . 93008_100990
+%mor:	adp|in noun|fact pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|significant-S1 noun|trip adp|in pron|my-Prs-Gen-S1 noun|life .
+%gra:	1|2|CASE 2|7|OBL 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|0|ROOT 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|7|PUNCT
+*1212:	because ah &~i &~m mm it was with my husband and in beautiful place in Syria . 101634_111768
+%mor:	sconj|because intj|ah intj|mm pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adp|with pron|my-Prs-Gen-S1 noun|husband cconj|and adp|in adj|beautiful-S1 noun|place adp|in propn|Syria .
+%gra:	1|8|MARK 2|8|DISCOURSE 3|8|DISCOURSE 4|8|NSUBJ 5|8|COP 6|8|CASE 7|8|NMOD-POSS 8|0|ROOT 9|12|CC 10|12|CASE 11|12|AMOD 12|8|CONJ 13|14|CASE 14|12|NMOD 15|8|PUNCT
+*1212:	maybe this surprise can't be occurred another time maybe . 113632_120191
+%mor:	adv|maybe det|this-Def-Dem-Sing noun|surprise aux|can-Fin-S~part|not aux|be-Inf-S verb|occur-Part-Past-S det|another-Def-Ind noun|time adv|maybe .
+%gra:	1|7|ADVMOD 2|3|DET 3|7|NSUBJ 4|7|AUX 5|7|ADVMOD 6|7|AUX-PASS 7|0|ROOT 8|9|DET 9|7|OBL-UNMARKED 10|7|ADVMOD 11|7|PUNCT
+@End

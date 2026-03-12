@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/t-00010092-1
+@Begin
+@Languages:	eng
+@Participants:	1060 Student
+@ID:	eng|Vercellotti|1060|||2||Student|level4||
+@Media:	1060_5S2, audio
+@Transcriber:	jms
+*1060:	&-uh the topic is &-uh what are some of the risk of using the internet &~auk ah and how can I protect myself . 1558_8947
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 det|some-Def-Ind adp|of det|the-Def-Art noun|risk sconj|of verb|use-Ger-S det|the-Def-Art noun|internet-Acc intj|ah cconj|and adv|how aux|can-Fin-S pron|I-Prs-Nom-S1 verb|protect-Inf-S pron|myself-Prs-Acc-reflx-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|COP 6|4|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|11|MARK 11|9|ACL 12|13|DET 13|11|OBJ 14|19|DISCOURSE 15|19|CC 16|19|ADVMOD 17|19|AUX 18|19|NSUBJ 19|4|CONJ 20|19|OBJ 21|4|PUNCT
+*1060:	&-uh whenever I access the internet &-uh there is a lot of &-uh like &-uh &~pop &~puh p(op) &-um announcement that &-uh could &-uh &-uh show you an advertisement of something that anybody &-uh &-uh be like to [/] to join this thing or buy the things . 9222_33735
+%mor:	adv|whenever pron|I-Prs-Nom-S1 verb|access-Fin-Ind-Pres-S1 det|the-Def-Art noun|internet-Acc pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of intj|like noun|pop noun|announcement pron|that-Rel aux|could-Fin-S verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|advertisement-Acc adp|of pron|something-Ind-S1 pron|that-Rel pron|anybody-Ind-S1 aux|be-Inf-S adp|like part|to verb|join-Inf-S det|this-Def-Dem-Sing noun|thing-Acc-Ger cconj|or verb|buy-Inf-S det|the-Def-Art noun|thing-Plur-Acc .
+%gra:	1|7|ADVMOD 2|3|NSUBJ 3|1|ADVCL-RELCL 4|5|DET 5|3|OBJ 6|7|EXPL 7|0|ROOT 8|9|DET 9|7|NSUBJ 10|13|CASE 11|13|DISCOURSE 12|13|COMPOUND 13|9|NMOD 14|16|NSUBJ 15|16|AUX 16|13|ACL-RELCL 17|16|IOBJ 18|19|DET 19|16|OBJ 20|21|CASE 21|19|NMOD 22|27|OBJ 23|25|NSUBJ 24|25|COP 25|21|ACL-RELCL 26|27|MARK 27|21|ACL 28|29|DET 29|27|OBJ 30|31|CC 31|27|CONJ 32|33|DET 33|31|OBJ 34|7|PUNCT
+*1060:	&-um internet has a_lot_of: viruses unless we [/] we protect our [/] &-uh our [/] our laptop from these mm viruses . 34212_46543
+%mor:	noun|internet verb|have-Fin-Ind-Pres-S3 noun|alotof noun|viruse-Plur-Acc sconj|unless pron|we-Prs-Nom-P1 verb|protect-Fin-Ind-Pres-P1 pron|our-Prs-Gen-P1 noun|laptop-Acc adp|from det|this-Def-Dem-Plur noun|mm noun|viruse-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|COMPOUND 4|2|OBJ 5|7|MARK 6|7|NSUBJ 7|2|ADVCL 8|9|NMOD-POSS 9|7|OBJ 10|13|CASE 11|13|DET 12|13|COMPOUND 13|7|OBL 14|2|PUNCT
+*1060:	or in general &-uh hackers the(y) are the most ah stronges(t) &-uh users . 46543_53816
+%mor:	cconj|or adp|in adj|general-S1 noun|hacker-Plur pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 det|the-Def-Art adv|most intj|ah adj|strong-Sup-S1 noun|user-Plur .
+%gra:	1|11|CC 2|4|CASE 3|4|AMOD 4|11|OBL 5|11|NSUBJ 6|11|COP 7|11|DET 8|10|ADVMOD 9|11|DISCOURSE 10|11|AMOD 11|0|ROOT 12|11|PUNCT
+*1060:	they can attack your laptop &-um &-uh &~z ah easily . 53816_59548
+%mor:	pron|they-Prs-Nom-P3 aux|can-Fin-S verb|attack-Inf-S pron|your-Prs-Gen-S2 noun|laptop-Acc intj|ah adv|easily .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|DISCOURSE 7|3|ADVMOD 8|3|PUNCT
+*1060:	so [/] &-um so [//] &-uh &-uh okay so how could we eliminate this &~promb problem by &-uh using &-uh protect [/] protect ah &-um &-uh program which is virus [//] antivirus ah program that could protect your laptop from any &-uh viruses . 60186_85432
+%mor:	intj|okay adv|so adv|how aux|could-Fin-S pron|we-Prs-Nom-P1 verb|eliminate-Inf-S det|this-Def-Dem-Sing noun|problem-Acc sconj|by verb|use-Part-Pres-S verb|protect-Inf-S noun|ah noun|program-Acc pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 noun|antivirus noun|ah noun|program pron|that-Rel aux|could-Fin-S verb|protect-Inf-S pron|your-Prs-Gen-S2 noun|laptop-Acc adp|from det|any-Def-Ind noun|viruse-Plur .
+%gra:	1|6|DISCOURSE 2|6|ADVMOD 3|6|ADVMOD 4|6|AUX 5|6|NSUBJ 6|0|ROOT 7|8|DET 8|6|OBJ 9|10|MARK 10|6|ADVCL 11|10|XCOMP 12|13|COMPOUND 13|11|OBJ 14|18|NSUBJ 15|18|COP 16|18|COMPOUND 17|18|COMPOUND 18|13|ACL-RELCL 19|21|NSUBJ 20|21|AUX 21|18|ACL-RELCL 22|23|NMOD-POSS 23|21|OBJ 24|26|CASE 25|26|DET 26|21|OBL 27|6|PUNCT
+*1060:	&-uh so &-uh also [/] &-um &-uh &-uh also &-uh <a_lot_of:> [/] &-uh &-uh a lot of &-uh &-uh &~di &-uh internet [/] &~pro &-uh internet &-uh adv(ert)isement diversity &-uh that [/] mm that has &-uh <a good> [/] &-uh <a good> [/] <a good> [/] &-uh a good thing and a bad thing . 85812_117563
+%mor:	adv|so adv|also det|a-Ind-Art noun|lot adp|of noun|internet noun|advertisement noun|diversity noun|mm pron|that-Rel verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-S1 noun|thing-Acc-Ger cconj|and det|a-Ind-Art adj|bad-S1 noun|thing-Ger .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|DET 4|0|ROOT 5|9|CASE 6|7|COMPOUND 7|9|COMPOUND 8|9|COMPOUND 9|4|NMOD 10|11|NSUBJ 11|9|ACL-RELCL 12|14|DET 13|14|AMOD 14|11|OBJ 15|18|CC 16|18|DET 17|18|AMOD 18|14|CONJ 19|4|PUNCT
+*1060:	so we hafta be aware . 117563_120191
+%mor:	adv|so pron|we-Prs-Nom-P1 aux|hafta-Fin-Ind-Pres-S aux|be-Inf-S adj|aware-S1 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|COP 5|0|ROOT 6|5|PUNCT
+@End

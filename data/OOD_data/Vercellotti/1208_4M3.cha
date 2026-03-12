@@ -1,0 +1,45 @@
+@UTF8
+@PID:	11312/t-00010245-1
+@Begin
+@Languages:	eng
+@Participants:	1208 Student
+@ID:	eng|Vercellotti|1208|||3||Student|level4||
+@Media:	1208_4M3, audio
+@Transcriber:	jms
+*1208:	I'm going to talk about the famous person in my country in the past . 5005_8019
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|talk-Inf-S adp|about det|the-Def-Art adj|famous-S1 noun|person adp|in pron|my-Prs-Gen-S1 noun|country adp|in det|the-Def-Art noun|past .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|12|CASE 11|12|NMOD-POSS 12|9|NMOD 13|15|CASE 14|15|DET 15|5|OBL 16|3|PUNCT
+*1208:	&-uh &~las <last year> [//] <our country> [//] ah last year <our f:igure skater> [//] <was win> [//] was [//] won [//] our figure skater won the olympic . 8524_27078
+%mor:	intj|ah adj|last-S1 noun|year pron|our-Prs-Gen-P1 noun|figure noun|skater verb|win-Fin-Ind-Past-S3-irr det|the-Def-Art noun|olympic-Acc .
+%gra:	1|7|DISCOURSE 2|3|AMOD 3|7|OBL-UNMARKED 4|6|NMOD-POSS 5|6|COMPOUND 6|7|NSUBJ 7|0|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+*1208:	she [/] she recorded new record . 27769_35099
+%mor:	pron|she-Prs-Nom-S3 verb|record-Fin-Ind-Past-S3 adj|new-S1 noun|record-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*1208:	her name is Yuna Kim . 36033_38205
+%mor:	pron|her-Prs-Gen-S3 noun|name aux|be-Fin-Ind-Pres-S3 propn|Yuna propn|Kim .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|FLAT 6|4|PUNCT
+*1208:	she is kind of first figure skater . 39062_44121
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 noun|kind adp|of adj|first-S1 noun|figure noun|skater .
+%gra:	1|7|NSUBJ 2|7|COP 3|7|ADVMOD 4|3|FIXED 5|7|AMOD 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*1208:	because in the past anyone [/] anyone doesn't famous in our country &~wh &~who which someone major is &~f figure skating &~excep <except her> [/] except her . 44858_68785
+%mor:	sconj|because adp|in det|the-Def-Art noun|past pron|anyone-Ind-S1 aux|do-Fin-Ind-Pres-S3~part|not adj|famous-S1 adp|in pron|our-Prs-Gen-P1 noun|country pron|which-Rel-S1 pron|someone-Ind-S1 noun|major aux|be-Fin-Ind-Pres-S3 noun|figure noun|skating-Ger adp|except pron|her-Prs-Acc-S3 .
+%gra:	1|8|MARK 2|4|CASE 3|4|DET 4|8|OBL 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|11|CASE 10|11|NMOD-POSS 11|8|OBL 12|17|OBJ 13|14|COMPOUND 14|17|NSUBJ 15|17|COP 16|17|COMPOUND 17|11|ACL-RELCL 18|19|CASE 19|17|OBL 20|8|PUNCT
+*1208:	she has own river in Japan . 71604_72375
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adj|own-S1 noun|river-Acc adp|in propn|Japan .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|6|CASE 6|2|OBL 7|2|PUNCT
+*1208:	an(d) when she was young she already did very good score in the competition . 78298_79638
+%mor:	cconj|and adv|when pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|young-S1 pron|she-Prs-Nom-S3 adv|already verb|do-Fin-Ind-Past-S3-irr adv|very adj|good-S1 noun|score-Acc adp|in det|the-Def-Art noun|competition .
+%gra:	1|8|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|COP 5|8|ADVCL 6|8|NSUBJ 7|8|ADVMOD 8|0|ROOT 9|10|ADVMOD 10|11|AMOD 11|8|OBJ 12|14|CASE 13|14|DET 14|8|OBL 15|8|PUNCT
+*1208:	so many people thought she will be good figure skater . 80428_88461
+%mor:	adv|so adj|many-S1 noun|person-Plur verb|think-Fin-Ind-Past-P3-irr pron|she-Prs-Nom-S3 aux|will-Fin-S aux|be-Inf-S adj|good-S1 noun|figure noun|skater .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|10|NSUBJ 6|10|AUX 7|10|COP 8|10|AMOD 9|10|COMPOUND 10|4|CCOMP 11|4|PUNCT
+*1208:	an(d) then last year finally she did a good record than other person . 89681_96655
+%mor:	cconj|and adv|then adj|last-S1 noun|year adv|finally pron|she-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|good-S1 noun|record-Acc adp|than adj|other-S1 noun|person .
+%gra:	1|7|CC 2|7|ADVMOD 3|4|AMOD 4|7|OBL-UNMARKED 5|7|ADVMOD 6|7|NSUBJ 7|0|ROOT 8|10|DET 9|10|AMOD 10|7|OBJ 11|13|CASE 12|13|AMOD 13|7|OBL 14|7|PUNCT
+*1208:	&~f so sh:e got a gold metal in olympic last year . 96899_106027
+%mor:	adv|so pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|gold noun|metal-Acc adp|in adj|olympic-S1 adj|last-S1 noun|year .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|8|CASE 8|3|OBL 9|10|AMOD 10|3|OBL-UNMARKED 11|3|PUNCT
+*1208:	&~sh she is kind of our hero in: the sports . 106366_120191
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 noun|kind adp|of pron|our-Prs-Gen-P1 noun|hero adp|in det|the-Def-Art noun|sport-Plur .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|ADVMOD 4|3|FIXED 5|6|NMOD-POSS 6|0|ROOT 7|9|CASE 8|9|DET 9|6|NMOD 10|6|PUNCT
+@End

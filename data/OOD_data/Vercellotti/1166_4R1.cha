@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/t-00010199-1
+@Begin
+@Languages:	eng
+@Participants:	1166 Student
+@ID:	eng|Vercellotti|1166|||1||Student|level4||
+@Media:	1166_4R1, audio
+@Transcriber:	jms
+*1166:	now I'm going to talk about the most problem &-uh affect on the world ah which is &-uh air pollution . 3207_17350
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|talk-Inf-S adp|about det|the-Def-Art adv|most noun|problem noun|affect adp|on det|the-Def-Art noun|world intj|ah pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 noun|air noun|pollution .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|11|CASE 8|11|DET 9|10|ADVMOD 10|11|COMPOUND 11|6|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|19|DISCOURSE 16|19|NSUBJ 17|19|COP 18|19|COMPOUND 19|11|ACL-RELCL 20|4|PUNCT
+*1166:	I want to assess this problem from different factors . 18442_23870
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|assess-Inf-S det|this-Def-Dem-Sing noun|problem-Acc adp|from adj|different-S1 noun|factor-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|9|CASE 8|9|AMOD 9|4|OBL 10|2|PUNCT
+*1166:	first of all there are many things affect in the air and make it &~i very [/] &-um very bad . 24927_43065
+%mor:	adj|first-S1 adp|of det|all-Def-Tot pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 noun|thing-Plur noun|affect adp|in det|the-Def-Art noun|air cconj|and verb|make-Fin-S pron|it-Prs-Acc-S3 adv|very adj|bad-S1 .
+%gra:	1|5|ADVMOD 2|3|CASE 3|1|OBL 4|5|EXPL 5|0|ROOT 6|7|AMOD 7|5|NSUBJ 8|7|ACL 9|11|CASE 10|11|DET 11|8|OBL 12|13|CC 13|5|CONJ 14|13|OBJ 15|16|ADVMOD 16|13|XCOMP 17|5|PUNCT
+*1166:	to achieve the air clean we hafta change our customs <or our> [///] &-uh &-uh . 43894_57213
+%mor:	part|to verb|achieve-Inf-S det|the-Def-Art noun|air noun|clean-Acc pron|we-Prs-Nom-P1 aux|hafta-Fin-Ind-Pres-P1 verb|change-Fin-Ind-Pres-P1 pron|our-Prs-Gen-P1 noun|custom-Plur-Acc .
+%gra:	1|2|MARK 2|8|ADVCL 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|10|NMOD-POSS 10|8|OBJ 11|8|PUNCT
+*1166:	&~f for example &-uh <we have> [///] ah there is many things affect on the air for [/] &-uh for example the: carbon from the cars the [//] and the: factory [//] &~ma different factory also the cut of ah trees and [/] and different things . 57213_91035
+%mor:	adp|for noun|example intj|ah pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 adj|many-S1 noun|thing-Plur noun|affect adp|on det|the-Def-Art noun|air adp|for noun|example det|the-Def-Art noun|carbon adp|from det|the-Def-Art noun|car-Plur cconj|and det|the-Def-Art adj|different-S1 noun|factory adv|also det|the-Def-Art noun|cut adp|of intj|ah noun|tree-Plur cconj|and adj|different-S1 noun|thing-Plur .
+%gra:	1|2|CASE 2|5|OBL 3|5|DISCOURSE 4|5|EXPL 5|0|ROOT 6|7|AMOD 7|5|NSUBJ 8|7|ACL 9|11|CASE 10|11|DET 11|8|NMOD 12|13|CASE 13|5|OBL 14|15|DET 15|8|NMOD 16|18|CASE 17|18|DET 18|15|NMOD 19|22|CC 20|22|DET 21|22|AMOD 22|15|CONJ 23|25|ADVMOD 24|25|DET 25|22|APPOS 26|28|CASE 27|28|DISCOURSE 28|25|NMOD 29|31|CC 30|31|AMOD 31|28|CONJ 32|5|PUNCT
+*1166:	to achieve the clean air we have to: take care for our [/] &-um our &-uh customs . 91809_103387
+%mor:	part|to verb|achieve-Inf-S det|the-Def-Art adj|clean-S1 noun|air-Acc pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 part|to verb|take-Inf-S noun|care-Acc adp|for pron|our-Prs-Gen-P1 noun|custom-Plur .
+%gra:	1|2|MARK 2|7|ADVCL 3|5|DET 4|5|AMOD 5|2|OBJ 6|7|NSUBJ 7|0|ROOT 8|9|MARK 9|7|XCOMP 10|9|OBJ 11|13|CASE 12|13|NMOD-POSS 13|9|OBL 14|7|PUNCT
+*1166:	and <we hafta for example we hafta> [//] take [//] &-uh &~i we hafta walk to the work for example if we can . 106656_112465
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|hafta-Fin-Ind-Pres-P1 verb|walk-Inf-Pres-S adp|to det|the-Def-Art noun|work adp|for noun|example sconj|if pron|we-Prs-Nom-P1 aux|can-Fin-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|CASE 9|4|OBL 10|12|MARK 11|12|NSUBJ 12|4|ADVCL 13|4|PUNCT
+*1166:	we have ah also to grow the trees &-uh . 115564_120191
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 intj|ah adv|also part|to verb|grow-Inf-S det|the-Def-Art noun|tree-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|DISCOURSE 4|6|ADVMOD 5|6|MARK 6|2|XCOMP 7|8|DET 8|6|OBJ 9|2|PUNCT
+@End

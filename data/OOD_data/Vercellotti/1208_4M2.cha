@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/t-00010244-1
+@Begin
+@Languages:	eng
+@Participants:	1208 Student
+@ID:	eng|Vercellotti|1208|||2||Student|level4||
+@Media:	1208_4M2, audio
+@Transcriber:	jms
+*1208:	when I was in high school student &-uh I always do study . 4135_9626
+%mor:	adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adp|in adj|high-S1 noun|school noun|student pron|I-Prs-Nom-S1 adv|always aux|do-Fin-Ind-Pres-S1 verb|study-Inf-S .
+%gra:	1|7|ADVMOD 2|7|NSUBJ 3|7|COP 4|7|CASE 5|6|AMOD 6|7|COMPOUND 7|11|ADVCL 8|11|NSUBJ 9|11|ADVMOD 10|11|AUX 11|0|ROOT 12|11|PUNCT
+*1208:	but I like hang out with my friends . 10441_13516
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 verb|hang-Fin-Ind-Pres-S1 adp|out adp|with pron|my-Prs-Gen-S1 noun|friend-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|4|COMPOUND-PRT 6|8|CASE 7|8|NMOD-POSS 8|4|OBL 9|3|PUNCT
+*1208:	so I: didn't study too much . 14708_19488
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|study-Inf-S adv|too adv|much .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|ADVMOD 7|5|ADVMOD 8|5|PUNCT
+*1208:	so it [//] that affected to me &-um &~s the score like SAT in Korea . 20121_32911
+%mor:	adv|so sconj|that verb|affect-Part-Past-S adp|to pron|I-Prs-Acc-S1 det|the-Def-Art noun|score-Acc adp|like propn|SAT adp|in propn|Korea .
+%gra:	1|3|ADVMOD 2|3|MARK 3|0|ROOT 4|5|CASE 5|3|OBL 6|7|DET 7|3|OBJ 8|9|CASE 9|7|NMOD 10|11|CASE 11|9|NMOD 12|3|PUNCT
+*1208:	so <I didn't go to> [//] &~f I didn't go to: the university &-uh like my first apply university . 34793_49639
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|go-Inf-S adp|to det|the-Def-Art noun|university adp|like pron|my-Prs-Gen-S1 adj|first-S1 noun|apply noun|university .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|13|CASE 10|13|NMOD-POSS 11|13|AMOD 12|13|COMPOUND 13|8|NMOD 14|5|PUNCT
+*1208:	yeah so it was very shocked to me . 50880_56122
+%mor:	intj|yeah adv|so pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|very adj|shocked-S1 adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|6|DISCOURSE 2|6|ADVMOD 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+*1208:	<I should have> [//] studie:d <if I> [///] &~s &~sh &-uh no I should have studied more . 58034_65327
+%mor:	verb|study-Fin-Ind-Past-S1 intj|no pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S verb|study-Part-Past-S adj|more-Cmp-S1 .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|6|NSUBJ 4|6|AUX 5|6|AUX 6|1|CCOMP 7|6|OBJ 8|1|PUNCT
+*1208:	I can go high [/] high university in Korea . 66413_75370
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|go-Inf-S adj|high-S1 noun|university-Acc adp|in propn|Korea .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+*1208:	if I would hav:e study in: &~i high school student like I change my method about study skill <it makes me> [//] it will be make me go more good university . 77762_120191
+%mor:	sconj|if pron|I-Prs-Nom-S1 aux|would-Fin-S aux|have-Inf-S verb|study-Inf-S adp|in adj|high-S1 noun|school noun|student sconj|like pron|I-Prs-Nom-S1 verb|change-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|method-Acc adp|about noun|study noun|skill pron|it-Prs-Nom-S3 aux|will-Fin-S aux|be-Inf-S verb|make-Inf-S pron|I-Prs-Acc-S1 verb|go-Inf-S adv|more adj|good-S1 noun|university-Acc .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|21|ADVCL 6|9|CASE 7|8|AMOD 8|9|COMPOUND 9|5|OBL 10|12|MARK 11|12|NSUBJ 12|5|ADVCL 13|14|NMOD-POSS 14|12|OBJ 15|17|CASE 16|17|COMPOUND 17|14|NMOD 18|21|NSUBJ 19|21|AUX 20|21|COP 21|0|ROOT 22|21|OBJ 23|21|XCOMP 24|25|ADVMOD 25|26|AMOD 26|23|OBJ 27|21|PUNCT
+@End

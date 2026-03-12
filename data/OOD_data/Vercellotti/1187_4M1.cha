@@ -1,0 +1,45 @@
+@UTF8
+@PID:	11312/t-00010225-1
+@Begin
+@Languages:	eng
+@Participants:	1187 Student
+@ID:	eng|Vercellotti|1187|||1||Student|level4||
+@Media:	1187_4M1, audio
+@Transcriber:	jms
+*1187:	the topic is describes a worl(d) problem . 2402_3741
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Fin-Ind-Pres-S3 det|a-Ind-Art noun|world noun|problem-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+*1187:	and I want talk about the problem that I concerning is &-uh air pollution . 5977_12997
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 noun|talk-Acc adp|about det|the-Def-Art noun|problem pron|that-Rel pron|I-Prs-Nom-S1 verb|concern-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-S3 noun|air noun|pollution .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|10|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|13|COP 12|13|COMPOUND 13|7|ACL-RELCL 14|3|PUNCT
+*1187:	I think that is most problem in my country especially in my capital Taipei . 12997_20213
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem aux|be-Fin-Ind-Pres-S3 adj|most-Sup-S1 noun|problem adp|in pron|my-Prs-Gen-S1 noun|country adv|especially adp|in pron|my-Prs-Gen-S1 noun|capital propn|Taipei .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|COP 5|6|AMOD 6|2|CCOMP 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|13|ADVMOD 11|13|CASE 12|13|NMOD-POSS 13|6|NMOD 14|13|APPOS 15|2|PUNCT
+*1187:	and there have &-uh a_lot cars just like bus and cars motorcycle . 21131_28900
+%mor:	cconj|and pron|there-Int-S1 verb|have-Fin-Ind-Pres-P3 adj|alot-S1 noun|car-Plur adv|just adp|like noun|bus cconj|and noun|car-Plur noun|motorcycle .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|AMOD 5|3|NSUBJ 6|11|ADVMOD 7|11|CASE 8|11|COMPOUND 9|10|CC 10|8|CONJ 11|5|NMOD 12|3|PUNCT
+*1187:	and there is crowded everywhere . 29268_31869
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 verb|crowd-Part-Past-S adv|everywhere .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|3|ADVMOD 6|3|PUNCT
+*1187:	an(d) that's most important thing that I can concern because our car usually use the gas for our fuel . 32302_40601
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|most adj|important-S1 noun|thing-Ger pron|that-Rel pron|I-Prs-Nom-S1 aux|can-Fin-S verb|concern-Inf-S sconj|because pron|our-Prs-Gen-P1 noun|car adv|usually verb|use-Fin-Ind-Pres-P3 det|the-Def-Art noun|gas-Acc adp|for pron|our-Prs-Gen-P1 noun|fuel .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|5|ADVMOD 5|6|AMOD 6|0|ROOT 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|15|MARK 12|13|NMOD-POSS 13|15|NSUBJ 14|15|ADVMOD 15|10|ADVCL 16|17|DET 17|15|OBJ 18|20|CASE 19|20|NMOD-POSS 20|15|OBL 21|6|PUNCT
+*1187:	and there have a big problem to increase the air pollution problem I think . 41059_47461
+%mor:	cconj|and pron|there-Int-S1 verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art adj|big-S1 noun|problem part|to verb|increase-Inf-S det|the-Def-Art noun|air noun|pollution noun|problem-Acc pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|8|MARK 8|6|ACL 9|12|DET 10|11|COMPOUND 11|12|COMPOUND 12|8|OBJ 13|14|NSUBJ 14|3|PARATAXIS 15|3|PUNCT
+*1187:	but I think the most solve method is &-uh that need government and people cooperate with . 48965_60062
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art adv|most noun|solve noun|method aux|be-Fin-Ind-Pres-S3 sconj|that verb|need-Fin-Ind-Pres-P3 noun|government cconj|and noun|person-Plur verb|cooperate-Fin-Ind-Pres-P3 adp|with .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|DET 5|6|ADVMOD 6|7|COMPOUND 7|10|NSUBJ-OUTER 8|10|COP 9|10|MARK 10|3|CCOMP 11|14|NSUBJ 12|13|CC 13|11|CONJ 14|10|CCOMP 15|14|OBL 16|3|PUNCT
+*1187:	and government should provide more resource to [/] to provide the people take the &~rebe &~re public transportation . 60561_72942
+%mor:	cconj|and noun|government aux|should-Fin-S verb|provide-Inf-S adj|more-Cmp-S1 noun|resource-Acc part|to verb|provide-Inf-S det|the-Def-Art noun|person-Plur-Acc verb|take-Inf-S det|the-Def-Art adj|public-S1 noun|transportation-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|8|MARK 8|6|ACL 9|10|DET 10|8|OBJ 11|8|XCOMP 12|14|DET 13|14|AMOD 14|11|OBJ 15|4|PUNCT
+*1187:	an:d I think all our cars should transfer to [//] the [/] the [//] to has more recycle energy or &~eroc electri:c &~e energy or something like just &-uh good for our &~en environment . 76493_93731
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|all-Def-Tot pron|our-Prs-Gen-P1 noun|car-Plur aux|should-Fin-S verb|transfer-Inf-S adp|to verb|have-Fin-Ind-Pres-S3 adj|more-Cmp-S1 noun|recycle noun|energy-Acc cconj|or adj|electric-S1 noun|energy cconj|or pron|something-Ind-S1 adp|like adv|just adj|good-S1 adp|for pron|our-Prs-Gen-P1 noun|environment .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET-PREDET 5|6|NMOD-POSS 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|8|OBL 10|3|CCOMP 11|13|AMOD 12|13|COMPOUND 13|10|OBJ 14|16|CC 15|16|AMOD 16|13|CONJ 17|18|CC 18|13|CONJ 19|21|CASE 20|21|ADVMOD 21|18|NMOD 22|24|CASE 23|24|NMOD-POSS 24|21|OBL 25|3|PUNCT
+*1187:	an(d) I think &-um people if they like always take the public transportation that will reduce the [/] mm the traffic jam and that will reduce the air pollution problem . 95047_110677
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|person-Plur sconj|if pron|they-Prs-Nom-P3 verb|like-Fin-Ind-Pres-P3 adv|always verb|take-Fin-Ind-Pres-P3 det|the-Def-Art adj|public-S1 noun|transportation-Acc pron|that-Rel aux|will-Fin-S verb|reduce-Inf-S noun|mm-Acc det|the-Def-Art noun|traffic noun|jam-Acc cconj|and pron|that-Dem aux|will-Fin-S verb|reduce-Inf-S det|the-Def-Art noun|air noun|pollution noun|problem-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|9|NSUBJ 5|7|MARK 6|7|NSUBJ 7|9|ADVCL 8|9|ADVMOD 9|3|CCOMP 10|12|DET 11|12|AMOD 12|9|OBJ 13|15|NSUBJ 14|15|AUX 15|12|ACL-RELCL 16|15|OBJ 17|19|DET 18|19|COMPOUND 19|15|OBJ 20|23|CC 21|23|NSUBJ 22|23|AUX 23|9|CONJ 24|27|DET 25|26|COMPOUND 26|27|COMPOUND 27|23|OBJ 28|3|PUNCT
+*1187:	I think <that's would> [//] to us that's the [/] the mos(t) thing I &~co concern about . 111943_119006
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adp|to pron|we-Prs-Acc-P1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|most-Sup-S1 noun|thing-Ger pron|I-Prs-Nom-S1 verb|concern-Fin-Ind-Pres-S1 adp|about .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|9|NSUBJ 6|9|COP 7|9|DET 8|9|AMOD 9|2|CCOMP 10|11|NSUBJ 11|9|ACL-RELCL 12|11|OBL 13|2|PUNCT
+@End

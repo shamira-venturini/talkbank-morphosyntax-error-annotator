@@ -1,0 +1,32 @@
+@UTF8
+@PID:	11312/a-00062517-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1188_4M3, audio
+*PAR0:	today I want to talk about a famous person from the pass . 750_5810
+%mor:	noun|today pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|talk-Inf-S adp|about det|a-Ind-Art adj|famous-S1 noun|person adp|from det|the-Def-Art noun|pass .
+%gra:	1|3|OBL-UNMARKED 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|12|CASE 11|12|DET 12|9|NMOD 13|3|PUNCT
+*PAR0:	I will talk about a famous baseball player in the pass . 6580_12160
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S verb|talk-Inf-S adp|about det|a-Ind-Art adj|famous-S1 noun|baseball noun|player adp|in det|the-Def-Art noun|pass .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|8|CASE 5|8|DET 6|8|AMOD 7|8|COMPOUND 8|3|OBL 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+*PAR0:	he was &-uh Montre he was born about six sixteen years ago . 12960_26210
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr propn|Montre pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|bear-Part-Past-S adv|about num|six num|sixteen noun|year-Plur adv|ago .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|NSUBJ-PASS 5|6|AUX-PASS 6|3|ACL-RELCL 7|8|ADVMOD 8|10|NUMMOD 9|10|NUMMOD 10|11|OBL-UNMARKED 11|6|ADVMOD 12|3|PUNCT
+*PAR0:	he's a very famous Pe player . 28170_30370
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very adj|famous-S1 noun|pe noun|player .
+%gra:	1|7|NSUBJ 2|7|COP 3|7|DET 4|5|ADVMOD 5|7|AMOD 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*PAR0:	&-uh he was a very famous basketball player in the major Basketball legit . 30560_37090
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adv|very adj|famous-S1 noun|basketball noun|player adp|in det|the-Def-Art adj|major-S1 propn|Basketball noun|legit .
+%gra:	1|7|NSUBJ 2|7|COP 3|7|DET 4|5|ADVMOD 5|7|AMOD 6|7|COMPOUND 7|0|ROOT 8|12|CASE 9|12|DET 10|12|AMOD 11|12|COMPOUND 12|7|NMOD 13|7|PUNCT
+*PAR0:	he is he was a firster Black people get the many award in the Mlb he was born in &-uh South American and &-uh he grew up in the Nigro Ni Niagara and &-uh he [/] he was working very hard to keep his &-uh best ball ski year so he can demonstrate he could demon demonstrate his high [/] high be betting skills when he wa when he was playing the game . 39040_72820
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|firster-S1 adj|Black-S1 noun|person-Plur verb|get-Inf-S det|the-Def-Art adj|many-S1 noun|award-Acc adp|in det|the-Def-Art propn|Mlb pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|bear-Part-Past-S adp|in propn|South propn|American cconj|and pron|he-Prs-Nom-S3 verb|grow-Fin-Ind-Past-S3-irr adp|up adp|in det|the-Def-Art propn|Nigro propn|Ni propn|Niagara cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|work-Part-Pres-S adv|very adv|hard part|to verb|keep-Inf-S pron|his-Prs-Gen-S3 adj|good-Sup-S1 noun|ball noun|ski noun|year-Acc sconj|so pron|he-Prs-Nom-S3 aux|can-Fin-S verb|demonstrate-Inf-S pron|he-Prs-Nom-S3 aux|could-Fin-S adv|demon verb|demonstrate-Inf-S pron|his-Prs-Gen-S3 adj|high-S1 aux|be-Inf-S noun|betting-Ger noun|skill-Plur-Acc adv|when pron|he-Prs-Nom-S3 verb|wa-Fin-Ind-Pres-S3 adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|play-Part-Pres-S det|the-Def-Art noun|game-Acc .
+%gra:	1|8|NSUBJ 2|8|COP 3|8|NSUBJ 4|8|COP 5|8|DET 6|8|AMOD 7|8|AMOD 8|0|ROOT 9|8|ACL 10|12|DET 11|12|AMOD 12|9|OBJ 13|15|CASE 14|15|DET 15|12|NMOD 16|18|NSUBJ-PASS 17|18|AUX-PASS 18|8|ACL-RELCL 19|21|CASE 20|21|COMPOUND 21|18|OBL 22|24|CC 23|24|NSUBJ 24|8|CONJ 25|24|COMPOUND-PRT 26|28|CASE 27|28|DET 28|24|OBL 29|28|FLAT 30|28|FLAT 31|34|CC 32|34|NSUBJ 33|34|AUX 34|8|CONJ 35|36|ADVMOD 36|34|ADVMOD 37|38|MARK 38|34|ADVCL 39|43|NMOD-POSS 40|43|AMOD 41|43|COMPOUND 42|43|COMPOUND 43|38|OBJ 44|47|MARK 45|47|NSUBJ 46|47|AUX 47|34|ADVCL 48|51|NSUBJ 49|51|AUX 50|51|ADVMOD 51|47|CCOMP 52|56|NMOD-POSS 53|56|AMOD 54|56|COP 55|56|COMPOUND 56|51|OBJ 57|59|ADVMOD 58|59|NSUBJ 59|51|ADVCL 60|63|ADVMOD 61|63|NSUBJ 62|63|AUX 63|59|ADVCL 64|65|DET 65|63|OBJ 66|8|PUNCT
+*PAR0:	and he was also a very kind person who work with his countries . 95840_103680
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|also det|a-Ind-Art adv|very adj|kind-S1 noun|person pron|who-Rel verb|work-Fin-Ind-Pres-P3 adp|with pron|his-Prs-Gen-S3 noun|country-Plur .
+%gra:	1|8|CC 2|8|NSUBJ 3|8|COP 4|8|ADVMOD 5|8|DET 6|7|ADVMOD 7|8|AMOD 8|0|ROOT 9|10|NSUBJ 10|8|ACL-RELCL 11|13|CASE 12|13|NMOD-POSS 13|10|OBL 14|8|PUNCT
+*PAR0:	because when &-uh Niagara was happened equal Equest he helps many people to . 107000_117170
+%mor:	sconj|because adv|when propn|Niagara aux|be-Fin-Ind-Past-S3-irr verb|happen-Part-Past-S adj|equal-S1 propn|Equest-Acc pron|he-Prs-Nom-S3 verb|help-Fin-Ind-Pres-S3 adj|many-S1 noun|person-Plur-Acc adp|to .
+%gra:	1|9|MARK 2|5|ADVMOD 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|9|ADVCL 6|7|AMOD 7|5|OBJ 8|9|NSUBJ 9|0|ROOT 10|11|AMOD 11|9|OBJ 12|9|PUNCT 13|9|PUNCT
+@End

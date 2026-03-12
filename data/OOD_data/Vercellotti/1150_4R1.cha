@@ -1,0 +1,42 @@
+@UTF8
+@PID:	11312/t-00010162-1
+@Begin
+@Languages:	eng
+@Participants:	1150 Student
+@ID:	eng|Vercellotti|1150|||1||Student|level4||
+@Media:	1150_4R1, audio
+@Transcriber:	jms
+*1150:	&-uh today I'm gonna discuss a problem in the world that concerns me . 1143_4853
+%mor:	noun|today pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|discuss-Inf-S det|a-Ind-Art noun|problem-Acc adp|in det|the-Def-Art noun|world pron|that-Rel verb|concern-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 .
+%gra:	1|4|OBL-UNMARKED 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|11|CASE 10|11|DET 11|8|NMOD 12|13|NSUBJ 13|8|ACL-RELCL 14|13|OBJ 15|4|PUNCT
+*1150:	and it's global warming . 6497_7419
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|global-S1 noun|warming-Ger .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*1150:	an(d) a lot of people are cooperating to solve this big problem . 8006_14501
+%mor:	cconj|and det|a-Ind-Art noun|lot adp|of noun|person-Plur aux|be-Fin-Ind-Pres-P3 verb|cooperate-Part-Pres-S part|to verb|solve-Inf-S det|this-Def-Dem-Sing adj|big-S1 noun|problem-Acc .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|5|CASE 5|3|NMOD 6|7|AUX 7|0|ROOT 8|9|MARK 9|7|ADVCL 10|12|DET 11|12|AMOD 12|9|OBJ 13|7|PUNCT
+*1150:	a:nd &-uh &~ov obviously &-uh there is a lot of people are doing bad to hurt the environment like oil companies and &-uh any companies tha(t) use a lot of &-uh products resources and without &-uh caring about the environment . 15649_42802
+%mor:	cconj|and adv|obviously pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of noun|person-Plur aux|be-Fin-Ind-Pres-P3 verb|do-Part-Pres-S adj|bad-S1 part|to verb|hurt-Inf-S det|the-Def-Art noun|environment-Acc adp|like noun|oil noun|company-Plur cconj|and det|any-Def-Ind noun|company-Plur pron|that-Rel verb|use-Fin-Ind-Pres-P3 det|a-Ind-Art noun|lot-Acc adp|of noun|product-Plur noun|resource-Plur cconj|and sconj|without verb|care-Part-Pres-S adp|about det|the-Def-Art noun|environment .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|0|ROOT 5|6|DET 6|10|NSUBJ 7|8|CASE 8|6|NMOD 9|10|AUX 10|4|CSUBJ 11|10|XCOMP 12|13|MARK 13|10|ADVCL 14|15|DET 15|13|OBJ 16|18|CASE 17|18|COMPOUND 18|15|NMOD 19|21|CC 20|21|DET 21|18|CONJ 22|23|NSUBJ 23|21|ACL-RELCL 24|25|DET 25|23|OBJ 26|28|CASE 27|28|COMPOUND 28|25|NMOD 29|31|CC 30|31|MARK 31|23|CONJ 32|34|CASE 33|34|DET 34|31|OBL 35|4|PUNCT
+*1150:	an:(d) [/] and the things that still needta be done is a lot of people hafta use &-uh recycling methods and assess [/] the [/] assess the problems . 43671_63748
+%mor:	cconj|and det|the-Def-Art noun|thing-Plur pron|that-Rel adv|still noun|needta aux|be-Fin-Ind-Pres-S3 verb|do-Part-Past-S-irr aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of noun|person-Plur part|hafta verb|use-Fin-Ind-S noun|recycling-Ger noun|method-Plur-Acc cconj|and verb|assess-Fin-Ind-Pres-P3 det|the-Def-Art noun|problem-Plur-Acc .
+%gra:	1|15|CC 2|3|DET 3|15|NSUBJ-OUTER 4|8|NSUBJ-PASS 5|8|ADVMOD 6|8|NSUBJ-PASS 7|8|AUX-PASS 8|3|ACL-RELCL 9|15|COP 10|11|DET 11|15|NSUBJ 12|13|CASE 13|11|NMOD 14|15|ADVMOD 15|0|ROOT 16|17|COMPOUND 17|15|OBJ 18|19|CC 19|15|CONJ 20|21|DET 21|19|OBJ 22|15|PUNCT
+*1150:	and a lot of people hafta use recycled [//] &-uh &~i like recycled papers or recycled &-uh &-uh anything because it's very hard to cut all the trees to use the [//] to the papers . 66290_81113
+%mor:	cconj|and det|a-Ind-Art noun|lot adp|of noun|person-Plur aux|hafta-Fin-Ind-Pres-P3 verb|use-Fin-Ind-Pres-P3 adp|like verb|recycl-Part-Past-S noun|paper-Plur cconj|or verb|recycl-Fin-Ind-Past-S3 pron|anything-Ind-S1 sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very adj|hard-S1 part|to verb|cut-Inf-S det|all-Def-Tot det|the-Def-Art noun|tree-Plur-Acc part|to verb|use-Inf-S adp|to det|the-Def-Art noun|paper-Plur .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|5|CASE 5|3|NMOD 6|7|AUX 7|0|ROOT 8|10|CASE 9|10|AMOD 10|7|OBL 11|12|CC 12|7|CONJ 13|12|OBJ 14|18|MARK 15|18|EXPL 16|18|COP 17|18|ADVMOD 18|7|ADVCL 19|20|MARK 20|18|CSUBJ 21|23|DET-PREDET 22|23|DET 23|20|OBJ 24|25|MARK 25|20|ADVCL 26|28|CASE 27|28|DET 28|25|OBL 29|7|PUNCT
+*1150:	an:(d) it's important to our environment mm . 82104_89587
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|important-S1 adp|to pron|our-Prs-Gen-P1 noun|environment noun|mm .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|8|CASE 6|8|NMOD-POSS 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+*1150:	and it's important to our environment because a lot of people are not giving any &-uh . 92725_103422
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|important-S1 adp|to pron|our-Prs-Gen-P1 noun|environment sconj|because det|a-Ind-Art noun|lot adp|of noun|person-Plur aux|be-Fin-Ind-Pres-P3 part|not verb|give-Part-Pres-S det|any-Def-Ind .
+%gra:	1|4|CC 2|4|EXPL 3|4|COP 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|15|MARK 9|10|DET 10|15|NSUBJ 11|12|CASE 12|10|NMOD 13|15|AUX 14|15|ADVMOD 15|4|ADVCL 16|15|OBJ 17|4|PUNCT
+*1150:	people are cooperating to finish this problem . 103422_108644
+%mor:	noun|person-Plur aux|be-Fin-Ind-Pres-P3 verb|cooperate-Part-Pres-S part|to verb|finish-Inf-S det|this-Def-Dem-Sing noun|problem-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|ADVCL 6|7|DET 7|5|OBJ 8|3|PUNCT
+*1150:	and I think <people hafta use their> [//] &-uh &-uh people hafta cooperate to deal with this big problem . 109597_117515
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|person-Plur aux|hafta-Fin-Ind-Pres-P3 verb|cooperate-Fin-Ind-Pres-P3 part|to verb|deal-Inf-S adp|with det|this-Def-Dem-Sing adj|big-S1 noun|problem .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|8|MARK 8|6|XCOMP 9|12|CASE 10|12|DET 11|12|AMOD 12|8|OBL 13|3|PUNCT
+*1150:	and I hope it's get done .
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|get-Inf-S verb|do-Part-Past-S-irr .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|NSUBJ-PASS 5|7|AUX 6|7|AUX-PASS 7|3|CCOMP 8|3|PUNCT
+@End

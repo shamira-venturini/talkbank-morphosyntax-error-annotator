@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/a-00062490-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@ID:	eng|Vercellotti|PAR1|||||Participant|||
+@Media:	1067_4M3, audio
+*PAR0:	my work is talk about famous person from my country . 840_5680
+%mor:	pron|my-Prs-Gen-S1 noun|work aux|be-Fin-Ind-Pres-S3 verb|talk-Inf-S adp|about adj|famous-S1 noun|person adp|from pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|AMOD 7|4|OBL 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|4|PUNCT
+*PAR0:	and this person is <king father> [/] king father . 6120_11370
+%mor:	cconj|and det|this-Def-Dem-Sing noun|person aux|be-Fin-Ind-Pres-S3 adj|king-S1 noun|father .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*PAR0:	he spent as a king <for Saudi> [/] for Saudi Arabia for thirty years . 15760_22840
+%mor:	pron|he-Prs-Nom-S3 verb|spend-Fin-Ind-Past-S3-irr adp|as det|a-Ind-Art noun|king-Ger adp|for adj|Saudi-S1 propn|Arabia adp|for num|thirty noun|year-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|8|CASE 7|8|AMOD 8|5|NMOD 9|11|CASE 10|11|NUMMOD 11|2|OBL 12|2|PUNCT
+*PAR0:	and he is the person who established the education in Saudi Arabia also he may the bridge from &-uh between [/] between Saudi between Saudi Arabia and Kingdom of Bahrain and he [/] he was he was . 24160_47360
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|person pron|who-Rel verb|establish-Fin-Ind-Past-S3 det|the-Def-Art noun|education-Acc adp|in adj|Saudi-S1 propn|Arabia adv|also pron|he-Prs-Nom-S3 aux|may-Fin-S det|the-Def-Art noun|bridge adp|from adp|between propn|Saudi adp|between adj|Saudi-S1 propn|Arabia cconj|and propn|Kingdom adp|of propn|Bahrain cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|AMOD 12|9|NMOD 13|17|ADVMOD 14|17|NSUBJ 15|17|AUX 16|17|DET 17|5|PARATAXIS 18|20|CASE 19|20|CASE 20|17|NMOD 21|23|CASE 22|23|AMOD 23|20|NMOD 24|25|CC 25|23|CONJ 26|27|CASE 27|25|NMOD 28|30|CC 29|30|NSUBJ 30|32|COP 31|32|NSUBJ 32|5|CONJ 33|5|PUNCT
+*PAR1:	okay . 56180_56330
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	king for surgery repair I think cause . 57610_61760
+%mor:	noun|king-Ger adp|for noun|surgery noun|repair pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 verb|cause-Fin-Imp-S .
+%gra:	1|6|CCOMP 2|4|CASE 3|4|COMPOUND 4|1|NMOD 5|6|NSUBJ 6|0|ROOT 7|6|XCOMP 8|6|PUNCT
+*PAR0:	and he [/] he extend the . 63840_68510
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|extend-Fin-Ind-Pres-S3 det|the-Def-Art .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR0:	and he &-uh he was and he [/] he helped all poor people and helped all studying people <that that> [/] that he was died in two thousand five . 71690_90210
+%mor:	cconj|and pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr cconj|and pron|he-Prs-Nom-S3 verb|help-Fin-Ind-Past-S3 det|all-Def-Tot adj|poor-S1 noun|person-Plur-Acc cconj|and verb|help-Fin-Ind-Past-S3 det|all-Def-Tot verb|study-Ger-S noun|person-Plur-Acc pron|that-Rel pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|die-Part-Past-S adp|in num|two num|thousand num|five .
+%gra:	1|7|CC 2|7|REPARANDUM 3|4|NSUBJ 4|7|COP 5|7|CC 6|7|NSUBJ 7|0|ROOT 8|10|DET 9|10|AMOD 10|7|OBJ 11|12|CC 12|7|CONJ 13|12|OBJ 14|12|XCOMP 15|14|OBJ 16|19|OBJ 17|19|NSUBJ-PASS 18|19|AUX-PASS 19|15|ACL-RELCL 20|22|CASE 21|22|COMPOUND 22|19|OBL 23|19|OBL 24|7|PUNCT
+*PAR0:	and third king for heart was died for disease . 103920_107920
+%mor:	cconj|and adj|third-S1 noun|king-Ger adp|for noun|heart aux|be-Fin-Ind-Past-S3-irr verb|die-Part-Past-S adp|for noun|disease .
+%gra:	1|7|CC 2|3|AMOD 3|7|NSUBJ-PASS 4|5|CASE 5|3|NMOD 6|7|AUX-PASS 7|0|ROOT 8|9|CASE 9|7|OBL 10|7|PUNCT
+@End

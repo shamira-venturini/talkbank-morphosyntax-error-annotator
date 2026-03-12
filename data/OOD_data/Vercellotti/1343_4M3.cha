@@ -1,0 +1,32 @@
+@UTF8
+@PID:	11312/a-00062593-1
+@Begin
+@Languages:	eng
+@Participants:	PAR1 Participant
+@ID:	eng|Vercellotti|PAR1|||||Participant|||
+@Media:	1343_4M3, audio
+*PAR1:	I'll talk about a famous person from the past . 4050_7490
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|talk-Inf-S adp|about det|a-Ind-Art adj|famous-S1 noun|person adp|from det|the-Def-Art noun|past .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|DET 6|7|AMOD 7|3|OBL 8|10|CASE 9|10|DET 10|7|NMOD 11|3|PUNCT
+*PAR1:	&-uh in nineteen thirty two he was born in Seoul his name is Kim Nan but his [/] his nickname is famous for in the country . 9120_24280
+%mor:	adp|in num|nineteen num|thirty num|two pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|bear-Part-Past-S adp|in propn|Seoul pron|his-Prs-Gen-S3 noun|name aux|be-Fin-Ind-Pres-S3 propn|Kim propn|Nan cconj|but pron|his-Prs-Gen-S3 noun|nickname aux|be-Fin-Ind-Pres-S3 adj|famous-S1 adp|for adp|in det|the-Def-Art noun|country .
+%gra:	1|4|CASE 2|4|COMPOUND 3|4|COMPOUND 4|7|OBL 5|7|NSUBJ-PASS 6|7|AUX-PASS 7|0|ROOT 8|9|CASE 9|7|OBL 10|11|NMOD-POSS 11|13|NSUBJ 12|13|COP 13|7|PARATAXIS 14|13|FLAT 15|19|CC 16|17|NMOD-POSS 17|19|NSUBJ 18|19|COP 19|13|CONJ 20|23|CASE 21|23|CASE 22|23|DET 23|19|OBL 24|7|PUNCT
+*PAR1:	his nickname is his nickname was Uncle Kim he was famous fashion designer . 25560_35240
+%mor:	pron|his-Prs-Gen-S3 noun|nickname aux|be-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|nickname aux|be-Fin-Ind-Past-S3-irr propn|uncle propn|Kim pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|famous-S1 noun|fashion noun|designer .
+%gra:	1|2|NMOD-POSS 2|7|NSUBJ 3|7|COP 4|5|NMOD-POSS 5|7|NSUBJ 6|7|COP 7|0|ROOT 8|7|FLAT 9|13|NSUBJ 10|13|COP 11|13|AMOD 12|13|COMPOUND 13|7|ACL-RELCL 14|7|PUNCT
+*PAR1:	he ha had a innate ability of &-uh sense of style compared to other people . 37480_46760
+%mor:	pron|he-Prs-Nom-S3 aux|ha-Fin-Ind-Pres-S3 verb|have-Fin-Ind-Past-S-irr det|a-Ind-Art adj|innate-S1 noun|ability-Acc adp|of noun|sense adp|of noun|style verb|compare-Part-Past-S adp|to adj|other-S1 noun|person-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|8|CASE 8|6|NMOD 9|10|CASE 10|8|NMOD 11|8|ACL 12|14|CASE 13|14|AMOD 14|11|OBL 15|3|PUNCT
+*PAR1:	so when he was very young he already &-uh was a big was a successful person in the fashion area . 47200_61550
+%mor:	adv|so adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|very adj|young-S1 pron|he-Prs-Nom-S3 adv|already aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|big-S1 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|successful-S1 noun|person adp|in det|the-Def-Art noun|fashion noun|area .
+%gra:	1|15|ADVMOD 2|6|ADVMOD 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|15|ADVCL 7|15|NSUBJ 8|11|ADVMOD 9|11|COP 10|11|DET 11|15|NSUBJ 12|15|COP 13|15|DET 14|15|AMOD 15|0|ROOT 16|19|CASE 17|19|DET 18|19|COMPOUND 19|15|NMOD 20|15|PUNCT
+*PAR1:	he studied abroad maybe in Europe and in Us so he [/] he made a big success on New York Collection in Paris and &-um he always wearing a white dress at the time . 66280_96130
+%mor:	pron|he-Prs-Nom-S3 verb|study-Fin-Ind-Past-S3 adv|abroad adv|maybe adp|in propn|Europe cconj|and adp|in pron|we-Prs-Acc-S1 adv|so pron|he-Prs-Nom-S3 verb|make-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|big-S1 noun|success-Acc adp|on adj|New-S1 propn|York propn|Collection adp|in propn|Paris cconj|and pron|he-Prs-Nom-S3 adv|always verb|wear-Part-Pres-S det|a-Ind-Art adj|white-S1 noun|dress-Acc adp|at det|the-Def-Art noun|time .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|6|ADVMOD 5|6|CASE 6|2|OBL 7|9|CC 8|9|CASE 9|6|CONJ 10|12|ADVMOD 11|12|NSUBJ 12|2|PARATAXIS 13|15|DET 14|15|AMOD 15|12|OBJ 16|19|CASE 17|18|AMOD 18|19|COMPOUND 19|15|NMOD 20|21|CASE 21|19|NMOD 22|25|CC 23|25|NSUBJ 24|25|ADVMOD 25|12|CONJ 26|28|DET 27|28|AMOD 28|25|OBJ 29|31|CASE 30|31|DET 31|25|OBL 32|2|PUNCT
+*PAR1:	so many celebrities imitated to wear his dress . 99880_111360
+%mor:	adv|so adj|many-S1 noun|celebrity-Plur verb|imitate-Fin-Ind-Past-P3 part|to verb|wear-Inf-S pron|his-Prs-Gen-S3 noun|dress-Acc .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|NMOD-POSS 8|6|OBJ 9|4|PUNCT
+*PAR1:	yes because &-um his dress style was weird all . 111480_119440
+%mor:	intj|yes sconj|because pron|his-Prs-Gen-S3 noun|dress noun|style aux|be-Fin-Ind-Past-S3-irr adj|weird-S1 det|all-Def-Tot .
+%gra:	1|7|DISCOURSE 2|7|MARK 3|5|NMOD-POSS 4|5|COMPOUND 5|7|NSUBJ 6|7|COP 7|0|ROOT 8|7|ADVMOD 9|7|PUNCT
+@End

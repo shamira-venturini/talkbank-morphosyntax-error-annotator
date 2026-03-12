@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/t-00010171-1
+@Begin
+@Languages:	eng
+@Participants:	1155 Student
+@ID:	eng|Vercellotti|1155|||2||Student|level3||
+@Media:	1155_3F2, audio
+@Transcriber:	jms
+*1155:	three years ago while I was shopping suddenly I met one of my best friends . 3670_13692
+%mor:	num|three noun|year-Plur adv|ago sconj|while pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|shop-Part-Pres-S adv|suddenly pron|I-Prs-Nom-S1 verb|meet-Fin-Ind-Past-S1-irr num|one adp|of pron|my-Prs-Gen-S1 adj|good-Sup-S1 noun|friend-Plur .
+%gra:	1|2|NUMMOD 2|3|OBL-UNMARKED 3|10|ADVMOD 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|10|ADVCL 8|7|ADVMOD 9|10|NSUBJ 10|0|ROOT 11|10|OBJ 12|15|CASE 13|15|NMOD-POSS 14|15|AMOD 15|11|NMOD 16|10|PUNCT
+*1155:	&~i my response was &-uh ah shocking [//] I was shocked . 13866_22237
+%mor:	pron|my-Prs-Gen-S1 noun|response aux|be-Fin-Ind-Past-S3-irr intj|ah pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adj|shocked-S1 .
+%gra:	1|2|NMOD-POSS 2|7|NSUBJ-OUTER 3|7|COP 4|7|DISCOURSE 5|7|NSUBJ 6|7|COP 7|0|ROOT 8|7|PUNCT
+*1155:	&-uh I didn't expect meeting him will occur some day . 23162_31580
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|expect-Inf-S verb|meet-Ger-S pron|he-Prs-Acc-S3 aux|will-Fin-S verb|occur-Inf-S det|some-Def-Ind noun|day .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|XCOMP 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|10|DET 10|8|OBL-UNMARKED 11|4|PUNCT
+*1155:	&-uh after that &-uh I took his &-uh phone number . 32063_38631
+%mor:	adp|after pron|that-Dem pron|I-Prs-Nom-S1 verb|take-Fin-Ind-Past-S1-irr pron|his-Prs-Gen-S3 noun|phone noun|number-Acc .
+%gra:	1|2|CASE 2|4|OBL 3|4|NSUBJ 4|0|ROOT 5|7|NMOD-POSS 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+*1155:	and he took mine . 38631_39378
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr pron|my-Prs-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*1155:	&-uh and we visited . 40136_41628
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|visit-Fin-Ind-Past-P1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*1155:	&-uh and he invited me &-uh to his &-uh house . 41628_45864
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|invite-Fin-Ind-Past-S3 pron|I-Prs-Acc-S1 adp|to pron|his-Prs-Gen-S3 noun|house .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+*1155:	and &-uh we had dinner . 46290_49003
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1-irr noun|dinner-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*1155:	&-uh and we still visiting each other . 49428_53914
+%mor:	cconj|and pron|we-Prs-Nom-P1 adv|still verb|visit-Part-Pres-S det|each-Def-Rcp adj|other-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|5|FIXED 7|4|PUNCT
+@End

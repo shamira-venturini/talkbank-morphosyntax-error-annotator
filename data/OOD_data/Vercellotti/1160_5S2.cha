@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/t-00010186-1
+@Begin
+@Languages:	eng
+@Participants:	1160 Student
+@ID:	eng|Vercellotti|1160|||2||Student|level4||
+@Media:	1160_5S2, audio
+@Transcriber:	jms
+*1160:	my topic today is to talk about some risk of using internet and how can we protect ourselves: <from it> [//] &-uh from the risk . 4786_15495
+%mor:	pron|my-Prs-Gen-S1 noun|topic noun|today aux|be-Fin-Ind-Pres-S3 part|to verb|talk-Inf-S adp|about det|some-Def-Ind noun|risk sconj|of verb|use-Ger-S noun|internet-Acc cconj|and adv|how aux|can-Fin-S pron|we-Prs-Nom-P1 verb|protect-Inf-S pron|ourselves-Prs-Acc-reflx-P1 adp|from det|the-Def-Art noun|risk .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ-OUTER 3|2|NMOD-UNMARKED 4|6|COP 5|6|MARK 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|11|MARK 11|9|ACL 12|11|OBJ 13|17|CC 14|17|ADVMOD 15|17|AUX 16|17|NSUBJ 17|6|CONJ 18|17|OBJ 19|21|CASE 20|21|DET 21|17|OBL 22|6|PUNCT
+*1160:	&-uh we are in two thousand ten right now . 15742_20049
+%mor:	pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 adp|in num|two num|thousand num|ten noun|right adv|now .
+%gra:	1|7|NSUBJ 2|7|COP 3|5|CASE 4|5|COMPOUND 5|6|COMPOUND 6|7|NUMMOD 7|8|OBL-UNMARKED 8|0|ROOT 9|8|PUNCT
+*1160:	and many people <are using the internet> [//] &~aa access the internet . 20049_23809
+%mor:	cconj|and adj|many-S1 noun|person-Plur verb|access-Fin-Ind-Pres-P3 det|the-Def-Art noun|internet-Acc .
+%gra:	1|4|CC 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*1160:	and they should learn how to protect them self: &-uh from the people that hackers their computers or <hacked in:> [//] or hack into . 26913_36753
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|should-Fin-S verb|learn-Inf-S adv|how part|to verb|protect-Inf-S pron|they-Prs-Acc-P3 noun|self-Acc adp|from det|the-Def-Art noun|person-Plur pron|that-Rel noun|hacker-Plur pron|their-Prs-Gen-P3 noun|computer-Plur cconj|or cconj|or verb|hack-Inf-S adp|into .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|MARK 7|5|ACL 8|7|IOBJ 9|7|OBJ 10|12|CASE 11|12|DET 12|7|OBL 13|14|NSUBJ 14|12|ACL-RELCL 15|16|NMOD-POSS 16|14|NSUBJ 17|19|CC 18|19|CC 19|14|CONJ 20|14|CASE 21|4|PUNCT
+*1160:	<there are field [?] or the someones are> [///] <some that are> [//] some that on a server they [/] <they be that> [//] &~yu they should be sure that they use firewall an:d get out from the virus . 40245_60734
+%mor:	det|some-Def-Ind sconj|that adp|on det|a-Ind-Art noun|server pron|they-Prs-Nom-P3 aux|should-Fin-S aux|be-Inf-S adj|sure-S1 sconj|that pron|they-Prs-Nom-P3 verb|use-Fin-Ind-Pres-P3 noun|firewall-Acc cconj|and verb|get-Inf-S adp|out adp|from det|the-Def-Art noun|virus .
+%gra:	1|9|NSUBJ-OUTER 2|9|MARK 3|5|CASE 4|5|DET 5|9|OBL 6|9|NSUBJ 7|9|AUX 8|9|COP 9|0|ROOT 10|12|MARK 11|12|NSUBJ 12|9|CCOMP 13|12|OBJ 14|15|CC 15|12|CONJ 16|15|COMPOUND-PRT 17|19|CASE 18|19|DET 19|15|OBL 20|9|PUNCT
+*1160:	an:d they should eliminate every program that <didn't they> [//] &~du they didn't need it . 64501_75188
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|should-Fin-S verb|eliminate-Inf-S det|every-Def-Tot noun|program-Acc pron|that-Rel pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3-irr~part|not verb|need-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|11|OBJ 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|6|ACL-RELCL 12|11|OBJ 13|4|PUNCT
+*1160:	and ah how they trend their self . 77459_78792
+%mor:	cconj|and intj|ah adv|how pron|they-Prs-Nom-P3 verb|trend-Fin-Ind-Pres-P3 pron|their-Prs-Gen-P3 noun|self-Acc .
+%gra:	1|5|CC 2|5|DISCOURSE 3|5|ADVMOD 4|5|NSUBJ 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|PUNCT
+*1160:	&-uh you know we are two thousand ten right now . 79071_79669
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 num|two num|thousand num|ten adv|right adv|now .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|NSUBJ 4|7|COP 5|6|COMPOUND 6|7|COMPOUND 7|2|CCOMP 8|9|ADVMOD 9|7|ADVMOD 10|2|PUNCT
+*1160:	and there are many people using internet .
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 noun|person-Plur verb|use-Ger-S noun|internet-Acc .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|AMOD 5|3|NSUBJ 6|5|ACL 7|6|OBJ 8|3|PUNCT
+*1160:	<they should be> [///] &~acceh <that they> [//] many people are access the internet . 83837_84365
+%mor:	adj|many-S1 noun|person-Plur aux|be-Fin-Ind-Pres-P3 verb|access-Inf-S det|the-Def-Art noun|internet-Acc .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*1160:	so there are bad people or good people using the internet . 87341_91757
+%mor:	adv|so pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|bad-S1 noun|person-Plur cconj|or adj|good-S1 noun|person-Plur verb|use-Ger-S det|the-Def-Art noun|internet-Acc .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|0|ROOT 4|5|AMOD 5|3|NSUBJ 6|8|CC 7|8|AMOD 8|5|CONJ 9|5|ACL 10|11|DET 11|9|OBJ 12|3|PUNCT
+*1160:	they should be take care about how they use the access [?] of any website . 95861_96321
+%mor:	pron|they-Prs-Nom-P3 aux|should-Fin-S aux|be-Inf-S verb|take-Inf-S noun|care-Acc adp|about adv|how pron|they-Prs-Nom-P3 verb|use-Fin-Ind-Pres-P3 det|the-Def-Art noun|access-Acc adp|of det|any-Def-Ind noun|website .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|9|NSUBJ 9|7|ADVCL-RELCL 10|11|DET 11|9|OBJ 12|14|CASE 13|14|DET 14|11|NMOD 15|4|PUNCT
+*1160:	they be sure that the website they use are &~cla &~cla clear any virus &-uh . 97534_106477
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 adj|sure-S1 sconj|that det|the-Def-Art noun|website pron|they-Prs-Nom-P3 verb|use-Fin-Ind-Pres-P3 aux|be-Fin-Ind-Pres-P3 adj|clear-S1 det|any-Def-Ind noun|virus-Acc .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|10|MARK 5|6|DET 6|10|NSUBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|10|COP 10|3|CCOMP 11|12|DET 12|10|OBJ 13|3|PUNCT
+*1160:	use ah the firewall and update [/] update them computer every single day . 106477_120203
+%mor:	verb|use-Fin-Imp-S intj|ah det|the-Def-Art noun|firewall-Acc cconj|and verb|update-Fin-Imp-S pron|they-Prs-Acc-P3 noun|computer-Acc det|every-Def-Tot adj|single-S1 noun|day .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|4|DET 4|1|OBJ 5|6|CC 6|1|CONJ 7|6|IOBJ 8|6|OBJ 9|11|DET 10|11|AMOD 11|6|OBL-UNMARKED 12|1|PUNCT
+@End

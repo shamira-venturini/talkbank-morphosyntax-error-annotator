@@ -1,0 +1,39 @@
+@UTF8
+@PID:	11312/t-00010198-1
+@Begin
+@Languages:	eng
+@Participants:	1165 Student
+@ID:	eng|Vercellotti|1165|||3||Student|level4||
+@Media:	1165_5U3, audio
+@Transcriber:	jms
+*1165:	when the gap between the rich and the poor is so larger [//] large you needta balance a desire for luxury with compassion of [//] for the needs &~i of others . 3325_11047
+%mor:	adv|when det|the-Def-Art noun|gap adp|between det|the-Def-Art adj|rich-S1 cconj|and det|the-Def-Art noun|poor aux|be-Fin-Ind-Pres-S3 adv|so adj|large-S1 pron|you-Prs-Nom-S2 aux|needta-Fin-Ind-Pres-S verb|balance-Fin-S det|a-Ind-Art noun|desire-Acc adp|for noun|luxury adp|with noun|compassion adp|for det|the-Def-Art noun|need-Plur adp|of noun|other-Plur .
+%gra:	1|12|ADVMOD 2|3|DET 3|12|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|9|CC 8|9|DET 9|6|CONJ 10|12|COP 11|12|ADVMOD 12|15|ADVCL 13|15|NSUBJ 14|15|AUX 15|0|ROOT 16|17|DET 17|15|OBJ 18|19|CASE 19|17|NMOD 20|21|CASE 21|17|NMOD 22|24|CASE 23|24|DET 24|21|NMOD 25|26|CASE 26|24|NMOD 27|15|PUNCT
+*1165:	do you agree or disagree and why [% reading prompt] . 13038_13918
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|agree-Inf-S cconj|or verb|disagree-Inf-S cconj|and adv|why .
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|CC 5|3|CONJ 6|7|CC 7|3|CONJ 8|3|PUNCT
+*1165:	well I agree to a point . 14208_19244
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|agree-Fin-Ind-Pres-S1 adp|to det|a-Ind-Art noun|point .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*1165:	because &-uh although &-uh everyone has the right to do whatever he want with his money . 19805_26388
+%mor:	sconj|because sconj|although pron|everyone-Tot-S1 verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|right-Acc part|to verb|do-Inf-S pron|whatever-Int-S1 pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 adp|with pron|his-Prs-Gen-S3 noun|money .
+%gra:	1|4|MARK 2|4|MARK 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|MARK 8|6|ACL 9|8|OBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|14|CASE 13|14|NMOD-POSS 14|11|OBL 15|4|PUNCT
+*1165:	and &-uh noone will blame rich people if they bought &-uh <expensive cars> [//] an expensive car or luxury items . 26842_40336
+%mor:	cconj|and pron|no–one-Neg-S1 aux|will-Fin-S verb|blame-Inf-S adj|rich-S1 noun|person-Plur-Acc sconj|if pron|they-Prs-Nom-P3 verb|buy-Fin-Ind-Past-P3-irr det|a-Ind-Art adj|expensive-S1 noun|car-Acc cconj|or adj|luxury-S1 noun|item-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|9|MARK 8|9|NSUBJ 9|4|ADVCL 10|12|DET 11|12|AMOD 12|9|OBJ 13|15|CC 14|15|AMOD 15|12|CONJ 16|4|PUNCT
+*1165:	but it's good thing to: respect the: life of other poor people who miss that fortune . 40767_51441
+%mor:	cconj|but pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-S1 noun|thing-Ger part|to verb|respect-Inf-S det|the-Def-Art noun|life-Acc adp|of adj|other-S1 adj|poor-S1 noun|person-Plur pron|who-Rel verb|miss-Fin-Ind-Pres-P3 det|that-Def-Dem-Sing noun|fortune-Acc .
+%gra:	1|5|CC 2|5|EXPL 3|5|COP 4|5|AMOD 5|0|ROOT 6|7|MARK 7|5|CSUBJ 8|9|DET 9|7|OBJ 10|13|CASE 11|13|AMOD 12|13|AMOD 13|9|NMOD 14|15|NSUBJ 15|13|ACL-RELCL 16|17|DET 17|15|OBJ 18|5|PUNCT
+*1165:	and &-uh &~n &-uh &~i I think rich people shouldn't show their [//] ah these items in front of these poor people . 51904_63948
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adj|rich-S1 noun|person-Plur aux|should-Fin-S~part|not verb|show-Inf-S intj|ah det|this-Def-Dem-Plur noun|item-Plur-Acc adp|in noun|front adp|of det|this-Def-Dem-Plur adj|poor-S1 noun|person-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|AMOD 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CCOMP 9|8|IOBJ 10|11|DET 11|8|OBJ 12|13|CASE 13|8|OBL 14|17|CASE 15|17|DET 16|17|AMOD 17|13|NMOD 18|3|PUNCT
+*1165:	but <noone will> [//] &-uh noone should say &~yi you cannot buy this car because <we are> [/] &~la &-uh we are poor and &~yi it's [/] &~sa it's shame to: [/] to show this in front of us because everyone has the right to do whatever he want with his money &-uh . 65245_84713
+%mor:	cconj|but pron|no–one-Neg-S1 aux|should-Fin-S verb|say-Inf-S pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|buy-Inf-S det|this-Def-Dem-Sing noun|car-Acc sconj|because pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 adj|poor-S1 cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|shame part|to verb|show-Inf-S pron|this-Dem-S1 adp|in noun|front adp|of pron|we-Prs-Acc-P1 sconj|because pron|everyone-Tot-S1 verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|right-Acc part|to verb|do-Inf-S pron|whatever-Rel-S1 pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 adp|with pron|his-Prs-Gen-S3 noun|money .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|4|CCOMP 9|10|DET 10|8|OBJ 11|14|MARK 12|14|NSUBJ 13|14|COP 14|8|ADVCL 15|18|CC 16|18|EXPL 17|18|COP 18|4|CONJ 19|20|MARK 20|18|CSUBJ 21|20|OBJ 22|23|CASE 23|20|OBL 24|25|CASE 25|23|NMOD 26|28|MARK 27|28|NSUBJ 28|20|ADVCL 29|30|DET 30|28|OBJ 31|32|MARK 32|30|ACL 33|32|OBJ 34|35|NSUBJ 35|33|ACL-RELCL 36|38|CASE 37|38|NMOD-POSS 38|35|OBL 39|4|PUNCT
+*1165:	&~i I think when we &~d &~ba balance this desire for luxury items we'll reach a better ah society to live in . 84713_93275
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adv|when pron|we-Prs-Nom-P1 verb|balance-Fin-Ind-Pres-P1 det|this-Def-Dem-Sing noun|desire-Acc adp|for noun|luxury noun|item-Plur pron|we-Prs-Nom-P1~aux|will-Fin-S verb|reach-Inf-S det|a-Ind-Art adj|good-Cmp-S1 intj|ah noun|society-Acc part|to verb|live-Inf-S adp|in .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|ADVMOD 4|5|NSUBJ 5|13|ADVCL 6|7|DET 7|5|OBJ 8|10|CASE 9|10|COMPOUND 10|7|NMOD 11|13|NSUBJ 12|13|AUX 13|2|CCOMP 14|17|DET 15|17|AMOD 16|17|DISCOURSE 17|13|OBJ 18|19|MARK 19|13|ADVCL 20|19|OBL 21|2|PUNCT
+*1165:	and &-uh &~i the relationship between &~i poors and rich &~a &-uh will be better than what it &~yu useta be . 93852_120186
+%mor:	cconj|and det|the-Def-Art noun|relationship adp|between noun|poor-Plur cconj|and adj|rich-S1 aux|will-Fin-S aux|be-Inf-S adj|good-Cmp-S1 adp|than pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|useta-Fin-Ind-Pres-S3 aux|be-Inf-S .
+%gra:	1|10|CC 2|3|DET 3|10|NSUBJ 4|5|CASE 5|3|NMOD 6|7|CC 7|5|CONJ 8|10|AUX 9|10|COP 10|0|ROOT 11|12|CASE 12|10|OBL 13|14|NSUBJ 14|12|ACL-RELCL 15|12|ACL-RELCL 16|10|PUNCT
+@End

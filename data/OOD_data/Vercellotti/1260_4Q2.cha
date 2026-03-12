@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/a-00062535-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1260_4Q2, audio
+*PAR0:	okay . 450_550
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	my topic is describe a job that you would like to that [/] that you would love to have . 1290_5930
+%mor:	pron|my-Prs-Gen-S1 noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S det|a-Ind-Art noun|job-Acc pron|that-Rel pron|you-Prs-Nom-S2 aux|would-Fin-S verb|like-Inf-S part|to sconj|that pron|you-Prs-Nom-S2 aux|would-Fin-S verb|love-Inf-S part|to verb|have-Inf-S .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ-OUTER 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|7|CASE 12|15|MARK 13|15|NSUBJ 14|15|AUX 15|10|CCOMP 16|17|MARK 17|15|XCOMP 18|4|PUNCT
+*PAR0:	so the job that I would love to have is &-uh fly attendant &-uh because I love traveling . 6400_11480
+%mor:	adv|so det|the-Def-Art noun|job pron|that-Rel pron|I-Prs-Nom-S1 aux|would-Fin-S verb|love-Inf-S part|to verb|have-Inf-S aux|be-Fin-Ind-Pres-S3 verb|fly-Inf-S noun|attendant-Acc sconj|because pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 noun|traveling-Acc-Ger .
+%gra:	1|11|ADVMOD 2|3|DET 3|11|NSUBJ-OUTER 4|9|OBJ 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|9|MARK 9|7|XCOMP 10|11|COP 11|0|ROOT 12|11|OBJ 13|15|MARK 14|15|NSUBJ 15|11|ADVCL 16|15|OBJ 17|11|PUNCT
+*PAR0:	and also it's not &-uh also doesn't bother me to [/] to stay in the airplane &-uh for so long . 12810_17840
+%mor:	cconj|and adv|also pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adv|also aux|do-Fin-Ind-Pres-S3~part|not verb|bother-Inf-S pron|I-Prs-Acc-S1 part|to verb|stay-Inf-S adp|in det|the-Def-Art noun|airplane adp|for adv|so adv|long .
+%gra:	1|9|CC 2|9|ADVMOD 3|9|NSUBJ-OUTER 4|9|AUX 5|9|ADVMOD 6|9|ADVMOD 7|9|AUX 8|9|ADVMOD 9|0|ROOT 10|9|OBJ 11|12|MARK 12|9|XCOMP 13|15|CASE 14|15|DET 15|12|OBL 16|18|CASE 17|18|ADVMOD 18|12|OBL 19|9|PUNCT
+*PAR0:	I know it's [/] it's not that cool to leave your family . 18640_22000
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adv|that adj|cool-S1 part|to verb|leave-Inf-S pron|your-Prs-Gen-S2 noun|family-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|EXPL 4|7|COP 5|7|ADVMOD 6|7|ADVMOD 7|2|CCOMP 8|9|MARK 9|7|CSUBJ 10|11|NMOD-POSS 11|9|OBJ 12|2|PUNCT
+*PAR0:	leave your country a lot . 22020_23720
+%mor:	verb|leave-Fin-Imp-S pron|your-Prs-Gen-S2 noun|country-Acc det|a-Ind-Art noun|lot .
+%gra:	1|0|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|5|DET 5|1|OBL-UNMARKED 6|1|PUNCT
+*PAR0:	and &-uh miss a lot of events that you are having . 23960_26440
+%mor:	cconj|and verb|miss-Fin-Imp-S det|a-Ind-Art noun|lot-Acc adp|of noun|event-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 verb|have-Part-Pres-S .
+%gra:	1|2|CC 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|2|PUNCT
+*PAR0:	&-um but also because I'm social I have a social personality . 27440_31280
+%mor:	cconj|but adv|also sconj|because pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|social-S1 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art adj|social-S1 noun|personality-Acc .
+%gra:	1|6|CC 2|6|ADVMOD 3|6|MARK 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|8|NSUBJ 8|6|PARATAXIS 9|11|DET 10|11|AMOD 11|8|OBJ 12|6|PUNCT
+*PAR0:	&-um I like to work with people and also to help them . 32240_35210
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 part|to verb|work-Inf-S adp|with noun|person-Plur cconj|and adv|also part|to verb|help-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|CASE 6|4|OBL 7|10|CC 8|10|ADVMOD 9|10|MARK 10|4|CONJ 11|10|OBJ 12|2|PUNCT
+*PAR0:	because I know that &-um <they feel> [/] they feel tired in this &-uh trip . 35390_42810
+%mor:	sconj|because pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 sconj|that pron|they-Prs-Nom-P3 verb|feel-Fin-Ind-Pres-P3 adj|tired-S1 adp|in det|this-Def-Dem-Sing noun|trip .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|NSUBJ 6|3|CCOMP 7|6|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|3|PUNCT
+*PAR0:	&-um also I like to know new cultures . 44160_46600
+%mor:	adv|also pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 part|to verb|know-Inf-S adj|new-S1 noun|culture-Plur-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|AMOD 7|5|OBJ 8|3|PUNCT
+*PAR0:	so I [/] I would love to [/] to fit to go around the world &-um to see new cultures and [/] and to know new people also . 48280_62080
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|would-Fin-S verb|love-Inf-S part|to verb|fit-Inf-S part|to verb|go-Inf-S adp|around det|the-Def-Art noun|world part|to verb|see-Inf-S adj|new-S1 noun|culture-Plur-Acc cconj|and part|to verb|know-Inf-S adj|new-S1 noun|person-Plur-Acc adv|also .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|MARK 8|6|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|13|MARK 13|8|ADVCL 14|15|AMOD 15|13|OBJ 16|18|CC 17|18|MARK 18|13|CONJ 19|20|AMOD 20|18|OBJ 21|18|ADVMOD 22|4|PUNCT
+*PAR0:	I don't know I love the airplane . 67140_68240
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 det|the-Def-Art noun|airplane-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*PAR0:	I love the airport . 68380_69090
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 det|the-Def-Art noun|airport-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR0:	&-uh going around seeing new people the every day and every time because also <I don't> [/] I don't think like if I'm a flight attendant . 70040_83480
+%mor:	verb|go-Part-Pres-S adv|around verb|see-Part-Pres-S adj|new-S1 noun|person-Plur-Acc det|the-Def-Art det|every-Def-Tot noun|day cconj|and det|every-Def-Tot noun|time sconj|because adv|also pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S intj|like sconj|if pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art noun|flight noun|attendant .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|ADVCL 4|5|AMOD 5|3|OBJ 6|8|DET 7|8|DET 8|3|OBL-UNMARKED 9|11|CC 10|11|DET 11|8|CONJ 12|17|MARK 13|17|ADVMOD 14|17|NSUBJ 15|17|AUX 16|17|ADVMOD 17|1|ADVCL 18|17|DISCOURSE 19|24|MARK 20|24|NSUBJ 21|24|COP 22|24|DET 23|24|COMPOUND 24|17|ADVCL 25|1|PUNCT
+*PAR0:	and I'm helping the travelers or like it's something emotionally you will help them . 83520_90920
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|help-Part-Pres-S det|the-Def-Art noun|traveler-Plur-Acc cconj|or sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 adv|emotionally pron|you-Prs-Nom-S2 aux|will-Fin-S verb|help-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|11|CC 8|11|MARK 9|11|NSUBJ 10|11|COP 11|4|CONJ 12|15|ADVMOD 13|15|NSUBJ 14|15|AUX 15|4|PARATAXIS 16|15|OBJ 17|4|PUNCT
+*PAR0:	and it's I know it's hard . 92210_93240
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|hard-S1 .
+%gra:	1|5|CC 2|5|NSUBJ-OUTER 3|5|REPARANDUM 4|5|NSUBJ 5|0|ROOT 6|8|NSUBJ 7|8|COP 8|5|CCOMP 9|5|PUNCT
+*PAR0:	like they if they really want something . 93260_95450
+%mor:	adp|like pron|they-Prs-Nom-P3 sconj|if pron|they-Prs-Nom-P3 adv|really verb|want-Fin-Ind-Pres-P3 pron|something-Ind-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|ADVMOD 6|2|ADVCL 7|6|OBJ 8|2|PUNCT
+*PAR0:	they want some [/] some features from you or maybe hard to handle . 99960_105760
+%mor:	pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Pres-P3 det|some-Def-Ind noun|feature-Plur-Acc adp|from pron|you-Prs-Acc-S2 cconj|or adv|maybe adj|hard-S1 part|to verb|handle-Inf-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|9|CC 8|9|ADVMOD 9|2|CONJ 10|11|MARK 11|9|ADVCL 12|2|PUNCT
+*PAR0:	but for me I think I will hold myself . 106000_109120
+%mor:	cconj|but adp|for pron|I-Prs-Acc-S1 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|will-Fin-S verb|hold-Inf-S pron|myself-Prs-Acc-reflx-S1 .
+%gra:	1|5|CC 2|3|CASE 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|8|NSUBJ 7|8|AUX 8|5|CCOMP 9|8|OBJ 10|5|PUNCT
+*PAR0:	I will handle it easily . 111180_112010
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S verb|handle-Inf-S pron|it-Prs-Acc-S3 adv|easily .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+@End

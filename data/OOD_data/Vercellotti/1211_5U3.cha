@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/t-00010249-1
+@Begin
+@Languages:	eng
+@Participants:	1211 Student
+@ID:	eng|Vercellotti|1211|||3||Student|level4||
+@Media:	1211_5U3, audio
+@Transcriber:	jms
+*1211:	&-uh the topic is the gap between the rich and the poor &-uh is so large you need to balance a desire for luxury with compassion for needs of others . 2030_15733
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|gap adp|between det|the-Def-Art adj|rich-S1 cconj|and det|the-Def-Art noun|poor aux|be-Fin-Ind-Pres-S3 adv|so adj|large-S1 pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 part|to verb|balance-Inf-S det|a-Ind-Art noun|desire-Acc adp|for noun|luxury adp|with noun|compassion adp|for noun|need-Plur adp|of noun|other-Plur .
+%gra:	1|2|DET 2|14|NSUBJ-OUTER 3|14|COP 4|5|DET 5|14|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|11|CC 10|11|DET 11|8|CONJ 12|14|COP 13|14|ADVMOD 14|0|ROOT 15|16|NSUBJ 16|14|CCOMP 17|18|MARK 18|16|XCOMP 19|20|DET 20|18|OBJ 21|22|CASE 22|20|NMOD 23|24|CASE 24|22|NMOD 25|26|CASE 26|24|NMOD 27|28|CASE 28|26|NMOD 29|14|PUNCT
+*1211:	&-um personally I do agree with this &-um issue since &-uh we should respect &-uh poor &-uh and &~n the needy people an(d) to respect their [/] &~f their feelings . 16675_37775
+%mor:	adv|personally pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1 verb|agree-Inf-S adp|with det|this-Def-Dem-Sing noun|issue sconj|since pron|we-Prs-Nom-P1 aux|should-Fin-S verb|respect-Inf-S adj|poor-S1 cconj|and det|the-Def-Art adj|needy-S1 noun|person-Plur-Acc cconj|and part|to verb|respect-Inf-S pron|their-Prs-Gen-P3 noun|feeling-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|11|MARK 9|11|NSUBJ 10|11|AUX 11|4|ADVCL 12|16|AMOD 13|15|CC 14|16|DET 15|16|AMOD 16|11|OBJ 17|19|CC 18|19|MARK 19|11|CONJ 20|21|NMOD-POSS 21|19|OBJ 22|4|PUNCT
+*1211:	so I do agree with this issue for two reason . 38782_39125
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1 verb|agree-Inf-S adp|with det|this-Def-Dem-Sing noun|issue adp|for num|two noun|reason .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|NUMMOD 10|4|OBL 11|4|PUNCT
+*1211:	the first one is &~s they are &-uh mm &-uh as [//] &-uh a member of our community . 44362_56014
+%mor:	det|the-Def-Art adj|first-S1 noun|one aux|be-Fin-Ind-Pres-S3 pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 intj|mm det|a-Ind-Art noun|member adp|of pron|our-Prs-Gen-P1 noun|community .
+%gra:	1|3|DET 2|3|AMOD 3|9|NSUBJ-OUTER 4|9|COP 5|9|NSUBJ 6|9|COP 7|9|DISCOURSE 8|9|DET 9|0|ROOT 10|12|CASE 11|12|NMOD-POSS 12|9|NMOD 13|9|PUNCT
+*1211:	the second thing is &-um &~s &~may maybe you will find some of your relatives are needy . 57408_63280
+%mor:	det|the-Def-Art adj|second-S1 noun|thing-Ger aux|be-Fin-Ind-Pres-S3 adv|maybe pron|you-Prs-Nom-S2 aux|will-Fin-S verb|find-Inf-S det|some-Def-Ind adp|of pron|your-Prs-Gen-S2 noun|relative-Plur aux|be-Fin-Ind-Pres-P3 adj|needy-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|8|NSUBJ-OUTER 4|8|COP 5|8|ADVMOD 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|14|NSUBJ 10|12|CASE 11|12|NMOD-POSS 12|9|NMOD 13|14|COP 14|8|CCOMP 15|8|PUNCT
+*1211:	and you [/] &~don you don't hafta show your luxury . 70135_70869
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not adv|hafta verb|show-Inf-S pron|your-Prs-Gen-S2 noun|luxury-Acc .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|0|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|6|PUNCT
+*1211:	and you don't hafta show what you have to [/] to &-um broke their heart . 74558_81813
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not adv|hafta verb|show-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|break-Inf-S pron|their-Prs-Gen-P3 noun|heart-Acc .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|11|MARK 11|9|XCOMP 12|13|NMOD-POSS 13|11|OBJ 14|6|PUNCT
+*1211:	so <you should be> [//] &-uh or [//] you should have a balance between the poor and the rich in order to: &-uh stay &-uh ah friendly in order to &-uh &~i &~i keep your relation for long time &~i . 83908_102544
+%mor:	adv|so pron|you-Prs-Nom-S2 aux|should-Fin-S verb|have-Inf-S det|a-Ind-Art noun|balance-Acc adp|between det|the-Def-Art adj|poor-S1 cconj|and det|the-Def-Art adj|rich-S1 sconj|in noun|order part|to verb|stay-Inf-S adv|ah adj|friendly-S1 sconj|in noun|order part|to verb|keep-Inf-S pron|your-Prs-Gen-S2 noun|relation-Acc adp|for adj|long-S1 noun|time .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|12|CC 11|12|DET 12|9|CONJ 13|16|MARK 14|13|FIXED 15|16|MARK 16|4|ADVCL 17|18|ADVMOD 18|16|XCOMP 19|22|MARK 20|19|FIXED 21|22|MARK 22|16|ADVCL 23|24|NMOD-POSS 24|22|OBJ 25|27|CASE 26|27|AMOD 27|22|OBL 28|4|PUNCT
+@End

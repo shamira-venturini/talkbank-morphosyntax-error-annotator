@@ -1,0 +1,6 @@
+run_name,experiment,split,rows_total,reconstruction_presence_accuracy,reconstruction_signature_accuracy
+recon_full_comp_preserve_final_seed3407,unknown,test_real,687,0.97671,0.967977
+recon_full_comp_preserve_final_seed3407,unknown,test_coverage,370,0.964865,0.921622
+recon_full_comp_preserve_final_seed3407,unknown,holdout_generalization,591,0.553299,0.302876
+recon_full_comp_nonword_only_seed3407,unknown,test_real,687,0.983988,0.983988
+recon_full_comp_nonword_only_seed3407,unknown,holdout_generalization,591,0.708968,0.708968

@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/t-00010103-1
+@Begin
+@Languages:	eng
+@Participants:	1062 Student
+@ID:	eng|Vercellotti|1062|||1||Student|level4||
+@Media:	1062_4P1, audio
+@Transcriber:	jms
+*1062:	the topic is a world problem . 1573_3986
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|world noun|problem .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|COMPOUND 6|0|ROOT 7|6|PUNCT
+*1062:	in my country we have [/] &-uh have &~a &-uh a_lot [//] &~a a less of farmer [//] farm . 5432_11889
+%mor:	adp|in pron|my-Prs-Gen-S1 noun|country pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art adj|less-Cmp-S1 adp|of noun|farm .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|5|PUNCT
+*1062:	so <the government> [///] in my country <we have> [//] we don't have a lot of farmer and the [/] &~ag the agriculture . 12606_23358
+%mor:	adv|so adp|in pron|my-Prs-Gen-S1 noun|country pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|have-Inf-S det|a-Ind-Art noun|lot-Acc adp|of noun|farmer cconj|and det|the-Def-Art noun|agriculture .
+%gra:	1|8|ADVMOD 2|4|CASE 3|4|NMOD-POSS 4|8|OBL 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|10|DET 10|8|OBJ 11|12|CASE 12|10|NMOD 13|15|CC 14|15|DET 15|12|CONJ 16|8|PUNCT
+*1062:	it's [///] &-uh we import &~i the fruit and the food from other countries . 23732_29658
+%mor:	pron|we-Prs-Nom-P1 verb|import-Fin-Ind-Pres-P1 det|the-Def-Art noun|fruit-Acc cconj|and det|the-Def-Art noun|food adp|from adj|other-S1 noun|country-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|AMOD 10|7|NMOD 11|2|PUNCT
+*1062:	<we don't> [/] &~i we don't use the land in our country . 30534_35177
+%mor:	pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|use-Inf-S det|the-Def-Art noun|land-Acc adp|in pron|our-Prs-Gen-P1 noun|country .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|4|PUNCT
+*1062:	so the government &-uh make [//] made an ah project ah for this problem . 36478_42551
+%mor:	adv|so det|the-Def-Art noun|government verb|make-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|ah noun|project-Acc intj|ah adp|for det|this-Def-Dem-Sing noun|problem .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|DISCOURSE 9|11|CASE 10|11|DET 11|4|OBL 12|4|PUNCT
+*1062:	and they [/] they provide &~th &~th &~th the &~lan &~d with &~the some chemical &-uh medicine to help the lan(d) to &~g grow to grass and grow the trees . 44070_59627
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|provide-Fin-Ind-Pres-P3 det|the-Def-Art adp|with det|some-Def-Ind adj|chemical-S1 noun|medicine part|to verb|help-Inf-S det|the-Def-Art noun|land-Acc part|to verb|grow-Inf-S adp|to noun|grass cconj|and verb|grow-Inf-S det|the-Def-Art noun|tree-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|3|OBL 9|10|MARK 10|3|ADVCL 11|12|DET 12|10|OBJ 13|14|MARK 14|10|XCOMP 15|16|CASE 16|14|OBL 17|18|CC 18|14|CONJ 19|20|DET 20|18|OBJ 21|3|PUNCT
+*1062:	an(d) [///] on the trees [% whispering] and what else [% whispering] and &-uh my [//] the government &-uh make a conference for this ah problem . 60249_71499
+%mor:	adp|on det|the-Def-Art noun|tree-Plur cconj|and pron|what-Int-S1 adj|else-S1 cconj|and det|the-Def-Art noun|government verb|make-Fin-Ind-Pres-S3 det|a-Ind-Art noun|conference-Acc adp|for det|this-Def-Dem-Sing intj|ah noun|problem .
+%gra:	1|3|CASE 2|3|DET 3|10|OBL 4|10|CC 5|10|NSUBJ 6|5|AMOD 7|9|CC 8|9|DET 9|5|CONJ 10|0|ROOT 11|12|DET 12|10|OBJ 13|16|CASE 14|16|DET 15|16|DISCOURSE 16|12|NMOD 17|10|PUNCT
+*1062:	and it [//] &-uh &~a they connect other countries to help them with this problem . 73612_80765
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|connect-Fin-Ind-Pres-P3 adj|other-S1 noun|country-Plur-Acc part|to verb|help-Inf-S pron|they-Prs-Acc-P3 adp|with det|this-Def-Dem-Sing noun|problem .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|7|MARK 7|3|ADVCL 8|7|OBJ 9|11|CASE 10|11|DET 11|7|OBL 12|3|PUNCT
+*1062:	and they: [//] working [//] they are working to solve this problem . 82223_86468
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 verb|work-Part-Pres-S part|to verb|solve-Inf-S det|this-Def-Dem-Sing noun|problem-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|ADVCL 7|8|DET 8|6|OBJ 9|4|PUNCT
+*1062:	and they want to [//] and [//] &~thi &~a <to get this> [//] &~t the [//] &~ta to achieve this &~k target and <build a lot of> [//] &~a (a)gree a lot of farm . 87372_100081
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Pres-P3 part|to verb|achieve-Inf-S det|this-Def-Dem-Sing noun|target-Acc cconj|and verb|agree-Inf-S det|a-Ind-Art noun|lot-Acc adp|of noun|farm .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|9|CC 9|5|CONJ 10|11|DET 11|9|OBJ 12|13|CASE 13|11|NMOD 14|3|PUNCT
+*1062:	and ah when they &~i &~i get this [//] all of this &-uh we [/] &~wil we will have more jobs . 101287_108752
+%mor:	cconj|and intj|ah adv|when pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Pres-P3 det|all-Def-Tot adp|of pron|this-Dem-S1 pron|we-Prs-Nom-P1 aux|will-Fin-S verb|have-Inf-S adj|more-Cmp-S1 noun|job-Plur-Acc .
+%gra:	1|11|CC 2|11|DISCOURSE 3|5|ADVMOD 4|5|NSUBJ 5|11|ADVCL 6|5|OBJ 7|8|CASE 8|6|NMOD 9|11|NSUBJ 10|11|AUX 11|0|ROOT 12|13|AMOD 13|11|OBJ 14|11|PUNCT
+*1062:	that will &~ha help other people they don't have job . 112005_112593
+%mor:	pron|that-Dem aux|will-Fin-S verb|help-Inf-S adj|other-S1 noun|person-Plur-Acc pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|have-Inf-S noun|job-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|5|ACL-RELCL 10|9|OBJ 11|3|PUNCT
+*1062:	so they will assis(t) the people . 113359_120221
+%mor:	adv|so pron|they-Prs-Nom-P3 aux|will-Fin-S verb|assist-Inf-S det|the-Def-Art noun|person-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+@End

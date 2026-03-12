@@ -1,0 +1,11 @@
+system_key,split,n_runs,micro_f1_mean,micro_f1_std,exact_match_mean,exact_match_std
+recon_full_comp_preserve,eval_coverage,1,0.913343,0.0,0.783784,0.0
+recon_full_comp_preserve,eval_real,1,0.861878,0.0,0.940493,0.0
+recon_full_comp_preserve,holdout_generalization,1,0.006322,0.0,0.005076,0.0
+recon_full_comp_preserve,test_coverage,1,0.927497,0.0,0.794595,0.0
+recon_full_comp_preserve,test_real,1,0.811111,0.0,0.922853,0.0
+recon_full_comp_preserve_final,eval_coverage,1,0.902606,0.0,0.824324,0.0
+recon_full_comp_preserve_final,eval_real,1,0.89011,0.0,0.953556,0.0
+recon_full_comp_preserve_final,holdout_generalization,1,0.071661,0.0,0.055838,0.0
+recon_full_comp_preserve_final,test_coverage,1,0.932065,0.0,0.827027,0.0
+recon_full_comp_preserve_final,test_real,1,0.804348,0.0,0.935953,0.0

@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/a-00062580-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1327_4Q1, audio
+*PAR0:	&-um hello . 1240_1800
+%mor:	intj|hello .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	the topic is &-uh about &-um our &-um hometown city . 2000_6520
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 adp|about pron|our-Prs-Gen-P1 noun|hometown noun|city .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|NMOD-POSS 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*PAR0:	&-uh I came from Libya I live in a small city &-um &-uh named &-uh Zia it's it was &-um half an hour away &-uh from &-uh capital the capital city &-uh of Libya Tripoli &-um my city it's like &-um &-uh <it's it's it's> [/] it's in north [/] north of Libya one of the city of the north Libya and &-um you can see the peach . 9840_35880
+%mor:	pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Past-S1-irr adp|from propn|Libya pron|I-Prs-Nom-S1 verb|live-Fin-Ind-Pres-S1 adp|in det|a-Ind-Art adj|small-S1 noun|city verb|name-Part-Past-S propn|Zia pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|half-Def-Ind det|a-Ind-Art noun|hour adv|away adp|from noun|capital det|the-Def-Art noun|capital noun|city adp|of propn|Libya propn|Tripoli pron|my-Prs-Gen-S1 noun|city pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in adv|north adp|of propn|Libya num|one adp|of det|the-Def-Art noun|city adp|of det|the-Def-Art noun|north propn|Libya cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|peach-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|6|NSUBJ 6|2|PARATAXIS 7|10|CASE 8|10|DET 9|10|AMOD 10|6|OBL 11|10|ACL 12|11|XCOMP 13|20|NSUBJ-OUTER 14|20|COP 15|20|NSUBJ 16|20|COP 17|19|DET-PREDET 18|19|DET 19|20|OBL-UNMARKED 20|6|PARATAXIS 21|22|CASE 22|20|OBL 23|25|DET 24|25|COMPOUND 25|20|NSUBJ 26|27|CASE 27|25|NMOD 28|25|NMOD 29|30|NMOD-POSS 30|25|CONJ 31|37|NSUBJ-OUTER 32|37|COP 33|37|MARK 34|37|NSUBJ 35|37|COP 36|37|CASE 37|20|PARATAXIS 38|39|CASE 39|37|OBL 40|37|NSUBJ 41|43|CASE 42|43|DET 43|40|NMOD 44|47|CASE 45|47|DET 46|47|COMPOUND 47|43|NMOD 48|51|CC 49|51|NSUBJ 50|51|AUX 51|37|CONJ 52|53|DET 53|51|OBJ 54|2|PUNCT
+*PAR0:	&-um it's [/] it's it has a peach side . 45400_49120
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|peach noun|side-Acc .
+%gra:	1|4|NSUBJ-OUTER 2|4|COP 3|4|NSUBJ 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+*PAR0:	and &-um we &-uh our home it's ten away &-uh ten minutes away from the beach . 50120_57360
+%mor:	cconj|and pron|we-Prs-Nom-P1 pron|our-Prs-Gen-P1 noun|home pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 num|ten adv|away num|ten noun|minute-Plur adv|away adp|from det|the-Def-Art noun|beach .
+%gra:	1|8|CC 2|8|REPARANDUM 3|4|NMOD-POSS 4|8|OBL-UNMARKED 5|8|NSUBJ 6|8|COP 7|8|OBL-UNMARKED 8|0|ROOT 9|10|NUMMOD 10|11|OBL-UNMARKED 11|8|ADVMOD 12|14|CASE 13|14|DET 14|11|OBL 15|8|PUNCT
+*PAR0:	&-um the weather there it's hot in the summer . 58680_63320
+%mor:	det|the-Def-Art noun|weather adv|there pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|hot-S1 adp|in det|the-Def-Art noun|summer .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|ADVMOD 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR0:	raining cold in the winter . 64610_66600
+%mor:	verb|rain-Part-Pres-S adj|cold-S1 adp|in det|the-Def-Art noun|winter .
+%gra:	1|0|ROOT 2|1|XCOMP 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*PAR0:	&-um a little bit windy and dusty on the fall . 67920_74590
+%mor:	det|a-Ind-Art adj|little-S1 noun|bit adj|windy-S1 cconj|and adj|dusty-S1 adp|on det|the-Def-Art noun|fall .
+%gra:	1|3|DET 2|3|AMOD 3|4|OBL-UNMARKED 4|0|ROOT 5|6|CC 6|4|CONJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+*PAR0:	and you can smell the flower and see green trees on the spring . 76000_83090
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|smell-Inf-S det|the-Def-Art noun|flower-Acc cconj|and verb|see-Inf-S adj|green-S1 noun|tree-Plur-Acc adp|on det|the-Def-Art noun|spring-Ger .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|4|CONJ 9|10|AMOD 10|8|OBJ 11|13|CASE 12|13|DET 13|8|OBL 14|4|PUNCT
+*PAR0:	&-um &-uh we I [/] I didn't do many activities there . 85280_90270
+%mor:	pron|we-Prs-Nom-P1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|do-Inf-S adj|many-S1 noun|activity-Plur-Acc adv|there .
+%gra:	1|5|VOCATIVE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|AMOD 7|5|OBJ 8|5|ADVMOD 9|5|PUNCT
+*PAR0:	we didn't have like bigger playground or big parks but to be usually on the spring going outside the city . 91230_100120
+%mor:	pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Past-P1-irr~part|not verb|have-Inf-S intj|like adj|big-Cmp-S1 noun|playground-Acc cconj|or adj|big-S1 noun|park-Plur cconj|but part|to aux|be-Inf-S adv|usually adp|on det|the-Def-Art noun|spring-Ger verb|go-Part-Pres-S adp|outside det|the-Def-Art noun|city .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|DISCOURSE 6|7|AMOD 7|4|OBJ 8|10|CC 9|10|AMOD 10|7|CONJ 11|17|CC 12|17|MARK 13|17|COP 14|17|ADVMOD 15|17|CASE 16|17|DET 17|4|CONJ 18|17|ACL 19|21|CASE 20|21|DET 21|18|OBL 22|4|PUNCT
+*PAR0:	whereas the in the south there's many mountains and &-um many green areas . 100330_107520
+%mor:	sconj|whereas det|the-Def-Art adp|in det|the-Def-Art noun|south pron|there-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|many-S1 noun|mountain-Plur cconj|and adj|many-S1 adj|green-S1 noun|area-Plur .
+%gra:	1|5|MARK 2|5|DET 3|5|CASE 4|5|DET 5|7|OBL 6|7|EXPL 7|9|COP 8|9|AMOD 9|0|ROOT 10|13|CC 11|13|AMOD 12|13|AMOD 13|9|CONJ 14|9|PUNCT
+*PAR0:	so we can have barbecues there . 107720_109520
+%mor:	adv|so pron|we-Prs-Nom-P1 aux|can-Fin-S verb|have-Inf-S noun|barbecue-Plur-Acc adv|there .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+*PAR0:	and &-uh usually I spend my time with the family that that's it the most of the time or studying .
+%mor:	cconj|and adv|usually pron|I-Prs-Nom-S1 verb|spend-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|time-Acc adp|with det|the-Def-Art noun|family sconj|that pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 det|the-Def-Art adj|most-Sup-S1 adp|of det|the-Def-Art noun|time cconj|or noun|study-Ger .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|13|MARK 11|13|NSUBJ 12|13|COP 13|4|ADVCL 14|15|DET 15|13|ADVMOD 16|18|CASE 17|18|DET 18|15|OBL 19|20|CC 20|18|CONJ 21|4|PUNCT
+@End

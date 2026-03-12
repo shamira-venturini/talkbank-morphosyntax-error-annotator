@@ -1,0 +1,504 @@
+{
+  "runs": {
+    "results/recon_full_comp_preserve_final_seed3407": {
+      "split_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/experiments/recon_full_comp_preserve",
+      "splits": {
+        "eval_real": {
+          "labels_total": 38,
+          "labels_with_eval_support": 19,
+          "pearson_synth_share_vs_f1": -0.35685,
+          "bucket_summary": [
+            {
+              "support_bucket": "mixed",
+              "labels_in_bucket": 19,
+              "labels_with_eval_support": 19,
+              "total_eval_support": 94,
+              "mean_f1_unweighted": 0.700544,
+              "mean_f1_weighted_by_eval_support": 0.867301,
+              "mean_train_synthetic_share": 0.852609
+            },
+            {
+              "support_bucket": "real_only",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            },
+            {
+              "support_bucket": "synthetic_only",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            },
+            {
+              "support_bucket": "unseen",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            }
+          ]
+        },
+        "test_real": {
+          "labels_total": 38,
+          "labels_with_eval_support": 16,
+          "pearson_synth_share_vs_f1": -0.496184,
+          "bucket_summary": [
+            {
+              "support_bucket": "mixed",
+              "labels_in_bucket": 16,
+              "labels_with_eval_support": 16,
+              "total_eval_support": 98,
+              "mean_f1_unweighted": 0.532342,
+              "mean_f1_weighted_by_eval_support": 0.783474,
+              "mean_train_synthetic_share": 0.829031
+            },
+            {
+              "support_bucket": "real_only",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            },
+            {
+              "support_bucket": "synthetic_only",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            },
+            {
+              "support_bucket": "unseen",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            }
+          ]
+        },
+        "eval_coverage": {
+          "labels_total": 38,
+          "labels_with_eval_support": 37,
+          "pearson_synth_share_vs_f1": 0.236243,
+          "bucket_summary": [
+            {
+              "support_bucket": "mixed",
+              "labels_in_bucket": 26,
+              "labels_with_eval_support": 26,
+              "total_eval_support": 270,
+              "mean_f1_unweighted": 0.876239,
+              "mean_f1_weighted_by_eval_support": 0.87309,
+              "mean_train_synthetic_share": 0.887485
+            },
+            {
+              "support_bucket": "real_only",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            },
+            {
+              "support_bucket": "synthetic_only",
+              "labels_in_bucket": 11,
+              "labels_with_eval_support": 11,
+              "total_eval_support": 101,
+              "mean_f1_unweighted": 0.885547,
+              "mean_f1_weighted_by_eval_support": 0.964457,
+              "mean_train_synthetic_share": 1.0
+            },
+            {
+              "support_bucket": "unseen",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            }
+          ]
+        },
+        "test_coverage": {
+          "labels_total": 38,
+          "labels_with_eval_support": 36,
+          "pearson_synth_share_vs_f1": 0.135219,
+          "bucket_summary": [
+            {
+              "support_bucket": "mixed",
+              "labels_in_bucket": 26,
+              "labels_with_eval_support": 26,
+              "total_eval_support": 270,
+              "mean_f1_unweighted": 0.917146,
+              "mean_f1_weighted_by_eval_support": 0.914675,
+              "mean_train_synthetic_share": 0.887485
+            },
+            {
+              "support_bucket": "real_only",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            },
+            {
+              "support_bucket": "synthetic_only",
+              "labels_in_bucket": 10,
+              "labels_with_eval_support": 10,
+              "total_eval_support": 103,
+              "mean_f1_unweighted": 0.968337,
+              "mean_f1_weighted_by_eval_support": 0.96926,
+              "mean_train_synthetic_share": 1.0
+            },
+            {
+              "support_bucket": "unseen",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            }
+          ]
+        }
+      }
+    },
+    "results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407": {
+      "split_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/experiments/recon_full_comp_nonword_only",
+      "splits": {
+        "eval_real": {
+          "labels_total": 36,
+          "labels_with_eval_support": 19,
+          "pearson_synth_share_vs_f1": -0.51335,
+          "bucket_summary": [
+            {
+              "support_bucket": "mixed",
+              "labels_in_bucket": 19,
+              "labels_with_eval_support": 19,
+              "total_eval_support": 94,
+              "mean_f1_unweighted": 0.464533,
+              "mean_f1_weighted_by_eval_support": 0.750133,
+              "mean_train_synthetic_share": 0.84906
+            },
+            {
+              "support_bucket": "real_only",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            },
+            {
+              "support_bucket": "synthetic_only",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            },
+            {
+              "support_bucket": "unseen",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            }
+          ]
+        },
+        "test_real": {
+          "labels_total": 36,
+          "labels_with_eval_support": 16,
+          "pearson_synth_share_vs_f1": -0.489426,
+          "bucket_summary": [
+            {
+              "support_bucket": "mixed",
+              "labels_in_bucket": 16,
+              "labels_with_eval_support": 16,
+              "total_eval_support": 98,
+              "mean_f1_unweighted": 0.521991,
+              "mean_f1_weighted_by_eval_support": 0.759851,
+              "mean_train_synthetic_share": 0.824814
+            },
+            {
+              "support_bucket": "real_only",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            },
+            {
+              "support_bucket": "synthetic_only",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            },
+            {
+              "support_bucket": "unseen",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            }
+          ]
+        },
+        "eval_coverage": {
+          "labels_total": 36,
+          "labels_with_eval_support": 36,
+          "pearson_synth_share_vs_f1": 0.404279,
+          "bucket_summary": [
+            {
+              "support_bucket": "mixed",
+              "labels_in_bucket": 25,
+              "labels_with_eval_support": 25,
+              "total_eval_support": 260,
+              "mean_f1_unweighted": 0.903061,
+              "mean_f1_weighted_by_eval_support": 0.89968,
+              "mean_train_synthetic_share": 0.881357
+            },
+            {
+              "support_bucket": "real_only",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            },
+            {
+              "support_bucket": "synthetic_only",
+              "labels_in_bucket": 11,
+              "labels_with_eval_support": 11,
+              "total_eval_support": 111,
+              "mean_f1_unweighted": 0.953654,
+              "mean_f1_weighted_by_eval_support": 0.951069,
+              "mean_train_synthetic_share": 1.0
+            },
+            {
+              "support_bucket": "unseen",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            }
+          ]
+        },
+        "test_coverage": {
+          "labels_total": 37,
+          "labels_with_eval_support": 36,
+          "pearson_synth_share_vs_f1": 0.368156,
+          "bucket_summary": [
+            {
+              "support_bucket": "mixed",
+              "labels_in_bucket": 25,
+              "labels_with_eval_support": 25,
+              "total_eval_support": 259,
+              "mean_f1_unweighted": 0.887426,
+              "mean_f1_weighted_by_eval_support": 0.887699,
+              "mean_train_synthetic_share": 0.881357
+            },
+            {
+              "support_bucket": "real_only",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            },
+            {
+              "support_bucket": "synthetic_only",
+              "labels_in_bucket": 11,
+              "labels_with_eval_support": 11,
+              "total_eval_support": 113,
+              "mean_f1_unweighted": 0.954717,
+              "mean_f1_weighted_by_eval_support": 0.95592,
+              "mean_train_synthetic_share": 1.0
+            },
+            {
+              "support_bucket": "unseen",
+              "labels_in_bucket": 0,
+              "labels_with_eval_support": 0,
+              "total_eval_support": 0,
+              "mean_f1_unweighted": 0.0,
+              "mean_f1_weighted_by_eval_support": 0.0,
+              "mean_train_synthetic_share": 0.0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "comparisons": {
+    "eval_real": {
+      "systems": [
+        "results/recon_full_comp_preserve_final_seed3407",
+        "results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407"
+      ],
+      "bucket_delta_summary": [
+        {
+          "support_bucket": "mixed",
+          "labels_with_eval_support": 19,
+          "total_eval_support": 94,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": -0.236011,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": -0.117168
+        },
+        {
+          "support_bucket": "real_only",
+          "labels_with_eval_support": 0,
+          "total_eval_support": 0,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0
+        },
+        {
+          "support_bucket": "synthetic_only",
+          "labels_with_eval_support": 0,
+          "total_eval_support": 0,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0
+        },
+        {
+          "support_bucket": "unseen",
+          "labels_with_eval_support": 0,
+          "total_eval_support": 0,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0
+        }
+      ]
+    },
+    "test_real": {
+      "systems": [
+        "results/recon_full_comp_preserve_final_seed3407",
+        "results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407"
+      ],
+      "bucket_delta_summary": [
+        {
+          "support_bucket": "mixed",
+          "labels_with_eval_support": 16,
+          "total_eval_support": 98,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": -0.010351,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": -0.023623
+        },
+        {
+          "support_bucket": "real_only",
+          "labels_with_eval_support": 0,
+          "total_eval_support": 0,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0
+        },
+        {
+          "support_bucket": "synthetic_only",
+          "labels_with_eval_support": 0,
+          "total_eval_support": 0,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0
+        },
+        {
+          "support_bucket": "unseen",
+          "labels_with_eval_support": 0,
+          "total_eval_support": 0,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0
+        }
+      ]
+    },
+    "eval_coverage": {
+      "systems": [
+        "results/recon_full_comp_preserve_final_seed3407",
+        "results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407"
+      ],
+      "bucket_delta_summary": [
+        {
+          "support_bucket": "mixed",
+          "labels_with_eval_support": 26,
+          "total_eval_support": 270,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.01773,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.01693
+        },
+        {
+          "support_bucket": "real_only",
+          "labels_with_eval_support": 0,
+          "total_eval_support": 0,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0
+        },
+        {
+          "support_bucket": "synthetic_only",
+          "labels_with_eval_support": 10,
+          "total_eval_support": 100,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.008251,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.008251
+        },
+        {
+          "support_bucket": "unseen",
+          "labels_with_eval_support": 0,
+          "total_eval_support": 0,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0
+        }
+      ]
+    },
+    "test_coverage": {
+      "systems": [
+        "results/recon_full_comp_preserve_final_seed3407",
+        "results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407"
+      ],
+      "bucket_delta_summary": [
+        {
+          "support_bucket": "mixed",
+          "labels_with_eval_support": 26,
+          "total_eval_support": 270,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": -0.032178,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": -0.030495
+        },
+        {
+          "support_bucket": "real_only",
+          "labels_with_eval_support": 0,
+          "total_eval_support": 0,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0
+        },
+        {
+          "support_bucket": "synthetic_only",
+          "labels_with_eval_support": 10,
+          "total_eval_support": 103,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": -0.000501,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": -0.000487
+        },
+        {
+          "support_bucket": "unseen",
+          "labels_with_eval_support": 0,
+          "total_eval_support": 0,
+          "mean_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0,
+          "weighted_delta_results/_archived_final_model_selection_20260311/recon_full_comp_nonword_only_seed3407_minus_results/recon_full_comp_preserve_final_seed3407": 0.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/t-00010101-1
+@Begin
+@Languages:	eng
+@Participants:	1062 Student
+@ID:	eng|Vercellotti|1062|||2||Student|level4||
+@Media:	1062_3G2, audio
+@Transcriber:	jms
+*1062:	the topic is transportation [% 5 syllables] ah in: my country . 2758_4631
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 noun|transportation intj|ah adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|DISCOURSE 6|8|CASE 7|8|NMOD-POSS 8|4|NMOD 9|4|PUNCT
+*1062:	in my country the transportation &~ska is very easy . 7960_8477
+%mor:	adp|in pron|my-Prs-Gen-S1 noun|country det|the-Def-Art noun|transportation aux|be-Fin-Ind-Pres-S3 adv|very adj|easy-S1 .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|8|OBL 4|5|DET 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|0|ROOT 9|8|PUNCT
+*1062:	<we have> [//] ah <we use> [///] &-uh most people use &-uh taxi and bus . 9858_15709
+%mor:	intj|ah adj|most-Sup-S1 noun|person-Plur verb|use-Fin-Ind-Pres-P3 noun|taxi-Acc cconj|and noun|bus .
+%gra:	1|4|DISCOURSE 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|7|CC 7|5|CONJ 8|4|PUNCT
+*1062:	and the taxi is ah cheap than here . 18038_18708
+%mor:	cconj|and det|the-Def-Art noun|taxi aux|be-Fin-Ind-Pres-S3 adv|ah adj|cheap-S1 adp|than adv|here .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+*1062:	&-uh but the bus is &-uh difficult &-uh because ah the buses available just in [/] ah in highway . 19117_27685
+%mor:	cconj|but det|the-Def-Art noun|bus aux|be-Fin-Ind-Pres-S3 adj|difficult-S1 sconj|because intj|ah det|the-Def-Art noun|bus-Plur adj|available-S1 adv|just intj|ah adp|in noun|highway .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|10|MARK 7|10|DISCOURSE 8|9|DET 9|10|NSUBJ 10|5|ADVCL 11|12|ADVMOD 12|10|DISCOURSE 13|14|CASE 14|10|OBL 15|5|PUNCT
+*1062:	and the [/] the people have a problem to get to highway by walking . 28108_33340
+%mor:	cconj|and det|the-Def-Art noun|person-Plur verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|problem-Acc part|to verb|get-Inf-S adp|to noun|highway adp|by verb|walk-Part-Pres-S .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|MARK 8|6|ACL 9|10|CASE 10|8|OBL 11|12|CASE 12|8|OBL 13|4|PUNCT
+*1062:	and [//] &-uh but ah <in united> [/] in united state &-uh <that buses> [//] &-uh &~da <the bus> [//] the buses &-uh it's good transportation for &-uh people they don't have a car . 33770_47949
+%mor:	cconj|but intj|ah adp|in adj|united-S1 noun|state det|the-Def-Art noun|bus-Plur pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-S1 noun|transportation adp|for noun|person-Plur pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|have-Inf-S det|a-Ind-Art noun|car-Acc .
+%gra:	1|11|CC 2|11|DISCOURSE 3|5|CASE 4|5|AMOD 5|11|OBL 6|7|DET 7|11|NSUBJ 8|11|NSUBJ 9|11|COP 10|11|AMOD 11|0|ROOT 12|13|CASE 13|11|NMOD 14|17|NSUBJ 15|17|AUX 16|17|ADVMOD 17|13|ACL-RELCL 18|19|DET 19|17|OBJ 20|11|PUNCT
+*1062:	&~a mm &~ca and [//] &-uh &-uh &~beca ah the [/] ah <the people> [//] and &-uh people ah use &-uh car for transportation my country . 48044_63351
+%mor:	intj|mm intj|ah intj|ah cconj|and noun|person-Plur intj|ah verb|use-Fin-S noun|car-Acc adp|for noun|transportation pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|7|DISCOURSE 4|5|CC 5|7|NSUBJ 6|7|DISCOURSE 7|0|ROOT 8|7|OBJ 9|10|CASE 10|7|OBL 11|12|NMOD-POSS 12|10|NMOD-UNMARKED 13|7|PUNCT
+*1062:	it's easy than here . 66275_66996
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|easy-S1 adp|than adv|here .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*1062:	and the [/] &~ca the car is very &-uh cheap in Kuwait . 68736_71284
+%mor:	cconj|and det|the-Def-Art noun|car aux|be-Fin-Ind-Pres-S3 adv|very adj|cheap-S1 adp|in propn|Kuwait .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+*1062:	so &-uh we use &-uh that bus all the time . 71865_76472
+%mor:	adv|so pron|we-Prs-Nom-P1 verb|use-Fin-Ind-Pres-P1 det|that-Def-Dem-Sing noun|bus-Acc det|all-Def-Tot det|the-Def-Art noun|time .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|DET-PREDET 7|8|DET 8|3|OBL-UNMARKED 9|3|PUNCT
+*1062:	&~i &-uh and &-um <the taxi here is> [/] &-uh <the taxi here is> [/] &-uh &~ver the taxi here is very expensive . 76516_85403
+%mor:	cconj|and det|the-Def-Art noun|taxi adv|here aux|be-Fin-Ind-Pres-S3 adv|very adj|expensive-S1 .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|3|ADVMOD 5|7|COP 6|7|ADVMOD 7|0|ROOT 8|7|PUNCT
+*1062:	like we spent &-uh ten [/] &~pak ten [/] ten dollars for [/] &~transit for go to somewhere . 86698_94780
+%mor:	intj|like pron|we-Prs-Nom-P1 verb|spend-Fin-Ind-Past-P1-irr num|ten noun|dollar-Plur-Acc adp|for verb|go-Inf-S adp|to adv|somewhere .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|NUMMOD 5|3|OBJ 6|7|MARK 7|3|ADVCL 8|9|CASE 9|7|OBL 10|3|PUNCT
+*1062:	and [/] &-uh and they: take a tip . 95220_98660
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|take-Fin-Ind-Pres-P3 det|a-Ind-Art noun|tip-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*1062:	but in my country they don't take a tip . 102827_103502
+%mor:	cconj|but adp|in pron|my-Prs-Gen-S1 noun|country pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|take-Inf-S det|a-Ind-Art noun|tip-Acc .
+%gra:	1|8|CC 2|4|CASE 3|4|NMOD-POSS 4|8|OBL 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|10|DET 10|8|OBJ 11|8|PUNCT
+*1062:	&-uh and [/] &-uh &~i and &~tha the process to get &-uh a cab it's ah &-uh better than my country . 104450_116709
+%mor:	cconj|and det|the-Def-Art noun|process part|to verb|get-Inf-S det|a-Ind-Art noun|cab-Acc pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|ah adj|good-Cmp-S1 adp|than pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|11|CC 2|3|DET 3|11|NSUBJ 4|5|MARK 5|3|ACL 6|7|DET 7|5|OBJ 8|11|NSUBJ 9|11|COP 10|11|ADVMOD 11|0|ROOT 12|14|CASE 13|14|NMOD-POSS 14|11|OBL 15|11|PUNCT
+*1062:	we can ah do it in(t)ernet in a network . 116709_120191
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S intj|ah verb|do-Inf-S pron|it-Prs-Acc-S3 noun|internet-Acc adp|in det|a-Ind-Art noun|network .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|DISCOURSE 4|0|ROOT 5|4|OBJ 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+@End

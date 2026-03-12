@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/t-00010267-1
+@Begin
+@Languages:	eng
+@Participants:	1305 Student
+@ID:	eng|Vercellotti|1305|||3||Student|level4||
+@Media:	1305_4P3, audio
+@Transcriber:	jms
+*1305:	hello today my topic is talking about a famous person from the past . 1782_7930
+%mor:	intj|hello noun|today pron|my-Prs-Gen-S1 noun|topic aux|be-Fin-Ind-Pres-S3 verb|talk-Part-Pres-S adp|about det|a-Ind-Art adj|famous-S1 noun|person adp|from det|the-Def-Art noun|past .
+%gra:	1|6|DISCOURSE 2|6|OBL-UNMARKED 3|4|NMOD-POSS 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|10|CASE 8|10|DET 9|10|AMOD 10|6|OBL 11|13|CASE 12|13|DET 13|10|NMOD 14|6|PUNCT
+*1305:	&-uh the person &-uh who is famous in my country &-uh &~ha his name is ah Sanyin_Fashi . 8520_18166
+%mor:	det|the-Def-Art noun|person pron|who-Rel aux|be-Fin-Ind-Pres-S3 adj|famous-S1 adp|in pron|my-Prs-Gen-S1 noun|country pron|his-Prs-Gen-S3 noun|name aux|be-Fin-Ind-Pres-S3 intj|ah propn|SanyinFashi .
+%gra:	1|2|DET 2|13|NSUBJ 3|5|NSUBJ 4|5|COP 5|2|ACL-RELCL 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|10|NMOD-POSS 10|5|OBL-UNMARKED 11|13|COP 12|13|DISCOURSE 13|0|ROOT 14|13|PUNCT
+*1305:	and <he is really> [//] he was &~ve really famous in my country . 19423_23790
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|really adj|famous-S1 adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|5|PUNCT
+*1305:	he: was &-uh &-uh the leader of the our religions [=? regions] . 24960_30946
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|leader adp|of det|the-Def-Art pron|our-Prs-Gen-P1 noun|religion-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|8|CASE 6|8|DET 7|8|NMOD-POSS 8|4|NMOD 9|4|PUNCT
+*1305:	and <why he is> [//] why he was &~v famous . 32366_34983
+%mor:	cconj|and adv|why pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|famous-S1 .
+%gra:	1|5|CC 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|ADVCL-RELCL 6|2|PUNCT
+*1305:	because &-uh &~w I always &-uh kn:ew his news on tv or in [//] &-uh on the newspaper . 35740_48096
+%mor:	sconj|because pron|I-Prs-Nom-S1 adv|always verb|know-Fin-Ind-Past-S1-irr pron|his-Prs-Gen-S3 noun|news-Acc adp|on noun|TV cconj|or adp|on det|the-Def-Art noun|newspaper .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|8|CASE 8|6|NMOD 9|12|CC 10|12|CASE 11|12|DET 12|8|CONJ 13|4|PUNCT
+*1305:	&-uh I've [//] &-uh h:e [/] he always encourages everyone &~t . 48971_55604
+%mor:	pron|he-Prs-Nom-S3 adv|always verb|encourage-Fin-Ind-Pres-S3 pron|everyone-Tot-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*1305:	an:d &-uh <he do> [//] &~men he did many things . 56727_60645
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3-irr adj|many-S1 noun|thing-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+*1305:	&-um he did many things <v:ery &~ver has v:ery> [//] &-uh was very &~f famous . 61530_71534
+%mor:	pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3-irr adj|many-S1 noun|thing-Plur aux|be-Fin-Ind-Past-S3-irr adv|very adj|famous-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|2|CCOMP 8|2|PUNCT
+*1305:	ah he [/] he was the person who is modest and &-uh reliables . 72094_78700
+%mor:	intj|ah pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|person pron|who-Rel aux|be-Fin-Ind-Pres-S3 adj|modest-S1 cconj|and adj|reliables-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|8|NSUBJ 7|8|COP 8|5|ACL-RELCL 9|10|CC 10|8|CONJ 11|5|PUNCT
+*1305:	and ah &~wo: why people loves him . 79517_83045
+%mor:	cconj|and intj|ah adv|why noun|person-Plur verb|love-Fin-Ind-Pres-S3 pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|DISCOURSE 3|5|ADVMOD 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*1305:	because <he always> [/] &~as he always support &-uh every [/] every people &~d who needta help ah or [/] &-uh or &~ev (eve)ry people who is poor . 83567_99348
+%mor:	sconj|because pron|he-Prs-Nom-S3 adv|always verb|support-Fin-Ind-Pres-S3 det|every-Def-Tot noun|person-Plur-Acc pron|who-Rel aux|needta-Fin-Ind-Pres-P3 verb|help-Fin-Ind-Pres-P3 intj|ah cconj|or det|every-Def-Tot noun|person-Plur-Acc pron|who-Rel aux|be-Fin-Ind-Pres-S3 adj|poor-S1 .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|9|DISCOURSE 11|13|CC 12|13|DET 13|9|OBJ 14|16|NSUBJ 15|16|COP 16|13|ACL-RELCL 17|4|PUNCT
+*1305:	and &-um when [/] &~s &-uh <when something> [//] when some serious things happened he [/] he always &~sh showed up &-uh in this place to encouraged [% 4 syllables] people an:d [///] &~hi he [///] and I in my perspective &~i . 100108_120191
+%mor:	cconj|and adv|when det|some-Def-Ind adj|serious-S1 noun|thing-Plur verb|happen-Fin-Ind-Past-P3 pron|he-Prs-Nom-S3 adv|always verb|show-Fin-Ind-Past-S3 adp|up adp|in det|this-Def-Dem-Sing noun|place part|to verb|encourage-Part-Past-S noun|person-Plur-Acc cconj|and pron|I-Prs-Nom-S1 adp|in pron|my-Prs-Gen-S1 noun|perspective .
+%gra:	1|9|CC 2|6|ADVMOD 3|5|DET 4|5|AMOD 5|6|NSUBJ 6|9|ADVCL 7|9|NSUBJ 8|9|ADVMOD 9|0|ROOT 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|15|MARK 15|9|ADVCL 16|15|OBJ 17|18|CC 18|16|CONJ 19|21|CASE 20|21|NMOD-POSS 21|15|OBL 22|9|PUNCT
+@End

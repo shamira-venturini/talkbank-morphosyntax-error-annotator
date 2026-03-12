@@ -1,0 +1,32 @@
+@UTF8
+@PID:	11312/a-00062590-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1337_4R3, audio
+*PAR0:	I'd like to talk about &-uh &-uh bring simple person in history . 1300_7140
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S part|to verb|talk-Inf-S adp|about verb|bring-Inf-S adj|simple-S1 noun|person-Acc adp|in noun|history .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|MARK 7|5|ADVCL 8|9|AMOD 9|7|OBJ 10|11|CASE 11|7|OBL 12|3|PUNCT
+*PAR0:	that's the first empire in China history . 9080_14240
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|first-S1 noun|empire adp|in propn|China noun|history .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|8|CASE 7|8|COMPOUND 8|5|NMOD 9|5|PUNCT
+*PAR0:	he [/] he name is he united the China to &-uh &-uh before he they were more than seven countries . 15820_29310
+%mor:	pron|he-Prs-Nom-S3 noun|name aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|unite-Part-Past-S det|the-Def-Art propn|China-Acc adp|to sconj|before pron|he-Prs-Nom-S3 pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr adj|more-Cmp-S1 adp|than num|seven noun|country-Plur .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ-OUTER 3|5|COP 4|5|NSUBJ-PASS 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|OBL 9|16|MARK 10|16|NSUBJ 11|16|NSUBJ 12|16|COP 13|15|ADVMOD 14|13|FIXED 15|16|NUMMOD 16|5|ADVCL 17|5|PUNCT
+*PAR0:	and he established a whole China and he wrote the China &-uh I indicate &-uh official Chinese language . 41720_62520
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|establish-Fin-Ind-Past-S3 det|a-Ind-Art adj|whole-S1 propn|China-Acc cconj|and pron|he-Prs-Nom-S3 verb|write-Fin-Ind-Past-S3-irr det|the-Def-Art propn|China-Acc pron|I-Prs-Nom-S1 verb|indicate-Fin-Ind-Pres-S1 adj|official-S1 adj|Chinese-S1 noun|language-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CC 8|9|NSUBJ 9|3|CONJ 10|11|DET 11|9|OBJ 12|13|NSUBJ 13|11|ACL-RELCL 14|16|AMOD 15|16|AMOD 16|13|OBJ 17|3|PUNCT
+*PAR0:	and &-uh we still using today . 64319_68400
+%mor:	cconj|and pron|we-Prs-Nom-P1 adv|still verb|use-Part-Pres-S noun|today .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBL-UNMARKED 6|4|PUNCT
+*PAR0:	&-uh he built the Great War to protect his people . 72240_79140
+%mor:	pron|he-Prs-Nom-S3 verb|build-Fin-Ind-Past-S3-irr det|the-Def-Art adj|great-S1 propn|War-Acc part|to verb|protect-Inf-S pron|his-Prs-Gen-S3 noun|person-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|7|MARK 7|2|ADVCL 8|9|NMOD-POSS 9|7|OBJ 10|2|PUNCT
+*PAR0:	his the first empire in China history . 90680_98760
+%mor:	pron|his-Prs-Gen-S3 det|the-Def-Art adj|first-S1 noun|empire adp|in propn|China noun|history .
+%gra:	1|4|NMOD-POSS 2|4|DET 3|4|AMOD 4|0|ROOT 5|7|CASE 6|7|COMPOUND 7|4|NMOD 8|4|PUNCT
+*PAR0:	he &-uh he has &-uh most power reputation in history . 102560_111000
+%mor:	pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adj|most-Sup-S1 noun|power noun|reputation-Acc adp|in noun|history .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|0|ROOT 4|6|AMOD 5|6|COMPOUND 6|3|OBJ 7|8|CASE 8|3|OBL 9|3|PUNCT
+@End

@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/t-00010248-1
+@Begin
+@Languages:	eng
+@Participants:	1211 Student
+@ID:	eng|Vercellotti|1211|||1||Student|level4||
+@Media:	1211_5U1, audio
+@Transcriber:	jms
+*1211:	&-um the topic is about &-uh media violence in my country . 3906_8122
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 adp|about noun|media noun|violence adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|COMPOUND 6|0|ROOT 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|6|PUNCT
+*1211:	&-uh o:f course &-uh violence can happen in every &~i show or whatever in [//] &~teev on tv or in movies . 8734_17923
+%mor:	adp|of noun|course noun|violence aux|can-Fin-S verb|happen-Inf-S adp|in det|every-Def-Tot noun|show cconj|or pron|whatever-Int-S1 adp|on noun|TV cconj|or adp|in noun|movie-Plur .
+%gra:	1|5|ADVMOD 2|1|FIXED 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|CC 10|8|CONJ 11|12|CASE 12|10|NMOD 13|15|CC 14|15|CASE 15|12|CONJ 16|5|PUNCT
+*1211:	&-uh my country &-uh there is specific channels that can show &-uh movies which &-uh have violence . 18289_29519
+%mor:	pron|my-Prs-Gen-S1 noun|country pron|there-Int-S1 aux|be-Fin-Ind-Pres-S3 adj|specific-S1 noun|channel-Plur pron|that-Rel aux|can-Fin-S verb|show-Inf-S noun|movie-Plur-Acc pron|which-Rel-S1 verb|have-Fin-Ind-Pres-P3 noun|violence-Acc .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|4|EXPL 4|6|COP 5|6|AMOD 6|0|ROOT 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|9|OBJ 11|12|NSUBJ 12|10|ACL-RELCL 13|12|OBJ 14|6|PUNCT
+*1211:	&-um I think &-uh it's ah pretty goo(d) to [/] to be free and have democracy . 30135_38137
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 intj|ah adv|pretty adj|good-S1 part|to aux|be-Inf-S adj|free-S1 cconj|and verb|have-Inf-S noun|democracy-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|EXPL 4|7|COP 5|7|DISCOURSE 6|7|ADVMOD 7|2|CCOMP 8|10|MARK 9|10|COP 10|7|XCOMP 11|12|CC 12|10|CONJ 13|12|OBJ 14|2|PUNCT
+*1211:	no needta banned the violence movies . 40342_40680
+%mor:	det|no-Def-Neg noun|needta verb|ban-Fin-Ind-Past-S3 det|the-Def-Art noun|violence noun|movie-Plur-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+*1211:	or no need to: &~s censor them because &-uh let somebody choose whatever he want . 44218_49184
+%mor:	cconj|or det|no-Def-Neg noun|need part|to verb|censor-Inf-S pron|they-Prs-Acc-P3 sconj|because verb|let-Fin-Imp-S pron|somebody-Ind-S1 verb|choose-Inf-S pron|whatever-Int-S1 pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|5|MARK 5|3|ACL 6|5|OBJ 7|8|MARK 8|5|ADVCL 9|8|OBJ 10|8|XCOMP 11|10|OBJ 12|13|NSUBJ 13|11|ACL-RELCL 14|3|PUNCT
+*1211:	some people wants to: see &-uh violence . 51635_54427
+%mor:	det|some-Def-Ind noun|person-Plur verb|want-Fin-Ind-Pres-S3 part|to verb|see-Inf-S noun|violence-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*1211:	some people want to see &-uh &-uh movies without violence . 54427_58975
+%mor:	det|some-Def-Ind noun|person-Plur verb|want-Fin-Ind-Pres-P3 part|to verb|see-Inf-S noun|movie-Plur-Acc adp|without noun|violence .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|8|CASE 8|6|NMOD 9|3|PUNCT
+*1211:	on my opinion &-uh I think it's pretty goo(d) &~t to &~i &~i let them open . 60162_66355
+%mor:	adp|on pron|my-Prs-Gen-S1 noun|opinion pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|pretty adj|good-S1 part|to verb|let-Inf-S pron|they-Prs-Acc-P3 verb|open-Inf-S .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|9|EXPL 7|9|COP 8|9|ADVMOD 9|5|CCOMP 10|11|MARK 11|9|CSUBJ 12|11|OBJ 13|11|XCOMP 14|5|PUNCT
+*1211:	and &-uh the person has [/] &-uh has mind . 68144_71148
+%mor:	cconj|and det|the-Def-Art noun|person verb|have-Fin-Ind-Pres-S3 noun|mind-Acc .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*1211:	and he can made up his mind whatever he want to see . 75870_76338
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|can-Fin-S verb|make-Part-Past-S-irr adp|up pron|his-Prs-Gen-S3 noun|mind-Acc pron|whatever-Int-S1 pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 part|to verb|see-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|NMOD-POSS 7|4|OBJ 8|10|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|12|MARK 12|10|XCOMP 13|4|PUNCT
+*1211:	<if he> [/] want [/] <if he wanna see> [//] if he wants to see &-uh violence he can see that . 76954_82718
+%mor:	sconj|if pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 part|to verb|see-Inf-S noun|violence-Acc pron|he-Prs-Nom-S3 aux|can-Fin-S verb|see-Inf-S pron|that-Dem .
+%gra:	1|3|MARK 2|3|NSUBJ 3|9|ADVCL 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|9|OBJ 11|9|PUNCT
+*1211:	if he wants to see &-uh movies without it &-uh &~he he can see that . 82718_88738
+%mor:	sconj|if pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 part|to verb|see-Inf-S noun|movie-Plur-Acc adp|without pron|it-Prs-Acc-S3 pron|he-Prs-Nom-S3 aux|can-Fin-S verb|see-Inf-S pron|that-Dem .
+%gra:	1|3|MARK 2|3|NSUBJ 3|11|ADVCL 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|8|CASE 8|5|OBL 9|11|NSUBJ 10|11|AUX 11|0|ROOT 12|11|OBJ 13|11|PUNCT
+*1211:	&-uh in my country also &-uh &~s &-uh there is a specific &-uh channels that you can pay for it monthly &-uh or subscribe &~d in order to see &-uh channels that specialize in movies . 89271_103985
+%mor:	adp|in pron|my-Prs-Gen-S1 noun|country adv|also pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|specific-S1 noun|channel-Plur pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|pay-Inf-S adp|for pron|it-Prs-Acc-S3 adv|monthly cconj|or verb|subscribe-Inf-S sconj|in noun|order part|to verb|see-Inf-S noun|channel-Plur-Acc pron|that-Rel verb|specialize-Fin-Ind-Pres-P3 adp|in noun|movie-Plur .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|6|OBL 4|6|ADVMOD 5|6|EXPL 6|0|ROOT 7|9|DET 8|9|AMOD 9|6|NSUBJ 10|13|OBJ 11|13|NSUBJ 12|13|AUX 13|9|ACL-RELCL 14|15|CASE 15|13|OBL 16|13|ADVMOD 17|18|CC 18|13|CONJ 19|22|MARK 20|19|FIXED 21|22|MARK 22|18|ADVCL 23|22|OBJ 24|25|NSUBJ 25|23|ACL-RELCL 26|27|CASE 27|25|OBL 28|6|PUNCT
+*1211:	and &-um there is also general ah channels that can [//] everyone &~i can see it without subscription . 104817_111502
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 adv|also adj|general-S1 noun|ah noun|channel-Plur pron|that-Rel pron|everyone-Tot-S1 aux|can-Fin-S verb|see-Inf-S pron|it-Prs-Acc-S3 adp|without noun|subscription .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|ADVMOD 5|7|AMOD 6|7|COMPOUND 7|3|NSUBJ 8|11|OBJ 9|11|NSUBJ 10|11|AUX 11|7|ACL-RELCL 12|11|OBJ 13|14|CASE 14|11|OBL 15|3|PUNCT
+*1211:	this [//] &-uh we have two kinds of &-uh show in our country that's it . 111854_120191
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 num|two noun|kind-Plur-Acc adp|of noun|show adp|in pron|our-Prs-Gen-P1 noun|country pron|that-Rel~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NUMMOD 4|2|OBJ 5|6|CASE 6|4|NMOD 7|9|CASE 8|9|NMOD-POSS 9|2|OBL 10|12|NSUBJ 11|12|COP 12|2|ADVCL-RELCL 13|2|PUNCT
+@End

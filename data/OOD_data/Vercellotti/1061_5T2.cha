@@ -1,0 +1,39 @@
+@UTF8
+@PID:	11312/t-00010099-1
+@Begin
+@Languages:	eng
+@Participants:	1061 Student
+@ID:	eng|Vercellotti|1061|||2||Student|level4||
+@Media:	1061_5T2, audio
+@Transcriber:	jms
+*1061:	I'm going to talk about extravagant lifestyle . 4386_5330
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|talk-Inf-S adp|about adj|extravagant-S1 noun|lifestyle .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|AMOD 8|5|OBL 9|3|PUNCT
+*1061:	and I will compare it to the &~ordiner ordinary lifestyle . 7002_12042
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|will-Fin-S verb|compare-Inf-S pron|it-Prs-Acc-S3 adp|to det|the-Def-Art adj|ordinary-S1 noun|lifestyle .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|CASE 7|9|DET 8|9|AMOD 9|4|OBL 10|4|PUNCT
+*1061:	an extravagant lifestyle such as if a person have the latest make of car an:d every two month he change it with another ah kind of: car . 13996_34053
+%mor:	det|a-Ind-Art adj|extravagant-S1 noun|lifestyle adj|such-S1 adp|as sconj|if det|a-Ind-Art noun|person verb|have-Fin-Ind-Pres-P3 det|the-Def-Art adj|late-Sup-S1 noun|make-Acc adp|of noun|car cconj|and det|every-Def-Tot num|two noun|month pron|he-Prs-Nom-S3 verb|change-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 adp|with det|another-Def-Ind intj|ah noun|kind adp|of noun|car .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|9|MARK 5|4|FIXED 6|9|MARK 7|8|DET 8|9|NSUBJ 9|3|ACL 10|12|DET 11|12|AMOD 12|9|OBJ 13|14|CASE 14|12|NMOD 15|20|CC 16|18|DET 17|18|NUMMOD 18|20|OBL-UNMARKED 19|20|NSUBJ 20|3|CONJ 21|20|OBJ 22|25|CASE 23|25|DET 24|25|DISCOURSE 25|20|OBL 26|27|CASE 27|25|NMOD 28|3|PUNCT
+*1061:	and the other thing &-uh having &-uh a big house such a:s a castle with swimming pool a:nd [/] &-uh and &-um five &~i &-uh house maid . 35335_62426
+%mor:	cconj|and det|the-Def-Art adj|other-S1 noun|thing-Ger verb|have-Ger-S det|a-Ind-Art adj|big-S1 noun|house-Acc adj|such-S1 adp|as det|a-Ind-Art noun|castle adp|with noun|swim-Ger noun|pool cconj|and num|five noun|house noun|maid .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|0|ROOT 5|4|ACL 6|8|DET 7|8|AMOD 8|5|OBJ 9|12|CASE 10|9|FIXED 11|12|DET 12|8|NMOD 13|15|CASE 14|15|COMPOUND 15|12|NMOD 16|19|CC 17|19|NUMMOD 18|19|COMPOUND 19|15|CONJ 20|4|PUNCT
+*1061:	now I'm &~t going to talk about the ordinary lifestyle . 66330_66685
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|talk-Inf-S adp|about det|the-Def-Art adj|ordinary-S1 noun|lifestyle .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|10|CASE 8|10|DET 9|10|AMOD 10|6|OBL 11|4|PUNCT
+*1061:	ordinary lifestyles it's if you have a regular job a:nd regular and basic &-uh amount of salary . 67992_80380
+%mor:	adj|ordinary-S1 noun|lifestyle-Plur pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 sconj|if pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 det|a-Ind-Art adj|regular-S1 noun|job-Acc cconj|and adj|regular-S1 cconj|and adj|basic-S1 noun|amount adp|of noun|salary .
+%gra:	1|2|AMOD 2|7|NSUBJ-OUTER 3|7|NSUBJ-OUTER 4|7|COP 5|7|MARK 6|7|NSUBJ 7|0|ROOT 8|10|DET 9|10|AMOD 10|7|OBJ 11|15|CC 12|15|AMOD 13|14|CC 14|12|CONJ 15|10|CONJ 16|17|CASE 17|15|NMOD 18|7|PUNCT
+*1061:	and you have a car not &-uh that expensive . 82286_87211
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 det|a-Ind-Art noun|car-Acc part|not adv|that adj|expensive-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|ADVMOD 7|8|ADVMOD 8|3|XCOMP 9|3|PUNCT
+*1061:	<and it's> [//] &-uh and [/] and it doesn't costs a_lot_of: money . 88030_98044
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|cost-Fin-Ind-Pres-S3 noun|alotof noun|money-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|COMPOUND 7|5|OBJ 8|5|PUNCT
+*1061:	&-uh also if you have a house that <fit you> [//] fit a person with his family only . 98718_112879
+%mor:	adv|also sconj|if pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 det|a-Ind-Art noun|house-Acc pron|that-Rel verb|fit-Fin-Ind-Pres-P3 det|a-Ind-Art noun|person-Acc adp|with pron|his-Prs-Gen-S3 noun|family adv|only .
+%gra:	1|4|ADVMOD 2|4|MARK 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|10|DET 10|8|OBJ 11|13|CASE 12|13|NMOD-POSS 13|8|OBL 14|8|ADVMOD 15|4|PUNCT
+*1061:	and the ordinary lifestyle it's better than extravagant . 115691_120191
+%mor:	cconj|and det|the-Def-Art adj|ordinary-S1 noun|lifestyle pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-Cmp-S1 adp|than adj|extravagant-S1 .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|7|NSUBJ 5|7|NSUBJ 6|7|COP 7|0|ROOT 8|9|CASE 9|7|OBL 10|7|PUNCT
+@End

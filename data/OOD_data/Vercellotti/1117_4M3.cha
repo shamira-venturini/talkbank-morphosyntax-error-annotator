@@ -1,0 +1,35 @@
+@UTF8
+@PID:	11312/a-00062493-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1117_4M3, audio
+*PAR0:	now I'll talk about &-uh the first leader is the chairman was the chairman Ma and chairman Ma was the first &-uh the leader . 1520_15300
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|will-Fin-S verb|talk-Inf-S adp|about det|the-Def-Art adj|first-S1 noun|leader aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|chairman aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|chairman propn|ma cconj|and noun|chairman propn|ma aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art adj|first-S1 det|the-Def-Art noun|leader .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|14|COP 10|11|DET 11|14|NSUBJ 12|14|COP 13|14|DET 14|4|PARATAXIS 15|14|FLAT 16|17|CC 17|23|NSUBJ 18|17|FLAT 19|23|COP 20|23|DET 21|23|AMOD 22|23|DET 23|14|CONJ 24|4|PUNCT
+*PAR0:	&-uh the after nineteen fourteen the little chi China built &-uh he &-uh the famous is he &-uh established &-uh very different regression regulation in our country . 15880_36130
+%mor:	det|the-Def-Art adp|after num|nineteen num|fourteen det|the-Def-Art adj|little-S1 noun|chi propn|China verb|build-Fin-Ind-Past-S3-irr pron|he-Prs-Nom-S3 det|the-Def-Art adj|famous-S1 aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|establish-Fin-Ind-Past-S3 adv|very adj|different-S1 noun|regression noun|regulation-Acc adp|in pron|our-Prs-Gen-P1 noun|country .
+%gra:	1|7|DET 2|4|CASE 3|4|NUMMOD 4|15|OBL 5|7|DET 6|7|AMOD 7|15|NSUBJ-OUTER 8|9|NSUBJ 9|7|ACL-RELCL 10|12|NSUBJ 11|12|DET 12|9|XCOMP 13|15|COP 14|15|NSUBJ 15|0|ROOT 16|17|ADVMOD 17|19|AMOD 18|19|COMPOUND 19|15|OBJ 20|22|CASE 21|22|NMOD-POSS 22|19|NMOD 23|15|PUNCT
+*PAR0:	&-uh and <he also studied> [/] he also studied the culture revolution from my perspective . 41320_54090
+%mor:	cconj|and pron|he-Prs-Nom-S3 adv|also verb|study-Fin-Ind-Past-S3 det|the-Def-Art noun|culture noun|revolution-Acc adp|from pron|my-Prs-Gen-S1 noun|perspective .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|10|CASE 9|10|NMOD-POSS 10|4|OBL 11|4|PUNCT
+*PAR0:	the culture revolution was a huge disaster . 54520_58210
+%mor:	det|the-Def-Art noun|culture noun|revolution aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|huge-S1 noun|disaster .
+%gra:	1|3|DET 2|3|COMPOUND 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|0|ROOT 8|7|PUNCT
+*PAR0:	and <it affect the> [/] it affect the entire generation . 59040_64810
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|affect-Fin-Ind-Pres-S3 det|the-Def-Art adj|entire-S1 noun|generation-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*PAR0:	and &-uh so I think it was hard to invalue [/] invalue for chairman Ma mm . 68000_81780
+%mor:	cconj|and adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|hard-S1 part|to verb|invalue-Inf-S adp|for noun|chairman propn|ma intj|mm .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|7|EXPL 6|7|COP 7|4|CCOMP 8|9|MARK 9|7|CSUBJ 10|11|CASE 11|9|OBL 12|11|FLAT 13|9|OBL 14|4|PUNCT
+*PAR0:	but and that time he was a great person . 82720_89280
+%mor:	cconj|but cconj|and det|that-Def-Dem-Sing noun|time pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|great-S1 noun|person .
+%gra:	1|9|CC 2|9|CC 3|4|DET 4|9|OBL-UNMARKED 5|9|NSUBJ 6|9|COP 7|9|DET 8|9|AMOD 9|0|ROOT 10|9|PUNCT
+*PAR0:	and &-uh he thought the property was owned by state . 90240_96610
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|think-Fin-Ind-Past-S3-irr det|the-Def-Art noun|property aux|be-Fin-Ind-Past-S3-irr verb|own-Part-Past-S adp|by noun|state .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|7|NSUBJ-PASS 6|7|AUX-PASS 7|3|CCOMP 8|9|CASE 9|7|OBL-AGENT 10|3|PUNCT
+*PAR0:	and all of the product &-uh was equaled to every cities that's that was his so [/] so famous and was respect by everywhere and our time . 99640_118150
+%mor:	cconj|and det|all-Def-Tot adp|of det|the-Def-Art noun|product aux|be-Fin-Ind-Past-S3-irr verb|equal-Part-Past-S adp|to det|every-Def-Tot noun|city-Plur pron|that-Rel~aux|be-Fin-Ind-Pres-S3 pron|that-Dem aux|be-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 adv|so adj|famous-S1 cconj|and aux|be-Fin-Ind-Past-S3-irr noun|respect adp|by adv|everywhere cconj|and pron|our-Prs-Gen-P1 noun|time .
+%gra:	1|7|CC 2|7|NSUBJ-PASS 3|5|CASE 4|5|DET 5|2|NMOD 6|7|AUX-PASS 7|0|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|17|NSUBJ 12|17|COP 13|17|NSUBJ 14|17|COP 15|17|NMOD-POSS 16|17|ADVMOD 17|10|ACL-RELCL 18|20|CC 19|20|COP 20|17|CONJ 21|22|CASE 22|20|NMOD 23|25|CC 24|25|NMOD-POSS 25|22|CONJ 26|7|PUNCT
+@End

@@ -1,0 +1,69 @@
+@UTF8
+@PID:	11312/t-00010183-1
+@Begin
+@Languages:	eng
+@Participants:	1160 Student
+@ID:	eng|Vercellotti|1160|||1||Student|level4||
+@Media:	1160_4Q1, audio
+@Transcriber:	jms
+*1160:	discuss a problem in the world that concerns me . 9949_11982
+%mor:	verb|discuss-Fin-Imp-S det|a-Ind-Art noun|problem-Acc adp|in det|the-Def-Art noun|world pron|that-Rel verb|concern-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|8|NSUBJ 8|6|ACL-RELCL 9|8|OBJ 10|1|PUNCT
+*1160:	there are many problems in the world . 13965_14558
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 noun|problem-Plur adp|in det|the-Def-Art noun|world .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|AMOD 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*1160:	there &-uh fighting problems wars between another country . 14981_20856
+%mor:	pron|there-Dem-S1 noun|fighting-Ger noun|problem-Plur noun|war-Plur adp|between det|another-Def-Ind noun|country .
+%gra:	1|4|NMOD-POSS 2|3|COMPOUND 3|4|COMPOUND 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*1160:	there is &~i some many people they died like worl(d) war two worl(d) war one . 25226_25655
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind adj|many-S1 noun|person-Plur pron|they-Prs-Nom-P3 verb|die-Fin-Ind-Past-P3 adp|like noun|world noun|war num|two noun|world noun|war num|one .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|13|CASE 9|10|COMPOUND 10|13|COMPOUND 11|13|NUMMOD 12|13|COMPOUND 13|7|OBL 14|13|NMOD-UNMARKED 15|2|PUNCT
+*1160:	many people they died &~l there like more (t)han one hundred fifty thousand people in one country . 30654_31860
+%mor:	adj|many-S1 noun|person-Plur pron|they-Prs-Nom-P3 verb|die-Fin-Ind-Past-P3 adv|there adp|like adj|more-Cmp-S1 adp|than num|one num|hundred num|fifty num|thousand noun|person-Plur adp|in num|one noun|country .
+%gra:	1|2|AMOD 2|0|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|4|ADVMOD 6|13|CASE 7|9|ADVMOD 8|7|FIXED 9|10|COMPOUND 10|13|NUMMOD 11|12|COMPOUND 12|13|NUMMOD 13|4|OBL 14|16|CASE 15|16|NUMMOD 16|13|NMOD 17|2|PUNCT
+*1160:	&~i they shouldn't do that . 31900_34179
+%mor:	pron|they-Prs-Nom-P3 aux|should-Fin-S~part|not verb|do-Inf-S pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*1160:	they should find something to fix it together . 36568_37245
+%mor:	pron|they-Prs-Nom-P3 aux|should-Fin-S verb|find-Inf-S pron|something-Ind-S1 part|to verb|fix-Inf-S pron|it-Prs-Acc-S3 adv|together .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|MARK 6|4|ACL 7|6|OBJ 8|6|ADVMOD 9|3|PUNCT
+*1160:	they shoul(d) respect [//] &~i &~tespe another [/] another [//] &~ki &~t respect togethers [: together] [* m:+s] and see what's the problem between them . 37996_46393
+%mor:	pron|they-Prs-Nom-P3 aux|should-Fin-S verb|respect-Inf-S adv|together cconj|and verb|see-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|problem adp|between pron|they-Prs-Acc-P3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|6|CC 6|3|CONJ 7|10|NSUBJ 8|10|COP 9|10|DET 10|6|CCOMP 11|12|CASE 12|10|NMOD 13|3|PUNCT
+*1160:	like it should be like the [/] the president of the country or the king or the [/] the &~k control [//] controls of the country . 48014_52235
+%mor:	sconj|like pron|it-Prs-Nom-S3 aux|should-Fin-S aux|be-Inf-S adp|like det|the-Def-Art noun|president adp|of det|the-Def-Art noun|country cconj|or det|the-Def-Art noun|king-Ger cconj|or det|the-Def-Art noun|control-Plur adp|of det|the-Def-Art noun|country .
+%gra:	1|7|MARK 2|7|NSUBJ 3|7|AUX 4|7|COP 5|7|CASE 6|7|DET 7|0|ROOT 8|10|CASE 9|10|DET 10|7|NMOD 11|13|CC 12|13|DET 13|10|CONJ 14|16|CC 15|16|DET 16|10|CONJ 17|19|CASE 18|19|DET 19|16|NMOD 20|7|PUNCT
+*1160:	it should be &~ka &~t like &~mum make a meeting together and see what the problem between them and ah try to fix it . 55687_65517
+%mor:	pron|it-Prs-Nom-S3 aux|should-Fin-S aux|be-Inf-S intj|like verb|make-Inf-S det|a-Ind-Art noun|meeting-Acc-Ger adv|together cconj|and verb|see-Inf-S pron|what-Int-S1 det|the-Def-Art noun|problem adp|between pron|they-Prs-Acc-P3 cconj|and intj|ah verb|try-Inf-S part|to verb|fix-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|NSUBJ-OUTER 2|5|AUX 3|5|COP 4|5|DISCOURSE 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|ADVMOD 9|10|CC 10|5|CONJ 11|10|OBJ 12|13|DET 13|11|NSUBJ 14|15|CASE 15|13|NMOD 16|18|CC 17|18|DISCOURSE 18|10|CONJ 19|20|MARK 20|18|XCOMP 21|20|OBJ 22|5|PUNCT
+*1160:	and they try to help every like try to see what's a problem between them and try to discuss many thing . 67196_74408
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|try-Fin-Ind-Pres-P3 part|to verb|help-Inf-S det|every-Def-Tot intj|like verb|try-Inf-S part|to verb|see-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|problem adp|between pron|they-Prs-Acc-P3 cconj|and verb|try-Inf-S part|to verb|discuss-Inf-S adj|many-S1 noun|thing-Acc-Ger .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|DET 7|8|DISCOURSE 8|5|XCOMP 9|10|MARK 10|8|XCOMP 11|10|OBJ 12|14|COP 13|14|DET 14|10|CCOMP 15|16|CASE 16|14|NMOD 17|18|CC 18|10|CONJ 19|20|MARK 20|18|XCOMP 21|22|AMOD 22|20|OBJ 23|3|PUNCT
+*1160:	<how long is take> [/] how long is take it to fix it .
+%mor:	adv|how adv|long aux|be-Fin-Ind-Pres-S3 verb|take-Inf-S pron|it-Prs-Acc-S3 part|to verb|fix-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ADVMOD 2|4|ADVMOD 3|4|COP 4|0|ROOT 5|4|OBJ 6|7|MARK 7|4|ADVCL 8|7|OBJ 9|4|PUNCT
+*1160:	like ah if she'll like send somebody from another country [% 3 syllables] to help there or send &-uh some people to come here to see the problems . 78078_88755
+%mor:	intj|like intj|ah sconj|if pron|she-Prs-Nom-S3~aux|will-Fin-S verb|like-Inf-S verb|send-Inf-S pron|somebody-Ind-S1 adp|from det|another-Def-Ind noun|country part|to verb|help-Inf-S adv|there cconj|or verb|send-Inf-S det|some-Def-Ind noun|person-Plur-Acc part|to verb|come-Inf-S adv|here part|to verb|see-Inf-S det|the-Def-Art noun|problem-Plur-Acc .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|7|ADVCL 7|0|ROOT 8|7|OBJ 9|11|CASE 10|11|DET 11|7|OBL 12|13|MARK 13|7|ADVCL 14|13|ADVMOD 15|16|CC 16|13|CONJ 17|18|DET 18|16|OBJ 19|20|MARK 20|16|XCOMP 21|20|ADVMOD 22|23|MARK 23|20|ADVCL 24|25|DET 25|23|OBJ 26|7|PUNCT
+*1160:	I know is [/] is not easy to be respect everybody .
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-S3 part|not adj|easy-S1 part|to aux|be-Inf-S verb|respect-Inf-S pron|everybody-Tot-S1 .
+%gra:	1|2|NSUBJ 2|5|PARATAXIS 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|8|MARK 7|8|AUX 8|5|XCOMP 9|8|OBJ 10|5|PUNCT
+*1160:	but should make it . 92489_94511
+%mor:	cconj|but aux|should-Fin-S verb|make-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*1160:	and should do that . 95554_95824
+%mor:	cconj|and aux|should-Fin-S verb|do-Inf-S pron|that-Dem .
+%gra:	1|3|CC 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*1160:	and we should assist [/] assist [/] assist another country if they need help . 96795_103035
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|should-Fin-S verb|assist-Inf-S det|another-Def-Ind noun|country-Acc sconj|if pron|they-Prs-Nom-P3 verb|need-Fin-Ind-Pres-P3 noun|help-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|MARK 8|9|NSUBJ 9|4|ADVCL 10|9|OBJ 11|4|PUNCT
+*1160:	like sometimes if happen something in another country we should give him some stuff . 105732_106086
+%mor:	intj|like adv|sometimes sconj|if verb|happen-Fin-Imp-S pron|something-Ind-S1 adp|in det|another-Def-Ind noun|country pron|we-Prs-Nom-P1 aux|should-Fin-S verb|give-Inf-S pron|he-Prs-Acc-S3 det|some-Def-Ind noun|stuff-Acc .
+%gra:	1|11|DISCOURSE 2|11|ADVMOD 3|4|MARK 4|11|ADVCL 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|11|NSUBJ 10|11|AUX 11|0|ROOT 12|11|IOBJ 13|14|DET 14|11|OBJ 15|11|PUNCT
+*1160:	we should like send him: people to help them . 108133_112672
+%mor:	pron|we-Prs-Nom-P1 aux|should-Fin-S intj|like verb|send-Inf-S pron|he-Prs-Acc-S3 noun|person-Plur-Acc part|to verb|help-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|DISCOURSE 4|0|ROOT 5|4|IOBJ 6|4|OBJ 7|8|MARK 8|4|ADVCL 9|8|OBJ 10|4|PUNCT
+*1160:	like <in the> [/] &~f <in the> [/] &~m &~t in <the target> [/] the target thing is good to &~t . 113564_120191
+%mor:	intj|like adp|in det|the-Def-Art noun|target noun|thing-Ger aux|be-Fin-Ind-Pres-S3 adj|good-S1 part|to .
+%gra:	1|7|DISCOURSE 2|5|CASE 3|5|DET 4|5|COMPOUND 5|7|OBL 6|7|COP 7|0|ROOT 8|7|PUNCT 9|7|PUNCT
+@End

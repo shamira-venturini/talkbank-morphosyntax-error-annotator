@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/t-00010238-1
+@Begin
+@Languages:	eng
+@Participants:	1193 Student
+@ID:	eng|Vercellotti|1193|||3||Student|level4||
+@Media:	1193_4M3, audio
+@Transcriber:	jms
+*1193:	I'm going to talk about my best singer . 3663_6269
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|talk-Inf-S adp|about pron|my-Prs-Gen-S1 adj|good-Sup-S1 noun|singer .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|9|CASE 7|9|NMOD-POSS 8|9|AMOD 9|5|OBL 10|3|PUNCT
+*1193:	<his name> [//] is [//] &-uh his name &-uh Rashed_Almajed . 6934_11814
+%mor:	pron|his-Prs-Gen-S3 noun|name propn|RashedAlmajed .
+%gra:	1|2|NMOD-POSS 2|0|ROOT 3|2|APPOS 4|2|PUNCT
+*1193:	he's from Kuwait . 12594_14544
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|from propn|Kuwait .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*1193:	and &-uh a lot of people like him . 15222_18569
+%mor:	cconj|and det|a-Ind-Art noun|lot adp|of noun|person-Plur adp|like pron|he-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|5|CASE 5|3|NMOD 6|7|CASE 7|5|NMOD 8|3|PUNCT
+*1193:	<his goal to:> [///] arrive [///] <to the:> [///] <to take the:> [///] big [///] &-uh <to make> [///] <&~bi to take take that> [///] ah and &-uh he: &~sida [?] best one in the middle east . 20339_47712
+%mor:	intj|ah cconj|and pron|he-Prs-Nom-S3 adj|good-Sup-S1 noun|one adp|in det|the-Def-Art adj|middle-S1 noun|east .
+%gra:	1|5|DISCOURSE 2|5|CC 3|5|NSUBJ 4|5|AMOD 5|0|ROOT 6|9|CASE 7|9|DET 8|9|AMOD 9|5|NMOD 10|5|PUNCT
+*1193:	and &-uh I [//] a lot of people like him and listen to his singer . 48230_58737
+%mor:	cconj|and det|a-Ind-Art noun|lot adp|of noun|person-Plur verb|like-Fin-Ind-Pres-P3 pron|he-Prs-Acc-S3 cconj|and verb|listen-Fin-Ind-Pres-S3 adp|to pron|his-Prs-Gen-S3 noun|singer .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|5|CASE 5|3|NMOD 6|5|ACL 7|6|OBJ 8|9|CC 9|6|CONJ 10|12|CASE 11|12|NMOD-POSS 12|9|OBL 13|3|PUNCT
+*1193:	&-uh he (e)stablish [//] <twelve years ago> [//] or establish from twelve years ago . 59263_69774
+%mor:	pron|he-Prs-Nom-S3 cconj|or verb|establish-Fin-Ind-Pres-S3 adp|from num|twelve noun|year-Plur adv|ago .
+%gra:	1|3|NSUBJ 2|3|CC 3|0|ROOT 4|6|CASE 5|6|NUMMOD 6|3|OBL 7|3|ADVMOD 8|3|PUNCT
+*1193:	and <he has> [///] too a lot of people like him . 70443_86601
+%mor:	cconj|and adv|too det|a-Ind-Art noun|lot adp|of noun|person-Plur adp|like pron|he-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|DET 4|0|ROOT 5|6|CASE 6|4|NMOD 7|8|CASE 8|6|NMOD 9|4|PUNCT
+*1193:	<when he start> [//] &-uh &~i when he establish the first singer nobody like &-uh and [/] &-uh and yes . 87689_120183
+%mor:	adv|when pron|he-Prs-Nom-S3 verb|establish-Fin-Ind-Pres-S3 det|the-Def-Art adj|first-S1 noun|singer-Acc pron|nobody-Neg-S1 intj|like cconj|and intj|yes .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|6|APPOS 8|3|DISCOURSE 9|10|CC 10|3|DISCOURSE 11|3|PUNCT
+@End

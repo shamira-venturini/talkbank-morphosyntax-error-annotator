@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/a-00062518-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@ID:	eng|Vercellotti|PAR1|||||Participant|||
+@Media:	1212_4R1, audio
+*PAR0:	the city I come from is called Dema it is Al City &-um actually it is not &-um as big as the other cities in my country . 750_9350
+%mor:	det|the-Def-Art noun|city pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from aux|be-Fin-Ind-Pres-S3 verb|call-Part-Past-S propn|Dema pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 propn|Al propn|City adv|actually pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 part|not adv|as adj|big-S1 adp|as det|the-Def-Art adj|other-S1 noun|city-Plur adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|2|DET 2|7|NSUBJ-PASS 3|4|NSUBJ 4|2|ACL-RELCL 5|4|OBL 6|7|AUX-PASS 7|0|ROOT 8|7|XCOMP 9|11|NSUBJ 10|11|COP 11|7|CCOMP 12|11|FLAT 13|18|ADVMOD 14|18|NSUBJ 15|18|COP 16|18|ADVMOD 17|18|ADVMOD 18|7|PARATAXIS 19|22|CASE 20|22|DET 21|22|AMOD 22|18|OBL 23|25|CASE 24|25|NMOD-POSS 25|22|NMOD 26|7|PUNCT
+*PAR0:	but &-uh it's little small . 12420_14360
+%mor:	cconj|but pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|little-S1 adj|small-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|OBL-UNMARKED 5|0|ROOT 6|5|PUNCT
+*PAR0:	it's like &-uh maybe I can say village . 15260_17640
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 intj|like adv|maybe pron|I-Prs-Nom-S1 aux|can-Fin-S verb|say-Inf-S noun|village-Acc .
+%gra:	1|7|NSUBJ-OUTER 2|7|COP 3|7|DISCOURSE 4|7|ADVMOD 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ 9|7|PUNCT
+*PAR0:	so it [/] it isn't has it hasn't &-uh that much &-uh skys scripts or that huge malls . 17920_25890
+%mor:	adv|so pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not aux|have-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3~part|not adv|that adj|much-S1 noun|sky-Plur noun|script-Plur-Acc cconj|or det|that-Def-Dem-Sing adj|huge-S1 noun|mall-Plur .
+%gra:	1|7|DISCOURSE 2|7|NSUBJ-OUTER 3|7|COP 4|7|ADVMOD 5|7|AUX 6|7|NSUBJ 7|0|ROOT 8|7|ADVMOD 9|10|ADVMOD 10|12|AMOD 11|12|COMPOUND 12|7|OBJ 13|16|CC 14|16|DET 15|16|AMOD 16|12|CONJ 17|7|PUNCT
+*PAR0:	it's like village with &-uh beauty beautiful houses and a lot of people . 26520_33200
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|like noun|village adp|with noun|beauty adj|beautiful-S1 noun|house-Plur cconj|and det|a-Ind-Art noun|lot adp|of noun|person-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|8|CASE 6|8|COMPOUND 7|8|AMOD 8|4|NMOD 9|11|CC 10|11|DET 11|8|CONJ 12|13|CASE 13|11|NMOD 14|4|PUNCT
+*PAR0:	and there is &-um there is not much population but the people . 33520_38400
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 part|not adj|much-S1 noun|population cconj|but det|the-Def-Art noun|person-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|EXPL 5|3|COP 6|7|ADVMOD 7|8|AMOD 8|5|NSUBJ 9|11|CC 10|11|DET 11|8|CONJ 12|3|PUNCT
+*PAR0:	&-uh some people know each other . 39040_41290
+%mor:	det|some-Def-Ind noun|person-Plur verb|know-Fin-Ind-Pres-P3 det|each-Def-Rcp adj|other-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*PAR0:	&-um my city is &-uh coastal city . 43680_46850
+%mor:	pron|my-Prs-Gen-S1 noun|city aux|be-Fin-Ind-Pres-S3 adj|coastal-S1 noun|city .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*PAR0:	so it's on the beach of the Medi Sea &-um <that's why> [/] that's why the weather in the summer is pretty cold . 47520_54940
+%mor:	adv|so pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|beach adp|of det|the-Def-Art propn|Medi propn|Sea pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|why det|the-Def-Art noun|weather adp|in det|the-Def-Art noun|summer aux|be-Fin-Ind-Pres-S3 adv|pretty adj|cold-S1 .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|NMOD 11|13|NSUBJ 12|13|COP 13|6|PARATAXIS 14|15|DET 15|21|NSUBJ 16|18|CASE 17|18|DET 18|15|NMOD 19|21|COP 20|21|ADVMOD 21|13|ADVCL-RELCL 22|6|PUNCT
+*PAR0:	&-uh also the &-uh the climate in my country is little hot . 58840_62910
+%mor:	adv|also det|the-Def-Art det|the-Def-Art noun|climate adp|in pron|my-Prs-Gen-S1 noun|country aux|be-Fin-Ind-Pres-S3 adj|little-S1 adj|hot-S1 .
+%gra:	1|10|ADVMOD 2|4|DET 3|4|DET 4|10|NSUBJ 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|10|COP 9|10|OBL-UNMARKED 10|0|ROOT 11|10|PUNCT
+*PAR0:	but in my city it's cold because it's castle city . 64760_67670
+%mor:	cconj|but adp|in pron|my-Prs-Gen-S1 noun|city pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|cold-S1 sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|castle noun|city .
+%gra:	1|7|CC 2|4|CASE 3|4|NMOD-POSS 4|7|OBL 5|7|EXPL 6|7|COP 7|0|ROOT 8|12|MARK 9|12|NSUBJ 10|12|COP 11|12|COMPOUND 12|7|ADVCL 13|7|PUNCT
+*PAR0:	&-um &-um my city &-uh is little it's quite and beautiful . 69080_76040
+%mor:	pron|my-Prs-Gen-S1 noun|city aux|be-Fin-Ind-Pres-S3 adj|little-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|quite cconj|and adj|beautiful-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|NSUBJ 6|7|COP 7|4|ADVMOD 8|9|CC 9|7|CONJ 10|4|PUNCT
+*PAR0:	and &-um the most important or the most interesting part that I can do that . 77320_84720
+%mor:	cconj|and det|the-Def-Art adv|most adj|important-S1 cconj|or det|the-Def-Art adv|most adj|interesting-S1 noun|part pron|that-Rel pron|I-Prs-Nom-S1 aux|can-Fin-S verb|do-Inf-S pron|that-Dem .
+%gra:	1|4|CC 2|4|DET 3|4|ADVMOD 4|0|ROOT 5|9|CC 6|9|DET 7|8|ADVMOD 8|9|AMOD 9|4|CONJ 10|13|OBJ 11|13|NSUBJ 12|13|AUX 13|9|ACL-RELCL 14|13|OBJ 15|4|PUNCT
+*PAR0:	I can &-um go outside with my friends because there is a lot of green areas . 84940_90000
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|go-Inf-S adv|outside adp|with pron|my-Prs-Gen-S1 noun|friend-Plur sconj|because pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of adj|green-S1 noun|area-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|10|MARK 9|10|EXPL 10|3|ADVCL 11|12|DET 12|10|NSUBJ 13|15|CASE 14|15|AMOD 15|12|NMOD 16|3|PUNCT
+*PAR0:	also there is a lot of &-um &-uh of barks to go with my friends to play . 91250_98240
+%mor:	adv|also pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of adp|of noun|bark-Plur part|to verb|go-Inf-S adp|with pron|my-Prs-Gen-S1 noun|friend-Plur part|to verb|play-Inf-S .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|8|CASE 7|8|CASE 8|5|NMOD 9|10|MARK 10|5|ACL 11|13|CASE 12|13|NMOD-POSS 13|10|OBL 14|15|MARK 15|10|ADVCL 16|3|PUNCT
+*PAR0:	&-uh it's quiet . 99040_99920
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|quiet-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR0:	&-uh and we know each other . 100400_101610
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|know-Fin-Ind-Pres-P1 det|each-Def-Rcp adj|other-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*PAR1:	&-um . 105520_105590
+*PAR0:	my city is in the north western region of my country . 106950_111120
+%mor:	pron|my-Prs-Gen-S1 noun|city aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art adj|north-S1 adj|western-S1 noun|region adp|of pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|2|NMOD-POSS 2|8|NSUBJ 3|8|COP 4|8|CASE 5|8|DET 6|8|AMOD 7|8|AMOD 8|0|ROOT 9|11|CASE 10|11|NMOD-POSS 11|8|NMOD 12|8|PUNCT
+*PAR0:	&-uh it's &-uh it's far from the capital about &-uh one hundred kilometer from the capital city . 112060_118880
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|far adp|from det|the-Def-Art noun|capital adv|about num|one num|hundred noun|kilometer adp|from det|the-Def-Art noun|capital noun|city .
+%gra:	1|5|EXPL 2|8|COP 3|8|NSUBJ 4|8|COP 5|8|ADVMOD 6|8|CASE 7|8|DET 8|0|ROOT 9|11|ADVMOD 10|11|COMPOUND 11|12|NUMMOD 12|8|OBL-UNMARKED 13|16|CASE 14|16|DET 15|16|COMPOUND 16|12|NMOD 17|8|PUNCT
+@End

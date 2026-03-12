@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/t-00010205-1
+@Begin
+@Languages:	eng
+@Participants:	1167 Student
+@ID:	eng|Vercellotti|1167|||1||Student|level4||
+@Media:	1167_4L1, audio
+@Transcriber:	jms
+*1167:	my topic is describe the city that come [//] I come from . 2948_7860
+%mor:	pron|my-Prs-Gen-S1 noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S det|the-Def-Art noun|city-Acc pron|that-Rel pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|OBJ 8|9|NSUBJ 9|6|ACL-RELCL 10|7|CASE 11|4|PUNCT
+*1167:	I live in small town which name Tanomah . 9519_12726
+%mor:	pron|I-Prs-Nom-S1 verb|live-Fin-Ind-Pres-S1 adp|in adj|small-S1 noun|town pron|which-Rel-S1 verb|name-Fin-Ind-Pres-S3 propn|Tanomah-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|AMOD 5|2|OBL 6|7|NSUBJ 7|5|ACL-RELCL 8|7|OBJ 9|2|PUNCT
+*1167:	it's small city . 14322_14897
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|small-S1 noun|city .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*1167:	and it's beautiful . 16076_17190
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|beautiful-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*1167:	it hot in summer .
+%mor:	pron|it-Prs-Nom-S3 adj|hot-S1 adp|in noun|summer .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*1167:	and it's cold in the winter . 19883_22777
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|cold-S1 adp|in det|the-Def-Art noun|winter .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*1167:	so I live with cooperate people . 23304_26840
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|live-Fin-Ind-Pres-S1 adp|with verb|cooperate-Inf-S noun|person-Plur-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|ADVCL 6|5|OBJ 7|3|PUNCT
+*1167:	and they are easygoing to live with him [//] or them . 28375_35114
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 adj|easygoing-S1 part|to verb|live-Inf-S adp|with cconj|or pron|they-Prs-Acc-P3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBL 8|9|CC 9|7|CONJ 10|4|PUNCT
+*1167:	<the city> [///] &~i it's [///] there is a tree &-uh in the city . 35939_41184
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree adp|in det|the-Def-Art noun|city .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*1167:	and there is &~far &-uh farm . 41184_42583
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 noun|farm .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|3|PUNCT
+*1167:	and there is &-um a lot of &-um &~f street in [//] &-um &-uh outside of the town . 43599_53876
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of noun|street adv|outside adp|of det|the-Def-Art noun|town .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|7|ADVMOD 9|11|CASE 10|11|DET 11|8|OBL 12|3|PUNCT
+*1167:	&-um there is &~i &-um &-uh a big mountain beside the town . 54483_62614
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|mountain adp|beside det|the-Def-Art noun|town .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|2|PUNCT
+*1167:	&-um and there is &-um &-um some time in the winter &-uh if &-uh the snow fall <in that> [/] &-uh in that &~m mountain . 63356_75110
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|time adp|in det|the-Def-Art noun|winter sconj|if det|the-Def-Art noun|snow verb|fall-Fin-Ind-Pres-S3 adp|in det|that-Def-Dem-Sing noun|mountain .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|12|MARK 10|11|DET 11|12|NSUBJ 12|3|ADVCL 13|15|CASE 14|15|DET 15|12|OBL 16|3|PUNCT
+*1167:	&-uh I like my city too much because &-uh the [/] mm the [/] the weather is healthy . 76154_85622
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|city-Acc adv|too adj|much-S1 sconj|because intj|mm det|the-Def-Art noun|weather aux|be-Fin-Ind-Pres-S3 adj|healthy-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|6|ADVMOD 6|2|ADVMOD 7|12|MARK 8|12|DISCOURSE 9|10|DET 10|12|NSUBJ 11|12|COP 12|2|ADVCL 13|2|PUNCT
+*1167:	and &-um the people there is &-um so &-uh nice and so funny . 86288_93924
+%mor:	cconj|and det|the-Def-Art noun|person-Plur adv|there aux|be-Fin-Ind-Pres-S3 adv|so adj|nice-S1 cconj|and adv|so adj|funny-S1 .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|3|ADVMOD 5|7|COP 6|7|ADVMOD 7|0|ROOT 8|10|CC 9|10|ADVMOD 10|7|CONJ 11|7|PUNCT
+*1167:	&-um there is &-um &-uh a lot of f:ruit and vegetables which is indigenous from same town . 94384_105245
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of noun|fruit cconj|and noun|vegetable-Plur pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adj|indigenous-S1 adp|from adj|same-S1 noun|town .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|6|CASE 6|4|NMOD 7|8|CC 8|6|CONJ 9|11|NSUBJ 10|11|COP 11|6|ACL-RELCL 12|14|CASE 13|14|AMOD 14|11|OBL 15|2|PUNCT
+*1167:	&-um &~i m:y [/] my grandfather an(d) grandmother they live &-um there . 105719_114592
+%mor:	pron|my-Prs-Gen-S1 noun|grandfather cconj|and noun|grandmother pron|they-Prs-Nom-P3 verb|live-Fin-Ind-Pres-P3 adv|there .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|4|CC 4|2|CONJ 5|6|NSUBJ 6|0|ROOT 7|6|ADVMOD 8|6|PUNCT
+*1167:	I love to visit them again that's all . 116969_120191
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 part|to verb|visit-Inf-S pron|they-Prs-Acc-P3 adv|again pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|4|ADVMOD 7|9|NSUBJ 8|9|COP 9|4|ADVCL-RELCL 10|2|PUNCT
+@End

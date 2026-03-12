@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/t-00010119-1
+@Begin
+@Languages:	eng
+@Participants:	1075 Student
+@ID:	eng|Vercellotti|1075|||3||Student|level4||
+@Media:	1075_3F3, audio
+@Transcriber:	jms
+*1075:	the topic is talk about a famous person who:m you admire . 1672_8792
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|talk-Inf-S adp|about det|a-Ind-Art adj|famous-S1 noun|person pron|whom-Rel-S1 pron|you-Prs-Nom-S2 verb|admire-Fin-Ind-Pres-S2 .
+%gra:	1|2|DET 2|4|NSUBJ-OUTER 3|4|COP 4|0|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|11|OBJ 10|11|NSUBJ 11|8|ACL-RELCL 12|4|PUNCT
+*1075:	in the significant period time in the world when there are more wars &-uh I can say Obama show up . 9876_24804
+%mor:	adp|in det|the-Def-Art adj|significant-S1 noun|period noun|time adp|in det|the-Def-Art noun|world adv|when pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|more-Cmp-S1 noun|war-Plur pron|I-Prs-Nom-S1 aux|can-Fin-S verb|say-Inf-S propn|Obama verb|show-Fin-Ind-S adp|up .
+%gra:	1|5|CASE 2|5|DET 3|5|AMOD 4|5|COMPOUND 5|16|OBL 6|8|CASE 7|8|DET 8|5|NMOD 9|11|ADVMOD 10|11|EXPL 11|16|ADVCL 12|13|AMOD 13|11|NSUBJ 14|16|NSUBJ 15|16|AUX 16|0|ROOT 17|18|NSUBJ 18|16|CCOMP 19|18|COMPOUND-PRT 20|16|PUNCT
+*1075:	Obama is one of the president of the united ah state . 27608_28644
+%mor:	propn|Obama aux|be-Fin-Ind-Pres-S3 num|one adp|of det|the-Def-Art noun|president adp|of det|the-Def-Art verb|unite-Part-Past-S propn|ah noun|state .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|11|CASE 8|11|DET 9|11|AMOD 10|11|COMPOUND 11|6|NMOD 12|3|PUNCT
+*1075:	&-uh the united ah states is &-uh <one of the country> [//] one of the countries they contribute to help other countries such as &-uh Haiti &~o or &-uh <couple of> [/] &-uh couple of countries in Africa or [/] or Vietnam . 29265_55060
+%mor:	det|the-Def-Art adj|united-S1 propn|ah noun|state-Plur aux|be-Fin-Ind-Pres-S3 num|one adp|of det|the-Def-Art noun|country-Plur pron|they-Prs-Nom-P3 verb|contribute-Fin-Ind-Pres-P3 part|to verb|help-Inf-S adj|other-S1 noun|country-Plur-Acc adj|such-S1 adp|as propn|Haiti cconj|or noun|couple adp|of noun|country-Plur adp|in propn|Africa cconj|or propn|Vietnam .
+%gra:	1|4|DET 2|4|AMOD 3|4|COMPOUND 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|9|CASE 8|9|DET 9|6|NMOD 10|11|NSUBJ 11|9|ACL-RELCL 12|13|MARK 13|11|ADVCL 14|15|AMOD 15|13|OBJ 16|18|CASE 17|16|FIXED 18|15|NMOD 19|20|CC 20|18|CONJ 21|22|CASE 22|20|NMOD 23|24|CASE 24|22|NMOD 25|26|CC 26|24|CONJ 27|6|PUNCT
+*1075:	Obama &-uh I admire him because he's [/] &~wa <he's the> [///] he's aware &~f for many knowledge . 55604_67304
+%mor:	propn|Obama pron|I-Prs-Nom-S1 verb|admire-Fin-Ind-Pres-S1 pron|he-Prs-Acc-S3 sconj|because pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|aware-S1 adp|for adj|many-S1 noun|knowledge .
+%gra:	1|3|VOCATIVE 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|8|MARK 6|8|NSUBJ 7|8|COP 8|3|ADVCL 9|11|CASE 10|11|AMOD 11|8|OBL 12|3|PUNCT
+*1075:	and &-uh he's assist the: [/] &-um &~mid ah <the the middle> [/] &-uh &~th the middle income in the united state which <is that> [//] &~ha &-uh &~fa: <is helpful> [//] &~ta it [//] &~helpo ah <it's helpful> [//] <to to> [/] to [//] &-uh <it help> [//] ah &-uh it's helpful to help his [/] &~hel his ah citizens . 67764_89272
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|assist-Inf-S intj|ah det|the-Def-Art adj|middle-S1 noun|income-Acc adp|in det|the-Def-Art adj|united-S1 noun|state pron|which-Rel-S1 intj|ah intj|ah pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|helpful-S1 part|to verb|help-Inf-S pron|his-Prs-Gen-S3 intj|ah noun|citizen-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|DISCOURSE 6|8|DET 7|8|AMOD 8|4|OBJ 9|12|CASE 10|12|DET 11|12|AMOD 12|8|NMOD 13|18|NSUBJ 14|18|DISCOURSE 15|18|DISCOURSE 16|18|EXPL 17|18|COP 18|8|ACL-RELCL 19|20|MARK 20|18|CSUBJ 21|23|NMOD-POSS 22|23|DISCOURSE 23|20|OBJ 24|4|PUNCT
+*1075:	&-uh &~hi &-uh also &-uh <the react> [/] the react from [/] &-uh from [/] &-uh ah &~fro from the citizen is [/] &-uh <is the> [//] ah is he &-uh is [//] &~hek became now is more popular than before . 89784_107741
+%mor:	adv|also det|the-Def-Art noun|react intj|ah adp|from det|the-Def-Art noun|citizen intj|ah aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|become-Fin-Ind-Past-S3-irr adv|now aux|be-Fin-Ind-Pres-S3 adv|more adj|popular-S1 adp|than adv|before .
+%gra:	1|11|ADVMOD 2|3|DET 3|11|NSUBJ-OUTER 4|11|REPARANDUM 5|7|CASE 6|7|DET 7|3|NMOD 8|11|REPARANDUM 9|11|COP 10|11|NSUBJ 11|0|ROOT 12|15|ADVMOD 13|15|COP 14|15|ADVMOD 15|11|XCOMP 16|17|CASE 17|15|OBL 18|11|PUNCT
+*1075:	&-uh I can identify [% 4 syllables] for &-uh this topic . 108332_112052
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|identify-Inf-S adp|for det|this-Def-Dem-Sing noun|topic .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*1075:	when I ask &-uh one of the american citizens he told me that is [//] &-uh Obama is &-uh . 112906_120191
+%mor:	adv|when pron|I-Prs-Nom-S1 verb|ask-Fin-Ind-Pres-S1 num|one adp|of det|the-Def-Art adj|American-S1 noun|citizen-Plur pron|he-Prs-Nom-S3 verb|tell-Fin-Ind-Past-S3-irr pron|I-Prs-Acc-S1 sconj|that propn|Obama aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|10|ADVCL 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|4|NMOD 9|10|NSUBJ 10|0|ROOT 11|10|IOBJ 12|14|MARK 13|14|NSUBJ 14|10|CCOMP 15|10|PUNCT
+@End

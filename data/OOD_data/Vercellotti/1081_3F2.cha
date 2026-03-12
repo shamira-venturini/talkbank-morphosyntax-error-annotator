@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/t-00010132-1
+@Begin
+@Languages:	eng
+@Participants:	1081 Student
+@ID:	eng|Vercellotti|1081|||2||Student|level4||
+@Media:	1081_3F2, audio
+@Transcriber:	jms
+*1081:	the &~transboration &~stransportoration transportation [/] transporatation [: transportation] in my country it's different &-uh from: mm Pittsburgh . 4088_15714
+%mor:	det|the-Def-Art noun|transportation adp|in pron|my-Prs-Gen-S1 noun|country pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|different-S1 adp|from propn|mm propn|Pittsburgh .
+%gra:	1|2|DET 2|8|NSUBJ 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|8|NSUBJ 7|8|COP 8|0|ROOT 9|10|CASE 10|8|OBL 11|8|OBL 12|8|PUNCT
+*1081:	because &-uh my country we: don't have the [/] &-uh the [/] the train . 16408_26926
+%mor:	sconj|because pron|my-Prs-Gen-S1 noun|country pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|have-Inf-S det|the-Def-Art noun|train-Acc .
+%gra:	1|7|MARK 2|3|NMOD-POSS 3|7|NSUBJ 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+*1081:	it's &-uh don't ah available . 28196_32105
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|do-Fin-Ind-S~part|not intj|ah adj|available-S1 .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|AUX 4|6|ADVMOD 5|6|DISCOURSE 6|0|ROOT 7|6|PUNCT
+*1081:	&-uh &-uh and &-uh we have a few buses . 33106_39980
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art adj|few-S1 noun|bus-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*1081:	&-uh because the [/] &-uh the weather is &-uh nonappropriate &-uh in [/] in my country because we have &-uh hot weather . 39980_57000
+%mor:	sconj|because det|the-Def-Art noun|weather aux|be-Fin-Ind-Pres-S3 adj|nonappropriate-S1 adp|in pron|my-Prs-Gen-S1 noun|country sconj|because pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 adj|hot-S1 noun|weather-Acc .
+%gra:	1|5|MARK 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|11|MARK 10|11|NSUBJ 11|5|ADVCL 12|13|AMOD 13|11|OBJ 14|5|PUNCT
+*1081:	an(d) now &-uh the authority they [/] <they have> [/] &-uh <they have> [/] &-uh mm they have &-uh good economy . 58016_73002
+%mor:	cconj|and adv|now det|the-Def-Art noun|authority intj|mm pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 adj|good-S1 noun|economy-Acc .
+%gra:	1|7|CC 2|7|ADVMOD 3|4|DET 4|7|NSUBJ-OUTER 5|7|DISCOURSE 6|7|NSUBJ 7|0|ROOT 8|9|AMOD 9|7|OBJ 10|7|PUNCT
+*1081:	and [/] &-uh and they want &-uh &~creat &-uh create [/] &-uh create &-uh trains &-uh between &-uh cities . 74650_90769
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Pres-P3 verb|create-Inf-S noun|train-Plur-Acc adp|between noun|city-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|4|OBJ 6|7|CASE 7|5|NMOD 8|3|PUNCT
+*1081:	&-uh and &-uh &~ba because now <the street> [///] ah we have the street &-uh very traffic . 91793_100682
+%mor:	cconj|and sconj|because adv|now intj|ah pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|the-Def-Art noun|street adj|very-S1 noun|traffic-Acc .
+%gra:	1|6|CC 2|6|MARK 3|6|ADVMOD 4|6|DISCOURSE 5|6|NSUBJ 6|0|ROOT 7|10|DET 8|10|COMPOUND 9|10|AMOD 10|6|OBJ 11|6|PUNCT
+*1081:	&-uh because we have &-uh many many [% not rep] cars and &-uh in this &-uh . 100682_121111
+%mor:	sconj|because pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 adj|many-S1 adj|many-S1 noun|car-Plur-Acc cconj|and adp|in pron|this-Dem-S1 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|6|AMOD 5|6|AMOD 6|3|OBJ 7|9|CC 8|9|CASE 9|6|CONJ 10|3|PUNCT
+@End

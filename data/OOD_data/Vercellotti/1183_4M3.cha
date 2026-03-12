@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/a-00062514-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1183_4M3, audio
+*PAR0:	I will talk about the person who is famous in my country . 1020_5760
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S verb|talk-Inf-S adp|about det|the-Def-Art noun|person pron|who-Rel aux|be-Fin-Ind-Pres-S3 adj|famous-S1 adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|NSUBJ 8|9|COP 9|6|ACL-RELCL 10|12|CASE 11|12|NMOD-POSS 12|9|OBL 13|3|PUNCT
+*PAR0:	&-uh this &-uh per &-uh this person &-uh &-uh his name &-uh is &-uh king Fa Azi &-uh he died &-uh almost &-uh he died &-uh &-uh maybe five &-uh five years ago . 7040_20940
+%mor:	pron|this-Dem-S1 adp|per det|this-Def-Dem-Sing noun|person pron|his-Prs-Gen-S3 noun|name aux|be-Fin-Ind-Pres-S3 noun|king-Ger propn|Fa propn|Azi pron|he-Prs-Nom-S3 verb|die-Fin-Ind-Past-S3 adv|almost pron|he-Prs-Nom-S3 verb|die-Fin-Ind-Past-S3 adv|maybe num|five num|five noun|year-Plur adv|ago .
+%gra:	1|8|NSUBJ 2|4|CASE 3|4|DET 4|1|NMOD 5|6|NMOD-POSS 6|9|NSUBJ 7|9|COP 8|0|ROOT 9|8|FLAT 10|9|FLAT 11|12|NSUBJ 12|9|ACL-RELCL 13|15|ADVMOD 14|15|NSUBJ 15|9|PARATAXIS 16|17|ADVMOD 17|15|OBJ 18|19|NUMMOD 19|20|OBL-UNMARKED 20|15|ADVMOD 21|8|PUNCT
+*PAR0:	he &-uh established &-uh he established many things in the country . 32759_40200
+%mor:	pron|he-Prs-Nom-S3 verb|establish-Fin-Ind-Past-S3 pron|he-Prs-Nom-S3 verb|establish-Fin-Ind-Past-S3 adj|many-S1 noun|thing-Plur-Acc adp|in det|the-Def-Art noun|country .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|AMOD 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|2|PUNCT
+*PAR0:	&-uh and he achieved many &-uh things in the country . 41240_46560
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|achieve-Fin-Ind-Past-S3 adj|many-S1 noun|thing-Plur-Acc adp|in det|the-Def-Art noun|country .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*PAR0:	and he was able to solve many problem &-uh that come &-uh that come in [/] in the country . 47080_58000
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|able-S1 part|to verb|solve-Inf-S adj|many-S1 noun|problem-Acc pron|that-Rel verb|come-Fin-Ind-Pres-P3 pron|that-Rel verb|come-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|country .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|AMOD 8|6|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|12|NSUBJ 12|8|ACL-RELCL 13|15|CASE 14|15|DET 15|12|OBL 16|4|PUNCT
+*PAR0:	&-uh he [/] he was very genius . 59720_62640
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|very noun|genius .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR0:	&-uh and he [/] he was &-uh &-uh knowing everything &-uh about the country . 64319_71720
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|know-Part-Pres-S pron|everything-Tot-S1 adp|about det|the-Def-Art noun|country .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|4|PUNCT
+*PAR0:	how to control how to help people how to learn [/] learn them . 77840_84250
+%mor:	adv|how part|to verb|control-Inf-S adv|how part|to verb|help-Inf-S noun|person-Plur-Acc adv|how part|to verb|learn-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|0|ROOT 2|3|MARK 3|1|ACL 4|3|OBJ 5|6|MARK 6|4|ACL 7|6|OBJ 8|6|OBJ 9|10|MARK 10|8|ACL 11|10|OBJ 12|1|PUNCT
+*PAR0:	a good things in this life . 85540_87040
+%mor:	det|a-Ind-Art adj|good-S1 noun|thing-Plur adp|in det|this-Def-Dem-Sing noun|life .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+*PAR0:	&-uh also he [/] he established &-uh a &-uh a good resource for education for &-uh education and &-uh health &-uh people &-uh also &-uh I think he [/] he is a famous king <in the> [/] in the kingdom . 88240_114370
+%mor:	adv|also pron|he-Prs-Nom-S3 verb|establish-Fin-Ind-Past-S3 det|a-Ind-Art det|a-Ind-Art adj|good-S1 noun|resource-Acc adp|for noun|education adp|for noun|education cconj|and noun|health noun|person-Plur adv|also pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|famous-S1 noun|king-Ger adp|in det|the-Def-Art noun|kingdom .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|7|DET 5|7|DET 6|7|AMOD 7|3|OBJ 8|9|CASE 9|7|NMOD 10|11|CASE 11|9|NMOD 12|14|CC 13|14|COMPOUND 14|11|CONJ 15|17|ADVMOD 16|17|NSUBJ 17|3|PARATAXIS 18|22|NSUBJ 19|22|COP 20|22|DET 21|22|AMOD 22|17|CCOMP 23|25|CASE 24|25|DET 25|22|NMOD 26|3|PUNCT
+*PAR0:	and the old people love him and . 114560_116440
+%mor:	cconj|and det|the-Def-Art adj|old-S1 noun|person-Plur verb|love-Fin-Ind-Pres-P3 pron|he-Prs-Acc-S3 cconj|and .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|5|CONJ 8|5|PUNCT
+@End

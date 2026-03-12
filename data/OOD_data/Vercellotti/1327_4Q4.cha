@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/a-00062583-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1327_4Q4, audio
+*PAR0:	&-uh my topic today is to describe a custom in my culture that I don't like . 1280_6240
+%mor:	pron|my-Prs-Gen-S1 noun|topic noun|today aux|be-Fin-Ind-Pres-S3 part|to verb|describe-Inf-S det|a-Ind-Art noun|custom-Acc adp|in pron|my-Prs-Gen-S1 noun|culture pron|that-Rel pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ-OUTER 3|2|NMOD-UNMARKED 4|6|COP 5|6|MARK 6|0|ROOT 7|8|DET 8|6|OBJ 9|11|CASE 10|11|NMOD-POSS 11|6|OBL 12|16|OBJ 13|16|NSUBJ 14|16|AUX 15|16|ADVMOD 16|11|ACL-RELCL 17|6|PUNCT
+*PAR0:	&-um and &-um I would describe things that I don't like it in &-uh in my culture . 7720_14920
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|would-Fin-S verb|describe-Inf-S noun|thing-Plur-Acc pron|that-Rel pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S pron|it-Prs-Acc-S3 adp|in adp|in pron|my-Prs-Gen-S1 noun|culture .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|10|OBJ 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|5|ACL-RELCL 11|10|OBJ 12|6|CASE 13|15|CASE 14|15|NMOD-POSS 15|10|OBL 16|4|PUNCT
+*PAR0:	&-um in my perspective &-um I think &-uh one thing I don't like in my culture is &-um &-uh I can see that they [/] they deal with the boys differently than the girl a little bit . 19040_35240
+%mor:	adp|in pron|my-Prs-Gen-S1 noun|perspective pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 num|one noun|thing-Ger pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S adp|in pron|my-Prs-Gen-S1 noun|culture aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S sconj|that pron|they-Prs-Nom-P3 verb|deal-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|boy-Plur adv|differently adp|than det|the-Def-Art noun|girl det|a-Ind-Art adj|little-S1 noun|bit .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|7|NUMMOD 7|18|NSUBJ-OUTER 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|7|ACL-RELCL 12|14|CASE 13|14|NMOD-POSS 14|11|OBL 15|18|COP 16|18|NSUBJ 17|18|AUX 18|5|CCOMP 19|21|MARK 20|21|NSUBJ 21|18|CCOMP 22|24|CASE 23|24|DET 24|21|OBL 25|21|ADVMOD 26|28|CASE 27|28|DET 28|21|OBL 29|31|DET 30|31|AMOD 31|21|OBL-UNMARKED 32|5|PUNCT
+*PAR0:	there is different . 35260_36000
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 adj|different-S1 .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|2|PUNCT
+*PAR0:	and they [/] they &-uh they like boys to have boys more than to have girl . 36400_42400
+%mor:	cconj|and pron|they-Prs-Nom-P3 pron|they-Prs-Nom-P3 verb|like-Fin-Ind-Pres-P3 noun|boy-Plur-Acc part|to verb|have-Inf-S noun|boy-Plur-Acc adj|more-Cmp-S1 adp|than part|to verb|have-Inf-S noun|girl-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|7|OBJ 9|7|ADVMOD 10|12|MARK 11|12|MARK 12|9|ADVCL 13|12|OBJ 14|4|PUNCT
+*PAR0:	&-uh even if the new generation denied that &-um denied . 43040_47080
+%mor:	adv|even sconj|if det|the-Def-Art adj|new-S1 noun|generation verb|deny-Fin-Ind-Past-S3 sconj|that verb|deny-Part-Past-S .
+%gra:	1|6|ADVMOD 2|6|MARK 3|5|DET 4|5|AMOD 5|6|NSUBJ 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|6|PUNCT
+*PAR0:	there's a different but you can see it in their &-um in a new parent face when they get boy or when they get girl &-um &-uh actually and also it's [/] it's &-um it's obvious also &-um in the &-uh how they're treating the boys and &-uh and the girls in one family . 47100_70520
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|different-S1 cconj|but pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S pron|it-Prs-Acc-S3 adp|in pron|their-Prs-Gen-P3 adp|in det|a-Ind-Art adj|new-S1 noun|parent noun|face adv|when pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Pres-P3 noun|boy-Acc cconj|or adv|when pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Pres-P3 noun|girl-Acc adv|actually cconj|and adv|also pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|obvious-S1 adv|also adp|in det|the-Def-Art adv|how pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|treat-Part-Pres-S det|the-Def-Art noun|boy-Plur-Acc cconj|and cconj|and det|the-Def-Art noun|girl-Plur adp|in num|one noun|family .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|8|CC 6|8|NSUBJ 7|8|AUX 8|2|CONJ 9|8|OBJ 10|16|CASE 11|16|NMOD-POSS 12|16|CASE 13|16|DET 14|16|AMOD 15|16|COMPOUND 16|8|OBL 17|19|ADVMOD 18|19|NSUBJ 19|8|ADVCL 20|19|OBJ 21|24|CC 22|24|ADVMOD 23|24|NSUBJ 24|19|CONJ 25|24|OBJ 26|24|ADVMOD 27|33|CC 28|33|ADVMOD 29|33|EXPL 30|33|COP 31|33|EXPL 32|33|COP 33|2|CONJ 34|33|ADVMOD 35|37|CASE 36|37|DET 37|33|OBL 38|40|NSUBJ 39|40|AUX 40|37|ADVCL-RELCL 41|42|DET 42|40|OBJ 43|46|CC 44|46|CC 45|46|DET 46|42|CONJ 47|49|CASE 48|49|NUMMOD 49|46|NMOD 50|2|PUNCT
+*PAR0:	&-um thankfully I'm thankful that &-uh I didn't expect this &-um disturbance in my &-uh family . 71160_79040
+%mor:	adv|thankfully pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|thankful-S1 sconj|that pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|expect-Inf-S det|this-Def-Dem-Sing noun|disturbance-Acc adp|in pron|my-Prs-Gen-S1 noun|family .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|9|MARK 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|4|CCOMP 10|11|DET 11|9|OBJ 12|14|CASE 13|14|NMOD-POSS 14|9|OBL 15|4|PUNCT
+*PAR0:	but it is &-um <it's it's> [/] it's effect on other people's . 79240_84570
+%mor:	cconj|but pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|effect adp|on adj|other-S1 noun|person-Plur~part|s .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|9|CASE 8|9|AMOD 9|6|NMOD 10|9|CASE 11|6|PUNCT
+*PAR0:	I have friends . 85100_85800
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 noun|friend-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR0:	I have &-um other relative . 86140_88520
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 adj|other-S1 noun|relative-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*PAR0:	they [/] they &-um they experience this &-um this situation . 88770_94400
+%mor:	pron|they-Prs-Nom-P3 pron|they-Prs-Nom-P3 verb|experience-Fin-Ind-Pres-P3 pron|this-Dem-S1 det|this-Def-Dem-Sing noun|situation .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBL-UNMARKED 7|3|PUNCT
+*PAR0:	&-um you can see the difference . 95160_96640
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|difference-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR0:	&-uh even &-um how [/] how the father deal with the with his son or with his daughter . 97080_103750
+%mor:	adv|even adv|how det|the-Def-Art noun|father verb|deal-Fin-Ind-Pres-S3 adp|with det|the-Def-Art adp|with pron|his-Prs-Gen-S3 noun|son cconj|or adp|with pron|his-Prs-Gen-S3 noun|daughter .
+%gra:	1|2|ADVMOD 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|0|ROOT 6|10|CASE 7|10|DET 8|10|CASE 9|10|NMOD-POSS 10|5|OBL 11|14|CC 12|14|CASE 13|14|NMOD-POSS 14|10|CONJ 15|5|PUNCT
+*PAR0:	and how he can let the his sons go anywhere everywhere without asking . 105280_110800
+%mor:	cconj|and adv|how pron|he-Prs-Nom-S3 aux|can-Fin-S verb|let-Inf-S det|the-Def-Art pron|his-Prs-Gen-S3 noun|son-Plur-Acc verb|go-Inf-S adv|anywhere adv|everywhere sconj|without verb|ask-Part-Pres-S .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|NMOD-POSS 8|5|OBJ 9|5|XCOMP 10|9|ADVMOD 11|9|ADVMOD 12|13|MARK 13|9|ADVCL 14|5|PUNCT
+*PAR0:	but they're asking <a lot a lot> [/] a lot when they hear she wanna go outside you can sit it . 111040_116090
+%mor:	cconj|but pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|ask-Part-Pres-S det|a-Ind-Art noun|lot adv|when pron|they-Prs-Nom-P3 verb|hear-Fin-Ind-Pres-P3 pron|she-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S~part|to verb|go-Inf-S adv|outside pron|you-Prs-Nom-S2 aux|can-Fin-S verb|sit-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBL-UNMARKED 7|9|ADVMOD 8|9|NSUBJ 9|4|ADVCL 10|11|NSUBJ 11|9|CCOMP 12|13|MARK 13|11|XCOMP 14|13|ADVMOD 15|17|NSUBJ 16|17|AUX 17|4|PARATAXIS 18|17|OBJ 19|4|PUNCT
+*PAR0:	&-um &-um &-uh when [/] when even . 116360_119400
+%mor:	adv|when adv|even .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+@End

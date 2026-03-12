@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/a-00062559-1
+@Begin
+@Languages:	eng
+@Participants:	PAR1 Participant
+@ID:	eng|Vercellotti|PAR1|||||Participant|||
+@Media:	1293_4Q2, audio
+*PAR1:	my topic is about describing a job that I would love to have . 3170_7670
+%mor:	pron|my-Prs-Gen-S1 noun|topic aux|be-Fin-Ind-Pres-S3 sconj|about verb|describe-Part-Pres-S det|a-Ind-Art noun|job-Acc pron|that-Rel pron|I-Prs-Nom-S1 aux|would-Fin-S verb|love-Inf-S part|to verb|have-Inf-S .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ-OUTER 3|5|COP 4|5|MARK 5|0|ROOT 6|7|DET 7|5|OBJ 8|13|OBJ 9|11|NSUBJ 10|11|AUX 11|7|ACL-RELCL 12|13|MARK 13|11|XCOMP 14|5|PUNCT
+*PAR1:	&-um I want to have a job about teaching . 9240_13960
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|have-Inf-S det|a-Ind-Art noun|job-Acc adp|about noun|teaching-Ger .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|2|PUNCT
+*PAR1:	so I want to be teacher in major school student or high_school student . 14700_19450
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to aux|be-Inf-S noun|teacher adp|in adj|major-S1 noun|school noun|student cconj|or noun|highschool noun|student .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|COP 6|3|XCOMP 7|10|CASE 8|10|AMOD 9|10|COMPOUND 10|6|NMOD 11|13|CC 12|13|COMPOUND 13|10|CONJ 14|3|PUNCT
+*PAR1:	oh I expect my expectation about this job is personal time . 21760_29610
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|expect-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|expectation adp|about det|this-Def-Dem-Sing noun|job aux|be-Fin-Ind-Pres-S3 adj|personal-S1 noun|time .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|11|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|11|COP 10|11|AMOD 11|3|CCOMP 12|3|PUNCT
+*PAR1:	I think personal time is very important to me in my life . 30900_35090
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adj|personal-S1 noun|time aux|be-Fin-Ind-Pres-S3 adv|very adj|important-S1 adp|to pron|I-Prs-Acc-S1 adp|in pron|my-Prs-Gen-S1 noun|life .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|2|CCOMP 8|9|CASE 9|7|OBL 10|12|CASE 11|12|NMOD-POSS 12|7|OBL 13|2|PUNCT
+*PAR1:	so I think if &-um I don't know other country but in my country I can have personal time . 36280_46160
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|if pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adj|other-S1 noun|country-Acc cconj|but adp|in pron|my-Prs-Gen-S1 noun|country pron|I-Prs-Nom-S1 aux|can-Fin-S verb|have-Inf-S adj|personal-S1 noun|time-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|8|MARK 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CCOMP 9|10|AMOD 10|8|OBJ 11|17|CC 12|14|CASE 13|14|NMOD-POSS 14|17|OBL 15|17|NSUBJ 16|17|AUX 17|3|CONJ 18|19|AMOD 19|17|OBJ 20|3|PUNCT
+*PAR1:	&-um if I have &-uh if I'm a teacher &-um for example if &-uh middle school teacher have personal time more than other job . 48960_69560
+%mor:	sconj|if pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 sconj|if pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art noun|teacher adp|for noun|example sconj|if adj|middle-S1 noun|school noun|teacher verb|have-Fin-Ind-Pres-P3 adj|personal-S1 noun|time-Acc adj|more-Cmp-S1 adp|than adj|other-S1 noun|job .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|8|MARK 5|8|NSUBJ 6|8|COP 7|8|DET 8|3|CCOMP 9|10|CASE 10|8|OBL 11|15|MARK 12|13|AMOD 13|14|COMPOUND 14|15|NSUBJ 15|8|ADVCL 16|17|AMOD 17|15|OBJ 18|15|OBJ 19|21|CASE 20|21|AMOD 21|18|OBL 22|3|PUNCT
+*PAR1:	&-um one thing is important to me about this job is I can affect other students . 71970_81920
+%mor:	num|one noun|thing-Ger aux|be-Fin-Ind-Pres-S3 adj|important-S1 adp|to pron|I-Prs-Acc-S1 adp|about det|this-Def-Dem-Sing noun|job aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 aux|can-Fin-S verb|affect-Inf-S adj|other-S1 noun|student-Plur-Acc .
+%gra:	1|2|NUMMOD 2|13|NSUBJ-OUTER 3|4|COP 4|2|ACL-RELCL 5|6|CASE 6|4|OBL 7|9|CASE 8|9|DET 9|4|OBL 10|13|COP 11|13|NSUBJ 12|13|AUX 13|0|ROOT 14|15|AMOD 15|13|OBJ 16|13|PUNCT
+*PAR1:	and also I can affect their life . 83920_87450
+%mor:	cconj|and adv|also pron|I-Prs-Nom-S1 aux|can-Fin-S verb|affect-Inf-S pron|their-Prs-Gen-P3 noun|life-Acc .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|PUNCT
+*PAR1:	and also I can change their life . 88310_90120
+%mor:	cconj|and adv|also pron|I-Prs-Nom-S1 aux|can-Fin-S verb|change-Inf-S pron|their-Prs-Gen-P3 noun|life-Acc .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|PUNCT
+*PAR1:	I can talk to them . 93780_96050
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|talk-Inf-S adp|to pron|they-Prs-Acc-P3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR1:	and I can teach them so I can encourage to them and give some advice . 97240_104400
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S verb|teach-Inf-S pron|they-Prs-Acc-P3 sconj|so pron|I-Prs-Nom-S1 aux|can-Fin-S verb|encourage-Inf-S adp|to pron|they-Prs-Acc-P3 cconj|and verb|give-Inf-S det|some-Def-Ind noun|advice-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|4|ADVCL 10|11|CASE 11|9|OBL 12|13|CC 13|9|CONJ 14|15|DET 15|13|OBJ 16|4|PUNCT
+*PAR1:	so I think teacher is very nice job to help others to . 106040_112890
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|teacher aux|be-Fin-Ind-Pres-S3 adv|very adj|nice-S1 noun|job part|to verb|help-Inf-S noun|other-Plur-Acc part|to .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|8|NSUBJ 5|8|COP 6|7|ADVMOD 7|8|AMOD 8|3|CCOMP 9|10|MARK 10|8|ACL 11|10|OBJ 12|3|PUNCT 13|3|PUNCT
+@End

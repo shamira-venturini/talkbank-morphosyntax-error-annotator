@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/t-00010190-1
+@Begin
+@Languages:	eng
+@Participants:	1162 Student
+@ID:	eng|Vercellotti|1162|||2||Student|level4||
+@Media:	1162_5T2, audio
+@Transcriber:	jms
+*1162:	&-um the topic is describe an &~extra &~va extravagant lifestyle . 1747_8129
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S det|a-Ind-Art adj|extravagant-S1 noun|lifestyle-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+*1162:	compare and contrast an extravagant &~lifes &~la lifestyle with an ordinary lifestyle . 9874_18908
+%mor:	verb|compare-Fin-Imp-S cconj|and verb|contrast-Fin-Imp-S det|a-Ind-Art adj|extravagant-S1 noun|lifestyle-Acc adp|with det|a-Ind-Art adj|ordinary-S1 noun|lifestyle .
+%gra:	1|0|ROOT 2|3|CC 3|1|CONJ 4|6|DET 5|6|AMOD 6|3|OBJ 7|10|CASE 8|10|DET 9|10|AMOD 10|3|OBL 11|1|PUNCT
+*1162:	&-um I can say <it it's: three it's> [//] &~ka it's can be ah three or four categories . 19421_26021
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|say-Inf-S pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|can-Fin-S aux|be-Inf-S intj|ah num|three cconj|or num|four noun|category-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|12|NSUBJ 5|12|AUX 6|12|AUX 7|12|COP 8|12|DISCOURSE 9|12|NUMMOD 10|11|CC 11|9|CONJ 12|3|CCOMP 13|3|PUNCT
+*1162:	&-uh first of all the &~extra &~extrava extravagant people love to show what they own and shows [/] &~th shows the people <how it's> [//] how expensive it [/] &~i &-uh it is . 26605_43658
+%mor:	adj|first-S1 adp|of det|all-Def-Tot det|the-Def-Art adj|extravagant-S1 noun|person-Plur verb|love-Fin-Ind-Pres-P3 part|to verb|show-Inf-S pron|what-Rel-S1 pron|they-Prs-Nom-P3 verb|own-Fin-Ind-Pres-P3 cconj|and verb|show-Fin-Ind-Pres-S3 det|the-Def-Art noun|person-Plur adv|how adj|expensive-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|7|ADVMOD 2|3|CASE 3|6|DET-PREDET 4|6|DET 5|6|AMOD 6|7|NSUBJ 7|0|ROOT 8|9|MARK 9|7|XCOMP 10|9|OBJ 11|12|NSUBJ 12|10|ACL-RELCL 13|14|CC 14|7|CONJ 15|16|DET 16|14|IOBJ 17|18|ADVMOD 18|14|CCOMP 19|20|NSUBJ 20|18|COP 21|7|PUNCT
+*1162:	&-uh <and also> [//] but [/] &~ba &-uh but in the other hand the: ordinary people they live their life . 44442_53014
+%mor:	cconj|but adp|in det|the-Def-Art adj|other-S1 noun|hand det|the-Def-Art adj|ordinary-S1 noun|person-Plur pron|they-Prs-Nom-P3 verb|live-Fin-Ind-Pres-P3 pron|their-Prs-Gen-P3 noun|life-Acc .
+%gra:	1|8|CC 2|5|CASE 3|5|DET 4|5|AMOD 5|10|OBL 6|8|DET 7|8|AMOD 8|0|ROOT 9|10|NSUBJ 10|8|ACL-RELCL 11|12|NMOD-POSS 12|10|OBJ 13|8|PUNCT
+*1162:	an(d) they make it easy . 54330_55865
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|make-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 adj|easy-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+*1162:	and they don't say it we own this things and &-uh &~o our things are better than your things . 58965_62359
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|say-Inf-S pron|it-Prs-Acc-S3 pron|we-Prs-Nom-P1 verb|own-Fin-Ind-Pres-P1 det|this-Def-Dem-Sing noun|thing-Plur-Acc cconj|and pron|our-Prs-Gen-P1 noun|thing-Plur aux|be-Fin-Ind-Pres-P3 adj|good-Cmp-S1 adp|than pron|your-Prs-Gen-S2 noun|thing-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|OBJ 7|8|NSUBJ 8|5|CCOMP 9|10|DET 10|8|OBJ 11|15|CC 12|13|NMOD-POSS 13|15|NSUBJ 14|15|COP 15|5|CONJ 16|18|CASE 17|18|NMOD-POSS 18|15|OBL 19|5|PUNCT
+*1162:	and also the second thing &-um the &~ex &~tra &~extrav &~strav &~venry people they said &-uh they always buy a new things an(d) expensive things . 64078_84131
+%mor:	cconj|and adv|also det|the-Def-Art adj|second-S1 noun|thing-Ger det|the-Def-Art noun|person-Plur pron|they-Prs-Nom-P3 verb|say-Fin-Ind-Past-P3-irr pron|they-Prs-Nom-P3 adv|always verb|buy-Fin-Ind-Pres-P3 det|a-Ind-Art adj|new-S1 noun|thing-Plur-Acc cconj|and adj|expensive-S1 noun|thing-Plur .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|DET 4|5|AMOD 5|12|NSUBJ-OUTER 6|7|DET 7|12|NSUBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|12|NSUBJ 11|12|ADVMOD 12|0|ROOT 13|15|DET 14|15|AMOD 15|12|OBJ 16|18|CC 17|18|AMOD 18|15|CONJ 19|12|PUNCT
+*1162:	and &~i they don't care about the money . 86246_87719
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|care-Inf-S adp|about det|the-Def-Art noun|money .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*1162:	and also <they don't> [//] &~ma it doesn't matter the money with them . 89710_93924
+%mor:	cconj|and adv|also pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|matter-Inf-S det|the-Def-Art noun|money-Acc adp|with pron|they-Prs-Acc-P3 .
+%gra:	1|6|CC 2|6|ADVMOD 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|DET 8|6|OBJ 9|10|CASE 10|6|OBL 11|6|PUNCT
+*1162:	but on the other hand the: ordinary people they [//] &~s try [//] to: [//] spend the [/] the [//] &~ch they &~s try to &~fa buy the cheap things . 97258_105121
+%mor:	cconj|but adp|on det|the-Def-Art adj|other-S1 noun|hand det|the-Def-Art adj|ordinary-S1 noun|person-Plur verb|spend-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|try-Fin-Ind-Pres-P3 part|to verb|buy-Inf-S det|the-Def-Art adj|cheap-S1 noun|thing-Plur-Acc .
+%gra:	1|9|CC 2|5|CASE 3|5|DET 4|5|AMOD 5|9|OBL 6|8|DET 7|8|AMOD 8|9|NSUBJ 9|0|ROOT 10|11|NSUBJ 11|9|CCOMP 12|13|MARK 13|11|XCOMP 14|16|DET 15|16|AMOD 16|13|OBJ 17|9|PUNCT
+*1162:	so I cannot go along with the other categories because of the time . 105706_109985
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|go-Inf-S adv|along adp|with det|the-Def-Art adj|other-S1 noun|category-Plur adp|because adp|of det|the-Def-Art noun|time .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|ADVMOD 7|10|CASE 8|10|DET 9|10|AMOD 10|5|OBL 11|14|CASE 12|11|FIXED 13|14|DET 14|5|OBL 15|5|PUNCT
+*1162:	so as you know there is two things <are very> [//] &-uh &~m &~i show us the different between the two things so that's it . 113179_120191
+%mor:	adv|so sconj|as pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 num|two noun|thing-Plur verb|show-Inf-S pron|we-Prs-Acc-P1 det|the-Def-Art adj|different-S1 adp|between det|the-Def-Art num|two noun|thing-Plur adv|so pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|9|ADVMOD 2|4|MARK 3|4|NSUBJ 4|9|ADVCL 5|6|EXPL 6|9|ADVCL 7|8|NUMMOD 8|6|NSUBJ 9|0|ROOT 10|9|IOBJ 11|12|DET 12|9|OBJ 13|16|CASE 14|16|DET 15|16|NUMMOD 16|12|OBL 17|20|ADVMOD 18|20|NSUBJ 19|20|COP 20|9|PARATAXIS 21|9|PUNCT
+@End

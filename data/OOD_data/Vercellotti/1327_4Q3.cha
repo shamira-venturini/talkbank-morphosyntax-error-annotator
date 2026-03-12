@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/a-00062582-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1327_4Q3, audio
+*PAR0:	&-um my &-uh topic today is to talk about the person &-um a famous person &-uh from past . 1520_8240
+%mor:	pron|my-Prs-Gen-S1 noun|topic noun|today aux|be-Fin-Ind-Pres-S3 part|to verb|talk-Inf-S adp|about det|the-Def-Art noun|person det|a-Ind-Art adj|famous-S1 noun|person adp|from noun|past .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ-OUTER 3|2|NMOD-UNMARKED 4|6|COP 5|6|MARK 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|12|DET 11|12|AMOD 12|9|APPOS 13|14|CASE 14|12|NMOD 15|6|PUNCT
+*PAR0:	I'm gonna talk about &-um a famous person in &-uh in my country . 9000_13520
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|talk-Inf-S adp|about det|a-Ind-Art adj|famous-S1 noun|person adp|in adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|13|CASE 11|13|CASE 12|13|NMOD-POSS 13|5|OBL 14|3|PUNCT
+*PAR0:	&-uh his name is Omar Aar &-um this man he has a big effect in our lives . 13880_20480
+%mor:	pron|his-Prs-Gen-S3 noun|name aux|be-Fin-Ind-Pres-S3 propn|Omar propn|Aar det|this-Def-Dem-Sing noun|man pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|effect-Acc adp|in pron|our-Prs-Gen-P1 noun|life-Plur .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|FLAT 6|7|DET 7|4|APPOS 8|9|NSUBJ 9|7|ACL-RELCL 10|12|DET 11|12|AMOD 12|9|OBJ 13|15|CASE 14|15|NMOD-POSS 15|12|NMOD 16|4|PUNCT
+*PAR0:	today &-uh these days . 20630_22330
+%mor:	noun|today det|this-Def-Dem-Plur noun|day-Plur .
+%gra:	1|0|ROOT 2|3|DET 3|1|NMOD-UNMARKED 4|1|PUNCT
+*PAR0:	&-um he he's &-uh he's famous because he fight against &-uh Italian invasion to live . 24450_31080
+%mor:	pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|famous-S1 sconj|because pron|he-Prs-Nom-S3 verb|fight-Fin-Ind-Pres-S3 adp|against adj|Italian-S1 noun|invasion part|to verb|live-Inf-S .
+%gra:	1|6|REPARANDUM 2|6|NSUBJ 3|6|COP 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|9|MARK 8|9|NSUBJ 9|6|ADVCL 10|12|CASE 11|12|AMOD 12|9|OBL 13|14|MARK 14|9|ADVCL 15|6|PUNCT
+*PAR0:	and &-um he has a big effect &-uh to &-um to fight &-um to fight &-uh the Italian in region . 31920_41760
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|effect-Acc part|to part|to verb|fight-Inf-S part|to verb|fight-Inf-S det|the-Def-Art propn|Italian-Acc adp|in noun|region .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|MARK 8|9|MARK 9|6|ACL 10|11|MARK 11|9|ADVCL 12|13|DET 13|11|OBJ 14|15|CASE 15|11|OBL 16|3|PUNCT
+*PAR0:	&-um &-um and even &-um and also he was inspiration and inspiration for many of Libyan people there . 42880_52360
+%mor:	cconj|and adv|even cconj|and adv|also pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr noun|inspiration cconj|and noun|inspiration adp|for adj|many-S1 adp|of adj|Libyan-S1 noun|person-Plur adv|there .
+%gra:	1|7|CC 2|7|ADVMOD 3|7|CC 4|7|ADVMOD 5|7|NSUBJ 6|7|COP 7|0|ROOT 8|9|CC 9|7|CONJ 10|11|CASE 11|7|NMOD 12|14|CASE 13|14|AMOD 14|11|NMOD 15|11|ADVMOD 16|7|PUNCT
+*PAR0:	&-uh even they have no &-um &-um they didn't have a lot of money or they didn't have like big experience of fighting . 53150_63010
+%mor:	adv|even pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 intj|no pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3-irr~part|not verb|have-Inf-S det|a-Ind-Art noun|lot-Acc adp|of noun|money cconj|or pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3-irr~part|not verb|have-Inf-S intj|like adj|big-S1 noun|experience-Acc adp|of noun|fighting-Ger .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|DISCOURSE 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CCOMP 9|10|DET 10|8|OBJ 11|12|CASE 12|10|NMOD 13|17|CC 14|17|NSUBJ 15|17|AUX 16|17|ADVMOD 17|8|CONJ 18|20|DISCOURSE 19|20|AMOD 20|17|OBJ 21|22|CASE 22|20|NMOD 23|3|PUNCT
+*PAR0:	they didn't have like &-uh intelligent equipment or tools to fight against &-um &-um high &-uh high soldiers and high technical &-uh tools or weapons . 63770_77750
+%mor:	pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3-irr~part|not verb|have-Inf-S intj|like adj|intelligent-S1 noun|equipment-Acc cconj|or noun|tool-Plur part|to verb|fight-Inf-S adp|against adj|high-S1 adj|high-S1 noun|soldier-Plur cconj|and adj|high-S1 adj|technical-S1 noun|tool-Plur cconj|or noun|weapon-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|DISCOURSE 6|7|AMOD 7|4|OBJ 8|9|CC 9|7|CONJ 10|11|MARK 11|4|ADVCL 12|15|CASE 13|15|AMOD 14|15|AMOD 15|11|OBL 16|19|CC 17|19|AMOD 18|19|AMOD 19|15|CONJ 20|21|CC 21|19|CONJ 22|4|PUNCT
+*PAR0:	but &-uh with [/] with his belief &-um of freedom and &-uh a belief of &-um of having &-um our or country no one &-uh people should &-uh should &-um &-um inspired really people to fight against this [/] this &-uh this invasion . 78640_99010
+%mor:	cconj|but adp|with pron|his-Prs-Gen-S3 noun|belief adp|of noun|freedom cconj|and det|a-Ind-Art noun|belief adp|of sconj|of verb|have-Ger-S pron|our-Prs-Gen-P1 cconj|or noun|country det|no-Def-Neg pron|one-Neg-S1 noun|person-Plur aux|should-Fin-S aux|should-Fin-S verb|inspire-Part-Past-S adv|really noun|person-Plur-Acc part|to verb|fight-Inf-S adp|against pron|this-Dem-S1 det|this-Def-Dem-Sing noun|invasion-Acc .
+%gra:	1|21|CC 2|4|CASE 3|4|NMOD-POSS 4|21|OBL 5|6|CASE 6|4|NMOD 7|9|CC 8|9|DET 9|4|CONJ 10|12|MARK 11|10|FIXED 12|9|ACL 13|12|OBJ 14|15|CC 15|13|CONJ 16|17|DET 17|21|NSUBJ 18|21|NSUBJ 19|21|AUX 20|21|AUX 21|0|ROOT 22|23|ADVMOD 23|21|OBJ 24|25|MARK 25|21|XCOMP 26|27|CASE 27|25|OBL 28|29|DET 29|25|OBJ 30|21|PUNCT
+*PAR0:	and &-um and also because he was a smart even with the [/] the law &-uh the law equipment and the little equipment he has . 99360_106410
+%mor:	cconj|and cconj|and adv|also sconj|because pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|smart-S1 adv|even adp|with det|the-Def-Art noun|law det|the-Def-Art noun|law noun|equipment cconj|and det|the-Def-Art adj|little-S1 noun|equipment pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 .
+%gra:	1|8|CC 2|8|CC 3|8|ADVMOD 4|8|MARK 5|8|NSUBJ 6|8|COP 7|8|DET 8|0|ROOT 9|12|ADVMOD 10|12|CASE 11|12|DET 12|8|OBL 13|15|DET 14|15|COMPOUND 15|8|PARATAXIS 16|19|CC 17|19|DET 18|19|AMOD 19|15|CONJ 20|21|NSUBJ 21|19|ACL-RELCL 22|8|PUNCT
+*PAR0:	but he was a smart . 108080_108870
+%mor:	cconj|but pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|smart-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|5|PUNCT
+*PAR0:	and he made the like Italian soldiers crazy to get him as early as he can because &-um because of his fight and because of his actions made through all the . 109240_120360
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|make-Fin-Ind-Past-S3-irr det|the-Def-Art intj|like adj|Italian-S1 noun|soldier-Plur-Acc adj|crazy-S1 part|to verb|get-Inf-S pron|he-Prs-Acc-S3 adv|as adv|early sconj|as pron|he-Prs-Nom-S3 aux|can-Fin-S adp|because adp|because adp|of pron|his-Prs-Gen-S3 noun|fight cconj|and adp|because adp|of pron|his-Prs-Gen-S3 noun|action-Plur verb|make-Part-Past-S-irr adp|through det|all-Def-Tot det|the-Def-Art .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|DET 5|7|DISCOURSE 6|7|AMOD 7|3|OBJ 8|3|XCOMP 9|10|MARK 10|3|ADVCL 11|10|OBJ 12|13|ADVMOD 13|10|ADVMOD 14|16|MARK 15|16|NSUBJ 16|13|ADVCL 17|21|CASE 18|17|FIXED 19|17|FIXED 20|21|NMOD-POSS 21|10|OBL 22|26|CC 23|26|CASE 24|23|FIXED 25|26|NMOD-POSS 26|21|CONJ 27|26|ACL 28|30|CASE 29|30|DET-PREDET 30|27|OBL 31|3|PUNCT
+@End

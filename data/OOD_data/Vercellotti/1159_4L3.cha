@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/a-00062505-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1159_4L3, audio
+*PAR0:	&-uh the topic today is about a famous person from the Bas I'd like to talk about . 2880_9960
+%mor:	det|the-Def-Art noun|topic noun|today aux|be-Fin-Ind-Pres-S3 adp|about det|a-Ind-Art adj|famous-S1 noun|person adp|from det|the-Def-Art propn|Bas pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S part|to verb|talk-Inf-S adp|about .
+%gra:	1|2|DET 2|8|NSUBJ 3|2|NMOD-UNMARKED 4|8|COP 5|8|CASE 6|8|DET 7|8|AMOD 8|0|ROOT 9|11|CASE 10|11|DET 11|8|NMOD 12|14|NSUBJ 13|14|AUX 14|11|ACL-RELCL 15|16|MARK 16|14|XCOMP 17|14|OBL 18|8|PUNCT
+*PAR0:	&-uh Prophet Mohammad Bost appointed him . 10640_12720
+%mor:	propn|Prophet propn|Mohammad propn|Bost verb|appoint-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|1|FLAT 3|1|FLAT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR0:	&-um &-uh he's a famous person &-uh former Muslims people for few reason . 13800_21320
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|famous-S1 noun|person adj|former-S1 propn|Muslim-Plur noun|person-Plur adp|for adj|few-S1 noun|reason .
+%gra:	1|8|NSUBJ 2|8|COP 3|8|DET 4|5|AMOD 5|8|COMPOUND 6|8|AMOD 7|8|COMPOUND 8|0|ROOT 9|11|CASE 10|11|AMOD 11|8|NMOD 12|8|PUNCT
+*PAR0:	first &-um he had a lot of &-um &-uh beautiful features &-um like &-uh such_as &-uh good ethical &-uh modest and patience . 22110_32409
+%mor:	adv|first pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|lot-Acc adp|of adj|beautiful-S1 noun|feature-Plur adp|like propn|suchas adj|good-S1 adj|ethical-S1 adj|modest-S1 cconj|and noun|patience .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|AMOD 8|5|NMOD 9|10|CASE 10|8|NMOD 11|13|AMOD 12|13|AMOD 13|8|NMOD 14|15|CC 15|13|CONJ 16|3|PUNCT
+*PAR0:	the second &-um &-uh reason that make him that made him famous person . 38560_45400
+%mor:	det|the-Def-Art adj|second-S1 noun|reason pron|that-Rel verb|make-Fin-Ind-Pres-P3 pron|he-Prs-Acc-S3 pron|that-Rel verb|make-Fin-Ind-Past-S3-irr pron|he-Prs-Acc-S3 adj|famous-S1 noun|person .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBJ 7|8|NSUBJ 8|3|ACL-RELCL 9|8|OBJ 10|11|AMOD 11|8|XCOMP 12|3|PUNCT
+*PAR0:	&-um he achieved &-um his goal to guide people &-uh from the dark way to the light way &-uh from the I &-uh from the &-uh wrong way as a slave for stone and &-um and wood &-uh to the &-uh slave to the god . 46680_68190
+%mor:	pron|he-Prs-Nom-S3 verb|achieve-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|goal-Acc part|to verb|guide-Inf-S noun|person-Plur-Acc adp|from det|the-Def-Art adj|dark-S1 noun|way adp|to det|the-Def-Art adj|light-S1 noun|way adp|from det|the-Def-Art pron|I-Prs-Nom-S1 adp|from det|the-Def-Art adj|wrong-S1 noun|way adp|as det|a-Ind-Art noun|slave adp|for noun|stone cconj|and cconj|and noun|wood adp|to det|the-Def-Art noun|slave adp|to det|the-Def-Art noun|god .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|6|MARK 6|2|ADVCL 7|6|OBJ 8|11|CASE 9|11|DET 10|11|AMOD 11|6|OBL 12|15|CASE 13|15|DET 14|15|AMOD 15|6|OBL 16|18|CASE 17|18|DET 18|15|NMOD 19|22|CASE 20|22|DET 21|22|AMOD 22|15|NMOD 23|25|CASE 24|25|DET 25|6|OBL 26|27|CASE 27|25|NMOD 28|30|CC 29|30|CC 30|27|CONJ 31|33|CASE 32|33|DET 33|25|NMOD 34|36|CASE 35|36|DET 36|33|NMOD 37|2|PUNCT
+*PAR0:	&-um the third thing &-um he demonstrated &-um everything before he did . 75200_82130
+%mor:	det|the-Def-Art adj|third-S1 noun|thing-Ger pron|he-Prs-Nom-S3 verb|demonstrate-Fin-Ind-Past-S3 pron|everything-Tot-S1 sconj|before pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBJ 7|9|MARK 8|9|NSUBJ 9|5|ADVCL 10|3|PUNCT
+*PAR0:	so &-um we have a lot of information . 84920_88640
+%mor:	adv|so pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|lot-Acc adp|of noun|information .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|3|PUNCT
+*PAR0:	we know everything about &-uh Islam &-um he &-uh he still &-um &-uh he explained everything to his friend and his friend &-um explained to their friend . 88800_105410
+%mor:	pron|we-Prs-Nom-P1 verb|know-Fin-Ind-Pres-P1 pron|everything-Tot-S1 adp|about propn|Islam pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 adv|still pron|he-Prs-Nom-S3 verb|explain-Fin-Ind-Past-S3 pron|everything-Tot-S1 adp|to pron|his-Prs-Gen-S3 noun|friend cconj|and pron|his-Prs-Gen-S3 noun|friend verb|explain-Fin-Ind-Past-S3 adp|to pron|their-Prs-Gen-P3 noun|friend .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|10|NSUBJ 7|10|NSUBJ 8|10|ADVMOD 9|10|NSUBJ 10|2|CCOMP 11|10|OBJ 12|14|CASE 13|14|NMOD-POSS 14|10|OBL 15|18|CC 16|17|NMOD-POSS 17|18|NSUBJ 18|10|CONJ 19|21|CASE 20|21|NMOD-POSS 21|18|OBL 22|2|PUNCT
+*PAR0:	and until now we keep a lot of information for him . 108480_112800
+%mor:	cconj|and adp|until adv|now pron|we-Prs-Nom-P1 verb|keep-Fin-Ind-Pres-P1 det|a-Ind-Art noun|lot-Acc adp|of noun|information adp|for pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|CASE 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|11|CASE 11|5|OBL 12|5|PUNCT
+*PAR0:	he planned for that for those two for those three reasons . 113320_117240
+%mor:	pron|he-Prs-Nom-S3 verb|plan-Fin-Ind-Past-S3 adp|for pron|that-Dem adp|for det|that-Def-Dem-Plur num|two adp|for det|that-Def-Dem-Plur num|three noun|reason-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|7|CASE 6|7|DET 7|2|OBL 8|11|CASE 9|11|DET 10|11|NUMMOD 11|2|OBL 12|2|PUNCT
+*PAR0:	&-uh he's a famous person .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|famous-S1 noun|person .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+@End

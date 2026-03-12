@@ -1,0 +1,66 @@
+{
+  "predictions_file": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/results/recon_full_comp_preserve_final_seed3407/eval_outputs/predictions_test_real.jsonl",
+  "out_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/results/uncertainty_recon_full_comp_preserve_final_seed3407/test_real",
+  "n_rows": 687,
+  "correctness_target": "exact_tag_set_correct",
+  "available_uncertainty_metrics": [
+    "uncertainty_seq_logprob",
+    "uncertainty_mean_token_logprob",
+    "uncertainty_min_token_logprob",
+    "uncertainty_mean_token_margin",
+    "uncertainty_min_token_margin"
+  ],
+  "overall_accuracy": 0.9592430858806404,
+  "metrics": [
+    {
+      "metric": "uncertainty_seq_logprob",
+      "n_items": 687,
+      "n_bins": 4,
+      "auc": 0.9088445696943421,
+      "mean_correct": -0.03281182688814413,
+      "mean_incorrect": -0.4029556403062112,
+      "top_quartile_accuracy": 1,
+      "bottom_quartile_accuracy": 0.8596491228070176
+    },
+    {
+      "metric": "uncertainty_mean_token_logprob",
+      "n_items": 687,
+      "n_bins": 4,
+      "auc": 0.8899306308259267,
+      "mean_correct": -0.003626795888631722,
+      "mean_incorrect": -0.02601234039345361,
+      "top_quartile_accuracy": 0.9941520467836257,
+      "bottom_quartile_accuracy": 0.8538011695906432
+    },
+    {
+      "metric": "uncertainty_min_token_logprob",
+      "n_items": 687,
+      "n_bins": 4,
+      "auc": 0.8931823108606113,
+      "mean_correct": -0.02185969171666311,
+      "mean_incorrect": -0.2653687793146154,
+      "top_quartile_accuracy": 1,
+      "bottom_quartile_accuracy": 0.8596491228070176
+    },
+    {
+      "metric": "uncertainty_mean_token_margin",
+      "n_items": 687,
+      "n_bins": 4,
+      "auc": 0.8158736180359852,
+      "mean_correct": 8.798967193592635,
+      "mean_incorrect": 7.537534285522898,
+      "top_quartile_accuracy": 1,
+      "bottom_quartile_accuracy": 0.8888888888888888
+    },
+    {
+      "metric": "uncertainty_min_token_margin",
+      "n_items": 687,
+      "n_bins": 4,
+      "auc": 0.89979406026447,
+      "mean_correct": 6.003651361997283,
+      "mean_incorrect": 2.3638392857142856,
+      "top_quartile_accuracy": 1,
+      "bottom_quartile_accuracy": 0.8596491228070176
+    }
+  ]
+}

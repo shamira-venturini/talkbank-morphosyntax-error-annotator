@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/t-00010150-1
+@Begin
+@Languages:	eng
+@Participants:	1110 Student
+@ID:	eng|Vercellotti|1110|||1||Student|level4||
+@Media:	1110_5T1, audio
+@Transcriber:	jms
+*1110:	okay the topic is describing disadvantage &-uh and advantage of &-uh &~w living in a computerized society . 3331_9492
+%mor:	intj|okay det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Part-Pres-S noun|disadvantage-Acc cconj|and noun|advantage sconj|of verb|live-Ger-S adp|in det|a-Ind-Art verb|computerize-Part-Past-S noun|society .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|CC 8|6|CONJ 9|10|MARK 10|6|ACL 11|14|CASE 12|14|DET 13|14|AMOD 14|10|OBL 15|5|PUNCT
+*1110:	and what's some dangerous stuff that &-uh ah will be &~requinzed use the computers . 12778_19662
+%mor:	cconj|and pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|some-Def-Ind adj|dangerous-S1 noun|stuff pron|that-Rel intj|ah aux|will-Fin-S aux|be-Inf-S verb|use-Part-Past-S det|the-Def-Art noun|computer-Plur-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|6|DET 5|6|AMOD 6|2|NSUBJ 7|11|OBJ 8|11|REPARANDUM 9|11|AUX 10|11|AUX 11|6|ACL-RELCL 12|13|DET 13|11|OBJ 14|2|PUNCT
+*1110:	I think that advantage &-uh of using computer that <it easy to> [/] &~communica it easy to communicate with the people around the world &-um easy for us to send &-uh our important stuff &-uh by some clicks . 21198_37304
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|that-Def-Dem-Sing noun|advantage-Acc sconj|of verb|use-Ger-S noun|computer-Acc pron|that-Rel pron|it-Prs-Nom-S3 adj|easy-S1 part|to verb|communicate-Inf-S adp|with det|the-Def-Art noun|person-Plur adp|around det|the-Def-Art noun|world adj|easy-S1 sconj|for pron|we-Prs-Acc-P1 part|to verb|send-Inf-S pron|our-Prs-Gen-P1 adj|important-S1 noun|stuff-Acc adp|by det|some-Def-Ind noun|click-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|MARK 6|4|ACL 7|6|OBJ 8|10|OBL 9|10|EXPL 10|7|ACL-RELCL 11|12|MARK 12|10|XCOMP 13|15|CASE 14|15|DET 15|12|OBL 16|18|CASE 17|18|DET 18|15|NMOD 19|12|ADVMOD 20|23|MARK 21|23|NSUBJ 22|23|MARK 23|19|ADVCL 24|26|NMOD-POSS 25|26|AMOD 26|23|OBJ 27|29|CASE 28|29|DET 29|23|OBL 30|2|PUNCT
+*1110:	or some people using for doing them business . 42127_42995
+%mor:	cconj|or det|some-Def-Ind noun|person-Plur verb|use-Ger-S sconj|for verb|do-Ger-S pron|they-Prs-Acc-P3 noun|business-Acc .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|ACL 5|6|MARK 6|4|ADVCL 7|6|OBJ 8|6|OBJ 9|3|PUNCT
+*1110:	it's easy to [/] &-um to make some research about some &~informoysh &~inma information that we needed &-uh or locating &~fol for it &-uh or maybe applaud our research . 44215_57660
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|easy-S1 part|to verb|make-Inf-S det|some-Def-Ind noun|research-Acc adp|about det|some-Def-Ind noun|information pron|that-Rel pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Past-P1 cconj|or verb|locate-Part-Pres-S adp|for pron|it-Prs-Acc-S3 cconj|or adv|maybe verb|applaud-Inf-S pron|our-Prs-Gen-P1 noun|research-Acc .
+%gra:	1|3|EXPL 2|3|COP 3|0|ROOT 4|5|MARK 5|3|CSUBJ 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|13|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|15|CC 15|13|CONJ 16|17|CASE 17|15|OBL 18|20|CC 19|20|ADVMOD 20|15|CONJ 21|22|NMOD-POSS 22|20|OBJ 23|3|PUNCT
+*1110:	so we can share it with the people . 59526_62350
+%mor:	adv|so pron|we-Prs-Nom-P1 aux|can-Fin-S verb|share-Inf-S pron|it-Prs-Acc-S3 adp|with det|the-Def-Art noun|person-Plur .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*1110:	&-um &~or or if we need &~la looking to some information <we can use> [//] &~i we can find it by the computer . 63062_72485
+%mor:	cconj|or sconj|if pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Pres-P1 verb|look-Ger-S adp|to det|some-Def-Ind noun|information pron|we-Prs-Nom-P1 aux|can-Fin-S verb|find-Inf-S pron|it-Prs-Acc-S3 adp|by det|the-Def-Art noun|computer .
+%gra:	1|11|CC 2|4|MARK 3|4|NSUBJ 4|11|ADVCL 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|11|NSUBJ 10|11|AUX 11|0|ROOT 12|11|OBJ 13|15|CASE 14|15|DET 15|11|OBL 16|11|PUNCT
+*1110:	&-um I think computers is make it our life more easier . 73166_78749
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|computer-Plur aux|be-Fin-Ind-Pres-S3 verb|make-Inf-S pron|it-Prs-Acc-S3 pron|our-Prs-Gen-P1 noun|life adv|more adj|easy-Cmp-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|5|OBJ 7|8|NMOD-POSS 8|5|XCOMP 9|10|ADVMOD 10|5|XCOMP 11|2|PUNCT
+*1110:	by some click we can finish &-um many [/] many stuffs . 80737_82571
+%mor:	adp|by det|some-Def-Ind noun|click pron|we-Prs-Nom-P1 aux|can-Fin-S verb|finish-Inf-S adj|many-S1 noun|stuff-Plur-Acc .
+%gra:	1|3|CASE 2|3|DET 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|AMOD 8|6|OBJ 9|6|PUNCT
+*1110:	we can do it . 84417_85129
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*1110:	&-uh the &-uh disadvantage of using computer first of all I think &-uh we hafta &~s &-uh &~seh &-uh aspect our self from the real society like families or friends . 85779_100023
+%mor:	det|the-Def-Art noun|disadvantage sconj|of verb|use-Ger-S noun|computer-Acc adj|first-S1 adp|of det|all-Def-Tot pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1 aux|hafta-Fin-Ind-Pres-P1 verb|aspect-Fin-Ind-Pres-S pron|our-Prs-Gen-P1 noun|self-Acc adp|from det|the-Def-Art adj|real-S1 noun|society adp|like noun|family-Plur cconj|or noun|friend-Plur .
+%gra:	1|2|DET 2|10|NSUBJ 3|4|MARK 4|2|ACL 5|4|OBJ 6|4|ADVMOD 7|8|CASE 8|6|OBL 9|10|NSUBJ 10|0|ROOT 11|13|NSUBJ 12|13|AUX 13|10|CCOMP 14|15|NMOD-POSS 15|13|OBJ 16|19|CASE 17|19|DET 18|19|AMOD 19|13|OBL 20|21|CASE 21|19|NMOD 22|23|CC 23|21|CONJ 24|10|PUNCT
+*1110:	&-uh and they said &-um the most people who using the computers a_lot &~whor who are the most people have real problem to communicate with [/] &-uh with the people in a real society . 100639_114288
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|say-Fin-Ind-Past-P3-irr det|the-Def-Art adj|most-Sup-S1 noun|person-Plur pron|who-Rel verb|use-Ger-S det|the-Def-Art noun|computer-Plur noun|alot-Acc pron|who-Rel aux|be-Fin-Ind-Pres-P3 det|the-Def-Art adj|most-Sup-S1 noun|person-Plur-Acc verb|have-Fin-Ind-Pres-P3 adj|real-S1 noun|problem-Acc part|to verb|communicate-Inf-S adp|with det|the-Def-Art noun|person-Plur adp|in det|a-Ind-Art adj|real-S1 noun|society .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|17|NSUBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|11|DET 10|11|COMPOUND 11|8|OBJ 12|16|NSUBJ 13|16|COP 14|16|DET 15|16|AMOD 16|8|OBJ 17|3|CCOMP 18|19|AMOD 19|17|OBJ 20|21|MARK 21|19|ACL 22|24|CASE 23|24|DET 24|21|OBL 25|28|CASE 26|28|DET 27|28|AMOD 28|24|NMOD 29|3|PUNCT
+*1110:	&-uh second thing that &-uh it can ah &~her hurt our eyes or have a headay [: headache] . 114585_120191
+%mor:	adj|second-S1 noun|thing-Ger sconj|that pron|it-Prs-Nom-S3 aux|can-Fin-S intj|ah verb|hurt-Inf-S pron|our-Prs-Gen-P1 noun|eye-Plur-Acc cconj|or verb|have-Inf-S det|a-Ind-Art noun|headache-Acc .
+%gra:	1|2|AMOD 2|0|ROOT 3|7|MARK 4|7|NSUBJ 5|7|AUX 6|7|DISCOURSE 7|2|ACL 8|9|NMOD-POSS 9|7|OBJ 10|11|CC 11|7|CONJ 12|13|DET 13|11|OBJ 14|2|PUNCT
+@End

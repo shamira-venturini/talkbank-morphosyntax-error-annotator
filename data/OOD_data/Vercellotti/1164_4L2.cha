@@ -1,0 +1,42 @@
+@UTF8
+@PID:	11312/a-00062510-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@ID:	eng|Vercellotti|PAR1|||||Participant|||
+@Media:	1164_4L2, audio
+*PAR0:	today the topic is describe a custom in my culture <in Saudi Arabia> [/] in Saudi Arabia before I start to talk about &-um custom customs in my culture . 1190_24240
+%mor:	noun|today det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S det|a-Ind-Art noun|custom-Acc adp|in pron|my-Prs-Gen-S1 noun|culture adp|in adj|Saudi-S1 propn|Arabia sconj|before pron|I-Prs-Nom-S1 verb|start-Fin-Ind-Pres-S1 part|to verb|talk-Inf-S adp|about adj|custom-S1 noun|custom-Plur adp|in pron|my-Prs-Gen-S1 noun|culture .
+%gra:	1|5|OBL-UNMARKED 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|13|CASE 12|13|AMOD 13|10|NMOD 14|16|MARK 15|16|NSUBJ 16|5|ADVCL 17|18|MARK 18|16|XCOMP 19|21|CASE 20|21|AMOD 21|18|OBL 22|24|CASE 23|24|NMOD-POSS 24|18|OBL 25|5|PUNCT
+*PAR0:	I wanna to talk &-uh about the family in Saudi Arabia the family and the tribe &-um are &-uh the base bases base of the [/] the family . 25860_42730
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1~part|to part|to verb|talk-Inf-S adp|about det|the-Def-Art noun|family adp|in adj|Saudi-S1 propn|Arabia det|the-Def-Art noun|family cconj|and det|the-Def-Art noun|tribe aux|be-Fin-Ind-Pres-P3 det|the-Def-Art noun|base noun|basis-Plur noun|base adp|of det|the-Def-Art noun|family .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|MARK 4|5|MARK 5|2|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|AMOD 11|8|NMOD 12|13|DET 13|21|NSUBJ 14|16|CC 15|16|DET 16|13|CONJ 17|21|COP 18|21|DET 19|21|COMPOUND 20|21|COMPOUND 21|2|PARATAXIS 22|24|CASE 23|24|DET 24|21|NMOD 25|2|PUNCT
+*PAR0:	and &-uh if you are invited to so this house you have to follow the steps . 51080_58270
+%mor:	cconj|and sconj|if pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 verb|invite-Part-Past-S adp|to adv|so det|this-Def-Dem-Sing noun|house pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|follow-Inf-S det|the-Def-Art noun|step-Plur-Acc .
+%gra:	1|11|CC 2|5|MARK 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|11|ADVCL 6|9|CASE 7|9|ADVMOD 8|9|DET 9|5|OBL 10|11|NSUBJ 11|0|ROOT 12|13|MARK 13|11|XCOMP 14|15|DET 15|13|OBJ 16|11|PUNCT
+*PAR0:	first &-uh dress . 62390_65400
+%mor:	adj|first-S1 noun|dress .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*PAR0:	well if you wanna &-uh make a good impression . 65489_70000
+%mor:	intj|well sconj|if pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|make-Inf-S det|a-Ind-Art adj|good-S1 noun|impression-Acc .
+%gra:	1|4|DISCOURSE 2|4|MARK 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|DET 8|9|AMOD 9|6|OBJ 10|4|PUNCT
+*PAR0:	&-um second &-uh try to arrive . 72280_78880
+%mor:	adj|second-S1 verb|try-Fin-Imp-S part|to verb|arrive-Inf-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+*PAR0:	try to arrive at the invited time . 81720_85520
+%mor:	verb|try-Fin-Imp-S part|to verb|arrive-Inf-S adp|at det|the-Def-Art verb|invite-Part-Past-S noun|time .
+%gra:	1|0|ROOT 2|3|MARK 3|1|XCOMP 4|7|CASE 5|7|DET 6|7|AMOD 7|3|OBL 8|1|PUNCT
+*PAR0:	third &-um &-uh you would usually &-uh remove your shoes before you entered the house . 87030_97070
+%mor:	adj|third-S1 pron|you-Prs-Nom-S2 aux|would-Fin-S adv|usually verb|remove-Inf-S pron|your-Prs-Gen-S2 noun|shoe-Plur-Acc sconj|before pron|you-Prs-Nom-S2 verb|enter-Fin-Ind-Past-S2 det|the-Def-Art noun|house-Acc .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|10|MARK 9|10|NSUBJ 10|5|ADVCL 11|12|DET 12|10|OBJ 13|5|PUNCT
+*PAR0:	&-um next show &-uh respect . 101080_106680
+%mor:	adj|next-S1 noun|show noun|respect .
+%gra:	1|2|AMOD 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*PAR0:	show respect for all people by greeting first . 108830_114760
+%mor:	verb|show-Fin-Imp-S noun|respect-Acc adp|for det|all-Def-Tot noun|person-Plur sconj|by verb|greeting-Part-Pres-S adj|first-S1 .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|MARK 7|1|ADVCL 8|7|OBJ 9|1|PUNCT
+*PAR1:	pick .
+%mor:	verb|pick-Fin-Imp-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/t-00010146-1
+@Begin
+@Languages:	eng
+@Participants:	1110 Student
+@ID:	eng|Vercellotti|1110|||2||Student|level4||
+@Media:	1110_3F2, audio
+@Transcriber:	mlv
+*1110:	hi we start talking about the [///] &~compor &~k ah compare the transpersation [: transportation] in [/] in my country and the ah transportation in Pittsburgh . 4142_13564
+%mor:	intj|hi pron|we-Prs-Nom-P1 verb|start-Fin-Ind-Pres-P1 verb|talk-Ger-S adp|about intj|ah verb|compare-Inf-S det|the-Def-Art noun|transportation-Acc adp|in pron|my-Prs-Gen-S1 noun|country cconj|and det|the-Def-Art intj|ah noun|transportation adp|in propn|Pittsburgh .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|7|MARK 6|7|DISCOURSE 7|4|ADVCL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|NMOD-POSS 12|9|NMOD 13|16|CC 14|16|DET 15|16|DISCOURSE 16|9|CONJ 17|18|CASE 18|16|NMOD 19|3|PUNCT
+*1110:	&-uh actually in my country &-uh &-uh we have a bus but a few buses . 13920_21030
+%mor:	adv|actually adp|in pron|my-Prs-Gen-S1 noun|country pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|bus-Acc cconj|but det|a-Ind-Art adj|few-S1 noun|bus-Plur .
+%gra:	1|6|ADVMOD 2|4|CASE 3|4|NMOD-POSS 4|6|OBL 5|6|NSUBJ 6|0|ROOT 7|8|DET 8|6|OBJ 9|12|CC 10|12|DET 11|12|AMOD 12|8|CONJ 13|6|PUNCT
+*1110:	an:d &-uh here in Pittsburgh <it's very> [///] &-uh &~i &~i &~i the authority and the process of &-uh the buses &~i &-uh it's very good . 21643_37305
+%mor:	cconj|and adv|here adp|in propn|Pittsburgh det|the-Def-Art noun|authority cconj|and det|the-Def-Art noun|process adp|of det|the-Def-Art noun|bus-Plur pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very adj|good-S1 .
+%gra:	1|16|CC 2|16|ADVMOD 3|4|CASE 4|2|OBL 5|6|DET 6|16|NSUBJ 7|9|CC 8|9|DET 9|6|CONJ 10|12|CASE 11|12|DET 12|9|NMOD 13|16|NSUBJ 14|16|COP 15|16|ADVMOD 16|0|ROOT 17|16|PUNCT
+*1110:	and <a lot of buses> [/] &-uh ah &~contin &-uh mm a lot of buses is &~a &-uh connection between the [/] &-uh &-uh the street . 38787_55048
+%mor:	cconj|and intj|ah intj|mm det|a-Ind-Art noun|lot adp|of noun|bus-Plur aux|be-Fin-Ind-Pres-S3 noun|connection adp|between det|the-Def-Art noun|street .
+%gra:	1|9|CC 2|9|DISCOURSE 3|9|DISCOURSE 4|5|DET 5|9|NSUBJ 6|7|CASE 7|5|NMOD 8|9|COP 9|0|ROOT 10|12|CASE 11|12|DET 12|9|NMOD 13|9|PUNCT
+*1110:	&~i in my country we do have &-uh a lot of taxi companies . 55085_61905
+%mor:	adp|in pron|my-Prs-Gen-S1 noun|country pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1 verb|have-Inf-S det|a-Ind-Art noun|lot-Acc adp|of noun|taxi noun|company-Plur .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|11|CASE 10|11|COMPOUND 11|8|NMOD 12|6|PUNCT
+*1110:	an:d &-uh it's easy to find a taxi . 62576_65031
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|easy-S1 part|to verb|find-Inf-S det|a-Ind-Art noun|taxi-Acc .
+%gra:	1|4|CC 2|4|EXPL 3|4|COP 4|0|ROOT 5|6|MARK 6|4|CSUBJ 7|8|DET 8|6|OBJ 9|4|PUNCT
+*1110:	and &-uh there is a company for &-uh transport the people who cannot drive . 67735_76513
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|company adp|for noun|transport det|the-Def-Art noun|person-Plur pron|who-Rel aux|can-Fin-S~part|not verb|drive-Inf-S .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|9|DET 9|5|NMOD 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|9|ACL-RELCL 14|3|PUNCT
+*1110:	&-uh it's a car with a driver . 77089_79956
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|car adp|with det|a-Ind-Art noun|driver .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*1110:	you can take it for: &-uh a day for hours [//] half hours &~ha for half days . 79956_89828
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|take-Inf-S pron|it-Prs-Acc-S3 adp|for det|a-Ind-Art noun|day adp|for noun|half noun|hour-Plur adp|for noun|half noun|day-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|10|CASE 9|10|NUMMOD 10|3|OBL 11|13|CASE 12|13|NUMMOD 13|3|OBL 14|3|PUNCT
+*1110:	&-uh an:d we do have &-uh ah some buses for school and ah university . 90548_103570
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1 verb|have-Inf-S intj|ah det|some-Def-Ind noun|bus-Plur-Acc adp|for noun|school cconj|and intj|ah noun|university .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|DISCOURSE 6|7|DET 7|4|OBJ 8|9|CASE 9|7|NMOD 10|12|CC 11|12|DISCOURSE 12|9|CONJ 13|4|PUNCT
+*1110:	it's very common . 104756_106735
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very adj|common-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*1110:	&-uh here in Pittsburgh it's [///] &-uh they have a taxi cab &-uh or &-uh buses . 107175_117531
+%mor:	adv|here adp|in propn|Pittsburgh pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|taxi noun|cab-Acc cconj|or noun|bus-Plur .
+%gra:	1|5|ADVMOD 2|3|CASE 3|1|OBL 4|5|NSUBJ 5|0|ROOT 6|8|DET 7|8|COMPOUND 8|5|OBJ 9|10|CC 10|8|CONJ 11|5|PUNCT
+*1110:	&-uh it's too hard to find &-uh . 118036_120191
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|too adj|hard-S1 part|to verb|find-Inf-S .
+%gra:	1|4|EXPL 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|6|MARK 6|4|CSUBJ 7|4|PUNCT
+@End

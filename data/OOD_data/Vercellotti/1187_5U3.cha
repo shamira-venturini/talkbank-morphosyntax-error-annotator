@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/t-00010228-1
+@Begin
+@Languages:	eng
+@Participants:	1187 Student
+@ID:	eng|Vercellotti|1187|||3||Student|level4||
+@Media:	1187_5U3, audio
+@Transcriber:	jms
+*1187:	the topic's when the gap between the rich and the poor is so large you needta balance a desire for luxury with compassion for the needs of others . 4638_11057
+%mor:	det|the-Def-Art noun|topic~aux|be-Fin-Ind-Pres-S3 adv|when det|the-Def-Art noun|gap adp|between det|the-Def-Art adj|rich-S1 cconj|and det|the-Def-Art noun|poor aux|be-Fin-Ind-Pres-S3 adv|so adj|large-S1 pron|you-Prs-Nom-S2 aux|needta-Fin-Ind-Pres-S verb|balance-Fin-S det|a-Ind-Art noun|desire-Acc adp|for noun|luxury adp|with noun|compassion adp|for det|the-Def-Art noun|need-Plur adp|of noun|other-Plur .
+%gra:	1|2|DET 2|15|NSUBJ-OUTER 3|15|COP 4|0|ROOT 5|6|DET 6|15|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|12|CC 11|12|DET 12|9|CONJ 13|15|COP 14|15|ADVMOD 15|4|ADVCL-RELCL 16|18|NSUBJ 17|18|AUX 18|15|PARATAXIS 19|20|DET 20|18|OBJ 21|22|CASE 22|20|NMOD 23|24|CASE 24|20|NMOD 25|27|CASE 26|27|DET 27|24|NMOD 28|29|CASE 29|27|NMOD 30|4|PUNCT
+*1187:	do you agree or disagree why . 13454_13970
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|agree-Inf-S cconj|or verb|disagree-Inf-S adv|why .
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|CC 5|3|CONJ 6|5|ADVMOD 7|3|PUNCT
+*1187:	in my opinions I agree with this poin(t) . 15152_18026
+%mor:	adp|in pron|my-Prs-Gen-S1 noun|opinion-Plur pron|I-Prs-Nom-S1 verb|agree-Fin-Ind-Pres-S1 adp|with det|this-Def-Dem-Sing noun|point .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*1187:	if I am the rich people I needta balance a desire for luxury with compassion for the needs of others . 19602_25409
+%mor:	sconj|if pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 det|the-Def-Art adj|rich-S1 noun|person-Plur pron|I-Prs-Nom-S1 aux|needta-Fin-Ind-Pres-S1 verb|balance-Fin-Ind-Pres-S det|a-Ind-Art noun|desire-Acc adp|for noun|luxury adp|with noun|compassion adp|for det|the-Def-Art noun|need-Plur adp|of noun|other-Plur .
+%gra:	1|6|MARK 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|9|ADVCL 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|11|DET 11|9|OBJ 12|13|CASE 13|11|NMOD 14|15|CASE 15|9|OBL 16|18|CASE 17|18|DET 18|15|NMOD 19|20|CASE 20|18|NMOD 21|9|PUNCT
+*1187:	I think the rich person they are wealthy . 27608_27985
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art adj|rich-S1 noun|person-Acc pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 adj|wealthy-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|8|NSUBJ 7|8|COP 8|5|ACL-RELCL 9|2|PUNCT
+*1187:	so &~y if they have the money and I think they should reward for the society . 29991_30242
+%mor:	adv|so sconj|if pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|the-Def-Art noun|money-Acc cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3 aux|should-Fin-S verb|reward-Inf-S adp|for det|the-Def-Art noun|society .
+%gra:	1|9|ADVMOD 2|4|MARK 3|4|NSUBJ 4|9|ADVCL 5|6|DET 6|4|OBJ 7|9|CC 8|9|NSUBJ 9|0|ROOT 10|12|NSUBJ 11|12|AUX 12|9|CCOMP 13|15|CASE 14|15|DET 15|12|OBL 16|9|PUNCT
+*1187:	plus they're &~re make the money from the society . 33633_36408
+%mor:	cconj|plus pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|make-Inf-S det|the-Def-Art noun|money-Acc adp|from det|the-Def-Art noun|society .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+*1187:	so they have the right and responsibility to solve the &-uh society issue like poverty . 37913_44767
+%mor:	adv|so pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|the-Def-Art noun|right-Acc cconj|and noun|responsibility part|to verb|solve-Inf-S det|the-Def-Art noun|society noun|issue-Acc adp|like noun|poverty .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CC 7|5|CONJ 8|9|MARK 9|5|ACL 10|12|DET 11|12|COMPOUND 12|9|OBJ 13|14|CASE 14|12|NMOD 15|3|PUNCT
+*1187:	so if I think the people they are poor <they need> [/] &~to mm they need a help . 45247_50746
+%mor:	adv|so sconj|if pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art noun|person-Plur-Acc pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 adj|poor-S1 intj|mm pron|they-Prs-Nom-P3 verb|need-Fin-Ind-Pres-P3 det|a-Ind-Art noun|help-Acc .
+%gra:	1|12|ADVMOD 2|4|MARK 3|4|NSUBJ 4|12|ADVCL 5|6|DET 6|4|OBJ 7|9|NSUBJ 8|9|COP 9|6|ACL-RELCL 10|12|DISCOURSE 11|12|NSUBJ 12|0|ROOT 13|14|DET 14|12|OBJ 15|12|PUNCT
+*1187:	so I think a rich person they &~sh can afford the [/] &~m the money for sharing the free food or free clothes . 53732_58909
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|a-Ind-Art adj|rich-S1 noun|person-Acc pron|they-Prs-Nom-P3 aux|can-Fin-S verb|afford-Inf-S det|the-Def-Art noun|money-Acc sconj|for verb|share-Ger-S det|the-Def-Art adj|free-S1 noun|food-Acc cconj|or adj|free-S1 noun|clothes-Ptan .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|11|DET 11|9|OBJ 12|13|MARK 13|9|ADVCL 14|16|DET 15|16|AMOD 16|13|OBJ 17|19|CC 18|19|AMOD 19|16|CONJ 20|3|PUNCT
+*1187:	I think the poor people they needta help . 61309_61662
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art adj|poor-S1 noun|person-Plur-Acc pron|they-Prs-Nom-P3 verb|needta-Fin-Ind-Pres-P3 verb|help-Fin-Ind-Pres-P3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|8|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|2|CCOMP 9|2|PUNCT
+*1187:	so if I am rich people I will create a lot of the working [//] and [//] &~di &~wo working job [//] &~o &~i I [//] jobs for the poor people . 63681_74112
+%mor:	adv|so sconj|if pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 adj|rich-S1 noun|person-Plur pron|I-Prs-Nom-S1 aux|will-Fin-S verb|create-Inf-S det|a-Ind-Art noun|lot-Acc adp|of det|the-Def-Art noun|working-Ger noun|job-Plur adp|for det|the-Def-Art adj|poor-S1 noun|person-Plur .
+%gra:	1|9|ADVMOD 2|6|MARK 3|6|NSUBJ 4|6|COP 5|6|AMOD 6|9|ADVCL 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|11|DET 11|9|OBJ 12|15|CASE 13|15|DET 14|15|AMOD 15|11|NMOD 16|19|CASE 17|19|DET 18|19|AMOD 19|15|NMOD 20|9|PUNCT
+*1187:	I think they &~ha need a chance to work for the society . 76193_76642
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3 verb|need-Fin-Ind-Pres-P3 det|a-Ind-Art noun|chance-Acc part|to verb|work-Inf-S adp|for det|the-Def-Art noun|society .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|DET 6|4|OBJ 7|8|MARK 8|6|ACL 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+*1187:	they just do not have enough job .
+%mor:	pron|they-Prs-Nom-P3 adv|just aux|do-Fin-Ind-Pres-P3 part|not verb|have-Inf-S adj|enough-S1 noun|job-Acc .
+%gra:	1|5|NSUBJ 2|5|ADVMOD 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|AMOD 7|5|OBJ 8|5|PUNCT
+*1187:	so if I am a rich person I want to build an hospital . 82792_86686
+%mor:	adv|so sconj|if pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art adj|rich-S1 noun|person pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|build-Inf-S det|a-Ind-Art noun|hospital-Acc .
+%gra:	1|9|ADVMOD 2|7|MARK 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|9|ADVCL 8|9|NSUBJ 9|0|ROOT 10|11|MARK 11|9|XCOMP 12|13|DET 13|11|OBJ 14|9|PUNCT
+*1187:	an(d) not just for the job I think maybe the people they will need some &-um cheap insuran(c)e or the better medical care . 87104_98580
+%mor:	cconj|and part|not adv|just adp|for det|the-Def-Art noun|job pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adv|maybe det|the-Def-Art noun|person-Plur-Acc pron|they-Prs-Nom-P3 aux|will-Fin-S verb|need-Inf-S det|some-Def-Ind adj|cheap-S1 noun|insurance-Acc cconj|or det|the-Def-Art adj|good-Cmp-S1 adj|medical-S1 noun|care .
+%gra:	1|6|CC 2|6|ADVMOD 3|6|ADVMOD 4|6|CASE 5|6|DET 6|0|ROOT 7|8|NSUBJ 8|6|ACL-RELCL 9|14|ADVMOD 10|11|DET 11|14|OBJ 12|14|NSUBJ 13|14|AUX 14|8|CCOMP 15|17|DET 16|17|AMOD 17|14|OBJ 18|22|CC 19|22|DET 20|22|AMOD 21|22|AMOD 22|17|CONJ 23|6|PUNCT
+*1187:	so I think if I am a rich person I should have do something . 102553_102891
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|if pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art adj|rich-S1 noun|person pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S verb|do-Inf-S pron|something-Ind-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|9|MARK 5|9|NSUBJ 6|9|COP 7|9|DET 8|9|AMOD 9|13|ADVCL 10|13|NSUBJ 11|13|AUX 12|13|AUX 13|3|CCOMP 14|13|OBJ 15|3|PUNCT
+*1187:	that is really helpful the poor people . 105546_106385
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-S3 adv|really adj|helpful-S1 det|the-Def-Art adj|poor-S1 noun|person-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|PARATAXIS 8|4|PUNCT
+@End

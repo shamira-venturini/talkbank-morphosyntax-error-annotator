@@ -1,0 +1,56 @@
+@UTF8
+@PID:	11312/a-00062561-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1293_4Q4, audio
+*PAR0:	my [/] my topic is about describing a costume in my culture . 560_5280
+%mor:	pron|my-Prs-Gen-S1 noun|topic aux|be-Fin-Ind-Pres-S3 sconj|about verb|describe-Part-Pres-S det|a-Ind-Art noun|costume-Acc adp|in pron|my-Prs-Gen-S1 noun|culture .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ-OUTER 3|5|COP 4|5|MARK 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|5|PUNCT
+*PAR0:	I do not or other culture which I do not like . 7380_12920
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1 part|not cconj|or adj|other-S1 noun|culture-Acc pron|which-Rel-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1 part|not verb|like-Inf-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|6|CC 5|6|AMOD 6|2|OBJ 7|11|OBJ 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|6|ACL-RELCL 12|2|PUNCT
+*PAR0:	mm . 14680_14690
+%mor:	intj|mm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	actually I don't like Korean education culture in Korea many students cause &-um study in high_school or major school . 19850_36140
+%mor:	adv|actually pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S adj|Korean-S1 noun|education noun|culture-Acc adp|in propn|Korea adj|many-S1 noun|student-Plur verb|cause-Fin-S noun|study-Acc adp|in noun|highschool cconj|or adj|major-S1 noun|school .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|AMOD 7|8|COMPOUND 8|5|OBJ 9|10|CASE 10|8|NMOD 11|12|AMOD 12|13|NSUBJ 13|5|PARATAXIS 14|13|OBJ 15|16|CASE 16|14|NMOD 17|19|CC 18|19|AMOD 19|16|CONJ 20|5|PUNCT
+*PAR0:	so they can't . 41360_43760
+%mor:	adv|so pron|they-Prs-Nom-P3 aux|can-Fin-S~part|not .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR0:	mm . 46580_46590
+%mor:	intj|mm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	they can't do anything . 47830_49140
+%mor:	pron|they-Prs-Nom-P3 aux|can-Fin-S~part|not verb|do-Inf-S pron|anything-Ind-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR0:	&-um freely . 54140_55980
+%mor:	adv|freely .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and we have &-uh only one test in one ear . 58480_63520
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 adv|only num|one noun|test-Acc adp|in num|one noun|ear .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|ADVMOD 5|6|NUMMOD 6|3|OBJ 7|9|CASE 8|9|NUMMOD 9|3|OBL 10|3|PUNCT
+*PAR0:	so student have to study very hard to enter the college because the test they the chance to enter the college is one . 64879_76870
+%mor:	adv|so noun|student verb|have-Fin-Ind-Pres-P3 part|to verb|study-Inf-S adv|very adj|hard-S1 part|to verb|enter-Inf-S det|the-Def-Art noun|college-Acc sconj|because det|the-Def-Art noun|test pron|they-Prs-Nom-P3 det|the-Def-Art noun|chance part|to verb|enter-Inf-S det|the-Def-Art noun|college-Acc aux|be-Fin-Ind-Pres-S3 num|one .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|ADVMOD 7|5|ADVMOD 8|9|MARK 9|5|ADVCL 10|11|DET 11|9|OBJ 12|23|MARK 13|14|DET 14|23|NSUBJ 15|17|NSUBJ 16|17|DET 17|14|ACL-RELCL 18|19|MARK 19|17|ACL 20|21|DET 21|19|OBJ 22|23|COP 23|3|ADVCL 24|3|PUNCT
+*PAR0:	and if they miss the test or got a bad grade in the test they have to wait one year . 78220_85680
+%mor:	cconj|and sconj|if pron|they-Prs-Nom-P3 verb|miss-Fin-Ind-Pres-P3 det|the-Def-Art noun|test-Acc cconj|or verb|get-Fin-Ind-Past-P3-irr det|a-Ind-Art adj|bad-S1 noun|grade-Acc adp|in det|the-Def-Art noun|test pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 part|to verb|wait-Inf-S num|one noun|year .
+%gra:	1|16|CC 2|4|MARK 3|4|NSUBJ 4|16|ADVCL 5|6|DET 6|4|OBJ 7|8|CC 8|4|CONJ 9|11|DET 10|11|AMOD 11|8|OBJ 12|14|CASE 13|14|DET 14|8|OBL 15|16|NSUBJ 16|0|ROOT 17|18|MARK 18|16|XCOMP 19|20|NUMMOD 20|18|OBL-UNMARKED 21|16|PUNCT
+*PAR0:	so student have to very study hard . 86760_91660
+%mor:	adv|so noun|student verb|have-Fin-Ind-Pres-P3 part|to adv|very verb|study-Inf-S adv|hard .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|ADVMOD 6|3|XCOMP 7|6|ADVMOD 8|3|PUNCT
+*PAR0:	and so they got very [/] very full of stress . 92140_96180
+%mor:	cconj|and adv|so pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Past-P3-irr adv|very adj|full-S1 adp|of noun|stress .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|6|ADVMOD 6|4|XCOMP 7|8|CASE 8|6|OBL 9|4|PUNCT
+*PAR0:	<so when> [/] so when that exam is coming still students feel very nervous . 98670_107280
+%mor:	adv|so adv|when det|that-Def-Dem-Sing noun|exam aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adv|still noun|student-Plur verb|feel-Fin-Ind-Pres-P3 adv|very adj|nervous-S1 .
+%gra:	1|9|ADVMOD 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|9|ADVCL 7|6|ADVMOD 8|9|NSUBJ 9|0|ROOT 10|11|ADVMOD 11|9|XCOMP 12|9|PUNCT
+*PAR0:	and some students don't want to take that exam and give up their exam . 108310_116710
+%mor:	cconj|and det|some-Def-Ind noun|student-Plur aux|do-Fin-Ind-Pres-P3~part|not verb|want-Inf-S part|to verb|take-Inf-S det|that-Def-Dem-Sing noun|exam-Acc cconj|and verb|give-Inf-S adp|up pron|their-Prs-Gen-P3 noun|exam-Acc .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|OBJ 11|12|CC 12|8|CONJ 13|12|COMPOUND-PRT 14|15|NMOD-POSS 15|12|OBJ 16|6|PUNCT
+*PAR0:	so I think a . 117850_118610
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|a-Ind-Art .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT 5|3|PUNCT
+@End

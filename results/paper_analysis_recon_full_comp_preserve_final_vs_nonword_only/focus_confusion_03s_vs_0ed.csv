@@ -1,0 +1,6 @@
+run_name,experiment,split,focus_a,focus_b,focus_a_support,focus_b_support,focus_a_pred_b_count,focus_b_pred_a_count,focus_a_pred_b_rate,focus_b_pred_a_rate
+recon_full_comp_preserve_final_seed3407,unknown,test_real,[* m:03s:a],[* m:0ed],24,1,0,0,0.0,0.0
+recon_full_comp_preserve_final_seed3407,unknown,test_coverage,[* m:03s:a],[* m:0ed],11,10,0,0,0.0,0.0
+recon_full_comp_preserve_final_seed3407,unknown,holdout_generalization,[* m:03s:a],[* m:0ed],0,0,0,0,0.0,0.0
+recon_full_comp_nonword_only_seed3407,unknown,test_real,[* m:03s:a],[* m:0ed],24,1,0,1,0.0,1.0
+recon_full_comp_nonword_only_seed3407,unknown,holdout_generalization,[* m:03s:a],[* m:0ed],0,0,0,0,0.0,0.0

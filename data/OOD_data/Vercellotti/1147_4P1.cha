@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/t-00010159-1
+@Begin
+@Languages:	eng
+@Participants:	1147 Student
+@ID:	eng|Vercellotti|1147|||1||Student|level4||
+@Media:	1147_4P1, audio
+@Transcriber:	jms
+*1147:	the topic is describe my city where I come from . 1311_7322
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S pron|my-Prs-Gen-S1 noun|city-Acc adv|where pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from .
+%gra:	1|2|DET 2|4|NSUBJ-OUTER 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|ADVMOD 8|9|NSUBJ 9|6|ACL-RELCL 10|9|OBL 11|4|PUNCT
+*1147:	okay &-uh I want describe my city . 7830_11498
+%mor:	intj|okay pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 verb|describe-Inf-S pron|my-Prs-Gen-S1 noun|city-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|6|NMOD-POSS 6|4|OBJ 7|3|PUNCT
+*1147:	&-uh I'm from Saudi Arabia . 11791_14490
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|from adj|Saudi-S1 propn|Arabia .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*1147:	&-uh &~the <my city is> [///] &~i &~na <my in> [///] ah the [//] &~sit the name of my city is Jeddah . 14817_23414
+%mor:	intj|ah det|the-Def-Art noun|name adp|of pron|my-Prs-Gen-S1 noun|city aux|be-Fin-Ind-Pres-S3 propn|Jeddah .
+%gra:	1|8|DISCOURSE 2|3|DET 3|8|NSUBJ 4|6|CASE 5|6|NMOD-POSS 6|3|NMOD 7|8|COP 8|0|ROOT 9|8|PUNCT
+*1147:	&-um my city is the bigges(t) city in my country . 24111_29994
+%mor:	pron|my-Prs-Gen-S1 noun|city aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|big-Sup-S1 noun|city adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|6|PUNCT
+*1147:	&-um if you wanna achieve some goods from [///] or shopping that you can go to the mall to gets &~si or what you want whatever . 31182_46561
+%mor:	sconj|if pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|achieve-Inf-S det|some-Def-Ind noun|goods-Plur-Acc cconj|or noun|shopping-Ger pron|that-Rel pron|you-Prs-Nom-S2 aux|can-Fin-S verb|go-Inf-S adp|to det|the-Def-Art noun|mall part|to verb|get-Fin-Ind-Pres-S3 cconj|or pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|whatever-Int-S1 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|9|CC 9|7|CONJ 10|13|OBJ 11|13|NSUBJ 12|13|AUX 13|7|ACL-RELCL 14|16|CASE 15|16|DET 16|13|OBL 17|18|MARK 18|13|ADVCL 19|20|CC 20|18|CONJ 21|22|NSUBJ 22|20|ACL-RELCL 23|22|OBJ 24|3|PUNCT
+*1147:	and the favorite aspect <on my> [//] &~coun in my city &-um the beach . 49938_55516
+%mor:	cconj|and det|the-Def-Art adj|favorite-S1 noun|aspect adp|in pron|my-Prs-Gen-S1 noun|city det|the-Def-Art noun|beach .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|9|DET 9|4|APPOS 10|4|PUNCT
+*1147:	ah the [/] the beach is very beautiful to swim . 55964_59838
+%mor:	intj|ah det|the-Def-Art noun|beach aux|be-Fin-Ind-Pres-S3 adv|very adj|beautiful-S1 part|to verb|swim-Inf-S .
+%gra:	1|6|DISCOURSE 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|8|MARK 8|6|ADVCL 9|6|PUNCT
+*1147:	and [/] and &~s second thing about ah &~i a [//] &~pe the people is ah the people are &~co cooperate to [/] to have a clean beach . 60261_75214
+%mor:	cconj|and adj|second-S1 noun|thing-Ger adp|about intj|ah det|the-Def-Art noun|person-Plur aux|be-Fin-Ind-Pres-S3 sconj|ah det|the-Def-Art noun|person-Plur aux|be-Fin-Ind-Pres-P3 verb|cooperate-Inf-S part|to verb|have-Inf-S det|a-Ind-Art adj|clean-S1 noun|beach-Acc .
+%gra:	1|13|CC 2|3|AMOD 3|13|NSUBJ-OUTER 4|5|CASE 5|3|NMOD 6|7|DET 7|13|NSUBJ-OUTER 8|13|COP 9|13|MARK 10|11|DET 11|13|NSUBJ 12|13|AUX 13|0|ROOT 14|15|MARK 15|13|XCOMP 16|18|DET 17|18|AMOD 18|15|OBJ 19|13|PUNCT
+*1147:	that's a beautiful thing . 76380_78234
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|beautiful-S1 noun|thing-Ger .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*1147:	and if you wanna acquire [/] &-uh <acquire to study> [//] or [///] your acquire your goals to study or [///] &-uh <you have> [//] you can find &-uh &-um our big university <that is> [/] &~si ah that is name king Abdullaziz university . 79429_102138
+%mor:	cconj|and sconj|if pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to pron|your-Prs-Gen-S2 verb|acquire-Inf-S pron|your-Prs-Gen-S2 noun|goal-Plur-Acc part|to verb|study-Inf-S pron|you-Prs-Nom-S2 aux|can-Fin-S verb|find-Inf-S pron|our-Prs-Gen-P1 adj|big-S1 noun|university-Acc intj|ah pron|that-Dem aux|be-Fin-Ind-Pres-S3 noun|name noun|king-Ger propn|Abdullaziz noun|university .
+%gra:	1|14|CC 2|4|MARK 3|4|NSUBJ 4|14|ADVCL 5|7|MARK 6|7|NSUBJ 7|4|XCOMP 8|9|NMOD-POSS 9|7|OBJ 10|11|MARK 11|7|ADVCL 12|14|NSUBJ 13|14|AUX 14|0|ROOT 15|17|NMOD-POSS 16|17|AMOD 17|14|OBJ 18|24|DISCOURSE 19|24|NSUBJ 20|24|COP 21|24|COMPOUND 22|24|COMPOUND 23|24|COMPOUND 24|14|PARATAXIS 25|14|PUNCT
+*1147:	<you can> [/] you can study there . 104054_104646
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|study-Inf-S adv|there .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*1147:	it's &-uh very beautiful . 104890_109048
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very adj|beautiful-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*1147:	the [///] &~i it's very beautiful: university that's it and have a good day . 111861_120191
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very adj|beautiful-S1 noun|university pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 cconj|and verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art adj|good-S1 noun|day-Acc .
+%gra:	1|5|NSUBJ 2|5|COP 3|4|ADVMOD 4|5|AMOD 5|0|ROOT 6|8|NSUBJ 7|8|COP 8|5|ACL-RELCL 9|10|CC 10|5|CONJ 11|13|DET 12|13|AMOD 13|10|OBJ 14|5|PUNCT
+@End

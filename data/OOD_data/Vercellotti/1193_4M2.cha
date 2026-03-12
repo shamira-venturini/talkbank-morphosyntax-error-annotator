@@ -1,0 +1,39 @@
+@UTF8
+@PID:	11312/t-00010237-1
+@Begin
+@Languages:	eng
+@Participants:	1193 Student
+@ID:	eng|Vercellotti|1193|||2||Student|level4||
+@Media:	1193_4M2, audio
+@Transcriber:	jms
+*1193:	hi good morning I wanna talking now about some difference [% 3 syllables] between some country in the middle east . 2278_11980
+%mor:	intj|hi adj|good-S1 noun|morning-Ger pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1~part|to verb|talk-Part-Pres-S adv|now adp|about det|some-Def-Ind noun|difference adp|between det|some-Def-Ind noun|country adp|in det|the-Def-Art adj|middle-S1 noun|east .
+%gra:	1|3|DISCOURSE 2|3|AMOD 3|5|OBL-UNMARKED 4|5|NSUBJ 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|ADVMOD 9|11|CASE 10|11|DET 11|7|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|18|CASE 16|18|DET 17|18|AMOD 18|14|NMOD 19|5|PUNCT
+*1193:	that is &-uh between &-uh food and separation an(d) wearing . 12714_25160
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-S3 adp|between noun|food cconj|and noun|separation cconj|and verb|wear-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|6|CC 6|4|CONJ 7|8|CC 8|4|CONJ 9|4|PUNCT
+*1193:	because in my [//] our country all people wearing thawb@n or dishdasha@n &-uh with &-uh &~s red ah scarf or white scarf and agal@n and cap . 27461_41982
+%mor:	sconj|because adp|in pron|our-Prs-Gen-P1 noun|country det|all-Def-Tot noun|person-Plur verb|wear-Ger-S n|thawb-Acc cconj|or n|dishdasha adp|with adj|red-S1 intj|ah noun|scarf cconj|or adj|white-S1 noun|scarf cconj|and n|agal cconj|and noun|cap .
+%gra:	1|7|MARK 2|4|CASE 3|4|NMOD-POSS 4|7|OBL 5|6|DET 6|7|NSUBJ 7|0|ROOT 8|7|OBJ 9|10|CC 10|8|CONJ 11|14|CASE 12|14|AMOD 13|14|DISCOURSE 14|7|OBL 15|17|CC 16|17|AMOD 17|14|CONJ 18|19|CC 19|14|CONJ 20|21|CC 21|19|CONJ 22|7|PUNCT
+*1193:	but <in the> [//] on the country around us they're not wearing <the same> [/] the same . 42441_55237
+%mor:	cconj|but adp|on det|the-Def-Art noun|country adp|around pron|we-Prs-Acc-P1 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 part|not verb|wear-Part-Pres-S det|the-Def-Art adj|same-S1 .
+%gra:	1|10|CC 2|4|CASE 3|4|DET 4|10|OBL 5|6|CASE 6|4|NMOD 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|0|ROOT 11|12|DET 12|10|OBJ 13|10|PUNCT
+*1193:	but some kind of food that is usually the same . 55772_64478
+%mor:	cconj|but det|some-Def-Ind noun|kind adp|of noun|food pron|that-Rel aux|be-Fin-Ind-Pres-S3 adv|usually det|the-Def-Art adj|same-S1 .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|5|CASE 5|3|NMOD 6|10|NSUBJ 7|10|COP 8|10|ADVMOD 9|10|DET 10|5|ACL-RELCL 11|3|PUNCT
+*1193:	and &-uh <the separation> [//] we have two separation that exactly the same an(d) on [//] in our muslim people . 65138_78036
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 num|two noun|separation-Acc pron|that-Rel adv|exactly det|the-Def-Art adj|same-S1 cconj|and adp|in pron|our-Prs-Gen-P1 adj|muslim-S1 noun|person-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NUMMOD 5|3|OBJ 6|9|NSUBJ 7|9|ADVMOD 8|9|DET 9|5|ACL-RELCL 10|14|CC 11|14|CASE 12|14|NMOD-POSS 13|14|AMOD 14|9|CONJ 15|3|PUNCT
+*1193:	but them also have extra separation . 78619_80072
+%mor:	cconj|but pron|they-Prs-Acc-P3 adv|also verb|have-Fin-Ind-Pres-P3 adj|extra-S1 noun|separation-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|4|PUNCT
+*1193:	I [/] &~don I don't know why they're do that <because in my our> [//] ah because in my Islam <just the separation> [//] <we can> [///] &-uh or [//] just the separation all the muslim do it that . 83268_103962
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|why pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|do-Inf-S pron|that-Dem intj|ah sconj|because adp|in pron|my-Prs-Gen-S1 propn|Islam adv|just det|the-Def-Art noun|separation det|all-Def-Tot det|the-Def-Art noun|muslim verb|do-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ADVCL-RELCL 9|8|OBJ 10|21|DISCOURSE 11|21|MARK 12|14|CASE 13|14|NMOD-POSS 14|21|OBL 15|17|ADVMOD 16|17|DET 17|21|ADVCL 18|20|DET-PREDET 19|20|DET 20|21|NSUBJ 21|4|ADVCL 22|21|OBJ 23|21|OBJ 24|4|PUNCT
+*1193:	and what separation is more that is not good to do it in the Islam . 105824_115764
+%mor:	cconj|and det|what-Def-Int noun|separation aux|be-Fin-Ind-Pres-S3 adj|more-Cmp-S1 pron|that-Rel aux|be-Fin-Ind-Pres-S3 part|not adj|good-S1 part|to verb|do-Inf-S pron|it-Prs-Acc-S3 adp|in det|the-Def-Art propn|Islam .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|9|NSUBJ 7|9|COP 8|9|ADVMOD 9|5|ADVCL-RELCL 10|11|MARK 11|9|XCOMP 12|11|OBJ 13|15|CASE 14|15|DET 15|11|OBL 16|5|PUNCT
+*1193:	also <the food> [/] the food is different between . 116561_120191
+%mor:	adv|also det|the-Def-Art noun|food aux|be-Fin-Ind-Pres-S3 adj|different-S1 adp|between .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|CASE 7|5|PUNCT
+@End

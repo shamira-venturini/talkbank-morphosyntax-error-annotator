@@ -1,0 +1,39 @@
+@UTF8
+@PID:	11312/a-00062567-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@ID:	eng|Vercellotti|PAR1|||||Participant|||
+@Media:	1299_4Q2, audio
+*PAR0:	&-um my topic is to describe a job that I would love to have being advertising manager . 1320_10320
+%mor:	pron|my-Prs-Gen-S1 noun|topic aux|be-Fin-Ind-Pres-S3 part|to verb|describe-Inf-S det|a-Ind-Art noun|job-Acc pron|that-Rel pron|I-Prs-Nom-S1 aux|would-Fin-S verb|love-Inf-S part|to verb|have-Inf-S aux|be-Part-Pres-S noun|advertising-Ger noun|manager .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ-OUTER 3|5|COP 4|5|MARK 5|0|ROOT 6|7|DET 7|5|OBJ 8|13|OBJ 9|11|NSUBJ 10|11|AUX 11|7|ACL-RELCL 12|13|MARK 13|11|XCOMP 14|16|COP 15|16|COMPOUND 16|13|XCOMP 17|5|PUNCT
+*PAR0:	is <that I would> [/] that I would love to have . 11400_14760
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|I-Prs-Nom-S1 aux|would-Fin-S verb|love-Inf-S part|to verb|have-Inf-S .
+%gra:	1|5|COP 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+*PAR0:	because advertising manager has the ability to meet people who is the client . 16190_29320
+%mor:	sconj|because noun|advertising-Ger noun|manager verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|ability-Acc part|to verb|meet-Inf-S noun|person-Plur-Acc pron|who-Rel aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|client .
+%gra:	1|4|MARK 2|3|COMPOUND 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|MARK 8|6|ACL 9|8|OBJ 10|13|NSUBJ 11|13|COP 12|13|DET 13|9|ACL-RELCL 14|4|PUNCT
+*PAR0:	very fam be family &-uh client . 32970_35230
+%mor:	adv|very adv|fam aux|be-Fin-S noun|family noun|client .
+%gra:	1|2|ADVMOD 2|5|ADVMOD 3|5|COP 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT
+*PAR1:	to . 36640_36770
+%mor:	adp|to .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and they can manage it all kinds of any advertising . 41800_47520
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|can-Fin-S verb|manage-Inf-S pron|it-Prs-Acc-S3 det|all-Def-Tot noun|kind-Plur-Acc adp|of det|any-Def-Ind noun|advertising-Ger .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|DET 7|4|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|4|PUNCT
+*PAR0:	but [/] but mm . 49800_52280
+%mor:	cconj|but intj|mm .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR0:	<I can> [/] I can expect that I am supposed to I'm <supposed to> [/] supposed to earn money on low [/] low and lower money when I well and when I am a member of Com Advertising Company first . 56340_75430
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|expect-Inf-S sconj|that pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 verb|suppose-Part-Past-S part|to pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|suppose-Part-Past-S part|to verb|earn-Inf-S noun|money-Acc adp|on adj|low-S1 cconj|and adj|low-Cmp-S1 noun|money adv|when pron|I-Prs-Nom-S1 adv|well cconj|and adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art noun|member adp|of propn|Com propn|Advertising-Ger propn|Company adv|first .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|MARK 5|7|NSUBJ-PASS 6|7|AUX-PASS 7|3|CCOMP 8|11|MARK 9|11|NSUBJ-PASS 10|11|AUX-PASS 11|7|CCOMP 12|13|MARK 13|11|XCOMP 14|13|OBJ 15|19|CASE 16|19|AMOD 17|18|CC 18|16|CONJ 19|13|OBL 20|22|ADVMOD 21|22|NSUBJ 22|13|ADVCL 23|28|CC 24|28|ADVMOD 25|28|NSUBJ 26|28|COP 27|28|DET 28|22|CONJ 29|32|CASE 30|32|COMPOUND 31|32|COMPOUND 32|28|NMOD 33|28|ADVMOD 34|3|PUNCT
+*PAR0:	but as time goes by my position is up when I position is up &-uh I cannot on a lot of money more than other jobs because &-um because advertising managers should be sociable because I one of &-uh one of the important thing to have &-uh advertising manager as a job . 78640_115460
+%mor:	cconj|but sconj|as noun|time verb|go-Fin-Ind-Pres-S3 adp|by pron|my-Prs-Gen-S1 noun|position aux|be-Fin-Ind-Pres-S3 adv|up adv|when pron|I-Prs-Nom-S1 verb|position-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-S3 adp|up pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not adp|on det|a-Ind-Art noun|lot adp|of noun|money adj|more-Cmp-S1 adp|than adj|other-S1 noun|job-Plur sconj|because sconj|because noun|advertising-Ger noun|manager-Plur aux|should-Fin-S aux|be-Inf-S adj|sociable-S1 sconj|because pron|I-Prs-Nom-S1 num|one adp|of num|one adp|of det|the-Def-Art adj|important-S1 noun|thing-Ger part|to verb|have-Inf-S noun|advertising-Ger noun|manager-Acc adp|as det|a-Ind-Art noun|job .
+%gra:	1|20|CC 2|4|MARK 3|4|NSUBJ 4|9|ADVCL 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|9|COP 9|20|ADVMOD 10|12|ADVMOD 11|12|NSUBJ 12|14|AUX 13|14|COP 14|9|ADVCL 15|20|NSUBJ 16|20|AUX 17|20|ADVMOD 18|20|CASE 19|20|DET 20|0|ROOT 21|22|CASE 22|20|NMOD 23|20|ADVMOD 24|26|CASE 25|26|AMOD 26|23|OBL 27|33|MARK 28|33|MARK 29|30|COMPOUND 30|33|NSUBJ 31|33|AUX 32|33|COP 33|20|ADVCL 34|36|MARK 35|36|NSUBJ 36|33|ADVCL 37|38|CASE 38|36|NMOD 39|42|CASE 40|42|DET 41|42|AMOD 42|38|NMOD 43|44|MARK 44|42|ACL 45|46|COMPOUND 46|44|OBJ 47|49|CASE 48|49|DET 49|44|OBL 50|20|PUNCT
+*PAR1:	is .
+%mor:	aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

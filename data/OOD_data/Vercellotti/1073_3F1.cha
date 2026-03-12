@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/t-00010110-1
+@Begin
+@Languages:	eng
+@Participants:	1073 Student
+@ID:	eng|Vercellotti|1073|||1||Student|level4||
+@Media:	1073_3F1, audio
+@Transcriber:	jms
+*1073:	<describe your favorite meal> [//] &~f the topic is describe your favorite meal from your childhood . 7507_9660
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S pron|your-Prs-Gen-S2 adj|favorite-S1 noun|meal-Acc adp|from pron|your-Prs-Gen-S2 noun|childhood .
+%gra:	1|2|DET 2|4|NSUBJ-OUTER 3|4|AUX 4|0|ROOT 5|7|NMOD-POSS 6|7|AMOD 7|4|OBJ 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|4|PUNCT
+*1073:	&-um my favorite dish was &-uh &~s &-uh kabsah@n . 10452_19980
+%mor:	pron|my-Prs-Gen-S1 adj|favorite-S1 noun|dish aux|be-Fin-Ind-Past-S3-irr n|kabsah .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*1073:	it's made of &-uh chicken and rice . 21056_23404
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|make-Part-Past-S-irr adp|of noun|chicken cconj|and noun|rice .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|0|ROOT 4|5|CASE 5|3|OBL 6|7|CC 7|5|CONJ 8|3|PUNCT
+*1073:	&-uh the ingredients for the: [//] &-uh &~th that dish it &-uh a whole chicken and &-uh rice and &-uh salt and pepper spicy . 23759_36764
+%mor:	det|the-Def-Art noun|ingredient-Plur adp|for det|that-Def-Dem-Sing noun|dish pron|it-Prs-Acc-S3 det|a-Ind-Art adj|whole-S1 noun|chicken cconj|and noun|rice cconj|and noun|salt cconj|and noun|pepper noun|spicy .
+%gra:	1|2|DET 2|9|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|9|NSUBJ 7|9|DET 8|9|AMOD 9|0|ROOT 10|11|CC 11|9|CONJ 12|16|CC 13|9|CONJ 14|15|CC 15|13|CONJ 16|9|CONJ 17|9|PUNCT
+*1073:	and we have tomato and a large onion . 39386_41148
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 noun|tomato-Acc cconj|and det|a-Ind-Art adj|large-S1 noun|onion .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|8|CC 6|8|DET 7|8|AMOD 8|4|CONJ 9|3|PUNCT
+*1073:	and we have &-uh some spicy &-um lemon and &-uh sauce . 41963_52372
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|some-Def-Ind adj|spicy-S1 noun|lemon-Acc cconj|and noun|sauce .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|8|CC 8|6|CONJ 9|3|PUNCT
+*1073:	an(d) we put it like that into [///] &-uh . 53830_59068
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|put-Fin-Ind-Past-P1-irr pron|it-Prs-Acc-S3 adp|like pron|that-Dem .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*1073:	ah usually made that &-uh favorite meal for me ah the dish it's my mum because it's &-uh made it well . 59068_67182
+%mor:	intj|ah adv|usually verb|make-Fin-Ind-Past-S3-irr det|that-Def-Dem-Sing adj|favorite-S1 noun|meal-Acc adp|for pron|I-Prs-Acc-S1 intj|ah det|the-Def-Art noun|dish pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|mum sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|make-Part-Past-S-irr pron|it-Prs-Acc-S3 adv|well .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|8|CASE 8|3|OBL 9|15|DISCOURSE 10|11|DET 11|3|PARATAXIS 12|15|NSUBJ 13|15|COP 14|15|NMOD-POSS 15|3|PARATAXIS 16|19|MARK 17|19|NSUBJ-PASS 18|19|AUX-PASS 19|15|ADVCL 20|19|OBJ 21|19|ADVMOD 22|3|PUNCT
+*1073:	&-um I like &-um her food . 68203_70236
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|her-Prs-Gen-S3 noun|food-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*1073:	she cooks well . 71870_72916
+%mor:	pron|she-Prs-Nom-S3 verb|cook-Fin-Ind-Pres-S3 adv|well .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*1073:	&-uh &-uh because it's my mum . 74023_81411
+%mor:	sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|mum .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|COP 4|5|NMOD-POSS 5|0|ROOT 6|5|PUNCT
+*1073:	&~m <what's it's> [///] <why was it favorite> [//] why was it's your favorite . 81411_82109
+%mor:	adv|why aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|favorite .
+%gra:	1|6|ADVMOD 2|6|COP 3|6|NSUBJ 4|6|COP 5|6|NMOD-POSS 6|0|ROOT 7|6|PUNCT
+*1073:	becaus:e &-uh I like when I am in childhood my mom always cook it for me . 82797_87811
+%mor:	sconj|because pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 adp|in noun|childhood pron|my-Prs-Gen-S1 noun|mom adv|always verb|cook-Fin-Ind-S pron|it-Prs-Acc-S3 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|12|ADVCL 4|8|ADVMOD 5|8|NSUBJ 6|8|COP 7|8|CASE 8|3|ADVCL 9|10|NMOD-POSS 10|12|NSUBJ 11|12|ADVMOD 12|0|ROOT 13|12|OBJ 14|15|CASE 15|12|OBL 16|12|PUNCT
+*1073:	and &-uh <I am> [///] &-uh &-uh &~i I like it . 88122_96542
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*1073:	&-uh I: always eat it because that it's my favorite . 96542_101587
+%mor:	pron|I-Prs-Nom-S1 adv|always verb|eat-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 sconj|because sconj|that pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|favorite .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|10|MARK 6|10|MARK 7|10|NSUBJ 8|10|COP 9|10|NMOD-POSS 10|3|ADVCL 11|3|PUNCT
+*1073:	some [///] <we eat meal> [//] me and my brother we eat together in the same table in the same plate . 102316_115699
+%mor:	pron|I-Prs-Acc-S1 cconj|and pron|my-Prs-Gen-S1 noun|brother pron|we-Prs-Nom-P1 verb|eat-Fin-Ind-Pres-P1 adv|together adp|in det|the-Def-Art adj|same-S1 noun|table adp|in det|the-Def-Art adj|same-S1 noun|plate .
+%gra:	1|6|NSUBJ 2|4|CC 3|4|NMOD-POSS 4|1|CONJ 5|6|NSUBJ 6|0|ROOT 7|6|ADVMOD 8|11|CASE 9|11|DET 10|11|AMOD 11|6|OBL 12|15|CASE 13|15|DET 14|15|AMOD 15|6|OBL 16|6|PUNCT
+*1073:	we are similar: . 117532_120191
+%mor:	pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 adj|similar-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/t-00010200-1
+@Begin
+@Languages:	eng
+@Participants:	1166 Student
+@ID:	eng|Vercellotti|1166|||2||Student|level4||
+@Media:	1166_4R2, audio
+@Transcriber:	jms
+*1166:	after I graduated from high school <I didn't pay> [//] &~attens paid [//] &~atten I didn't pay attention to: improve my english ah skills or to learn more vocabulary . 3187_15659
+%mor:	sconj|after pron|I-Prs-Nom-S1 verb|graduate-Fin-Ind-Past-S1 adp|from adj|high-S1 noun|school pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|pay-Inf-S noun|attention-Acc part|to verb|improve-Inf-S pron|my-Prs-Gen-S1 noun|English noun|ah noun|skill-Plur-Acc cconj|or part|to verb|learn-Inf-S adj|more-Cmp-S1 noun|vocabulary-Acc .
+%gra:	1|3|MARK 2|3|NSUBJ 3|10|ADVCL 4|6|CASE 5|6|AMOD 6|3|OBL 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|0|ROOT 11|10|OBJ 12|13|MARK 13|10|ADVCL 14|15|NMOD-POSS 15|17|COMPOUND 16|17|COMPOUND 17|13|OBJ 18|20|CC 19|20|MARK 20|13|CONJ 21|22|AMOD 22|20|OBJ 23|10|PUNCT
+*1166:	I should have learn more vocabulary and improved my english skills <when I was> [//] &-uh ah <at college> [//] when I was studying at college &-uh . 16795_29466
+%mor:	pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S verb|learn-Part-Past-S adj|more-Cmp-S1 noun|vocabulary-Acc cconj|and verb|improve-Part-Past-S pron|my-Prs-Gen-S1 adj|English-S1 noun|skill-Plur-Acc intj|ah adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|study-Part-Pres-S adp|at noun|college .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|8|CC 8|4|CONJ 9|11|NMOD-POSS 10|11|AMOD 11|8|OBJ 12|16|DISCOURSE 13|16|ADVMOD 14|16|NSUBJ 15|16|AUX 16|8|ADVCL 17|18|CASE 18|16|OBL 19|4|PUNCT
+*1166:	<if I> [/] &-uh if I had learned more vocabulary &-uh <I would have> [//] &~s speak [//] &~spe I would have &~sp poken [: spoken] english &-uh very well . 29466_43003
+%mor:	sconj|if pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1-irr verb|learn-Part-Past-S adj|more-Cmp-S1 noun|vocabulary-Acc pron|I-Prs-Nom-S1 aux|would-Fin-S aux|have-Inf-S verb|speak-Part-Past-S-irr adj|English-S1 adv|very adv|well .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|10|ADVCL 5|6|AMOD 6|4|OBJ 7|10|NSUBJ 8|10|AUX 9|10|AUX 10|0|ROOT 11|10|XCOMP 12|13|ADVMOD 13|10|ADVMOD 14|10|PUNCT
+*1166:	ah that's one of my problem . 44303_45723
+%mor:	intj|ah pron|that-Dem~aux|be-Fin-Ind-Pres-S3 num|one adp|of pron|my-Prs-Gen-S1 noun|problem .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|4|PUNCT
+*1166:	ah really <I didn't pay> [//] &~atten paid [//] I didn't pay attention ah <to &~r> [//] when I was in Saudi Arabia <when I was> [//] &~ha &~ha when I had time . 49157_57068
+%mor:	intj|ah adv|really pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|pay-Inf-S noun|attention-Acc intj|ah adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adp|in adj|Saudi-S1 propn|Arabia adv|when pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr noun|time-Acc .
+%gra:	1|6|DISCOURSE 2|6|ADVMOD 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|6|DISCOURSE 9|14|ADVMOD 10|14|NSUBJ 11|14|COP 12|14|CASE 13|14|AMOD 14|6|ADVCL 15|17|ADVMOD 16|17|NSUBJ 17|14|ADVCL 18|17|OBJ 19|6|PUNCT
+*1166:	but I spent most of: my time watching &-uh tv or hanging with [//] my [//] friend with my friends . 59198_66988
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|spend-Fin-Ind-Past-S1-irr adj|most-Sup-S1 adp|of pron|my-Prs-Gen-S1 noun|time verb|watch-Part-Pres-S noun|TV-Acc cconj|or verb|hang-Part-Pres-S noun|friend-Acc adp|with pron|my-Prs-Gen-S1 noun|friend-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|3|ADVCL 9|8|OBJ 10|11|CC 11|8|CONJ 12|8|OBJ 13|15|CASE 14|15|NMOD-POSS 15|8|OBL 16|3|PUNCT
+*1166:	so I [/] I think <it's more better if> [/] &-uh it's more better &-uh if I: improve my english: or focus in english &-uh when I was able to do that . 67754_89997
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|more adj|good-Cmp-S1 sconj|if pron|I-Prs-Nom-S1 verb|improve-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|English-Acc cconj|or noun|focus adp|in noun|English adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adj|able-S1 part|to verb|do-Inf-S pron|that-Dem .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|7|EXPL 5|7|COP 6|7|ADVMOD 7|3|CCOMP 8|10|MARK 9|10|NSUBJ 10|7|ADVCL 11|12|NMOD-POSS 12|10|OBJ 13|14|CC 14|12|CONJ 15|16|CASE 16|10|OBL 17|20|ADVMOD 18|20|NSUBJ 19|20|COP 20|10|ADVCL 21|22|MARK 22|20|XCOMP 23|22|OBJ 24|3|PUNCT
+*1166:	I [/] I [/] should [/] I should have watched &-uh movies and american movies . 90458_103523
+%mor:	pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S verb|watch-Part-Past-S noun|movie-Plur-Acc cconj|and adj|American-S1 noun|movie-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CC 7|8|AMOD 8|5|CONJ 9|4|PUNCT
+*1166:	<if I> [/] &~w if I had watched &-uh american movies ah I [/] would [/] ah <I would> [/] &~i I would have ah listened and understood . 104130_120191
+%mor:	sconj|if pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1-irr verb|watch-Part-Past-S adj|American-S1 noun|movie-Plur-Acc intj|ah intj|ah pron|I-Prs-Nom-S1 aux|would-Fin-S aux|have-Inf-S part|ah verb|listen-Part-Past-S cconj|and verb|understand-Part-Past-S-irr .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|13|ADVCL 5|6|AMOD 6|4|OBJ 7|13|DISCOURSE 8|13|DISCOURSE 9|13|NSUBJ 10|13|AUX 11|13|AUX 12|13|ADVMOD 13|0|ROOT 14|15|CC 15|13|CONJ 16|13|PUNCT
+@End

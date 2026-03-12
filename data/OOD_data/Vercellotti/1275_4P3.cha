@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/a-00062544-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1275_4P3, audio
+*PAR0:	&-uh today I'm going to talk about King Seong &-uh in that time &-um Korean didn't have own raids raiders . 720_11180
+%mor:	noun|today pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|talk-Inf-S adp|about propn|King-Ger propn|Seong adp|in det|that-Def-Dem-Sing noun|time propn|Korean aux|do-Fin-Ind-Past-S3-irr~part|not verb|have-Inf-S adj|own-S1 noun|raid-Plur noun|raider-Plur-Acc .
+%gra:	1|4|OBL-UNMARKED 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|CASE 8|6|OBL 9|8|FLAT 10|12|CASE 11|12|DET 12|16|OBL 13|16|NSUBJ 14|16|AUX 15|16|ADVMOD 16|6|ADVCL 17|19|AMOD 18|19|COMPOUND 19|16|OBJ 20|4|PUNCT
+*PAR0:	so we &-um we can we used &-uh transitional Chinese letters . 14200_21240
+%mor:	adv|so pron|we-Prs-Nom-P1 pron|we-Prs-Nom-P1 aux|can-Fin-S pron|we-Prs-Nom-P1 verb|use-Fin-Ind-Past-P1 adj|transitional-S1 adj|Chinese-S1 noun|letter-Plur-Acc .
+%gra:	1|6|ADVMOD 2|6|REPARANDUM 3|6|NSUBJ 4|6|REPARANDUM 5|6|NSUBJ 6|0|ROOT 7|9|AMOD 8|9|AMOD 9|6|OBJ 10|6|PUNCT
+*PAR0:	&-um it &-uh but it couldn't indicate all language because it [/] it is different between Chinese and Korean letter . 25360_35240
+%mor:	pron|it-Prs-Nom-S3 cconj|but pron|it-Prs-Nom-S3 aux|could-Fin-S~part|not verb|indicate-Inf-S det|all-Def-Tot noun|language-Acc sconj|because pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|different-S1 adp|between adj|Chinese-S1 cconj|and adj|Korean-S1 noun|letter .
+%gra:	1|6|NSUBJ 2|6|CC 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|DET 8|6|OBJ 9|12|MARK 10|12|NSUBJ 11|12|COP 12|6|ADVCL 13|17|CASE 14|17|AMOD 15|16|CC 16|14|CONJ 17|12|OBL 18|6|PUNCT
+*PAR0:	so King Seung tried to &-uh tried to make own letters . 36790_40230
+%mor:	adv|so propn|King-Ger propn|Seung verb|try-Fin-Ind-Past-S3 part|to verb|try-Inf-Past-S part|to verb|make-Inf-S adj|own-S1 noun|letter-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|2|FLAT 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|MARK 8|6|XCOMP 9|10|AMOD 10|8|OBJ 11|4|PUNCT
+*PAR0:	it was really hard works . 43280_45380
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|really adj|hard-S1 noun|work-Plur .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*PAR0:	&-uh but finally &-uh he achieved with his colors . 46920_52920
+%mor:	cconj|but adv|finally pron|he-Prs-Nom-S3 verb|achieve-Fin-Ind-Past-S3 adp|with pron|his-Prs-Gen-S3 noun|color-Plur .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+*PAR0:	&-um it take it takes it took &-um five years . 56000_62000
+%mor:	pron|it-Prs-Nom-S3 verb|take-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 verb|take-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr num|five noun|year-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|NSUBJ 6|2|CCOMP 7|8|NUMMOD 8|6|OBJ 9|2|PUNCT
+*PAR0:	but finally he made &-uh hung it demonstrated Korean language . 63520_70120
+%mor:	cconj|but adv|finally pron|he-Prs-Nom-S3 verb|make-Fin-Ind-Past-S3-irr verb|hang-Part-Past-S-irr pron|it-Prs-Nom-S3 verb|demonstrate-Fin-Ind-Past-S3 adj|Korean-S1 noun|language-Acc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|7|NSUBJ 7|4|CCOMP 8|9|AMOD 9|7|OBJ 10|4|PUNCT
+*PAR0:	&-uh net naturally so &-uh people could &-um could or could write down &-uh his word for using &-um hang &-um &-uh the features [/] features of Hung is &-um &-uh twenty four consonant and &-uh sixteen &-uh vowels . 70970_92070
+%mor:	noun|net adv|naturally adv|so noun|person-Plur aux|could-Fin-S aux|could-Fin-S cconj|or aux|could-Fin-S verb|write-Inf-S adp|down pron|his-Prs-Gen-S3 noun|word-Acc sconj|for verb|use-Ger-S verb|hang-Inf-S det|the-Def-Art noun|feature-Plur-Acc adp|of propn|Hung aux|be-Fin-Ind-Pres-S3 num|twenty num|four noun|consonant cconj|and num|sixteen noun|vowel-Plur .
+%gra:	1|23|NSUBJ 2|1|ADVMOD 3|6|ADVMOD 4|6|NSUBJ 5|6|AUX 6|9|AUX 7|9|CC 8|9|AUX 9|1|CONJ 10|9|COMPOUND-PRT 11|12|NMOD-POSS 12|9|OBJ 13|14|MARK 14|12|ACL 15|14|XCOMP 16|17|DET 17|15|OBJ 18|19|CASE 19|17|NMOD 20|23|COP 21|23|NUMMOD 22|23|NUMMOD 23|0|ROOT 24|26|CC 25|26|NUMMOD 26|23|CONJ 27|23|PUNCT
+*PAR0:	&-um <it it it> [/] it indicated &-uh the we had &-um we have &-um consonant . 105480_115910
+%mor:	pron|it-Prs-Nom-S3 verb|indicate-Fin-Ind-Past-S3 det|the-Def-Art pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1-irr pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 noun|consonant-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|OBJ 4|5|NSUBJ 5|2|CCOMP 6|7|NSUBJ 7|5|CCOMP 8|7|OBJ 9|2|PUNCT
+*PAR0:	&-uh a doctor . 119160_119470
+%mor:	det|a-Ind-Art noun|doctor .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+@End

@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/a-00062492-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1117_4M2, audio
+*PAR0:	my topic is I don't like pay tips in American restroom . 1480_8080
+%mor:	pron|my-Prs-Gen-S1 noun|topic aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S noun|pay noun|tip-Plur-Acc adp|in adj|American-S1 noun|restroom .
+%gra:	1|2|NMOD-POSS 2|7|NSUBJ-OUTER 3|7|COP 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|9|COMPOUND 9|7|OBJ 10|12|CASE 11|12|AMOD 12|7|OBL 13|7|PUNCT
+*PAR0:	&-uh let me explain it . 9120_10850
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|explain-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+*PAR0:	&-um because I am not skin [/] skin stinging . 12280_18280
+%mor:	sconj|because pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 part|not noun|skin verb|sting-Part-Pres-S .
+%gra:	1|6|MARK 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|COMPOUND 6|0|ROOT 7|6|PUNCT
+*PAR0:	you know I usually I am Gen General ago . 18740_23490
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 adv|usually pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 propn|Gen propn|General adv|ago .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|NSUBJ 4|7|ADVMOD 5|7|NSUBJ 6|7|COP 7|2|CCOMP 8|7|FLAT 9|7|ADVMOD 10|2|PUNCT
+*PAR0:	but in American restaurant if I [/] I think the food is not cheap and include the way must pay fifty fifteen to twenty percent tips that's more expensive for me . 24280_40200
+%mor:	cconj|but adp|in adj|American-S1 noun|restaurant sconj|if pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art noun|food aux|be-Fin-Ind-Pres-S3 part|not adj|cheap-S1 cconj|and verb|include-Fin-Ind-Pres-P3 det|the-Def-Art noun|way-Acc aux|must-Fin-S verb|pay-Inf-S num|fifty num|fifteen adp|to num|twenty noun|percent noun|tip-Plur-Acc pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adv|more adj|expensive-S1 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|18|CC 2|4|CASE 3|4|AMOD 4|18|OBL 5|7|MARK 6|7|NSUBJ 7|18|ADVCL 8|9|DET 9|12|NSUBJ 10|12|COP 11|12|ADVMOD 12|7|CCOMP 13|14|CC 14|7|CONJ 15|16|DET 16|14|OBJ 17|18|AUX 18|0|ROOT 19|24|NUMMOD 20|24|NUMMOD 21|22|CASE 22|20|NMOD 23|24|COMPOUND 24|18|OBJ 25|28|NSUBJ 26|28|COP 27|28|ADVMOD 28|24|ACL-RELCL 29|30|CASE 30|28|OBL 31|18|PUNCT
+*PAR0:	and but I know the in American waiter or waitress in come is so low . 47480_54200
+%mor:	cconj|and cconj|but pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 det|the-Def-Art adp|in adj|American-S1 noun|waiter cconj|or noun|waitress adp|in noun|come aux|be-Fin-Ind-Pres-S3 adv|so adj|low-S1 .
+%gra:	1|4|CC 2|4|CC 3|4|NSUBJ 4|0|ROOT 5|8|DET 6|8|CASE 7|8|AMOD 8|15|NSUBJ 9|10|CC 10|8|CONJ 11|12|CASE 12|8|NMOD 13|15|COP 14|15|ADVMOD 15|4|CCOMP 16|4|PUNCT
+*PAR0:	so they lead to is tip tips as their seller . 55120_63130
+%mor:	adv|so pron|they-Prs-Nom-P3 verb|lead-Fin-Ind-Pres-P3 adp|to aux|be-Fin-Ind-Pres-S3 noun|tip noun|tip-Plur adp|as pron|their-Prs-Gen-P3 noun|seller .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|7|CASE 5|7|COP 6|7|COMPOUND 7|3|ADVCL 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|3|PUNCT
+*PAR0:	and &-uh &-uh I think there's another method to raise &-uh the income that &-uh the bus give them more salary . 66000_79420
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|another-Def-Ind noun|method part|to verb|raise-Inf-S det|the-Def-Art noun|income-Acc pron|that-Rel det|the-Def-Art noun|bus verb|give-Fin-Ind-Pres-S3 pron|they-Prs-Acc-P3 adj|more-Cmp-S1 noun|salary-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|EXPL 5|3|CCOMP 6|7|DET 7|5|NSUBJ 8|9|MARK 9|7|ACL 10|11|DET 11|9|OBJ 12|15|OBJ 13|14|DET 14|15|NSUBJ 15|11|ACL-RELCL 16|15|IOBJ 17|18|AMOD 18|15|OBJ 19|3|PUNCT
+*PAR0:	I think that's good idea to save [/] save &-uh save the situation . 82780_89990
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 noun|idea part|to verb|save-Inf-S adp|save det|the-Def-Art noun|situation .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|COP 5|6|AMOD 6|2|CCOMP 7|8|MARK 8|6|ACL 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+*PAR0:	and by the way &-um if I am custom customer I don't like pay the tips . 92450_99180
+%mor:	cconj|and adp|by det|the-Def-Art noun|way sconj|if pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 adj|custom-S1 noun|customer pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S verb|pay-Inf-S det|the-Def-Art noun|tip-Plur-Acc .
+%gra:	1|13|CC 2|4|CASE 3|4|DET 4|13|OBL 5|9|MARK 6|9|NSUBJ 7|9|COP 8|9|AMOD 9|4|ACL 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|0|ROOT 14|13|XCOMP 15|16|DET 16|14|OBJ 17|13|PUNCT
+*PAR0:	but I think if I am waiter or waitress I would like to &-um another people gave me the tips . 101760_113600
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|if pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 noun|waiter cconj|or noun|waitress pron|I-Prs-Nom-S1 aux|would-Fin-S verb|like-Inf-S adp|to det|another-Def-Ind noun|person-Plur verb|give-Fin-Ind-Past-P3-irr pron|I-Prs-Acc-S1 det|the-Def-Art noun|tip-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|COP 7|16|ADVCL 8|9|CC 9|7|CONJ 10|12|NSUBJ 11|12|AUX 12|3|CCOMP 13|15|CASE 14|15|DET 15|12|OBL 16|3|CCOMP 17|16|IOBJ 18|19|DET 19|16|OBJ 20|3|PUNCT
+@End

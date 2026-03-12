@@ -1,0 +1,62 @@
+@UTF8
+@PID:	11312/a-00062553-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1287_4P2, audio
+*PAR0:	today's topic is describe the custom in your culture or in another culture which you do not like . 930_9150
+%mor:	noun|today~part|s noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S det|the-Def-Art noun|custom-Acc adp|in pron|your-Prs-Gen-S2 noun|culture cconj|or adp|in det|another-Def-Ind noun|culture pron|which-Rel-S1 pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2 part|not verb|like-Inf-S .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|14|CC 12|14|CASE 13|14|DET 14|10|CONJ 15|19|OBJ 16|19|NSUBJ 17|19|AUX 18|19|ADVMOD 19|14|ACL-RELCL 20|5|PUNCT
+*PAR0:	give details about the expectations of the custom and describe the things that you don't like about it . 9610_17140
+%mor:	verb|give-Fin-Imp-S noun|detail-Plur-Acc adp|about det|the-Def-Art noun|expectation-Plur adp|of det|the-Def-Art noun|custom cconj|and verb|describe-Fin-Imp-S det|the-Def-Art noun|thing-Plur-Acc pron|that-Rel pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|like-Inf-S adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|8|CASE 7|8|DET 8|5|NMOD 9|10|CC 10|1|CONJ 11|12|DET 12|10|OBJ 13|17|OBJ 14|17|NSUBJ 15|17|AUX 16|17|ADVMOD 17|12|ACL-RELCL 18|19|CASE 19|17|OBL 20|1|PUNCT
+*PAR0:	&-uh one thing that I don't like . 19610_21730
+%mor:	num|one noun|thing-Ger pron|that-Rel pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S .
+%gra:	1|2|NUMMOD 2|0|ROOT 3|7|OBJ 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|2|ACL-RELCL 8|2|PUNCT
+*PAR0:	one thing that I don't like the culture is Saudi Arabic culture . 22440_28190
+%mor:	num|one noun|thing-Ger pron|that-Rel pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S det|the-Def-Art noun|culture-Acc aux|be-Fin-Ind-Pres-S3 adj|Saudi-S1 adj|Arabic-S1 noun|culture .
+%gra:	1|2|NUMMOD 2|13|NSUBJ 3|7|OBJ 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|2|ACL-RELCL 8|9|DET 9|7|OBJ 10|13|COP 11|13|AMOD 12|13|AMOD 13|0|ROOT 14|13|PUNCT
+*PAR0:	because <they will> [/] they will pay the [/] the dinner for [/] for girls or someone [/] someone else when they went out &-um I know it's it is maybe like want to show [/] show their [/] their gentleman . 28930_50410
+%mor:	sconj|because pron|they-Prs-Nom-P3 aux|will-Fin-S verb|pay-Inf-S det|the-Def-Art noun|dinner-Acc adp|for noun|girl-Plur cconj|or pron|someone-Ind-S1 adj|else-S1 adv|when pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr adp|out pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|maybe intj|like verb|want-Fin-Ind-Pres-P3 part|to verb|show-Inf-S pron|their-Prs-Gen-P3 noun|gentleman-Acc .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|10|CC 10|8|CONJ 11|10|AMOD 12|14|ADVMOD 13|14|NSUBJ 14|4|ADVCL 15|14|COMPOUND-PRT 16|17|NSUBJ 17|4|PARATAXIS 18|19|NSUBJ 19|24|REPARANDUM 20|24|NSUBJ-OUTER 21|24|COP 22|24|ADVMOD 23|24|DISCOURSE 24|17|CCOMP 25|26|MARK 26|24|XCOMP 27|28|NMOD-POSS 28|26|OBJ 29|4|PUNCT
+*PAR0:	but I think &-uh everyone is equal . 51120_54410
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|everyone-Tot-S1 aux|be-Fin-Ind-Pres-S3 adj|equal-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|3|PUNCT
+*PAR0:	so we [/] we can pay by ourselves . 55120_58200
+%mor:	adv|so pron|we-Prs-Nom-P1 aux|can-Fin-S verb|pay-Inf-S adp|by pron|ourselves-Prs-Acc-reflx-P1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*PAR0:	not just men can pay the bills . 58920_61130
+%mor:	part|not adv|just noun|man-Plur aux|can-Fin-S verb|pay-Inf-S det|the-Def-Art noun|bill-Plur-Acc .
+%gra:	1|5|ADVMOD 2|3|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR0:	for example <I went> [/] I went out &-uh with &-uh Caribbean yesterday for dinner . 62240_69610
+%mor:	adp|for noun|example pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr adv|out adp|with propn|Caribbean noun|yesterday adp|for noun|dinner .
+%gra:	1|2|CASE 2|4|OBL 3|4|NSUBJ 4|0|ROOT 5|4|ADVMOD 6|7|CASE 7|4|OBL 8|4|OBL-UNMARKED 9|10|CASE 10|4|OBL 11|4|PUNCT
+*PAR0:	and she insisted in insisted she pay the bills just because he invite me . 70040_77120
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|insist-Fin-Ind-Past-S3 sconj|in verb|insist-Fin-Ind-Past-S3 pron|she-Prs-Nom-S3 verb|pay-Fin-Ind-Pres-S3 det|the-Def-Art noun|bill-Plur-Acc adv|just sconj|because pron|he-Prs-Nom-S3 verb|invite-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|ADVCL 6|7|NSUBJ 7|5|CCOMP 8|9|DET 9|7|OBJ 10|13|ADVMOD 11|13|MARK 12|13|NSUBJ 13|7|ADVCL 14|13|OBJ 15|3|PUNCT
+*PAR0:	so he need to pay it . 78000_79330
+%mor:	adv|so pron|he-Prs-Nom-S3 verb|need-Fin-Ind-Pres-S3 part|to verb|pay-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*PAR0:	&-um that that's the only thing that <I don't> [/] I don't like it . 80600_85370
+%mor:	sconj|that pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|only-S1 noun|thing-Ger pron|that-Rel pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|MARK 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|11|OBJ 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|6|ACL-RELCL 12|11|OBJ 13|6|PUNCT
+*PAR0:	&-um because I'm expected to pay the bill . 87480_90480
+%mor:	sconj|because pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|expect-Part-Past-S part|to verb|pay-Inf-S det|the-Def-Art noun|bill-Acc .
+%gra:	1|4|MARK 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*PAR0:	and then maybe <we can> [/] we can share or share our food together or next time I also can <pay them> [/] pay them back . 91080_103290
+%mor:	cconj|and adv|then adv|maybe pron|we-Prs-Nom-P1 aux|can-Fin-S verb|share-Inf-S cconj|or verb|share-Inf-S pron|our-Prs-Gen-P1 noun|food-Acc adv|together cconj|or adj|next-S1 noun|time pron|I-Prs-Nom-S1 adv|also aux|can-Fin-S verb|pay-Inf-S pron|they-Prs-Acc-P3 adv|back .
+%gra:	1|6|CC 2|6|ADVMOD 3|6|ADVMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|CC 8|6|CONJ 9|10|NMOD-POSS 10|8|OBJ 11|8|ADVMOD 12|18|CC 13|14|AMOD 14|18|OBL-UNMARKED 15|18|NSUBJ 16|18|ADVMOD 17|18|AUX 18|6|CONJ 19|18|OBJ 20|18|ADVMOD 21|6|PUNCT
+*PAR0:	but <for for> [/] for if I don't like this man . 104040_107290
+%mor:	cconj|but sconj|for sconj|if pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S det|this-Def-Dem-Sing noun|man-Acc .
+%gra:	1|7|CC 2|7|MARK 3|7|MARK 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+*PAR0:	and I don't want to have &-uh have a next [/] next date . 107400_112530
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S part|to aux|have-Inf-S verb|have-Inf-S det|a-Ind-Art adj|next-S1 noun|date-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|MARK 7|8|AUX 8|5|XCOMP 9|11|DET 10|11|AMOD 11|8|OBJ 12|5|PUNCT
+*PAR0:	I think they paid the bill first . 113750_115890
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3 verb|pay-Fin-Ind-Past-P3-irr det|the-Def-Art noun|bill-Acc adv|first .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|2|PUNCT
+*PAR0:	and I don't want to pay them back just because I don't want to have them . 116760_120280
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S part|to verb|pay-Inf-S pron|they-Prs-Acc-P3 adv|back adv|just sconj|because pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S part|to verb|have-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|7|ADVMOD 10|15|ADVMOD 11|15|MARK 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|7|ADVCL 16|17|MARK 17|15|XCOMP 18|17|OBJ 19|5|PUNCT
+@End

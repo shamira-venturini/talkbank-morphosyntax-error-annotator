@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/t-00010087-1
+@Begin
+@Languages:	eng
+@Participants:	1060 Student
+@ID:	eng|Vercellotti|1060|||2||Student|level4||
+@Media:	1060_3G2, audio
+@Transcriber:	jms
+*1060:	&~a the topic is transportation . 691_7450
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 noun|transportation .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*1060:	in this world a lot of countries have a different economies . 11055_11601
+%mor:	adp|in det|this-Def-Dem-Sing noun|world det|a-Ind-Art noun|lot adp|of noun|country-Plur verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art adj|different-S1 noun|economy-Plur-Acc .
+%gra:	1|3|CASE 2|3|DET 3|8|OBL 4|5|DET 5|8|NSUBJ 6|7|CASE 7|5|NMOD 8|0|ROOT 9|11|DET 10|11|AMOD 11|8|OBJ 12|8|PUNCT
+*1060:	so today I want to talk about the &~tra transportation between my country and Pittsburgh . 11904_17884
+%mor:	adv|so noun|today pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|talk-Inf-S adp|about det|the-Def-Art noun|transportation adp|between pron|my-Prs-Gen-S1 noun|country cconj|and propn|Pittsburgh .
+%gra:	1|4|ADVMOD 2|4|OBL-UNMARKED 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|12|CASE 11|12|NMOD-POSS 12|9|NMOD 13|14|CC 14|12|CONJ 15|4|PUNCT
+*1060:	Pittsburgh had a good way to pick up people by buses . 18660_24215
+%mor:	propn|Pittsburgh verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|good-S1 noun|way-Acc part|to verb|pick-Inf-S adp|up noun|person-Plur-Acc adp|by noun|bus-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|7|MARK 7|5|ACL 8|7|COMPOUND-PRT 9|7|OBJ 10|11|CASE 11|7|OBL 12|2|PUNCT
+*1060:	so there is a lot of available buses in a specific time . 27204_30906
+%mor:	adv|so pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of adj|available-S1 noun|bus-Plur adp|in det|a-Ind-Art adj|specific-S1 noun|time .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|8|CASE 7|8|AMOD 8|5|NMOD 9|12|CASE 10|12|DET 11|12|AMOD 12|8|NMOD 13|3|PUNCT
+*1060:	it's [///] an:d [/] and they are capable to pick up people from anywhere . 31348_40227
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 adj|capable-S1 part|to verb|pick-Inf-S adp|up noun|person-Plur-Acc adp|from adv|anywhere .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|6|OBJ 9|10|CASE 10|6|OBL 11|4|PUNCT
+*1060:	so in my country we don't have a lot of buses . 40466_45580
+%mor:	adv|so adp|in pron|my-Prs-Gen-S1 noun|country pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|have-Inf-S det|a-Ind-Art noun|lot-Acc adp|of noun|bus-Plur .
+%gra:	1|8|ADVMOD 2|4|CASE 3|4|NMOD-POSS 4|8|OBL 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|10|DET 10|8|OBJ 11|12|CASE 12|10|NMOD 13|8|PUNCT
+*1060:	because &~m <it's maybe> [//] <we have> [//] <no plans> [//] to: [/] <to make> [//] &-uh &~a in my country we don't have a good plan to [/] to [/] to help a company that consist buses . 46227_69377
+%mor:	sconj|because adp|in pron|my-Prs-Gen-S1 noun|country pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|have-Inf-S det|a-Ind-Art adj|good-S1 noun|plan-Acc part|to verb|help-Inf-S det|a-Ind-Art noun|company-Acc pron|that-Rel verb|consist-Fin-Ind-Pres-P3 noun|bus-Plur-Acc .
+%gra:	1|8|MARK 2|4|CASE 3|4|NMOD-POSS 4|8|OBL 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|11|DET 10|11|AMOD 11|8|OBJ 12|13|MARK 13|11|ACL 14|15|DET 15|13|OBJ 16|17|NSUBJ 17|15|ACL-RELCL 18|17|OBJ 19|8|PUNCT
+*1060:	so [/] so my country should create or process a good plan <to had> [//] to have &-uh a lot of buses to pick up people and [/] and [/] and flourish in this &~na . 73060_120191
+%mor:	adv|so pron|my-Prs-Gen-S1 noun|country aux|should-Fin-S verb|create-Inf-S cconj|or verb|process-Inf-S det|a-Ind-Art adj|good-S1 noun|plan-Acc part|to verb|have-Inf-S det|a-Ind-Art noun|lot-Acc adp|of noun|bus-Plur part|to verb|pick-Inf-S adp|up noun|person-Plur-Acc cconj|and verb|flourish-Inf-S adp|in pron|this-Dem-S1 .
+%gra:	1|5|ADVMOD 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CC 7|5|CONJ 8|10|DET 9|10|AMOD 10|5|OBJ 11|12|MARK 12|10|ACL 13|14|DET 14|12|OBJ 15|16|CASE 16|14|NMOD 17|18|MARK 18|12|ADVCL 19|18|COMPOUND-PRT 20|18|OBJ 21|22|CC 22|18|CONJ 23|24|CASE 24|22|OBL 25|5|PUNCT
+@End

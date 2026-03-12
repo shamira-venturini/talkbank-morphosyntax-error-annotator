@@ -1,0 +1,39 @@
+@UTF8
+@PID:	11312/t-00010231-1
+@Begin
+@Languages:	eng
+@Participants:	1189 Student
+@ID:	eng|Vercellotti|1189|||1||Student|level4||
+@Media:	1189_4Q1, audio
+@Transcriber:	jms
+*1189:	today's topic is &~d discuss a problem in the world that concerns you . 2675_6786
+%mor:	noun|today~part|s noun|topic aux|be-Fin-Ind-Pres-S3 verb|discuss-Inf-S det|a-Ind-Art noun|problem-Acc adp|in det|the-Def-Art noun|world pron|that-Rel verb|concern-Fin-Ind-Pres-S3 pron|you-Prs-Acc-S2 .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|12|NSUBJ 12|10|ACL-RELCL 13|12|OBJ 14|5|PUNCT
+*1189:	what is being done to solve it . 8973_9774
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 aux|be-Part-Pres-S verb|do-Part-Past-S-irr part|to verb|solve-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ-PASS 2|4|AUX 3|4|AUX-PASS 4|0|ROOT 5|6|MARK 6|4|ADVCL 7|6|OBJ 8|4|PUNCT
+*1189:	what are some things that &~st still needta be done . 13080_14252
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 det|some-Def-Ind noun|thing-Plur pron|that-Rel adv|still aux|needta-Fin-Ind-Pres-P3 aux|be-Fin-Ind-Pres-P3 verb|do-Part-Past-S-irr .
+%gra:	1|0|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|9|NSUBJ-PASS 6|9|ADVMOD 7|9|AUX 8|9|AUX-PASS 9|4|ACL-RELCL 10|1|PUNCT
+*1189:	obviously [% 5 syllables] our environment has been polluted in many aspects for example air pollution . 15430_26548
+%mor:	adv|obviously pron|our-Prs-Gen-P1 noun|environment aux|have-Fin-Ind-Pres-S3 aux|be-Part-Past-S-irr verb|pollute-Part-Past-S adp|in adj|many-S1 noun|aspect-Plur adp|for noun|example noun|air noun|pollution .
+%gra:	1|6|ADVMOD 2|3|NMOD-POSS 3|6|NSUBJ-PASS 4|6|AUX 5|6|AUX-PASS 6|0|ROOT 7|9|CASE 8|9|AMOD 9|6|OBL 10|13|CASE 11|13|COMPOUND 12|13|COMPOUND 13|9|NMOD 14|6|PUNCT
+*1189:	the health of people in urban areas is being threatened by air pollution . 27318_36624
+%mor:	det|the-Def-Art noun|health adp|of noun|person-Plur adp|in adj|urban-S1 noun|area-Plur aux|be-Fin-Ind-Pres-S3 aux|be-Part-Pres-S verb|threaten-Part-Past-S adp|by noun|air noun|pollution .
+%gra:	1|2|DET 2|10|NSUBJ-PASS 3|4|CASE 4|2|NMOD 5|7|CASE 6|7|AMOD 7|4|NMOD 8|10|AUX 9|10|AUX-PASS 10|0|ROOT 11|13|CASE 12|13|COMPOUND 13|10|OBL-AGENT 14|10|PUNCT
+*1189:	actually every year there are many people die of lung cancer which is a direct result of air pollution &-um . 37437_52308
+%mor:	adv|actually det|every-Def-Tot noun|year pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 noun|person-Plur verb|die-Inf-S3 adp|of noun|lung noun|cancer pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|direct-S1 noun|result adp|of noun|air noun|pollution .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|OBL-UNMARKED 4|5|EXPL 5|0|ROOT 6|7|AMOD 7|5|NSUBJ 8|7|ACL 9|11|CASE 10|11|COMPOUND 11|8|OBL 12|16|NSUBJ 13|16|COP 14|16|DET 15|16|AMOD 16|7|ACL-RELCL 17|19|CASE 18|19|COMPOUND 19|16|NMOD 20|5|PUNCT
+*1189:	the [///] &~as &-uh acid [/] &~as acid rain has been created as the result of the burning of gas oil and coal . 52780_86267
+%mor:	noun|acid noun|rain aux|have-Fin-Ind-Pres-S3 aux|be-Part-Past-S-irr verb|create-Part-Past-S adp|as det|the-Def-Art noun|result adp|of det|the-Def-Art noun|burning-Ger adp|of noun|gas noun|oil cconj|and noun|coal .
+%gra:	1|2|COMPOUND 2|5|NSUBJ-PASS 3|5|AUX 4|5|AUX-PASS 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|DET 11|8|NMOD 12|14|CASE 13|14|COMPOUND 14|11|NMOD 15|16|CC 16|14|CONJ 17|5|PUNCT
+*1189:	moreover a hole &~o in the &~o ozone &~lay layer has been created through the use of C_F_Cs in products like hair [//] &~sapray hair spray &-uh . 87279_104493
+%mor:	adv|moreover det|a-Ind-Art noun|hole adp|in det|the-Def-Art noun|ozone noun|layer aux|have-Fin-Ind-Pres-S3 aux|be-Part-Past-S-irr verb|create-Part-Past-S adp|through det|the-Def-Art noun|use adp|of noun|cFC-Plur adp|in noun|product-Plur adp|like noun|hair noun|spray .
+%gra:	1|10|ADVMOD 2|3|DET 3|10|NSUBJ-PASS 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|NMOD 8|10|AUX 9|10|AUX-PASS 10|0|ROOT 11|13|CASE 12|13|DET 13|10|OBL 14|15|CASE 15|13|NMOD 16|17|CASE 17|15|NMOD 18|20|CASE 19|20|COMPOUND 20|17|NMOD 21|10|PUNCT
+*1189:	we jus(t) have &~i an earth . 105099_106360
+%mor:	pron|we-Prs-Nom-P1 adv|just verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|earth-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*1189:	we need protect our environment and &-uh treasure our nature resource . 107769_120191
+%mor:	pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Pres-P1 verb|protect-Inf-S pron|our-Prs-Gen-P1 noun|environment-Acc cconj|and verb|treasure-Fin-Ind-Pres-P1 pron|our-Prs-Gen-P1 noun|nature noun|resource-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|5|NMOD-POSS 5|3|OBJ 6|7|CC 7|2|CONJ 8|10|NMOD-POSS 9|10|COMPOUND 10|7|OBJ 11|2|PUNCT
+@End

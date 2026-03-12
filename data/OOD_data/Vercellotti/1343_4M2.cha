@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/a-00062592-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1343_4M2, audio
+*PAR0:	my topic is about another culture which I don't like . 480_5410
+%mor:	pron|my-Prs-Gen-S1 noun|topic aux|be-Fin-Ind-Pres-S3 adp|about det|another-Def-Ind noun|culture pron|which-Rel-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|11|OBJ 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|6|ACL-RELCL 12|6|PUNCT
+*PAR0:	&-um I heard some different culture from Saudi Arabian &-uh in Saudi it is not acceptable . 6960_15580
+%mor:	pron|I-Prs-Nom-S1 verb|hear-Fin-Ind-Past-S1-irr det|some-Def-Ind adj|different-S1 noun|culture-Acc adp|from adj|Saudi-S1 propn|Arabian adp|in adj|Saudi-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 part|not adj|acceptable-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|8|CASE 7|8|AMOD 8|5|NMOD 9|11|CASE 10|11|AMOD 11|14|NSUBJ 12|14|COP 13|14|ADVMOD 14|2|ADVCL 15|2|PUNCT
+*PAR0:	men and women are going out . 18040_20690
+%mor:	noun|man-Plur cconj|and noun|woman-Plur aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S adp|out .
+%gra:	1|5|NSUBJ 2|3|CC 3|1|CONJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*PAR0:	and just before they are they got married . 21960_26680
+%mor:	cconj|and adv|just sconj|before pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 aux|get-Part-Past-S-irr verb|marry-Part-Past-S .
+%gra:	1|8|CC 2|8|ADVMOD 3|5|MARK 4|5|NSUBJ 5|8|ADVCL 6|8|NSUBJ-PASS 7|8|AUX-PASS 8|0|ROOT 9|8|PUNCT
+*PAR0:	they can meet just one time and married . 27770_31720
+%mor:	pron|they-Prs-Nom-P3 aux|can-Fin-S verb|meet-Inf-S adv|just num|one noun|time cconj|and verb|marry-Part-Past-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|ADVMOD 5|6|NUMMOD 6|3|OBL-UNMARKED 7|8|CC 8|6|CONJ 9|3|PUNCT
+*PAR0:	so this culture is different from my culture . 33160_39950
+%mor:	adv|so det|this-Def-Dem-Sing noun|culture aux|be-Fin-Ind-Pres-S3 adj|different-S1 adp|from pron|my-Prs-Gen-S1 noun|culture .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|5|PUNCT
+*PAR0:	so I don't like it because hm his woman and man have a right to choose their own partner in their life . 42160_59210
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S pron|it-Prs-Acc-S3 sconj|because intj|hm pron|his-Prs-Gen-S3 noun|woman cconj|and noun|man verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|right-Acc part|to verb|choose-Inf-S pron|their-Prs-Gen-P3 adj|own-S1 noun|partner-Acc adp|in pron|their-Prs-Gen-P3 noun|life .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|13|MARK 8|13|DISCOURSE 9|10|NMOD-POSS 10|13|NSUBJ 11|12|CC 12|10|CONJ 13|5|ADVCL 14|15|DET 15|13|OBJ 16|17|MARK 17|15|ACL 18|20|NMOD-POSS 19|20|AMOD 20|17|OBJ 21|23|CASE 22|23|NMOD-POSS 23|17|OBL 24|5|PUNCT
+*PAR0:	and they can miss someone who is who gives some feelings to them . 59920_70910
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|can-Fin-S verb|miss-Inf-S pron|someone-Ind-S1 pron|who-Rel aux|be-Fin-Ind-Pres-S3 pron|who-Rel verb|give-Fin-Ind-Pres-S3 det|some-Def-Ind noun|feeling-Plur-Acc adp|to pron|they-Prs-Acc-P3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|NSUBJ 7|5|ACL-RELCL 8|9|NSUBJ 9|5|ACL-RELCL 10|11|DET 11|9|OBJ 12|13|CASE 13|9|OBL 14|4|PUNCT
+*PAR0:	and they have a right to opportunity to meet each other . 72160_81170
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|right-Acc part|to noun|opportunity part|to verb|meet-Inf-S det|each-Def-Rcp adj|other-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|9|MARK 9|7|ACL 10|9|OBJ 11|10|FIXED 12|3|PUNCT
+*PAR0:	and they in Saudi Dakota they cannot choose their own partner . 82120_90710
+%mor:	cconj|and pron|they-Prs-Nom-P3 adp|in adj|Saudi-S1 propn|Dakota pron|they-Prs-Nom-P3 aux|can-Fin-S~part|not verb|choose-Inf-S pron|their-Prs-Gen-P3 adj|own-S1 noun|partner-Acc .
+%gra:	1|9|CC 2|9|NSUBJ 3|5|CASE 4|5|AMOD 5|2|NMOD 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|0|ROOT 10|12|NMOD-POSS 11|12|AMOD 12|9|OBJ 13|9|PUNCT
+*PAR0:	so just they follow their parents' opinion . 93400_96660
+%mor:	adv|so adv|just pron|they-Prs-Nom-P3 verb|follow-Fin-Ind-Pres-P3 pron|their-Prs-Gen-P3 noun|parent-Plur~part|s noun|opinion-Acc .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|6|NMOD-POSS 6|8|NMOD-POSS 7|6|CASE 8|4|OBJ 9|4|PUNCT
+*PAR0:	and their parents can choose their partner for them . 99400_104520
+%mor:	cconj|and pron|their-Prs-Gen-P3 noun|parent-Plur aux|can-Fin-S verb|choose-Inf-S pron|their-Prs-Gen-P3 noun|partner-Acc adp|for pron|they-Prs-Acc-P3 .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|9|CASE 9|5|OBL 10|5|PUNCT
+*PAR0:	so it is not modern culture and it's very traditional . 104920_114160
+%mor:	adv|so pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 part|not adj|modern-S1 noun|culture cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very adj|traditional-S1 .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|AMOD 6|0|ROOT 7|11|CC 8|11|NSUBJ 9|11|COP 10|11|ADVMOD 11|6|CONJ 12|6|PUNCT
+*PAR0:	and &-um I [/] I think &-um . 114760_119600
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+@End

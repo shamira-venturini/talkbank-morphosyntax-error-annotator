@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/t-00010265-1
+@Begin
+@Languages:	eng
+@Participants:	1305 Student
+@ID:	eng|Vercellotti|1305|||1||Student|level4||
+@Media:	1305_4P1, audio
+@Transcriber:	jms
+*1305:	&~n describe the city you come from . 3014_4173
+%mor:	verb|describe-Fin-Imp-S det|the-Def-Art noun|city-Acc pron|you-Prs-Nom-S2 verb|come-Fin-Ind-Pres-S2 adp|from .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBL 7|1|PUNCT
+*1305:	ah the city I come from is &-uh Tainan . 6258_8379
+%mor:	intj|ah det|the-Def-Art noun|city pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from aux|be-Fin-Ind-Pres-S3 propn|Tainan .
+%gra:	1|8|DISCOURSE 2|3|DET 3|8|NSUBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBL 7|8|COP 8|0|ROOT 9|8|PUNCT
+*1305:	ah <tainan is> [//] the location is in the south &~un taiwant [: Taiwan] . 11221_15288
+%mor:	intj|ah det|the-Def-Art noun|location aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art propn|south propn|Taiwan .
+%gra:	1|8|DISCOURSE 2|3|DET 3|8|NSUBJ 4|8|COP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|0|ROOT 9|8|PUNCT
+*1305:	&-uh it's the &~i small city <in my> [//] ah in taiwant [: Taiwan] . 15635_21379
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|small-S1 noun|city intj|ah adp|in propn|Taiwan .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|DISCOURSE 7|8|CASE 8|5|NMOD 9|5|PUNCT
+*1305:	and there are famous things is mon(u)ments and &-uh snakes [= snacks] . 25060_27264
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|famous-S1 noun|thing-Plur aux|be-Fin-Ind-Pres-S3 noun|monument-Plur cconj|and noun|snake-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|AMOD 5|3|NSUBJ 6|7|COP 7|3|NSUBJ 8|9|CC 9|7|CONJ 10|3|PUNCT
+*1305:	&-um the &~axf aspect I liked is &-um the winters . 28030_34888
+%mor:	det|the-Def-Art noun|aspect pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Past-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|winter-Plur .
+%gra:	1|2|DET 2|7|NSUBJ 3|4|NSUBJ 4|2|ACL-RELCL 5|7|COP 6|7|DET 7|0|ROOT 8|7|PUNCT
+*1305:	I love the winters in [/] in my country because &-uh our &-uh city has &~ha: four season . 36688_45526
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 det|the-Def-Art noun|winter-Plur-Acc adp|in pron|my-Prs-Gen-S1 noun|country sconj|because pron|our-Prs-Gen-P1 noun|city verb|have-Fin-Ind-Pres-S3 num|four noun|season-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|11|MARK 9|10|NMOD-POSS 10|11|NSUBJ 11|2|ADVCL 12|13|NUMMOD 13|11|OBJ 14|2|PUNCT
+*1305:	but it's is not &~v very ovenous [: obvious] . 48985_49681
+%mor:	cconj|but pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|be-Fin-Ind-Pres-S3 part|not adv|very adj|obvious-S1 .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|COP 5|7|ADVMOD 6|7|ADVMOD 7|0|ROOT 8|7|PUNCT
+*1305:	mm mm it always like ah &-uh summer day &~ta &-um there . 50376_59639
+%mor:	intj|mm intj|mm pron|it-Prs-Nom-S3 adv|always intj|like intj|ah noun|summer noun|day adv|there .
+%gra:	1|8|DISCOURSE 2|8|DISCOURSE 3|8|NSUBJ 4|8|ADVMOD 5|8|DISCOURSE 6|8|DISCOURSE 7|8|COMPOUND 8|0|ROOT 9|8|ADVMOD 10|8|PUNCT
+*1305:	&-uh because &~ee our city near the beach . 60648_64159
+%mor:	sconj|because pron|our-Prs-Gen-P1 noun|city adp|near det|the-Def-Art noun|beach .
+%gra:	1|3|MARK 2|3|NMOD-POSS 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+*1305:	and so &~a when [//] mm &-uh on the weekend we always go to the beach to do w:ater activities and ah surfing . 65045_77438
+%mor:	cconj|and adv|so intj|mm adp|on det|the-Def-Art noun|weekend pron|we-Prs-Nom-P1 adv|always verb|go-Fin-Ind-Pres-P1 adp|to det|the-Def-Art noun|beach part|to verb|do-Inf-S noun|water noun|activity-Plur-Acc cconj|and intj|ah noun|surfing-Ger .
+%gra:	1|9|CC 2|9|ADVMOD 3|9|DISCOURSE 4|6|CASE 5|6|DET 6|9|OBL 7|9|NSUBJ 8|9|ADVMOD 9|0|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|14|MARK 14|9|ADVCL 15|16|COMPOUND 16|14|OBJ 17|19|CC 18|19|DISCOURSE 19|16|CONJ 20|9|PUNCT
+*1305:	and I really like &~s surfing with my friends . 77971_84467
+%mor:	cconj|and pron|I-Prs-Nom-S1 adv|really verb|like-Fin-Ind-Pres-S1 verb|surfing-Ger-S adp|with pron|my-Prs-Gen-S1 noun|friend-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|XCOMP 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|4|PUNCT
+*1305:	and if my friends &-uh come to my city I always take them to: &-uh visit the mon(u)ments &-uh &-um and ah take them to eat some snacks they haven'(t) eat &~m them before . 85655_107981
+%mor:	cconj|and sconj|if pron|my-Prs-Gen-S1 noun|friend-Plur verb|come-Fin-Ind-Pres-P3 adp|to pron|my-Prs-Gen-S1 noun|city pron|I-Prs-Nom-S1 adv|always verb|take-Fin-Ind-Pres-S1 pron|they-Prs-Acc-P3 part|to verb|visit-Inf-S det|the-Def-Art noun|monument-Plur-Acc cconj|and intj|ah verb|take-Fin-Ind-S pron|they-Prs-Acc-P3 part|to verb|eat-Inf-S det|some-Def-Ind noun|snack-Plur-Acc pron|they-Prs-Nom-P3 aux|have-Fin-Ind-Pres-P3~part|not verb|eat-Inf-S pron|they-Prs-Acc-P3 adv|before .
+%gra:	1|11|CC 2|5|MARK 3|4|NMOD-POSS 4|5|NSUBJ 5|11|ADVCL 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|11|NSUBJ 10|11|ADVMOD 11|0|ROOT 12|11|OBJ 13|14|MARK 14|11|ADVCL 15|16|DET 16|14|OBJ 17|19|CC 18|19|DISCOURSE 19|11|CONJ 20|19|OBJ 21|22|MARK 22|19|ADVCL 23|24|DET 24|22|OBJ 25|28|NSUBJ 26|28|AUX 27|28|ADVMOD 28|24|ACL-RELCL 29|28|OBJ 30|28|ADVMOD 31|11|PUNCT
+*1305:	mm in [///] &-um I really &~la like [//] am very like my cities and ah . 108370_120191
+%mor:	intj|mm pron|I-Prs-Nom-S1 adv|really aux|be-Fin-Ind-Pres-S1 adv|very adp|like pron|my-Prs-Gen-S1 noun|city-Plur cconj|and intj|ah .
+%gra:	1|8|DISCOURSE 2|8|NSUBJ 3|8|ADVMOD 4|8|COP 5|8|ADVMOD 6|8|CASE 7|8|NMOD-POSS 8|0|ROOT 9|10|CC 10|8|DISCOURSE 11|8|PUNCT
+@End

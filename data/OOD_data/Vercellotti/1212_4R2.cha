@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/a-00062519-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1212_4R2, audio
+*PAR0:	the topic is to describe a custom in a country that you don't like and &-uh or in your country . 1130_8960
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 part|to verb|describe-Inf-S det|a-Ind-Art noun|custom-Acc adp|in det|a-Ind-Art noun|country pron|that-Rel pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|like-Inf-S cconj|and cconj|or adp|in pron|your-Prs-Gen-S2 noun|country .
+%gra:	1|2|DET 2|5|NSUBJ-OUTER 3|5|COP 4|5|MARK 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|15|OBJ 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|10|ACL-RELCL 16|20|CC 17|20|CC 18|20|CASE 19|20|NMOD-POSS 20|15|CONJ 21|5|PUNCT
+*PAR0:	but &-uh I wanted to talk about a custom . 10540_12760
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Past-S1 part|to verb|talk-Inf-S adp|about det|a-Ind-Art noun|custom .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+*PAR0:	&-uh I know I knew when I arrived the Usa &-uh I don't like this custom because &-uh the custom is that &-um young people when they become adult like when they become eighteen years old they have to leave their parentis . 13480_33640
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Past-S1-irr adv|when pron|I-Prs-Nom-S1 verb|arrive-Fin-Ind-Past-S1 det|the-Def-Art propn|Usa-Acc pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S det|this-Def-Dem-Sing noun|custom-Acc sconj|because det|the-Def-Art noun|custom aux|be-Fin-Ind-Pres-S3 sconj|that adj|young-S1 noun|person-Plur adv|when pron|they-Prs-Nom-P3 verb|become-Fin-Ind-Pres-P3 noun|adult intj|like adv|when pron|they-Prs-Nom-P3 verb|become-Fin-Ind-Pres-P3 num|eighteen noun|year-Plur adj|old-S1 pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 part|to verb|leave-Inf-S pron|their-Prs-Gen-P3 noun|parentis-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|7|ADVMOD 6|7|NSUBJ 7|13|ADVCL 8|9|DET 9|7|OBJ 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|2|PARATAXIS 14|15|DET 15|13|OBJ 16|35|MARK 17|18|DET 18|35|NSUBJ-OUTER 19|35|COP 20|35|MARK 21|22|AMOD 22|35|ADVCL 23|25|ADVMOD 24|25|NSUBJ 25|35|ADVCL 26|25|XCOMP 27|35|DISCOURSE 28|30|ADVMOD 29|30|NSUBJ 30|35|ADVCL 31|32|NUMMOD 32|33|OBL-UNMARKED 33|30|XCOMP 34|35|NSUBJ 35|13|PARATAXIS 36|37|MARK 37|35|XCOMP 38|39|NMOD-POSS 39|37|OBJ 40|2|PUNCT
+*PAR0:	&-uh they have to leave their parentis house . 34340_37280
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 part|to verb|leave-Inf-S pron|their-Prs-Gen-P3 noun|parentis noun|house-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|7|NMOD-POSS 6|7|COMPOUND 7|4|OBJ 8|2|PUNCT
+*PAR0:	so my perspective is that this custom a little &-uh unreliable . 38040_45860
+%mor:	adv|so pron|my-Prs-Gen-S1 noun|perspective aux|be-Fin-Ind-Pres-S3 sconj|that det|this-Def-Dem-Sing noun|custom det|a-Ind-Art adj|little-S1 adj|unreliable-S1 .
+%gra:	1|10|DISCOURSE 2|3|NMOD-POSS 3|10|NSUBJ-OUTER 4|10|COP 5|10|MARK 6|7|DET 7|10|NSUBJ 8|9|DET 9|10|OBL-UNMARKED 10|0|ROOT 11|10|PUNCT
+*PAR0:	I mean like for example if someone is eighteen years old and he left his parent is home they consider that &-uh this to &-uh teach him or to make him learn how to be responsible . 48900_65800
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 intj|like adp|for noun|example sconj|if pron|someone-Ind-S1 aux|be-Fin-Ind-Pres-S3 num|eighteen noun|year-Plur adj|old-S1 cconj|and pron|he-Prs-Nom-S3 verb|leave-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|parent-Acc aux|be-Fin-Ind-Pres-S3 noun|home pron|they-Prs-Nom-P3 verb|consider-Fin-Ind-Pres-P3 sconj|that pron|this-Dem-S1 part|to verb|teach-Inf-S pron|he-Prs-Acc-S3 cconj|or part|to verb|make-Inf-S pron|he-Prs-Acc-S3 verb|learn-Inf-S adv|how part|to aux|be-Inf-S adj|responsible-S1 .
+%gra:	1|2|NSUBJ 2|20|PARATAXIS 3|2|DISCOURSE 4|5|CASE 5|20|OBL 6|11|MARK 7|11|NSUBJ 8|11|COP 9|10|NUMMOD 10|11|OBL-UNMARKED 11|20|ADVCL 12|14|CC 13|14|NSUBJ 14|11|CONJ 15|16|NMOD-POSS 16|14|OBJ 17|18|COP 18|14|CCOMP 19|20|NSUBJ 20|0|ROOT 21|24|MARK 22|24|NSUBJ 23|24|MARK 24|20|CCOMP 25|24|IOBJ 26|28|CC 27|28|MARK 28|24|CONJ 29|28|OBJ 30|28|XCOMP 31|30|OBJ 32|34|MARK 33|34|COP 34|30|CCOMP 35|20|PUNCT
+*PAR0:	how to learn how to do everything by himself . 66040_69300
+%mor:	adv|how part|to verb|learn-Inf-S adv|how part|to verb|do-Inf-S pron|everything-Tot-S1 adp|by pron|himself-Prs-Acc-reflx-S3 .
+%gra:	1|0|ROOT 2|3|MARK 3|1|ACL 4|3|OBJ 5|6|MARK 6|4|ACL 7|6|OBJ 8|9|CASE 9|6|OBL 10|1|PUNCT
+*PAR0:	but in my opinion for example if someone is eighteen years old he still needs someone who &-um who monitor &-uh his food who clean his clothes . 70010_81440
+%mor:	cconj|but adp|in pron|my-Prs-Gen-S1 noun|opinion adp|for noun|example sconj|if pron|someone-Ind-S1 aux|be-Fin-Ind-Pres-S3 num|eighteen noun|year-Plur adj|old-S1 pron|he-Prs-Nom-S3 adv|still verb|need-Fin-Ind-Pres-S3 pron|someone-Ind-S1 pron|who-Rel pron|who-Rel verb|monitor-Fin-Ind-Pres-P3 pron|his-Prs-Gen-S3 noun|food-Acc pron|who-Rel verb|clean-Fin-Ind-Pres-P3 pron|his-Prs-Gen-S3 noun|clothes-Ptan-Acc .
+%gra:	1|15|CC 2|4|CASE 3|4|NMOD-POSS 4|15|OBL 5|6|CASE 6|4|NMOD 7|12|MARK 8|12|NSUBJ 9|12|COP 10|11|NUMMOD 11|12|OBL-UNMARKED 12|15|ADVCL 13|15|NSUBJ 14|15|ADVMOD 15|0|ROOT 16|15|OBJ 17|19|OBJ 18|19|NSUBJ 19|16|ACL-RELCL 20|21|NMOD-POSS 21|19|OBJ 22|23|NSUBJ 23|21|ACL-RELCL 24|25|NMOD-POSS 25|23|OBJ 26|15|PUNCT
+*PAR0:	especially if he is a student also someone who is eighteen still have a lot of &-um don't I mean he don't have that much experience that make him can &-uh &-um keep hi himself safe . 82990_98960
+%mor:	adv|especially sconj|if pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|student adv|also pron|someone-Ind-S1 pron|who-Rel aux|be-Fin-Ind-Pres-S3 num|eighteen adv|still verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|lot-Acc adp|of aux|do-Fin-Ind-Pres-S1~part|not pron|I-Prs-Nom-S1 verb|mean-Inf-S pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|have-Inf-S det|that-Def-Dem-Sing adj|much-S1 noun|experience-Acc pron|that-Rel verb|make-Fin-Ind-Pres-P3 pron|he-Prs-Acc-S3 aux|can-Fin-S verb|keep-Inf-S intj|hi pron|himself-Prs-Acc-reflx-S3 adj|safe-S1 .
+%gra:	1|6|ADVMOD 2|6|MARK 3|6|NSUBJ 4|6|COP 5|6|DET 6|13|ADVCL 7|6|ADVMOD 8|13|NSUBJ 9|11|NSUBJ 10|11|COP 11|8|ACL-RELCL 12|13|ADVMOD 13|0|ROOT 14|15|DET 15|13|OBJ 16|20|MARK 17|20|AUX 18|20|ADVMOD 19|20|NSUBJ 20|13|PARATAXIS 21|24|NSUBJ 22|24|AUX 23|24|ADVMOD 24|20|CCOMP 25|27|DET 26|27|AMOD 27|24|OBJ 28|29|NSUBJ 29|27|ACL-RELCL 30|29|OBJ 31|32|AUX 32|24|XCOMP 33|32|DISCOURSE 34|32|OBJ 35|32|XCOMP 36|13|PUNCT
+*PAR0:	like for example &-um his food his friends his relationships . 100560_105440
+%mor:	intj|like adp|for noun|example pron|his-Prs-Gen-S3 noun|food pron|his-Prs-Gen-S3 noun|friend-Plur pron|his-Prs-Gen-S3 noun|relationship-Plur .
+%gra:	1|5|DISCOURSE 2|3|CASE 3|5|OBL 4|5|NMOD-POSS 5|0|ROOT 6|7|NMOD-POSS 7|5|VOCATIVE 8|9|NMOD-POSS 9|5|APPOS 10|5|PUNCT
+*PAR0:	so I think &-uh he still need to be under &-uh his bar . 105880_111280
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|he-Prs-Nom-S3 adv|still verb|need-Fin-Ind-Pres-S3 part|to aux|be-Inf-S adp|under pron|his-Prs-Gen-S3 noun|bar .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|ADVMOD 6|3|CCOMP 7|11|MARK 8|11|COP 9|11|CASE 10|11|NMOD-POSS 11|6|XCOMP 12|3|PUNCT
+*PAR0:	his is &-um watch . 112040_114400
+%mor:	pron|his-Prs-S3 aux|be-Fin-Ind-Pres-S3 noun|watch .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR0:	so he still his [/] his parents . 115640_117170
+%mor:	adv|so pron|he-Prs-Nom-S3 adv|still pron|his-Prs-Gen-S3 noun|parent-Plur .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|ADVMOD 4|5|NMOD-POSS 5|0|ROOT 6|5|PUNCT
+@End

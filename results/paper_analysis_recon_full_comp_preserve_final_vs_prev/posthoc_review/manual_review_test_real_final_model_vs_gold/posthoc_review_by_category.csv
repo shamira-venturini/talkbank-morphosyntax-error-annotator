@@ -1,0 +1,6 @@
+source,original_category,n,correct_count,correct_rate,incorrect_count,incorrect_rate,ambiguous_count,ambiguous_rate,unsure_count,unsure_rate,unscored_count,unscored_rate,invalid_multiple_count,invalid_multiple_rate
+final_model,false_negative,14,3,0.214286,10,0.714286,0,0.0,0,0.0,0,0.0,1,0.071429
+final_model,false_positive,4,2,0.5,1,0.25,0,0.0,0,0.0,0,0.0,1,0.25
+final_model,other_clean_mismatch,11,11,1.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+final_model,wrong_label,24,20,0.833333,0,0.0,0,0.0,0,0.0,0,0.0,4,0.166667
+gold,gold_reference,53,46,0.867925,3,0.056604,0,0.0,0,0.0,0,0.0,4,0.075472

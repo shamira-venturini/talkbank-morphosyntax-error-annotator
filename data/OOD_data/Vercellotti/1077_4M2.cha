@@ -1,0 +1,45 @@
+@UTF8
+@PID:	11312/t-00010128-1
+@Begin
+@Languages:	eng
+@Participants:	1077 Student
+@ID:	eng|Vercellotti|1077|||2||Student|level4||
+@Media:	1077_4M2, audio
+@Transcriber:	jms
+*1077:	last year I came to the united state with my husband and my daughter . 2341_11339
+%mor:	adj|last-S1 noun|year pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Past-S1-irr adp|to det|the-Def-Art adj|united-S1 noun|state adp|with pron|my-Prs-Gen-S1 noun|husband cconj|and pron|my-Prs-Gen-S1 noun|daughter .
+%gra:	1|2|AMOD 2|4|OBL-UNMARKED 3|4|NSUBJ 4|0|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|11|CASE 10|11|NMOD-POSS 11|4|OBL 12|14|CC 13|14|NMOD-POSS 14|11|CONJ 15|4|PUNCT
+*1077:	but I didn't bring my children with me . 11752_17621
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|bring-Inf-S pron|my-Prs-Gen-S1 noun|child-Plur-Acc adp|with pron|I-Prs-Acc-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|9|CASE 9|5|OBL 10|5|PUNCT
+*1077:	I left them in my country Saudi Arabia &-uh . 18534_26201
+%mor:	pron|I-Prs-Nom-S1 verb|leave-Fin-Ind-Past-S1-irr pron|they-Prs-Acc-P3 adp|in pron|my-Prs-Gen-S1 noun|country adj|Saudi-S1 propn|Arabia .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|NMOD-POSS 6|2|OBL 7|8|AMOD 8|2|OBL 9|2|PUNCT
+*1077:	actually that affected <in my> [/] in my performance and in my education . 28808_35805
+%mor:	adv|actually pron|that-Dem verb|affect-Part-Past-S adp|in pron|my-Prs-Gen-S1 noun|performance cconj|and adp|in pron|my-Prs-Gen-S1 noun|education .
+%gra:	1|3|ADVMOD 2|3|NSUBJ-PASS 3|0|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|10|CC 8|10|CASE 9|10|NMOD-POSS 10|6|CONJ 11|3|PUNCT
+*1077:	because I: [/] I miss them all the time . 36664_37303
+%mor:	sconj|because pron|I-Prs-Nom-S1 verb|miss-Fin-Ind-Pres-S1 pron|they-Prs-Acc-P3 det|all-Def-Tot det|the-Def-Art noun|time .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|DET-PREDET 6|7|DET 7|3|OBL-UNMARKED 8|3|PUNCT
+*1077:	and I [/] I [/] <I always> [/] &~wa &-uh <I always was> [//] I always think of them . 40353_53620
+%mor:	cconj|and pron|I-Prs-Nom-S1 adv|always verb|think-Fin-Ind-Pres-S1 adp|of pron|they-Prs-Acc-P3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*1077:	but I think I should have brought them with me . 53900_61762
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S verb|bring-Part-Past-S-irr pron|they-Prs-Acc-P3 adp|with pron|I-Prs-Acc-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|NSUBJ 5|7|AUX 6|7|AUX 7|3|CCOMP 8|7|OBJ 9|10|CASE 10|7|OBL 11|3|PUNCT
+*1077:	because <if I had> [/] &-uh if I had brought them with me I [/] &~w I would have been more comfortable [% 4 syllables] . 62507_71174
+%mor:	sconj|because sconj|if pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1-irr verb|bring-Part-Past-S-irr pron|they-Prs-Acc-P3 adp|with pron|I-Prs-Acc-S1 pron|I-Prs-Nom-S1 aux|would-Fin-S aux|have-Inf-S aux|be-Part-Past-S-irr adv|more adj|comfortable-S1 .
+%gra:	1|14|MARK 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|14|ADVCL 6|5|OBJ 7|8|CASE 8|5|OBL 9|14|NSUBJ 10|14|AUX 11|14|AUX 12|14|COP 13|14|ADVMOD 14|0|ROOT 15|14|PUNCT
+*1077:	and <that will> [/] that will secure my education . 72606_82078
+%mor:	cconj|and pron|that-Dem aux|will-Fin-S verb|secure-Inf-S pron|my-Prs-Gen-S1 noun|education-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*1077:	so missing my: &-uh children is one of the factors which affected my results . 83761_97515
+%mor:	adv|so verb|miss-Ger-S pron|my-Prs-Gen-S1 noun|child-Plur-Acc aux|be-Fin-Ind-Pres-S3 num|one adp|of det|the-Def-Art noun|factor-Plur pron|which-Rel-S1 verb|affect-Fin-Ind-Past-P3 pron|my-Prs-Gen-S1 noun|result-Plur-Acc .
+%gra:	1|6|ADVMOD 2|6|CSUBJ 3|4|NMOD-POSS 4|2|OBJ 5|6|COP 6|0|ROOT 7|9|CASE 8|9|DET 9|6|NMOD 10|11|NSUBJ 11|9|ACL-RELCL 12|13|NMOD-POSS 13|11|OBJ 14|6|PUNCT
+*1077:	<in my> [/] &~pers ah in ah my perspective &-uh I shouldn't have left them in my country . 98551_109811
+%mor:	intj|ah adp|in intj|ah pron|my-Prs-Gen-S1 noun|perspective pron|I-Prs-Nom-S1 aux|should-Fin-S~part|not aux|have-Inf-S verb|leave-Part-Past-S-irr pron|they-Prs-Acc-P3 adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|10|DISCOURSE 2|5|CASE 3|5|DISCOURSE 4|5|NMOD-POSS 5|10|OBL 6|10|NSUBJ 7|10|AUX 8|10|ADVMOD 9|10|AUX 10|0|ROOT 11|10|OBJ 12|14|CASE 13|14|NMOD-POSS 14|10|OBL 15|10|PUNCT
+*1077:	and I will correct this mistake and bring them with me to the united state . 110294_117168
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|will-Fin-S verb|correct-Inf-S det|this-Def-Dem-Sing noun|mistake-Acc cconj|and verb|bring-Inf-S pron|they-Prs-Acc-P3 adp|with pron|I-Prs-Acc-S1 adp|to det|the-Def-Art adj|united-S1 noun|state .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|4|CONJ 9|8|OBJ 10|11|CASE 11|8|OBL 12|15|CASE 13|15|DET 14|15|AMOD 15|8|OBL 16|4|PUNCT
+@End

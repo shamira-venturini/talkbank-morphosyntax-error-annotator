@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/t-00010272-1
+@Begin
+@Languages:	eng
+@Participants:	848 Student
+@ID:	eng|Vercellotti|848|||1||Student|level3||
+@Media:	848_3G1, audio
+@Transcriber:	jms
+*848:	hi everybody my topic is describe your best friend from childhood . 6223_7903
+%mor:	intj|hi pron|everybody-Tot-S1 pron|my-Prs-Gen-S1 noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S pron|your-Prs-Gen-S2 adj|good-Sup-S1 noun|friend-Acc adp|from noun|childhood .
+%gra:	1|6|DISCOURSE 2|6|VOCATIVE 3|4|NMOD-POSS 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|NMOD-POSS 8|9|AMOD 9|6|OBJ 10|11|CASE 11|9|NMOD 12|6|PUNCT
+*848:	I want &-uh talk about &~with my [//] best [//] ah friend [//] my best friend . 8483_14143
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 verb|talk-Inf-S adp|about intj|ah pron|my-Prs-Gen-S1 adj|good-Sup-S1 noun|friend .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|8|CASE 5|8|DISCOURSE 6|8|NMOD-POSS 7|8|AMOD 8|3|OBL 9|2|PUNCT
+*848:	his name is Ali . 15802_16602
+%mor:	pron|his-Prs-Gen-S3 noun|name aux|be-Fin-Ind-Pres-S3 propn|Ali .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*848:	Ali is from Saudi_Arabia . 19031_20101
+%mor:	propn|Ali aux|be-Fin-Ind-Pres-S3 adp|from propn|SaudiArabia .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*848:	I meet &-um &~m Ali before four years . 20942_24292
+%mor:	pron|I-Prs-Nom-S1 verb|meet-Fin-Ind-Pres-S1 propn|Ali-Acc adp|before num|four noun|year-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|NUMMOD 6|2|OBL 7|2|PUNCT
+*848:	and we meet &~i in [/] in my country . 27224_29684
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|meet-Fin-Ind-Pres-P1 adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*848:	Ali is good friend [% 2 syllables] for me . 32064_34385
+%mor:	propn|Ali aux|be-Fin-Ind-Pres-S3 adj|good-S1 noun|friend adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|0|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+*848:	he has requality [: quality] [?] help for me . 36526_40826
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|quality noun|help-Acc adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|COMPOUND 4|2|OBJ 5|6|CASE 6|4|NMOD 7|2|PUNCT
+*848:	all the time we go with him in [% 2 errors] trip . 44786_45306
+%mor:	det|all-Def-Tot det|the-Def-Art noun|time pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 adp|with pron|he-Prs-Acc-S3 adp|in noun|trip .
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|7|CASE 7|5|OBL 8|9|CASE 9|5|OBL 10|3|PUNCT
+*848:	or <we go> [//] we went to the beach . 47555_51435
+%mor:	cconj|or pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr adp|to det|the-Def-Art noun|beach .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*848:	Ali is &~m assist me when I need that . 54054_61014
+%mor:	propn|Ali aux|be-Fin-Ind-Pres-S3 verb|assist-Inf-S pron|I-Prs-Acc-S1 adv|when pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|that-Dem .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|ADVMOD 6|7|NSUBJ 7|3|ADVCL 8|7|OBJ 9|3|PUNCT
+*848:	I traveled &~l with Ali to many country to enjoy and fun . 62156_68756
+%mor:	pron|I-Prs-Nom-S1 verb|travel-Fin-Ind-Past-S1 adp|with propn|Ali adp|to adj|many-S1 noun|country part|to verb|enjoy-Inf-S cconj|and noun|fun .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|7|CASE 6|7|AMOD 7|2|OBL 8|9|MARK 9|2|ADVCL 10|11|CC 11|9|CONJ 12|2|PUNCT
+*848:	I useta do [///] went to many country . 74206_81316
+%mor:	pron|I-Prs-Nom-S1 adv|useta verb|go-Fin-Ind-Past-S1-irr adp|to adj|many-S1 noun|country .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|CASE 5|6|AMOD 6|3|OBL 7|3|PUNCT
+*848:	the [/] &~yul the last year Ali is visited me in united state . 86317_91177
+%mor:	det|the-Def-Art adj|last-S1 noun|year propn|Ali aux|be-Fin-Ind-Pres-S3 verb|visit-Part-Past-S pron|I-Prs-Acc-S1 adp|in verb|unite-Part-Past-S noun|state .
+%gra:	1|3|DET 2|3|AMOD 3|6|OBL-UNMARKED 4|6|NSUBJ-PASS 5|6|AUX-PASS 6|0|ROOT 7|6|OBJ 8|10|CASE 9|10|AMOD 10|6|OBL 11|6|PUNCT
+*848:	and he's stole [=? stayed] with me about two month in this country . 94681_100021
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Past-S-irr adp|with pron|I-Prs-Acc-S1 adv|about num|two noun|month adp|in det|this-Def-Dem-Sing noun|country .
+%gra:	1|4|CC 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|6|CASE 6|4|OBL 7|8|ADVMOD 8|9|NUMMOD 9|4|OBL-UNMARKED 10|12|CASE 11|12|DET 12|9|NMOD 13|4|PUNCT
+*848:	and after that he back home . 104459_104949
+%mor:	cconj|and adp|after sconj|that pron|he-Prs-Nom-S3 adv|back adv|home .
+%gra:	1|6|CC 2|6|CASE 3|2|FIXED 4|6|NSUBJ 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*848:	and ah he everyday &~taa talk with me in phone . 105547_113017
+%mor:	cconj|and intj|ah pron|he-Prs-Nom-S3 adv|everyday verb|talk-Fin-Ind-Pres-S3 adp|with pron|I-Prs-Acc-S1 adp|in noun|phone .
+%gra:	1|5|CC 2|5|DISCOURSE 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|7|CASE 7|5|OBL 8|9|CASE 9|5|OBL 10|5|PUNCT
+*848:	and he ask me about my study and my health and ah my everything . 117657_119867
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|ask-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 adp|about pron|my-Prs-Gen-S1 noun|study cconj|and pron|my-Prs-Gen-S1 noun|health cconj|and intj|ah pron|my-Prs-Gen-S1 pron|everything-Tot-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|10|CC 9|10|NMOD-POSS 10|7|CONJ 11|14|CC 12|14|DISCOURSE 13|14|NMOD-POSS 14|7|CONJ 15|3|PUNCT
+@End

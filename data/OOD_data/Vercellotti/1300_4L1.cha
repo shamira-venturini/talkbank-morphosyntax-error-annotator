@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/a-00062570-1
+@Begin
+@Languages:	eng
+@Participants:	PAR1 Participant, PAR0 Participant
+@ID:	eng|Vercellotti|PAR1|||||Participant|||
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1300_4L1, audio
+*PAR1:	the topic today is to talk about the city . 2570_5760
+%mor:	det|the-Def-Art noun|topic noun|today aux|be-Fin-Ind-Pres-S3 part|to verb|talk-Inf-S adp|about det|the-Def-Art noun|city .
+%gra:	1|2|DET 2|6|NSUBJ-OUTER 3|2|NMOD-UNMARKED 4|6|COP 5|6|MARK 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR1:	I come from . 6340_6850
+%mor:	pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|CASE 4|2|PUNCT
+*PAR1:	I comes from a small city called Uzo which is located in Hub Bay Province China it's [/] it's a small city . 9190_22290
+%mor:	pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S3 adp|from det|a-Ind-Art adj|small-S1 noun|city verb|call-Part-Past-S propn|Uzo pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|locate-Part-Past-S adp|in propn|Hub propn|Bay propn|Province propn|China pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|small-S1 noun|city .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|OBL 7|6|ACL 8|7|XCOMP 9|11|NSUBJ-PASS 10|11|AUX-PASS 11|6|ACL-RELCL 12|16|CASE 13|14|COMPOUND 14|15|COMPOUND 15|16|COMPOUND 16|11|OBL 17|21|NSUBJ 18|21|COP 19|21|DET 20|21|AMOD 21|2|PARATAXIS 22|2|PUNCT
+*PAR1:	and it's very quiet . 22560_23570
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very adj|quiet-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*PAR1:	<it located> [/] it located near the Changjiang River which is the biggest river in China and you can do a lot of things there . 24650_37730
+%mor:	pron|it-Prs-Nom-S3 verb|locate-Part-Past-S adp|near det|the-Def-Art propn|Changjiang propn|River pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|big-Sup-S1 noun|river adp|in propn|China cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|do-Inf-S det|a-Ind-Art noun|lot-Acc adp|of noun|thing-Plur adv|there .
+%gra:	1|2|NSUBJ-PASS 2|0|ROOT 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|OBL 7|11|NSUBJ 8|11|COP 9|11|DET 10|11|AMOD 11|6|ACL-RELCL 12|13|CASE 13|11|NMOD 14|17|CC 15|17|NSUBJ 16|17|AUX 17|2|CONJ 18|19|DET 19|17|OBJ 20|21|CASE 21|19|NMOD 22|17|ADVMOD 23|2|PUNCT
+*PAR1:	you can have a lot of fun there . 37820_39210
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|have-Inf-S det|a-Ind-Art noun|lot-Acc adp|of noun|fun adv|there .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|3|ADVMOD 9|3|PUNCT
+*PAR1:	and &-uh when I was a kid when I was a child &-uh in [/] in the summer vacation every year I will swim across swam across the China River with my father and his friend . 40050_55910
+%mor:	cconj|and adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|kid adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|child adp|in det|the-Def-Art noun|summer noun|vacation det|every-Def-Tot noun|year pron|I-Prs-Nom-S1 aux|will-Fin-S verb|swim-Inf-S adp|across verb|swim-Inf-S adp|across det|the-Def-Art propn|China propn|River adp|with pron|my-Prs-Gen-S1 noun|father cconj|and pron|his-Prs-Gen-S3 noun|friend .
+%gra:	1|20|CC 2|6|ADVMOD 3|6|NSUBJ 4|6|COP 5|6|DET 6|20|ADVCL 7|11|ADVMOD 8|11|NSUBJ 9|11|COP 10|11|DET 11|6|ADVCL 12|15|CASE 13|15|DET 14|15|COMPOUND 15|11|OBL 16|17|DET 17|11|OBL-UNMARKED 18|20|NSUBJ 19|20|AUX 20|0|ROOT 21|22|MARK 22|20|ADVCL 23|26|CASE 24|26|DET 25|26|COMPOUND 26|22|OBL 27|29|CASE 28|29|NMOD-POSS 29|22|OBL 30|32|CC 31|32|NMOD-POSS 32|29|CONJ 33|20|PUNCT
+*PAR1:	and the scenery there is very beautiful . 61180_63380
+%mor:	cconj|and det|the-Def-Art noun|scenery adv|there aux|be-Fin-Ind-Pres-S3 adv|very adj|beautiful-S1 .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|3|ADVMOD 5|7|COP 6|7|ADVMOD 7|0|ROOT 8|7|PUNCT
+*PAR1:	and &-uh there [/] there are not lots of parks there . 64580_69660
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 part|not noun|lot-Plur adp|of noun|park-Plur adv|there .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|ADVMOD 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|3|ADVMOD 9|3|PUNCT
+*PAR1:	but &-uh we can still do [/] do some interesting there like swimming &-uh swimming fishing . 70260_80130
+%mor:	cconj|but pron|we-Prs-Nom-P1 aux|can-Fin-S adv|still verb|do-Inf-S det|some-Def-Ind adj|interesting-S1 adv|there adp|like noun|swim-Ger noun|swim-Ger noun|fishing-Ger .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|ADVMOD 9|12|CASE 10|12|COMPOUND 11|12|COMPOUND 12|5|OBL 13|5|PUNCT
+*PAR1:	&-um no we have &-uh a lot of kind of &-uh entertainment &-uh facilities there &-uh such_as amusement [/] amusement park &-uh Ktv and so on . 83940_99870
+%mor:	intj|no pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|lot-Acc adp|of noun|kind adp|of noun|entertainment noun|facility-Plur adv|there noun|sucha noun|amusement noun|park propn|Ktv cconj|and adv|so adv|on .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|10|CASE 9|10|COMPOUND 10|7|NMOD 11|10|ADVMOD 12|14|COMPOUND 13|14|COMPOUND 14|15|COMPOUND 15|10|APPOS 16|18|CC 17|18|ADVMOD 18|15|CONJ 19|3|PUNCT
+*PAR1:	and &-uh <there is a> [/] there is a very famous mountain called Western mountain in my city . 106120_113330
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very adj|famous-S1 noun|mountain verb|call-Part-Past-S adj|western-S1 noun|mountain adp|in pron|my-Prs-Gen-S1 noun|city .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|10|DET 5|6|ADVMOD 6|10|AMOD 7|3|NSUBJ 8|10|AMOD 9|10|AMOD 10|3|NSUBJ 11|13|CASE 12|13|NMOD-POSS 13|10|NMOD 14|3|PUNCT
+*PAR1:	people would like to go there . 116390_117480
+%mor:	noun|person-Plur aux|would-Fin-S verb|like-Inf-S part|to verb|go-Inf-S adv|there .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|ADVMOD 7|3|PUNCT
+*PAR0:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

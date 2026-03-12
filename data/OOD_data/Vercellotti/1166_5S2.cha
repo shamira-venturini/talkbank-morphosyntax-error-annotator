@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/t-00010202-1
+@Begin
+@Languages:	eng
+@Participants:	1166 Student
+@ID:	eng|Vercellotti|1166|||2||Student|level4||
+@Media:	1166_5S2, audio
+@Transcriber:	jms
+*1166:	the topic is one of the trendiest topics nowadays . 2514_5405
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 num|one adp|of det|the-Def-Art adj|trendiest-Sup-S1 noun|topic-Plur adv|nowadays .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|NMOD 9|4|ADVMOD 10|4|PUNCT
+*1166:	&-uh &~ha how can we &-uh protect our computers ah from hackers . 5894_11638
+%mor:	adv|how aux|can-Fin-S pron|we-Prs-Nom-P1 verb|protect-Inf-S pron|our-Prs-Gen-P1 noun|computer-Plur-Acc intj|ah adp|from noun|hacker-Plur .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|DISCOURSE 8|9|CASE 9|4|OBL 10|4|PUNCT
+*1166:	and <what type of> [/] &-uh &~t ah what type of &-uh risk &-uh that we may faced by using the internet . 12718_19082
+%mor:	cconj|and intj|ah det|what-Def-Int noun|type adp|of noun|risk pron|that-Rel pron|we-Prs-Nom-P1 aux|may-Fin-S verb|face-Inf-Past-S sconj|by verb|use-Part-Pres-S det|the-Def-Art noun|internet-Acc .
+%gra:	1|4|CC 2|4|DISCOURSE 3|4|DET 4|0|ROOT 5|6|CASE 6|4|NMOD 7|12|OBJ 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|12|MARK 12|10|ADVCL 13|14|DET 14|12|OBJ 15|4|PUNCT
+*1166:	actually there are many diversity of &-uh viruses and threaten that one may face when &-uh connect to the internet . 21379_27706
+%mor:	adv|actually pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 noun|diversity adp|of noun|viruse-Plur cconj|and verb|threaten-Fin-Ind-Pres-P3 sconj|that pron|one-Prs-S3 aux|may-Fin-S verb|face-Inf-S adv|when verb|connect-Inf-S adp|to det|the-Def-Art noun|internet .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|0|ROOT 4|5|AMOD 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|9|CC 9|3|CONJ 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|9|CCOMP 14|15|ADVMOD 15|13|ADVCL 16|18|CASE 17|18|DET 18|15|OBL 19|3|PUNCT
+*1166:	for example he may &-uh cannot access to: his information . 29023_32719
+%mor:	adp|for noun|example pron|he-Prs-Nom-S3 aux|may-Fin-S aux|can-Fin-S~part|not verb|access-Inf-S adp|to pron|his-Prs-Gen-S3 noun|information .
+%gra:	1|2|CASE 2|7|OBL 3|7|NSUBJ 4|7|AUX 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|7|PUNCT
+*1166:	&-uh or he may &-uh cannot find his information in his computer . 33471_37736
+%mor:	cconj|or pron|he-Prs-Nom-S3 aux|may-Fin-S aux|can-Fin-S~part|not verb|find-Inf-S pron|his-Prs-Gen-S3 noun|information-Acc adp|in pron|his-Prs-Gen-S3 noun|computer .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|11|CASE 10|11|NMOD-POSS 11|6|OBL 12|6|PUNCT
+*1166:	someone maybe wipe them out . 40032_40510
+%mor:	pron|someone-Ind-S1 adv|maybe verb|wipe-Fin-Imp-S pron|they-Prs-Acc-P3 adp|out .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*1166:	&-uh how that happens how comes . 40880_43000
+%mor:	adv|how pron|that-Dem verb|happen-Fin-Ind-Pres-S3 adv|how verb|come-Fin-Ind-Pres-S3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|ADVMOD 5|3|CCOMP 6|3|PUNCT
+*1166:	actually &-uh there are many hackers trying to hack into our computers &-uh in term of &-uh stealing our identity or &-uh our money or just to destroys [//] destroy our computer . 43662_61960
+%mor:	adv|actually pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 noun|hacker-Plur verb|try-Ger-S part|to verb|hack-Inf-S adp|into pron|our-Prs-Gen-P1 noun|computer-Plur adp|in noun|term sconj|of verb|steal-Ger-S pron|our-Prs-Gen-P1 noun|identity-Acc cconj|or pron|our-Prs-Gen-P1 noun|money cconj|or adv|just part|to verb|destroy-Inf-S pron|our-Prs-Gen-P1 noun|computer-Acc .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|0|ROOT 4|5|AMOD 5|3|NSUBJ 6|5|ACL 7|8|MARK 8|6|XCOMP 9|11|CASE 10|11|NMOD-POSS 11|8|OBL 12|13|CASE 13|8|OBL 14|15|MARK 15|13|ACL 16|17|NMOD-POSS 17|15|OBJ 18|20|CC 19|20|NMOD-POSS 20|17|CONJ 21|24|CC 22|24|ADVMOD 23|24|MARK 24|15|CONJ 25|26|NMOD-POSS 26|24|OBJ 27|3|PUNCT
+*1166:	how can we protect our computer .
+%mor:	adv|how aux|can-Fin-S pron|we-Prs-Nom-P1 verb|protect-Inf-S pron|our-Prs-Gen-P1 noun|computer-Acc .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*1166:	there are many different ways .
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 adj|different-S1 noun|way-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|AMOD 4|5|AMOD 5|2|NSUBJ 6|2|PUNCT
+*1166:	for example we can enhance &-uh our computer &-uh security by using antivirus program or &-uh turn on the firewall as well as update &-uh all these program daily . 65988_80808
+%mor:	adp|for noun|example pron|we-Prs-Nom-P1 aux|can-Fin-S verb|enhance-Inf-S pron|our-Prs-Gen-P1 noun|computer noun|security-Acc sconj|by verb|use-Part-Pres-S noun|antivirus noun|program-Acc cconj|or verb|turn-Inf-S adp|on det|the-Def-Art noun|firewall adv|as adv|well adp|as verb|update-Inf-S det|all-Def-Tot det|this-Def-Dem-Plur noun|program noun|daily-Acc .
+%gra:	1|2|CASE 2|5|OBL 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|NMOD-POSS 7|8|COMPOUND 8|5|OBJ 9|10|MARK 10|5|ADVCL 11|12|COMPOUND 12|10|OBJ 13|14|CC 14|10|CONJ 15|17|CASE 16|17|DET 17|14|OBL 18|21|CC 19|18|FIXED 20|18|FIXED 21|14|CONJ 22|25|DET-PREDET 23|25|DET 24|25|COMPOUND 25|21|OBJ 26|5|PUNCT
+*1166:	&-uh in addition we can &-uh maximize &-uh the ability of &-uh &-uh our [/] &~usk our &-uh antivirus program &-uh <in term of> [/] &~sk &-uh in term of against [% 3 syllables] all type of viruses by &-uh scan our computer &-uh daily to try to find each new &-uh virus that emerge on our computer and delete it . 81475_109915
+%mor:	adp|in noun|addition pron|we-Prs-Nom-P1 aux|can-Fin-S verb|maximize-Inf-S det|the-Def-Art noun|ability-Acc adp|of pron|our-Prs-Gen-P1 noun|antivirus noun|program adp|in noun|term adp|of adp|against det|all-Def-Tot noun|type adp|of noun|viruse-Plur sconj|by verb|scan-Inf-S pron|our-Prs-Gen-P1 noun|computer-Acc adv|daily part|to verb|try-Inf-S part|to verb|find-Inf-S det|each-Def-Ind adj|new-S1 noun|virus-Acc pron|that-Rel verb|emerge-Fin-Ind-Pres-P3 adp|on pron|our-Prs-Gen-P1 noun|computer cconj|and verb|delete-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|CASE 2|5|OBL 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|11|CASE 9|11|NMOD-POSS 10|11|COMPOUND 11|7|NMOD 12|13|CASE 13|5|OBL 14|17|CASE 15|17|CASE 16|17|DET 17|13|NMOD 18|19|CASE 19|17|NMOD 20|21|MARK 21|5|ADVCL 22|23|NMOD-POSS 23|21|OBJ 24|21|ADVMOD 25|26|MARK 26|21|ADVCL 27|28|MARK 28|26|XCOMP 29|31|DET 30|31|AMOD 31|28|OBJ 32|33|NSUBJ 33|31|ACL-RELCL 34|36|CASE 35|36|NMOD-POSS 36|33|OBL 37|38|CC 38|33|CONJ 39|38|OBJ 40|5|PUNCT
+*1166:	&-uh actually this is the type of &-uh viruses and how we can protect our computer from threaten . 110624_120191
+%mor:	adv|actually pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|type adp|of noun|viruse-Plur cconj|and adv|how pron|we-Prs-Nom-P1 aux|can-Fin-S verb|protect-Inf-S pron|our-Prs-Gen-P1 noun|computer-Acc adp|from verb|threaten-Inf-S .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|7|CASE 7|5|NMOD 8|12|CC 9|12|ADVMOD 10|12|NSUBJ 11|12|AUX 12|5|CONJ 13|14|NMOD-POSS 14|12|OBJ 15|16|CASE 16|12|OBL 17|5|PUNCT
+@End

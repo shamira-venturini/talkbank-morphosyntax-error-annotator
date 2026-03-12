@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/a-00062551-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1286_4R3, audio
+*PAR0:	the topic today is to talk about a famous people in the past . 1040_6160
+%mor:	det|the-Def-Art noun|topic noun|today aux|be-Fin-Ind-Pres-S3 part|to verb|talk-Inf-S adp|about det|a-Ind-Art adj|famous-S1 noun|person-Plur adp|in det|the-Def-Art noun|past .
+%gra:	1|2|DET 2|6|NSUBJ-OUTER 3|2|NMOD-UNMARKED 4|6|COP 5|6|MARK 6|0|ROOT 7|10|CASE 8|10|DET 9|10|AMOD 10|6|OBL 11|13|CASE 12|13|DET 13|10|NMOD 14|6|PUNCT
+*PAR0:	&-um I wanna talk about a Fa a famous person in the past is the founder of my country Taiwan &-um Dr Sonen he &-um long time ago my country is not &-uh freedom country . 7400_21690
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1~part|to verb|talk-Inf-S adp|about det|a-Ind-Art propn|Fa det|a-Ind-Art adj|famous-S1 noun|person adp|in det|the-Def-Art noun|past aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|founder adp|of pron|my-Prs-Gen-S1 noun|country propn|Taiwan propn|Dr propn|Sonen pron|he-Prs-Nom-S3 adj|long-S1 noun|time adv|ago pron|my-Prs-Gen-S1 noun|country aux|be-Fin-Ind-Pres-S3 part|not noun|freedom noun|country .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|10|DET 9|10|AMOD 10|16|NSUBJ 11|13|CASE 12|13|DET 13|10|NMOD 14|16|COP 15|16|DET 16|2|PARATAXIS 17|19|CASE 18|19|NMOD-POSS 19|16|NMOD 20|16|APPOS 21|20|FLAT 22|21|FLAT 23|25|NMOD-POSS 24|25|AMOD 25|26|OBL-UNMARKED 26|32|ADVMOD 27|28|NMOD-POSS 28|32|NSUBJ 29|32|COP 30|32|ADVMOD 31|32|COMPOUND 32|16|PARATAXIS 33|2|PUNCT
+*PAR0:	&-uh and we have king . 38080_39920
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 noun|king-Acc-Ger .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR0:	and the people is not . 41120_43660
+%mor:	cconj|and det|the-Def-Art noun|person-Plur aux|be-Fin-Ind-Pres-S3 part|not .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR0:	and the people don't have freedom and liberty to do whatever they want . 45520_51080
+%mor:	cconj|and det|the-Def-Art noun|person-Plur aux|do-Fin-Ind-Pres-P3~part|not verb|have-Inf-S noun|freedom-Acc cconj|and noun|liberty part|to verb|do-Inf-S pron|whatever-Rel-S1 pron|they-Prs-Nom-P3 verb|want-Fin-Ind-Pres-P3 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|9|CC 9|7|CONJ 10|11|MARK 11|6|ADVCL 12|11|OBJ 13|14|NSUBJ 14|12|ACL-RELCL 15|6|PUNCT
+*PAR0:	so Dr Sonya send &-um Dr Sen went abroad to receive education . 52610_61820
+%mor:	adv|so propn|Dr propn|Sonya verb|send-Fin-Ind-Pres-P3 propn|Dr propn|Sen verb|go-Fin-Ind-Past-S3-irr adv|abroad part|to verb|receive-Inf-S noun|education-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|2|FLAT 4|0|ROOT 5|7|NSUBJ 6|5|FLAT 7|4|CCOMP 8|7|ADVMOD 9|10|MARK 10|7|ADVCL 11|10|OBJ 12|4|PUNCT
+*PAR0:	and he was inspired by the freedom sought in the foreign country . 63800_71800
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|inspire-Part-Past-S adp|by det|the-Def-Art noun|freedom verb|seek-Part-Past-S-irr adp|in det|the-Def-Art adj|foreign-S1 noun|country .
+%gra:	1|4|CC 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL-AGENT 8|7|ACL 9|12|CASE 10|12|DET 11|12|AMOD 12|8|OBL 13|4|PUNCT
+*PAR0:	so <he decide to> [/] he decide to have a revolution to fight with the kingdom . 73520_88240
+%mor:	adv|so pron|he-Prs-Nom-S3 verb|decide-Fin-Ind-Pres-S3 part|to verb|have-Inf-S det|a-Ind-Art noun|revolution-Acc part|to verb|fight-Inf-S adp|with det|the-Def-Art noun|kingdom .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|9|MARK 9|7|ACL 10|12|CASE 11|12|DET 12|9|OBL 13|3|PUNCT
+*PAR0:	and then he planned eleven revolution . 88950_95400
+%mor:	cconj|and adv|then pron|he-Prs-Nom-S3 verb|plan-Fin-Ind-Past-S3 num|eleven noun|revolution-Acc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|6|NUMMOD 6|4|OBJ 7|4|PUNCT
+*PAR0:	and finally he beat the kingdom . 96160_100080
+%mor:	cconj|and adv|finally pron|he-Prs-Nom-S3 verb|beat-Fin-Ind-Past-S3-irr det|the-Def-Art noun|kingdom-Acc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR0:	and he [/] he found the Republic of China which is a free country . 101040_107240
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|find-Fin-Ind-Past-S3-irr det|the-Def-Art propn|Republic-Acc adp|of propn|China pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|free-S1 noun|country .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|12|NSUBJ 9|12|COP 10|12|DET 11|12|AMOD 12|5|ACL-RELCL 13|3|PUNCT
+*PAR0:	and I appreciate his effort . 111280_114800
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|appreciate-Fin-Ind-Pres-S1 pron|his-Prs-Gen-S3 noun|effort-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*PAR0:	so we can enjoy freedom today . 115400_117250
+%mor:	adv|so pron|we-Prs-Nom-P1 aux|can-Fin-S verb|enjoy-Inf-S noun|freedom-Acc noun|today .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|OBL-UNMARKED 7|4|PUNCT
+@End

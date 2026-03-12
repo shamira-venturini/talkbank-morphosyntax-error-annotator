@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/a-00062531-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1258_4P1, audio
+*PAR0:	&-uh hi . 1880_2090
+%mor:	intj|hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	&-uh today I'm gonna talk about &-uh the country where I ca where I come from . 2520_8960
+%mor:	noun|today pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|talk-Inf-S adp|about det|the-Def-Art noun|country adv|where pron|I-Prs-Nom-S1 aux|can-Fin-S adv|where pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from .
+%gra:	1|4|OBL-UNMARKED 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|12|ADVMOD 11|12|NSUBJ 12|9|ACL-RELCL 13|15|ADVMOD 14|15|NSUBJ 15|12|ADVCL 16|15|OBL 17|4|PUNCT
+*PAR0:	my country is Saudi Arabia &-uh it's &-uh in &-uh Middle east . 10280_16079
+%mor:	pron|my-Prs-Gen-S1 noun|country aux|be-Fin-Ind-Pres-S3 adj|Saudi-S1 propn|Arabia pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in adj|Middle-S1 propn|east .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|10|NSUBJ 7|10|COP 8|10|CASE 9|10|AMOD 10|5|PARATAXIS 11|5|PUNCT
+*PAR0:	it has &-uh hot and hum weather . 17960_20840
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adj|hot-S1 cconj|and noun|hum noun|weather-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|AMOD 4|5|CC 5|3|CONJ 6|2|OBJ 7|2|PUNCT
+*PAR0:	&-uh also big city . 23160_24810
+%mor:	adv|also adj|big-S1 noun|city .
+%gra:	1|3|ADVMOD 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*PAR0:	&-uh has &-uh many different regions . 26600_29680
+%mor:	verb|have-Fin-Ind-Pres-S3 adj|many-S1 adj|different-S1 noun|region-Plur-Acc .
+%gra:	1|0|ROOT 2|4|AMOD 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+*PAR0:	there's &-um eastern &-uh western southern and &-uh northern regions . 30050_37240
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adj|eastern-S1 adj|western-S1 adj|southern-S1 cconj|and adj|northern-S1 noun|region-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|8|AMOD 4|8|AMOD 5|8|AMOD 6|7|CC 7|5|CONJ 8|2|NSUBJ 9|2|PUNCT
+*PAR0:	I'm from the eastern regions . 38320_39930
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|from det|the-Def-Art adj|eastern-S1 noun|region-Plur .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|DET 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*PAR0:	it's &-uh close to the Gulf &-um &-uh Gulf Sea <Arab Arab> [/] Arab Gulf Sea &-uh it has really human whether &-um actually &-um &-uh in my free time I like to [/] to go &-uh to go out with my friends and &-uh do &-uh lots of &-uh funny things . 40210_73290
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|close-S1 adp|to det|the-Def-Art propn|Gulf propn|Gulf propn|Sea adj|Arab-S1 propn|Gulf propn|Sea pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adv|really adj|human-S1 sconj|whether adv|actually adp|in pron|my-Prs-Gen-S1 adj|free-S1 noun|time pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 part|to verb|go-Inf-S part|to verb|go-Inf-S adp|out adp|with pron|my-Prs-Gen-S1 noun|friend-Plur cconj|and verb|do-Inf-S noun|lot-Plur-Acc adp|of adj|funny-S1 noun|thing-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|11|CASE 5|11|DET 6|8|COMPOUND 7|8|COMPOUND 8|11|COMPOUND 9|11|AMOD 10|11|COMPOUND 11|3|OBL 12|13|NSUBJ 13|3|PARATAXIS 14|15|ADVMOD 15|13|OBJ 16|23|MARK 17|23|ADVMOD 18|21|CASE 19|21|NMOD-POSS 20|21|AMOD 21|23|OBL 22|23|NSUBJ 23|13|ADVCL 24|25|MARK 25|23|XCOMP 26|27|MARK 27|25|ADVCL 28|27|COMPOUND-PRT 29|31|CASE 30|31|NMOD-POSS 31|27|OBL 32|33|CC 33|27|CONJ 34|33|OBJ 35|37|CASE 36|37|AMOD 37|34|NMOD 38|3|PUNCT
+*PAR0:	&-um I like to volunteer in [/] in &-uh in [/] in organizations that help people to &-um improve their life . 75040_85890
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 part|to verb|volunteer-Inf-S adp|in adp|in noun|organization-Plur pron|that-Rel verb|help-Fin-Ind-Pres-P3 noun|person-Plur-Acc part|to verb|improve-Inf-S pron|their-Prs-Gen-P3 noun|life-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|9|NSUBJ 9|7|ACL-RELCL 10|9|OBJ 11|12|MARK 12|9|ADVCL 13|14|NMOD-POSS 14|12|OBJ 15|2|PUNCT
+*PAR0:	&-um &-uh me and my friends &-uh we like to cooperate together and [/] and &-uh &-uh to help each other to [/] to achieve our goals to be &-um to be an active people in their life . 87640_103430
+%mor:	pron|I-Prs-Acc-S1 cconj|and pron|my-Prs-Gen-S1 noun|friend-Plur pron|we-Prs-Nom-P1 verb|like-Fin-Ind-Pres-P1 part|to verb|cooperate-Inf-S adv|together cconj|and part|to verb|help-Inf-S det|each-Def-Rcp adj|other-S1 part|to verb|achieve-Inf-S pron|our-Prs-Gen-P1 noun|goal-Plur-Acc part|to aux|be-Inf-S part|to aux|be-Inf-S det|a-Ind-Art adj|active-S1 noun|person-Plur adp|in pron|their-Prs-Gen-P3 noun|life .
+%gra:	1|6|NSUBJ 2|4|CC 3|4|NMOD-POSS 4|1|CONJ 5|6|NSUBJ 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|8|ADVMOD 10|12|CC 11|12|MARK 12|8|CONJ 13|12|OBJ 14|13|FIXED 15|16|MARK 16|12|ADVCL 17|18|NMOD-POSS 18|16|OBJ 19|25|MARK 20|25|COP 21|25|MARK 22|25|COP 23|25|DET 24|25|AMOD 25|16|XCOMP 26|28|CASE 27|28|NMOD-POSS 28|25|NMOD 29|6|PUNCT
+*PAR0:	so we [/] we &-uh every time we [/] we visit like &-um &-uh communities &-uh that help people help &-uh &-uh . 107840_119450
+%mor:	adv|so pron|we-Prs-Nom-P1 det|every-Def-Tot noun|time pron|we-Prs-Nom-P1 verb|visit-Fin-Ind-Pres-P1 adp|like noun|community-Plur pron|that-Rel verb|help-Fin-Ind-Pres-P3 noun|person-Plur-Acc verb|help-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|DET 4|0|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|8|CASE 8|6|OBL 9|10|NSUBJ 10|8|ACL-RELCL 11|10|OBJ 12|10|XCOMP 13|4|PUNCT
+@End

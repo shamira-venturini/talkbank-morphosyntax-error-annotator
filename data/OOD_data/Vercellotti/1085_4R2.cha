@@ -1,0 +1,30 @@
+@UTF8
+@PID:	11312/t-00010142-1
+@Begin
+@Languages:	eng
+@Participants:	1085 Student
+@ID:	eng|Vercellotti|1085|||2||Student|level4||
+@Media:	1085_4R2, audio
+@Transcriber:	jms
+*1085:	if I study hard ah and &-uh paid attention in class I would get a good grades in my tests . 3383_13677
+%mor:	sconj|if pron|I-Prs-Nom-S1 verb|study-Fin-Ind-Pres-S1 adv|hard intj|ah cconj|and verb|pay-Fin-Ind-Past-S1-irr noun|attention-Acc adp|in noun|class pron|I-Prs-Nom-S1 aux|would-Fin-S verb|get-Inf-S det|a-Ind-Art adj|good-S1 noun|grade-Plur-Acc adp|in pron|my-Prs-Gen-S1 noun|test-Plur .
+%gra:	1|3|MARK 2|3|NSUBJ 3|13|ADVCL 4|3|ADVMOD 5|3|DISCOURSE 6|7|CC 7|3|CONJ 8|7|OBJ 9|10|CASE 10|7|OBL 11|13|NSUBJ 12|13|AUX 13|0|ROOT 14|16|DET 15|16|AMOD 16|13|OBJ 17|19|CASE 18|19|NMOD-POSS 19|13|OBL 20|13|PUNCT
+*1085:	if I had ah distributed time well I have time to study english and &-uh join with my friends to play . 15166_31235
+%mor:	sconj|if pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr intj|ah verb|distribute-Part-Past-S noun|time-Acc intj|well pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 noun|time-Acc part|to verb|study-Inf-S noun|English-Acc cconj|and verb|join-Inf-S adp|with pron|my-Prs-Gen-S1 noun|friend-Plur part|to verb|play-Inf-S .
+%gra:	1|3|MARK 2|3|NSUBJ 3|9|ADVCL 4|5|DISCOURSE 5|3|XCOMP 6|3|OBJ 7|9|DISCOURSE 8|9|NSUBJ 9|0|ROOT 10|9|OBJ 11|12|MARK 12|10|ACL 13|12|OBJ 14|15|CC 15|12|CONJ 16|18|CASE 17|18|NMOD-POSS 18|15|OBL 19|20|MARK 20|15|ADVCL 21|9|PUNCT
+*1085:	I should have start [//] &~t &~s &~stud studied hard english and &-uh paid attention in classes . 33034_45099
+%mor:	pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S verb|study-Part-Past-S adj|hard-S1 noun|English-Acc cconj|and verb|pay-Part-Past-S-irr noun|attention-Acc adp|in noun|class-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|8|CC 8|4|CONJ 9|8|OBJ 10|11|CASE 11|8|OBL 12|4|PUNCT
+*1085:	and ah I should have &-uh modified the [/] the m:ethods in studying english . 45729_60143
+%mor:	cconj|and intj|ah pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S verb|modify-Part-Past-S det|the-Def-Art noun|method-Plur-Acc sconj|in verb|study-Ger-S noun|English-Acc .
+%gra:	1|6|CC 2|6|DISCOURSE 3|6|NSUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|10|MARK 10|6|ADVCL 11|10|OBJ 12|6|PUNCT
+*1085:	if I had ah changed the method maybe [//] <I can> [//] I [//] &~k &-uh maybe I could get a good grades in the tes(t) . 60861_84585
+%mor:	sconj|if pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1-irr intj|ah verb|change-Part-Past-S det|the-Def-Art noun|method-Acc adv|maybe pron|I-Prs-Nom-S1 aux|could-Fin-S verb|get-Inf-S det|a-Ind-Art adj|good-S1 noun|grade-Plur-Acc adp|in det|the-Def-Art noun|test .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|AUX 4|5|DISCOURSE 5|11|ADVCL 6|7|DET 7|5|OBJ 8|11|ADVMOD 9|11|NSUBJ 10|11|AUX 11|0|ROOT 12|14|DET 13|14|AMOD 14|11|OBJ 15|17|CASE 16|17|DET 17|11|OBL 18|11|PUNCT
+*1085:	&-uh if I distributed the time well I [/] I [/] &~g &-uh <not only> [/] I not only have time to study english . 85049_105943
+%mor:	sconj|if pron|I-Prs-Nom-S1 verb|distribute-Fin-Ind-Past-S1 det|the-Def-Art noun|time-Acc intj|well pron|I-Prs-Nom-S1 part|not adv|only verb|have-Fin-Ind-Pres-S1 noun|time-Acc part|to verb|study-Inf-S noun|English-Acc .
+%gra:	1|3|MARK 2|3|NSUBJ 3|10|ADVCL 4|5|DET 5|3|OBJ 6|10|DISCOURSE 7|10|NSUBJ 8|10|ADVMOD 9|10|ADVMOD 10|0|ROOT 11|10|OBJ 12|13|MARK 13|11|ACL 14|13|OBJ 15|10|PUNCT
+*1085:	but also <I can't> [//] &-uh &~ha I could have time to played with my friends so &-uh . 107013_120191
+%mor:	cconj|but adv|also pron|I-Prs-Nom-S1 aux|could-Fin-S verb|have-Inf-S noun|time-Acc part|to verb|play-Inf-S adp|with pron|my-Prs-Gen-S1 noun|friend-Plur adv|so .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|MARK 8|6|ACL 9|11|CASE 10|11|NMOD-POSS 11|8|OBL 12|5|ADVMOD 13|5|PUNCT
+@End

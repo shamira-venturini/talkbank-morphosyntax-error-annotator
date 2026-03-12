@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/t-00010236-1
+@Begin
+@Languages:	eng
+@Participants:	1193 Student
+@ID:	eng|Vercellotti|1193|||1||Student|level4||
+@Media:	1193_4M1, audio
+@Transcriber:	jms
+*1193:	hi good morning .
+%mor:	intj|hi adj|good-S1 noun|morning-Ger .
+%gra:	1|3|DISCOURSE 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*1193:	I came from Jeddah in Saudi Arabia . 2575_10298
+%mor:	pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Past-S1-irr adp|from propn|Jeddah adp|in adj|Saudi-S1 propn|Arabia .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|7|CASE 6|7|AMOD 7|2|OBL 8|2|PUNCT
+*1193:	that city approximately: the same Pittsburgh in Pennsylvania state . 11098_21463
+%mor:	det|that-Def-Dem-Sing noun|city adv|approximately det|the-Def-Art adj|same-S1 propn|Pittsburgh adp|in propn|Pennsylvania noun|state .
+%gra:	1|2|DET 2|0|ROOT 3|6|ADVMOD 4|6|DET 5|6|AMOD 6|2|APPOS 7|9|CASE 8|9|COMPOUND 9|6|NMOD 10|2|PUNCT
+*1193:	so that is a big city .
+%mor:	adv|so pron|that-Dem aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|city .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*1193:	and we have &-uh a red sea and big mall and &-uh big building as approximately the same Pittsburgh because in Pittsburgh we have here &-uh two rivers or three rivers . 24350_46300
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art adj|red-S1 noun|sea-Acc cconj|and adj|big-S1 noun|mall cconj|and adj|big-S1 noun|building-Ger adp|as adv|approximately det|the-Def-Art adj|same-S1 propn|Pittsburgh sconj|because adp|in propn|Pittsburgh pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 adv|here num|two noun|river-Plur-Acc cconj|or num|three noun|river-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CC 8|9|AMOD 9|6|CONJ 10|12|CC 11|12|AMOD 12|6|CONJ 13|17|CASE 14|17|ADVMOD 15|17|DET 16|17|AMOD 17|3|OBL 18|22|MARK 19|20|CASE 20|22|OBL 21|22|NSUBJ 22|3|ADVCL 23|22|ADVMOD 24|25|NUMMOD 25|22|OBJ 26|28|CC 27|28|NUMMOD 28|25|CONJ 29|3|PUNCT
+*1193:	but &-uh in my city have the sea . 46498_49869
+%mor:	cconj|but adp|in pron|my-Prs-Gen-S1 noun|city verb|have-Fin-Ind-Pres-P3 det|the-Def-Art noun|sea-Acc .
+%gra:	1|5|CC 2|4|CASE 3|4|NMOD-POSS 4|5|OBL 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*1193:	I think that is the same . 51255_53650
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|same-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|COP 5|6|DET 6|2|CCOMP 7|2|PUNCT
+*1193:	and &-uh <we have> [//] &-uh <in my city> [//] or [/] &-uh or [//] &-uh <on my> [//] our city &-uh big street and &-uh tall light . 54049_68887
+%mor:	cconj|and pron|our-Prs-Gen-P1 noun|city adj|big-S1 noun|street cconj|and adj|tall-S1 noun|light .
+%gra:	1|5|CC 2|5|NMOD-POSS 3|5|COMPOUND 4|5|AMOD 5|0|ROOT 6|8|CC 7|8|AMOD 8|5|CONJ 9|5|PUNCT
+*1193:	I think the [//] <it is the> [/] &~bigs &-uh it is the biggest the same Pittsburgh . 70065_77927
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|big-Sup-S1 det|the-Def-Art adj|same-S1 propn|Pittsburgh .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|9|NSUBJ 4|9|COP 5|9|DET 6|9|AMOD 7|9|DET 8|9|AMOD 9|2|CCOMP 10|2|PUNCT
+*1193:	&-uh so the people &-uh there &-uh friendly . 78596_83791
+%mor:	adv|so det|the-Def-Art noun|person-Plur adv|there adj|friendly-S1 .
+%gra:	1|3|DISCOURSE 2|3|DET 3|0|ROOT 4|5|ADVMOD 5|3|AMOD 6|3|PUNCT
+*1193:	and &-uh them &-uh happy if &-uh them assist &-uh anybody come to my country . 84336_97831
+%mor:	cconj|and pron|they-Prs-Acc-P3 adj|happy-S1 sconj|if pron|they-Prs-Acc-P3 verb|assist-Fin-Ind-Pres-P3 pron|anybody-Ind-S1 verb|come-Inf-S adp|to pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|NSUBJ 6|3|ADVCL 7|6|OBJ 8|6|XCOMP 9|11|CASE 10|11|NMOD-POSS 11|8|OBL 12|3|PUNCT
+*1193:	&-uh so we have &-uh there <the big> [//] &-uh the bigges(t) two mosque <on the world on the> [/] on the world . 98194_110565
+%mor:	adv|so pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 adv|there det|the-Def-Art adj|big-Sup-S1 num|two noun|mosque-Acc adp|on det|the-Def-Art noun|world .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|8|DET 6|8|AMOD 7|8|NUMMOD 8|3|OBJ 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+*1193:	one is &-uh in Mecca another one and the Al Madinah . 111159_120191
+%mor:	num|one aux|be-Fin-Ind-Pres-S3 adp|in propn|Mecca det|another-Def-Ind noun|one cconj|and det|the-Def-Art propn|Al propn|Madinah .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|6|DET 6|4|OBL-UNMARKED 7|9|CC 8|9|DET 9|6|CONJ 10|9|FLAT 11|4|PUNCT
+@End

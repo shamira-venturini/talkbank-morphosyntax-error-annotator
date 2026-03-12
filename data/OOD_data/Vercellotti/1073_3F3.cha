@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/t-00010112-1
+@Begin
+@Languages:	eng
+@Participants:	1073 Student
+@ID:	eng|Vercellotti|1073|||3||Student|level4||
+@Media:	1073_3F3, audio
+@Transcriber:	jms
+*1073:	the topic is talk about a famous person whom you admire . 4907_6072
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|talk-Inf-S adp|about det|a-Ind-Art adj|famous-S1 noun|person pron|whom-Rel-S1 pron|you-Prs-Nom-S2 verb|admire-Fin-Ind-Pres-S2 .
+%gra:	1|2|DET 2|4|NSUBJ-OUTER 3|4|COP 4|0|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|11|OBJ 10|11|NSUBJ 11|8|ACL-RELCL 12|4|PUNCT
+*1073:	I admire my father because I respect him too much . 8499_13584
+%mor:	pron|I-Prs-Nom-S1 verb|admire-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|father-Acc sconj|because pron|I-Prs-Nom-S1 verb|respect-Fin-Ind-Pres-S1 pron|he-Prs-Acc-S3 adv|too adv|much .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|7|MARK 6|7|NSUBJ 7|2|ADVCL 8|7|OBJ 9|10|ADVMOD 10|7|ADVMOD 11|2|PUNCT
+*1073:	and he always encourage me and assist me and help me <if I have> [/] if [/] if I have any problems . 15596_24685
+%mor:	cconj|and pron|he-Prs-Nom-S3 adv|always verb|encourage-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 cconj|and verb|assist-Fin-Ind-Pres-P3 pron|I-Prs-Acc-S1 cconj|and verb|help-Fin-Ind-Pres-P3 pron|I-Prs-Acc-S1 sconj|if pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|any-Def-Ind noun|problem-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|CC 7|4|CONJ 8|7|OBJ 9|10|CC 10|7|CONJ 11|10|OBJ 12|14|MARK 13|14|NSUBJ 14|10|ADVCL 15|16|DET 16|14|OBJ 17|4|PUNCT
+*1073:	an(d) he is famous &-uh in my family [% 2 syllables] because <he's the> [/] he's the oldest in the &-uh family [% 3 syllables] . 24989_39801
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|famous-S1 adp|in pron|my-Prs-Gen-S1 noun|family sconj|because pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|old-Sup-S1 adp|in det|the-Def-Art noun|family .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|12|MARK 9|12|NSUBJ 10|12|COP 11|12|DET 12|4|ADVCL 13|15|CASE 14|15|DET 15|12|OBL 16|4|PUNCT
+*1073:	and we always all of us respect him because he have &-uh &~ex an [/] an experience in his life . 40743_50168
+%mor:	cconj|and pron|we-Prs-Nom-P1 adv|always det|all-Def-Tot adp|of pron|we-Prs-Acc-P1 verb|respect-Fin-Ind-Pres-P3 pron|he-Prs-Acc-S3 sconj|because pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|experience-Acc adp|in pron|his-Prs-Gen-S3 noun|life .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|ADVMOD 4|7|NSUBJ 5|6|CASE 6|4|NMOD 7|0|ROOT 8|7|OBJ 9|11|MARK 10|11|NSUBJ 11|7|ADVCL 12|13|DET 13|11|OBJ 14|16|CASE 15|16|NMOD-POSS 16|13|NMOD 17|7|PUNCT
+*1073:	and he's [//] he have &-um an experience in his life because that . 50649_60985
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|experience-Acc adp|in pron|his-Prs-Gen-S3 noun|life sconj|because pron|that-Dem .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|10|MARK 10|3|ADVCL 11|3|PUNCT
+*1073:	and he's good to &~h you talk with him if you have any problem . 61656_67364
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-S1 part|to pron|you-Prs-Nom-S2 verb|talk-Inf-S adp|with pron|he-Prs-Acc-S3 sconj|if pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 det|any-Def-Ind noun|problem-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|MARK 6|7|NSUBJ 7|4|ADVCL 8|9|CASE 9|7|OBL 10|12|MARK 11|12|NSUBJ 12|7|ADVCL 13|14|DET 14|12|OBJ 15|4|PUNCT
+*1073:	and he help you . 68668_70607
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|help-Fin-Ind-Pres-S3 pron|you-Prs-Acc-S2 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*1073:	because of that &~w &-uh I respect him an(d) I [/] I: admire him . 71383_78849
+%mor:	adp|because adp|of sconj|that pron|I-Prs-Nom-S1 verb|respect-Fin-Ind-Pres-S1 pron|he-Prs-Acc-S3 cconj|and pron|I-Prs-Nom-S1 verb|admire-Fin-Ind-Pres-S1 pron|he-Prs-Acc-S3 .
+%gra:	1|5|ADVMOD 2|1|FIXED 3|5|MARK 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|9|CC 8|9|NSUBJ 9|5|CONJ 10|9|OBJ 11|5|PUNCT
+*1073:	he always &-uh give me advice . 79709_82022
+%mor:	pron|he-Prs-Nom-S3 adv|always verb|give-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 noun|advice-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|IOBJ 5|3|OBJ 6|3|PUNCT
+*1073:	he always say to me do that or that . 84329_88347
+%mor:	pron|he-Prs-Nom-S3 adv|always verb|say-Fin-Ind-Pres-S3 adp|to pron|I-Prs-Acc-S1 verb|do-Inf-S pron|that-Dem cconj|or pron|that-Dem .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|XCOMP 7|6|OBJ 8|9|CC 9|7|CONJ 10|3|PUNCT
+*1073:	you know &~e I can say he know everything because he have experience [//] an experience in his life . 88884_94598
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 aux|can-Fin-S verb|say-Inf-S pron|he-Prs-Nom-S3 verb|know-Fin-Ind-Pres-S3 pron|everything-Tot-S1 sconj|because pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|experience-Acc adp|in pron|his-Prs-Gen-S3 noun|life .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|7|NSUBJ 7|5|CCOMP 8|7|OBJ 9|11|MARK 10|11|NSUBJ 11|7|ADVCL 12|13|DET 13|11|OBJ 14|16|CASE 15|16|NMOD-POSS 16|13|NMOD 17|2|PUNCT
+*1073:	that's good . 95370_97765
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*1073:	mm what does the person do now . 98404_99465
+%mor:	intj|mm pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|person verb|do-Inf-S adv|now .
+%gra:	1|6|DISCOURSE 2|6|OBJ 3|6|AUX 4|5|DET 5|6|NSUBJ 6|0|ROOT 7|6|ADVMOD 8|6|PUNCT
+*1073:	unfortunately he died before nine month ago . 102514_110336
+%mor:	adv|unfortunately pron|he-Prs-Nom-S3 verb|die-Fin-Ind-Past-S3 adp|before num|nine noun|month adv|ago .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|NUMMOD 6|3|OBL 7|3|ADVMOD 8|3|PUNCT
+*1073:	yeah &~he he have a &-uh heart attack jus(t) . 110993_120188
+%mor:	intj|yeah pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|heart noun|attack-Acc adv|just .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+@End

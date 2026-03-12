@@ -1,0 +1,56 @@
+@UTF8
+@PID:	11312/a-00062525-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1245_4R2, audio
+*PAR0:	the topic today is &-uh to do to describe a custom which we don't like it &-uh in our &-uh in my culture or in other and other culture . 400_13420
+%mor:	det|the-Def-Art noun|topic noun|today aux|be-Fin-Ind-Pres-S3 part|to verb|do-Inf-S part|to verb|describe-Inf-S det|a-Ind-Art noun|custom-Acc pron|which-Rel-S1 pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|like-Inf-S pron|it-Prs-Acc-S3 adp|in pron|our-Prs-Gen-P1 adp|in pron|my-Prs-Gen-S1 noun|culture cconj|or adp|in adj|other-S1 cconj|and adj|other-S1 noun|culture .
+%gra:	1|2|DET 2|6|NSUBJ-OUTER 3|2|NMOD-UNMARKED 4|6|COP 5|6|MARK 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|OBJ 11|15|OBJ 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|10|ACL-RELCL 16|15|OBJ 17|21|CASE 18|21|NMOD-POSS 19|21|CASE 20|21|NMOD-POSS 21|15|OBL 22|27|CC 23|27|CASE 24|27|AMOD 25|26|CC 26|24|CONJ 27|21|CONJ 28|6|PUNCT
+*PAR0:	I think about &-um &-uh &-uh the dealing with children &-uh in the Usa &-uh in our country . 15520_26170
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adp|about det|the-Def-Art noun|deal-Ger adp|with noun|child-Plur adp|in det|the-Def-Art propn|Usa adp|in pron|our-Prs-Gen-P1 noun|country .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|CASE 7|5|NMOD 8|10|CASE 9|10|DET 10|7|NMOD 11|13|CASE 12|13|NMOD-POSS 13|10|NMOD 14|2|PUNCT
+*PAR0:	it's &-uh it's okay . 26810_27110
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|5|NSUBJ-OUTER 2|5|COP 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR0:	and &-uh it's okay to kiss &-uh on check on children . 27110_28920
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 part|to verb|kiss-Inf-S adp|on noun|check adp|on noun|child-Plur .
+%gra:	1|4|CC 2|4|EXPL 3|4|COP 4|0|ROOT 5|6|MARK 6|4|CSUBJ 7|10|CASE 8|6|OBL 9|10|CASE 10|6|OBL 11|4|PUNCT
+*PAR0:	even if we don't know them . 35460_37540
+%mor:	adv|even sconj|if pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|know-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|6|ADVMOD 2|6|MARK 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR0:	if we saw any cue . 38880_40330
+%mor:	sconj|if pron|we-Prs-Nom-P1 verb|see-Fin-Ind-Past-P1-irr det|any-Def-Ind noun|cue-Acc .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR0:	if [/] if we see any cute &-uh child a child &-uh on the street we can say to him any cue towards . 40520_48640
+%mor:	sconj|if pron|we-Prs-Nom-P1 verb|see-Fin-Ind-Pres-P1 det|any-Def-Ind adj|cute-S1 noun|child-Acc det|a-Ind-Art noun|child-Acc adp|on det|the-Def-Art noun|street pron|we-Prs-Nom-P1 aux|can-Fin-S verb|say-Inf-S adp|to pron|he-Prs-Acc-S3 det|any-Def-Ind noun|cue-Acc adp|towards .
+%gra:	1|3|MARK 2|3|NSUBJ 3|14|ADVCL 4|6|DET 5|6|AMOD 6|3|OBJ 7|8|DET 8|3|OBJ 9|11|CASE 10|11|DET 11|8|NMOD 12|14|NSUBJ 13|14|AUX 14|0|ROOT 15|16|CASE 16|14|OBL 17|18|DET 18|14|OBJ 19|14|PUNCT 20|14|PUNCT
+*PAR0:	and &-um &-uh to pat on his head and [/] and on his head it's okay . 49800_57530
+%mor:	cconj|and part|to verb|pat-Inf-S adp|on pron|his-Prs-Gen-S3 noun|head cconj|and adp|on pron|his-Prs-Gen-S3 noun|head pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|3|CC 2|3|MARK 3|0|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|13|CC 8|10|CASE 9|10|NMOD-POSS 10|13|OBL 11|13|NSUBJ 12|13|COP 13|3|CONJ 14|3|PUNCT
+*PAR0:	but here in &-uh the Usa &-um it's &-uh it's clear to me that &-um &-um people doesn't &-uh don't like to touch their child . 57680_68250
+%mor:	cconj|but adv|here adp|in det|the-Def-Art propn|Usa pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|clear-S1 adp|to pron|I-Prs-Acc-S1 sconj|that noun|person-Plur aux|do-Fin-Ind-Pres-S3~part|not aux|do-Inf-S~part|not verb|like-Inf-S part|to verb|touch-Inf-S pron|their-Prs-Gen-P3 noun|child-Acc .
+%gra:	1|10|CC 2|10|ADVMOD 3|5|CASE 4|5|DET 5|2|OBL 6|10|EXPL 7|10|COP 8|10|EXPL 9|10|COP 10|0|ROOT 11|12|CASE 12|10|OBL 13|19|MARK 14|19|NSUBJ 15|19|AUX 16|19|ADVMOD 17|19|AUX 18|19|ADVMOD 19|10|CSUBJ 20|21|MARK 21|19|XCOMP 22|23|NMOD-POSS 23|21|OBJ 24|10|PUNCT
+*PAR0:	&-uh children . 72760_73230
+%mor:	noun|child-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and &-um &-uh if you do like that it demonstrate that you are not &-uh respect them or you want to [/] to do something bad to their children . 74120_89320
+%mor:	cconj|and sconj|if pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2 verb|like-Inf-S sconj|that pron|it-Prs-Nom-S3 verb|demonstrate-Fin-Ind-Pres-S3 sconj|that pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 part|not verb|respect-Inf-S pron|they-Prs-Acc-P3 cconj|or pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|do-Inf-S pron|something-Ind-S1 adj|bad-S1 adp|to pron|their-Prs-Gen-P3 noun|child-Plur .
+%gra:	1|17|CC 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|MARK 7|8|NSUBJ 8|5|CCOMP 9|13|MARK 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|8|CCOMP 14|13|OBJ 15|17|CC 16|17|NSUBJ 17|8|CONJ 18|19|MARK 19|17|XCOMP 20|19|OBJ 21|20|AMOD 22|24|CASE 23|24|NMOD-POSS 24|19|OBL 25|5|PUNCT
+*PAR0:	so here in &-uh and the Usa I don't like that . 90030_94690
+%mor:	adv|so adv|here adp|in cconj|and det|the-Def-Art propn|Usa pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S pron|that-Dem .
+%gra:	1|2|ADVMOD 2|10|ADVMOD 3|2|OBL 4|6|CC 5|6|DET 6|2|CONJ 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|0|ROOT 11|10|OBJ 12|10|PUNCT
+*PAR0:	&-uh we must &-uh be &-uh away from children . 95560_100720
+%mor:	pron|we-Prs-Nom-P1 aux|must-Fin-S aux|be-Inf-S adv|away adp|from noun|child-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*PAR0:	and we can't &-uh touch them or &-uh kiss them on check or &-um even their parents &-uh don't do that . 102360_113760
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|can-Fin-S~part|not verb|touch-Inf-S pron|they-Prs-Acc-P3 cconj|or verb|kiss-Inf-S pron|they-Prs-Acc-P3 adp|on noun|check cconj|or adv|even pron|their-Prs-Gen-P3 noun|parent-Plur aux|do-Fin-Ind-Pres-P3~part|not verb|do-Inf-S pron|that-Dem .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|8|CC 8|5|CONJ 9|8|OBJ 10|11|CASE 11|8|OBL 12|18|CC 13|18|ADVMOD 14|15|NMOD-POSS 15|18|NSUBJ 16|18|AUX 17|18|ADVMOD 18|5|CONJ 19|18|OBJ 20|5|PUNCT
+*PAR0:	I'm not sure about that . 115360_116400
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|sure-S1 adp|about pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*PAR0:	but I think that &-uh many parents &-uh . 116800_119640
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|that adj|many-S1 noun|parent-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|AMOD 6|3|CCOMP 7|3|PUNCT
+@End

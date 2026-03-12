@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/t-00010253-1
+@Begin
+@Languages:	eng
+@Participants:	1214 Student
+@ID:	eng|Vercellotti|1214|||2||Student|level3||
+@Media:	1214_3F2, audio
+@Transcriber:	jms
+*1214:	&-uh &~i the topic is talk about a day when someone or something surprised you . 1306_8849
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|talk-Inf-S adp|about det|a-Ind-Art noun|day adv|when pron|someone-Ind-S1 cconj|or pron|something-Ind-S1 verb|surprise-Part-Past-S pron|you-Prs-Acc-S2 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|12|ADVMOD 9|12|NSUBJ-PASS 10|11|CC 11|9|CONJ 12|7|ACL 13|12|OBJ 14|4|PUNCT
+*1214:	m:y friend when he go to &-uh Australia <he went to me> [///] when he back he went to me . 9901_21828
+%mor:	pron|my-Prs-Gen-S1 noun|friend adv|when pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Pres-S3 adp|to propn|Australia adv|when pron|he-Prs-Nom-S3 adv|back pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|2|NMOD-POSS 2|12|NSUBJ 3|5|ADVMOD 4|5|NSUBJ 5|12|ADVCL 6|7|CASE 7|5|OBL 8|10|ADVMOD 9|10|NSUBJ 10|5|ADVMOD 11|12|NSUBJ 12|0|ROOT 13|14|CASE 14|12|OBL 15|12|PUNCT
+*1214:	&-uh and I &-uh saw him . 22220_24664
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Past-S1-irr pron|he-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*1214:	and &-uh &-uh &~m when I saw him in the mosque <and I> [///] &-uh she saw him abnormal . 24969_42028
+%mor:	cconj|and adv|when pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Past-S1-irr pron|he-Prs-Acc-S3 adp|in det|the-Def-Art noun|mosque pron|she-Prs-Nom-S3 verb|see-Fin-Ind-Past-S3-irr pron|he-Prs-Acc-S3 adj|abnormal-S1 .
+%gra:	1|10|CC 2|4|ADVMOD 3|4|NSUBJ 4|10|ADVCL 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|10|NSUBJ 10|0|ROOT 11|10|OBJ 12|10|XCOMP 13|10|PUNCT
+*1214:	&-uh after that we went to &~th a restaurant <to eat> [//] to ate ah dinner . 42769_56754
+%mor:	adp|after pron|that-Dem pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr adp|to det|a-Ind-Art noun|restaurant part|to verb|eat-Inf-S intj|ah noun|dinner-Acc .
+%gra:	1|2|CASE 2|4|OBL 3|4|NSUBJ 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|MARK 9|4|ADVCL 10|11|DISCOURSE 11|9|OBJ 12|4|PUNCT
+*1214:	&~i and &-uh we &-uh ate the similar &-uh food in the similar food &-uh &~s &-uh to my home . 57477_74375
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|eat-Fin-Ind-Past-P1-irr det|the-Def-Art adj|similar-S1 noun|food-Acc adp|in det|the-Def-Art adj|similar-S1 noun|food adp|to pron|my-Prs-Gen-S1 noun|home .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|10|CASE 8|10|DET 9|10|AMOD 10|3|OBL 11|13|CASE 12|13|NMOD-POSS 13|10|NMOD 14|3|PUNCT
+*1214:	and we [//] see [//] &-uh <and we went> [//] after that we went to the: house to &-uh see [//] &-uh saw another ah friends and make &-uh the coffee and tea . 75139_94412
+%mor:	cconj|and adp|after sconj|that pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr adp|to det|the-Def-Art noun|house part|to verb|see-Inf-Past-S-irr det|another-Def-Ind intj|ah noun|friend-Plur-Acc cconj|and verb|make-Fin-Ind-Pres-P1 det|the-Def-Art noun|coffee-Acc cconj|and noun|tea .
+%gra:	1|5|CC 2|3|CASE 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|MARK 10|5|ADVCL 11|13|DET 12|13|DISCOURSE 13|10|OBJ 14|15|CC 15|10|CONJ 16|17|DET 17|15|OBJ 18|19|CC 19|17|CONJ 20|5|PUNCT
+*1214:	and after that we will done . 95879_120191
+%mor:	cconj|and adp|after sconj|that pron|we-Prs-Nom-P1 aux|will-Fin-S verb|do-Inf-S .
+%gra:	1|6|CC 2|3|CASE 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+@End

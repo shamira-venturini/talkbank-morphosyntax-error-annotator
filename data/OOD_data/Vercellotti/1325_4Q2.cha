@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/a-00062577-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1325_4Q2, audio
+*PAR0:	my topic is &-uh describe a job that I would love to have . 1100_5730
+%mor:	pron|my-Prs-Gen-S1 noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S det|a-Ind-Art noun|job-Acc pron|that-Rel pron|I-Prs-Nom-S1 aux|would-Fin-S verb|love-Inf-S part|to verb|have-Inf-S .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ-OUTER 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|12|OBJ 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|12|MARK 12|10|XCOMP 13|4|PUNCT
+*PAR0:	&-uh the [/] the job which I &-uh love to have is &-uh a doctor in a hospital which is &-uh which was my job in my country . 8610_17720
+%mor:	det|the-Def-Art noun|job pron|which-Rel-S1 pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 part|to verb|have-Inf-S aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|doctor adp|in det|a-Ind-Art noun|hospital pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 pron|which-Rel-S1 aux|be-Fin-Ind-Past-S3-irr pron|my-Prs-Gen-S1 noun|job adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|2|DET 2|10|NSUBJ 3|7|OBJ 4|5|NSUBJ 5|2|ACL-RELCL 6|7|MARK 7|5|XCOMP 8|10|COP 9|10|DET 10|0|ROOT 11|13|CASE 12|13|DET 13|10|NMOD 14|19|NSUBJ 15|19|COP 16|19|NSUBJ 17|19|COP 18|19|NMOD-POSS 19|13|ACL-RELCL 20|22|CASE 21|22|NMOD-POSS 22|19|OBL 23|10|PUNCT
+*PAR0:	I was a surgeon . 19100_20080
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|surgeon .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR0:	I really &-uh love this job . 21180_23410
+%mor:	pron|I-Prs-Nom-S1 adv|really verb|love-Fin-Ind-Pres-S1 det|this-Def-Dem-Sing noun|job-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR0:	and &-uh I interesting in doing &-uh many operations &-uh and many &-uh help to the people . 24600_35810
+%mor:	cconj|and pron|I-Prs-Nom-S1 adj|interesting-S1 sconj|in verb|do-Part-Pres-S adj|many-S1 noun|operation-Plur-Acc cconj|and adj|many-S1 noun|help adp|to det|the-Def-Art noun|person-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|ADVCL 6|7|AMOD 7|5|OBJ 8|10|CC 9|10|AMOD 10|7|CONJ 11|13|CASE 12|13|DET 13|10|NMOD 14|3|PUNCT
+*PAR0:	so &-uh my job in one side is interested and in another side &-uh is stressful and &-uh difficult because &-uh when I [/] I am in duty I've &-um I face a lot of problems . 37080_51780
+%mor:	adv|so pron|my-Prs-Gen-S1 noun|job adp|in num|one noun|side aux|be-Fin-Ind-Pres-S3 adj|interested-S1 cconj|and adp|in det|another-Def-Ind noun|side aux|be-Fin-Ind-Pres-S3 adj|stressful-S1 cconj|and adj|difficult-S1 sconj|because adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 adp|in noun|duty pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|face-Inf-S det|a-Ind-Art noun|lot-Acc adp|of noun|problem-Plur .
+%gra:	1|8|ADVMOD 2|3|NMOD-POSS 3|8|NSUBJ 4|6|CASE 5|6|NUMMOD 6|3|NMOD 7|8|COP 8|0|ROOT 9|14|CC 10|12|CASE 11|12|DET 12|14|OBL 13|14|COP 14|8|CONJ 15|16|CC 16|14|CONJ 17|26|MARK 18|22|ADVMOD 19|22|NSUBJ 20|22|COP 21|22|CASE 22|26|ADVCL 23|26|NSUBJ 24|26|AUX 25|26|NSUBJ 26|8|ADVCL 27|28|DET 28|26|OBJ 29|30|CASE 30|28|NMOD 31|8|PUNCT
+*PAR0:	a lot of difficult situation . 55340_57200
+%mor:	det|a-Ind-Art noun|lot adp|of adj|difficult-S1 noun|situation .
+%gra:	1|2|DET 2|0|ROOT 3|5|CASE 4|5|AMOD 5|2|NMOD 6|2|PUNCT
+*PAR0:	and &-uh I must deal with that . 58440_61050
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|must-Fin-S verb|deal-Inf-S adp|with pron|that-Dem .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*PAR0:	&-uh sometimes &-uh when I am alone it is difficult to deal with these problems . 61400_67010
+%mor:	adv|sometimes adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 adj|alone-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|difficult-S1 part|to verb|deal-Inf-S adp|with det|this-Def-Dem-Plur noun|problem-Plur .
+%gra:	1|8|ADVMOD 2|5|ADVMOD 3|5|NSUBJ 4|5|COP 5|8|ADVCL 6|8|EXPL 7|8|COP 8|0|ROOT 9|10|MARK 10|8|CSUBJ 11|13|CASE 12|13|DET 13|10|OBL 14|8|PUNCT
+*PAR0:	so &-uh &-uh despite it is nice job it is &-uh it have a lot of &-uh a lot of difficult situation . 68200_78960
+%mor:	adv|so sconj|despite pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|nice-S1 noun|job pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|lot-Acc adp|of det|a-Ind-Art noun|lot adp|of adj|difficult-S1 noun|situation .
+%gra:	1|10|ADVMOD 2|6|MARK 3|6|NSUBJ 4|6|COP 5|6|AMOD 6|10|ADVCL 7|6|NSUBJ 8|10|COP 9|10|NSUBJ 10|0|ROOT 11|12|DET 12|10|OBJ 13|15|CASE 14|15|DET 15|12|NMOD 16|18|CASE 17|18|AMOD 18|15|NMOD 19|10|PUNCT
+*PAR0:	&-uh sometimes I have to &-uh &-uh receive &-uh multiple accident and &-uh accident and &-uh multiple injured patient and &-uh patient who needs operation urgent operations . 80120_95400
+%mor:	adv|sometimes pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|receive-Inf-S adj|multiple-S1 noun|accident-Acc cconj|and noun|accident cconj|and adj|multiple-S1 adj|injured-S1 noun|patient cconj|and noun|patient pron|who-Rel verb|need-Fin-Ind-Pres-S3 noun|operation adj|urgent-S1 noun|operation-Plur-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|AMOD 7|5|OBJ 8|9|CC 9|7|CONJ 10|13|CC 11|13|AMOD 12|13|AMOD 13|7|CONJ 14|15|CC 15|13|CONJ 16|17|NSUBJ 17|13|ACL-RELCL 18|19|COMPOUND 19|20|AMOD 20|17|OBJ 21|3|PUNCT
+*PAR0:	so &-um sometimes I &-uh really confused and &-uh under stressful condition I try to deal with that . 97280_107720
+%mor:	adv|so adv|sometimes pron|I-Prs-Nom-S1 adv|really verb|confuse-Fin-Ind-Past-S1 cconj|and adp|under adj|stressful-S1 noun|condition pron|I-Prs-Nom-S1 verb|try-Fin-Ind-Pres-S1 part|to verb|deal-Inf-S adp|with pron|that-Dem .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|11|CC 7|9|CASE 8|9|AMOD 9|11|OBL 10|11|NSUBJ 11|5|CONJ 12|13|MARK 13|11|XCOMP 14|15|CASE 15|13|OBL 16|5|PUNCT
+*PAR0:	but in another side it's a nice job . 108000_110600
+%mor:	cconj|but adp|in det|another-Def-Ind noun|side pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|nice-S1 noun|job .
+%gra:	1|9|CC 2|4|CASE 3|4|DET 4|9|OBL 5|9|NSUBJ 6|9|COP 7|9|DET 8|9|AMOD 9|0|ROOT 10|9|PUNCT
+*PAR0:	I like it very much . 110780_111920
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 adv|very adv|much .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|ADVMOD 5|2|ADVMOD 6|2|PUNCT
+*PAR0:	I interesting in fine work by suturing and &-uh helping the patient all over . 112900_119200
+%mor:	pron|I-Prs-Nom-S1 adj|interesting-S1 adp|in adj|fine-S1 noun|work sconj|by verb|suture-Part-Pres-S cconj|and verb|help-Part-Pres-S det|the-Def-Art noun|patient-Acc det|all-Def-Tot adv|over .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|AMOD 5|2|OBL 6|7|MARK 7|2|ADVCL 8|9|CC 9|7|CONJ 10|11|DET 11|9|OBJ 12|11|DET 13|9|ADVMOD 14|2|PUNCT
+@End

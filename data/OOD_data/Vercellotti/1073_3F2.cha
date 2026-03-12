@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/t-00010111-1
+@Begin
+@Languages:	eng
+@Participants:	1073 Student
+@ID:	eng|Vercellotti|1073|||2||Student|level4||
+@Media:	1073_3F2, audio
+@Transcriber:	jms
+*1073:	the topic is compare the transportation in your country <to the> [/] &~desporata <to to the> [/] &~ta to the transportation in Pittsburgh . 5828_10417
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|compare-Inf-S det|the-Def-Art noun|transportation-Acc adp|in pron|your-Prs-Gen-S2 noun|country adp|to det|the-Def-Art noun|transportation adp|in propn|Pittsburgh .
+%gra:	1|2|DET 2|4|NSUBJ-OUTER 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|12|CASE 11|12|DET 12|4|OBL 13|14|CASE 14|12|NMOD 15|4|PUNCT
+*1073:	my country we have a lot of cars . 12386_13452
+%mor:	pron|my-Prs-Gen-S1 noun|country pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|lot-Acc adp|of noun|car-Plur .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|4|PUNCT
+*1073:	&-uh but <we didn't have> [/] we didn't have ah buses . 13697_17381
+%mor:	cconj|but pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Past-P1-irr~part|not verb|have-Inf-S intj|ah noun|bus-Plur-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|DISCOURSE 7|5|OBJ 8|5|PUNCT
+*1073:	we have ah buses .
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 intj|ah noun|bus-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DISCOURSE 4|2|OBJ 5|2|PUNCT
+*1073:	but it's few no(t) comparing here in Pittsburgh we have a lot of buses . 19082_25548
+%mor:	cconj|but pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|few-S1 part|not verb|compare-Part-Pres-S adv|here adp|in propn|Pittsburgh pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|lot-Acc adp|of noun|bus-Plur .
+%gra:	1|6|CC 2|6|NSUBJ-OUTER 3|6|COP 4|6|NSUBJ 5|6|ADVMOD 6|0|ROOT 7|6|ADVMOD 8|9|CASE 9|6|OBL 10|11|NSUBJ 11|6|PARATAXIS 12|13|DET 13|11|OBJ 14|15|CASE 15|13|NMOD 16|6|PUNCT
+*1073:	&-uh &-uh the streets in my country is: &-uh big . 26292_34268
+%mor:	det|the-Def-Art noun|street-Plur adp|in pron|my-Prs-Gen-S1 noun|country aux|be-Fin-Ind-Pres-S3 adj|big-S1 .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|7|COP 7|0|ROOT 8|7|PUNCT
+*1073:	an(d) [//] but here in Pittsburgh it's narrow . 34722_38340
+%mor:	cconj|but adv|here adp|in propn|Pittsburgh pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|narrow-S1 .
+%gra:	1|7|CC 2|7|ADVMOD 3|4|CASE 4|2|OBL 5|7|NSUBJ 6|7|COP 7|0|ROOT 8|7|PUNCT
+*1073:	mm I: think &-uh if we have more buses in my home it's good for environment . 38994_51468
+%mor:	intj|mm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|if pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 adj|more-Cmp-S1 noun|bus-Plur-Acc adp|in pron|my-Prs-Gen-S1 noun|home pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-S1 adp|for noun|environment .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|NSUBJ 6|14|ADVCL 7|8|AMOD 8|6|OBJ 9|11|CASE 10|11|NMOD-POSS 11|8|NMOD 12|14|NSUBJ 13|14|COP 14|3|CCOMP 15|16|CASE 16|14|OBL 17|3|PUNCT
+*1073:	mm <the traffic in my home> [//] &-uh there's a lot of traffic in my home comparing here in Pittsburgh . 52209_64362
+%mor:	intj|mm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of noun|traffic adp|in pron|my-Prs-Gen-S1 noun|home verb|compare-Part-S adv|here adp|in propn|Pittsburgh .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|3|ADVCL 12|11|ADVMOD 13|14|CASE 14|11|OBL 15|3|PUNCT
+*1073:	&-uh here [/] here in Pittsburgh &-uh we have subways [//] a lot of &~s: subways and taxis and cabs here in Pittsburgh comparin(g) my home . 65175_86549
+%mor:	adv|here adp|in propn|Pittsburgh pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|lot-Acc adp|of noun|subway-Plur cconj|and noun|taxi-Plur cconj|and noun|cab-Plur adv|here adp|in propn|Pittsburgh verb|compare-Part-Pres-S pron|my-Prs-Gen-S1 noun|home-Acc .
+%gra:	1|5|ADVMOD 2|3|CASE 3|1|OBL 4|5|NSUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|11|CC 11|9|CONJ 12|13|CC 13|9|CONJ 14|13|ADVMOD 15|16|CASE 16|14|OBL 17|5|ADVCL 18|19|NMOD-POSS 19|17|OBJ 20|5|PUNCT
+*1073:	&-um I thin^k maybe it's because the [///] they [//] I don'(t) know . 87417_97991
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adv|maybe pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 sconj|because pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|ADVMOD 4|5|NSUBJ 5|10|COP 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|2|CCOMP 11|2|PUNCT
+*1073:	maybe we should &-uh tried &-uh take buses in my home . 98678_113292
+%mor:	adv|maybe pron|we-Prs-Nom-P1 aux|should-Fin-S verb|try-Inf-S verb|take-Inf-S noun|bus-Plur-Acc adp|in pron|my-Prs-Gen-S1 noun|home .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|XCOMP 6|5|OBJ 7|9|CASE 8|9|NMOD-POSS 9|5|OBL 10|4|PUNCT
+*1073:	I think it's appropriate we: . 113893_120191
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|appropriate-S1 pron|we-Prs-Nom-P1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|5|NSUBJ 7|2|PUNCT
+@End

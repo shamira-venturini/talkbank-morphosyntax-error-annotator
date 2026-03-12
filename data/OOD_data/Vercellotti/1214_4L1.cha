@@ -1,0 +1,35 @@
+@UTF8
+@PID:	11312/a-00062521-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1214_4L1, audio
+*PAR0:	describe the city that the topic is . 820_3330
+%mor:	verb|describe-Fin-Imp-S det|the-Def-Art noun|city-Acc pron|that-Rel det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|7|OBJ 5|6|DET 6|4|NSUBJ 7|3|ACL-RELCL 8|1|PUNCT
+*PAR0:	describe the city . 3740_4440
+%mor:	verb|describe-Fin-Imp-S det|the-Def-Art noun|city-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR0:	I come from . 5100_5690
+%mor:	pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|CASE 4|2|PUNCT
+*PAR0:	I come from Rial &-uh Rial is a capital city in Saudi Arabia Rial is a big city in Saudi Arabia it's like a New York City in United State &-uh it had &-uh a lo a lot of park . 7060_29080
+%mor:	pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from propn|Rial propn|Rial aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|capital noun|city adp|in adj|Saudi-S1 propn|Arabia propn|Rial aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|city adp|in adj|Saudi-S1 propn|Arabia pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art adj|New-S1 propn|York propn|City adp|in verb|Unite-Part-Past-S propn|State pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|lo-Acc det|a-Ind-Art noun|lot-Acc adp|of noun|park .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|4|FLAT 6|9|COP 7|9|DET 8|9|COMPOUND 9|2|ADVCL 10|12|CASE 11|12|AMOD 12|9|NMOD 13|17|NSUBJ 14|17|COP 15|17|DET 16|17|AMOD 17|9|PARATAXIS 18|20|CASE 19|20|AMOD 20|17|NMOD 21|27|NSUBJ 22|27|COP 23|27|CASE 24|27|DET 25|26|AMOD 26|27|COMPOUND 27|17|PARATAXIS 28|30|CASE 29|30|AMOD 30|27|NMOD 31|32|NSUBJ 32|27|PARATAXIS 33|36|DET 34|32|OBJ 35|36|DET 36|32|OBJ 37|38|CASE 38|36|NMOD 39|2|PUNCT
+*PAR0:	and &-uh &-uh it has &-um a good &-uh street and &-uh a lot of tall building . 29640_40510
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-S1 noun|street-Acc cconj|and det|a-Ind-Art noun|lot adp|of adj|tall-S1 noun|building-Ger .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CC 8|9|DET 9|6|CONJ 10|12|CASE 11|12|AMOD 12|9|NMOD 13|3|PUNCT
+*PAR0:	and &-uh and &-uh &-uh there ar around this &-uh a [/] a nice dessert . 47120_57740
+%mor:	cconj|and cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adp|around pron|this-Dem-S1 det|a-Ind-Art adj|nice-S1 noun|dessert .
+%gra:	1|4|CC 2|4|CC 3|4|EXPL 4|0|ROOT 5|6|CASE 6|4|OBL 7|9|DET 8|9|AMOD 9|4|NSUBJ 10|4|PUNCT
+*PAR0:	&-uh we &-uh we are going &-uh we are going to in &-uh winter . 61680_68000
+%mor:	pron|we-Prs-Nom-P1 pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 verb|go-Part-Pres-S pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 verb|go-Part-Pres-S part|to adp|in noun|winter .
+%gra:	1|4|VOCATIVE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|7|XCOMP 9|10|CASE 10|7|OBL 11|4|PUNCT
+*PAR0:	&-uh &-uh and &-uh &-uh we have &-uh &-uh a nice &-uh a nice this is real . 69280_79320
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art adj|nice-S1 det|a-Ind-Art adj|nice-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|real-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|DET 7|3|OBJ 8|10|NSUBJ 9|10|COP 10|3|PARATAXIS 11|3|PUNCT
+*PAR0:	this is &-uh is my as a city I come from . 100250_104160
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 adp|as det|a-Ind-Art noun|city pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from .
+%gra:	1|7|NSUBJ 2|7|COP 3|7|COP 4|7|NMOD-POSS 5|7|CASE 6|7|DET 7|0|ROOT 8|9|NSUBJ 9|7|ACL-RELCL 10|9|OBL 11|7|PUNCT
+@End

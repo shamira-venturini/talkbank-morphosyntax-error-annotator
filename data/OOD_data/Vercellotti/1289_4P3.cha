@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/a-00062557-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1289_4P3, audio
+*PAR0:	&-uh today I want to talk about a famous person from my country . 960_4960
+%mor:	noun|today pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|talk-Inf-S adp|about det|a-Ind-Art adj|famous-S1 noun|person adp|from pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|3|OBL-UNMARKED 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|12|CASE 11|12|NMOD-POSS 12|9|NMOD 13|3|PUNCT
+*PAR0:	&-uh she is &-uh she was a kindergarten school &-uh teacher . 5680_11110
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|kindergarten noun|school noun|teacher .
+%gra:	1|8|NSUBJ 2|8|COP 3|8|NSUBJ 4|8|COP 5|8|DET 6|8|COMPOUND 7|8|COMPOUND 8|0|ROOT 9|8|PUNCT
+*PAR0:	and &-uh now she wa she is not &-uh here now . 12720_17000
+%mor:	cconj|and adv|now pron|she-Prs-Nom-S3 aux|wa-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 part|not adv|here adv|now .
+%gra:	1|8|CC 2|8|ADVMOD 3|8|NSUBJ 4|8|REPARANDUM 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|0|ROOT 9|8|ADVMOD 10|8|PUNCT
+*PAR0:	but &-uh she built a model of a teacher and an educator . 19840_26320
+%mor:	cconj|but pron|she-Prs-Nom-S3 verb|build-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|model-Acc adp|of det|a-Ind-Art noun|teacher cconj|and det|a-Ind-Art noun|educator .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|11|CC 10|11|DET 11|8|CONJ 12|3|PUNCT
+*PAR0:	she sacrificed her life to help &-um kindergarten children to get out of the fire . 29320_38920
+%mor:	pron|she-Prs-Nom-S3 verb|sacrifice-Fin-Ind-Past-S3 pron|her-Prs-Gen-S3 noun|life-Acc part|to verb|help-Inf-S noun|kindergarten noun|child-Plur-Acc part|to verb|get-Inf-S adp|out adp|of det|the-Def-Art noun|fire .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|6|MARK 6|2|ADVCL 7|8|COMPOUND 8|6|OBJ 9|10|MARK 10|6|ADVCL 11|14|CASE 12|14|CASE 13|14|DET 14|10|OBL 15|2|PUNCT
+*PAR0:	about &-uh twelve years ago there was a accident happen in &-uh kindergarten children . 40030_50360
+%mor:	adv|about num|twelve noun|year-Plur adv|ago pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|accident verb|happen-Inf-S adp|in noun|kindergarten noun|child-Plur .
+%gra:	1|2|ADVMOD 2|3|NUMMOD 3|4|OBL-UNMARKED 4|6|ADVMOD 5|6|EXPL 6|0|ROOT 7|8|DET 8|6|NSUBJ 9|8|ACL 10|12|CASE 11|12|COMPOUND 12|9|OBL 13|6|PUNCT
+*PAR0:	a bus which is full of kindergarten children &-uh on the way to a trip . 51690_58950
+%mor:	det|a-Ind-Art noun|bus pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adj|full-S1 adp|of noun|kindergarten noun|child-Plur adp|on det|the-Def-Art noun|way adp|to det|a-Ind-Art noun|trip .
+%gra:	1|2|DET 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|ACL-RELCL 6|8|CASE 7|8|COMPOUND 8|5|OBL 9|11|CASE 10|11|DET 11|5|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|2|PUNCT
+*PAR0:	unfortunately &-um the bus &-uh was certainly in a fire . 60030_68120
+%mor:	adv|unfortunately det|the-Def-Art noun|bus aux|be-Fin-Ind-Past-S3-irr adv|certainly adp|in det|a-Ind-Art noun|fire .
+%gra:	1|8|ADVMOD 2|3|DET 3|8|NSUBJ 4|8|COP 5|8|ADVMOD 6|8|CASE 7|8|DET 8|0|ROOT 9|8|PUNCT
+*PAR0:	and &-um many kindergarten children and the teachers was &-uh was in the fire . 69320_78360
+%mor:	cconj|and adj|many-S1 noun|kindergarten noun|child-Plur cconj|and det|the-Def-Art noun|teacher-Plur aux|be-Fin-Ind-Past-S3-irr aux|be-Fin-Ind-Past-S3-irr adp|in det|the-Def-Art noun|fire .
+%gra:	1|12|CC 2|4|AMOD 3|4|COMPOUND 4|12|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|12|COP 9|12|COP 10|12|CASE 11|12|DET 12|0|ROOT 13|12|PUNCT
+*PAR0:	&-uh one of the teacher who is called Jeanine he want <she she> [/] she wanted to she wanted to help more children to keep their life . 79360_93650
+%mor:	num|one adp|of det|the-Def-Art noun|teacher pron|who-Rel aux|be-Fin-Ind-Pres-S3 verb|call-Part-Past-S propn|Jeanine pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|want-Fin-Ind-Past-S3 part|to pron|she-Prs-Nom-S3 verb|want-Fin-Ind-Past-S3 part|to verb|help-Inf-S adj|more-Cmp-S1 noun|child-Plur-Acc part|to verb|keep-Inf-S pron|their-Prs-Gen-P3 noun|life-Acc .
+%gra:	1|12|NSUBJ 2|4|CASE 3|4|DET 4|1|NMOD 5|7|NSUBJ-PASS 6|7|AUX-PASS 7|4|ACL-RELCL 8|7|XCOMP 9|10|NSUBJ 10|0|ROOT 11|12|NSUBJ 12|10|CCOMP 13|15|MARK 14|15|NSUBJ 15|12|CCOMP 16|17|MARK 17|15|XCOMP 18|19|AMOD 19|17|OBJ 20|21|MARK 21|17|ADVCL 22|23|NMOD-POSS 23|21|OBJ 24|10|PUNCT
+*PAR0:	so she sacrificed her life and &-uh hope and &-uh guided more children to get out of fire . 95440_105720
+%mor:	adv|so pron|she-Prs-Nom-S3 verb|sacrifice-Fin-Ind-Past-S3 pron|her-Prs-Gen-S3 noun|life-Acc cconj|and noun|hope cconj|and verb|guide-Fin-Ind-Past-S3 adj|more-Cmp-S1 noun|child-Plur-Acc part|to verb|get-Inf-S adp|out adp|of noun|fire .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|7|CC 7|5|CONJ 8|9|CC 9|3|CONJ 10|11|AMOD 11|9|OBJ 12|13|MARK 13|9|ADVCL 14|16|CASE 15|16|CASE 16|13|OBL 17|3|PUNCT
+*PAR0:	but &-uh Unf but &-uh unfortunately he didn't achieve to help all the children to get a fire . 106640_115080
+%mor:	cconj|but propn|Unf cconj|but adv|unfortunately pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|achieve-Inf-S part|to verb|help-Inf-S det|all-Def-Tot det|the-Def-Art noun|child-Plur-Acc part|to verb|get-Inf-S det|a-Ind-Art noun|fire-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|8|CC 4|8|ADVMOD 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|2|CONJ 9|10|MARK 10|8|XCOMP 11|13|DET-PREDET 12|13|DET 13|10|OBJ 14|15|MARK 15|10|ADVCL 16|17|DET 17|15|OBJ 18|2|PUNCT
+*PAR0:	but &-uh she saved some children's life . 116180_119610
+%mor:	cconj|but pron|she-Prs-Nom-S3 verb|save-Fin-Ind-Past-S3 det|some-Def-Ind noun|child-Plur~part|s noun|life-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|7|NMOD-POSS 6|5|CASE 7|3|OBJ 8|3|PUNCT
+@End

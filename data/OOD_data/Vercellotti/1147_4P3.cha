@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/t-00010161-1
+@Begin
+@Languages:	eng
+@Participants:	1147 Student
+@ID:	eng|Vercellotti|1147|||3||Student|level4||
+@Media:	1147_4P3, audio
+@Transcriber:	jms
+*1147:	hello &-uh <the my topic is or> [//] the topic is to talk about famous &~m person from the past . 3001_11497
+%mor:	intj|hello det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 part|to verb|talk-Inf-S adp|about adj|famous-S1 noun|person adp|from det|the-Def-Art noun|past .
+%gra:	1|6|DISCOURSE 2|3|DET 3|6|NSUBJ-OUTER 4|6|COP 5|6|MARK 6|0|ROOT 7|9|CASE 8|9|AMOD 9|6|OBL 10|12|CASE 11|12|DET 12|9|NMOD 13|6|PUNCT
+*1147:	<I would like to talk> [//] to [//] I would like to demonstrate &-uh king Fahad . 13064_19428
+%mor:	pron|I-Prs-Nom-S1 aux|would-Fin-S verb|like-Inf-S part|to verb|demonstrate-Inf-S noun|king-Ger propn|Fahad-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|COMPOUND 7|5|OBJ 8|3|PUNCT
+*1147:	&-um he has potential to lead to [/] &~gi to be a good leader in my country . 20186_29893
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|potential-Acc part|to verb|lead-Inf-S part|to aux|be-Inf-S det|a-Ind-Art adj|good-S1 noun|leader adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|3|ACL 6|10|MARK 7|10|COP 8|10|DET 9|10|AMOD 10|5|XCOMP 11|13|CASE 12|13|NMOD-POSS 13|10|NMOD 14|2|PUNCT
+*1147:	and &-uh he's [//] &-uh &~i &-um &~hi he [/] &~ut &-uh &~achi h:e [/] &~wa he want to achieve his &-uh gold [= goal] &-uh that &-uh improve my country to be a good [//] in [//] &~or &~i good country in [/] &~ma in the world . 30397_57059
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 part|to verb|achieve-Inf-S pron|his-Prs-Gen-S3 noun|gold-Acc pron|that-Rel verb|improve-Fin-Ind-Pres-P3 pron|my-Prs-Gen-S1 noun|country-Acc part|to aux|be-Inf-S det|a-Ind-Art adj|good-S1 noun|country adp|in det|the-Def-Art noun|world .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|NMOD-POSS 7|5|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|11|NMOD-POSS 11|9|OBJ 12|16|MARK 13|16|COP 14|16|DET 15|16|AMOD 16|9|XCOMP 17|19|CASE 18|19|DET 19|16|NMOD 20|3|PUNCT
+*1147:	and we can &-uh indicate that &-uh &-uh by &-uh you <have a good> [/] mm have &-uh a good students in my country . 58072_72512
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|can-Fin-S verb|indicate-Inf-S sconj|that adp|by pron|you-Prs-Acc-S2 intj|mm verb|have-Fin-Ind-Pres-S2 det|a-Ind-Art adj|good-S1 noun|student-Plur-Acc adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|9|MARK 6|7|CASE 7|9|OBL 8|9|DISCOURSE 9|4|CCOMP 10|12|DET 11|12|AMOD 12|9|OBJ 13|15|CASE 14|15|NMOD-POSS 15|12|NMOD 16|4|PUNCT
+*1147:	&~beka &~bah &~buh they [//] &~b he: &-uh start to make a scholarship . 75125_79671
+%mor:	pron|he-Prs-Nom-S3 verb|start-Fin-Ind-Pres-S3 part|to verb|make-Inf-S det|a-Ind-Art noun|scholarship-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*1147:	<that a main> [//] &-uh that &-uh &~m &-uh &~prispen &-uh &~pri &-uh &~prin principle [/] &~prins &-uh principle from my country . 80309_91431
+%mor:	det|that-Def-Dem-Sing noun|principle adp|from pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|2|DET 2|0|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|2|PUNCT
+*1147:	and &-um in my &-uh perspective &-um &-uh king &-uh Fahad <was a good> [/] &~l was a good leader . 91994_105818
+%mor:	cconj|and adp|in pron|my-Prs-Gen-S1 noun|perspective noun|king-Ger propn|Fahad aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|good-S1 noun|leader .
+%gra:	1|10|CC 2|4|CASE 3|4|NMOD-POSS 4|10|OBL 5|10|NSUBJ 6|10|NSUBJ 7|10|COP 8|10|DET 9|10|AMOD 10|0|ROOT 11|10|PUNCT
+*1147:	&~i and after that &-um king Abdullah came to complete or to achieve &~th this goal to have a good country &~i <in my> [/] in my . 107241_120191
+%mor:	cconj|and sconj|after det|that-Def-Dem-Sing noun|king-Ger propn|Abdullah verb|come-Fin-Ind-Past-S3-irr part|to verb|complete-Inf-S cconj|or part|to verb|achieve-Inf-S det|this-Def-Dem-Sing noun|goal-Acc part|to verb|have-Inf-S det|a-Ind-Art adj|good-S1 noun|country-Acc adp|in pron|my-Prs-Gen-S1 .
+%gra:	1|6|CC 2|6|MARK 3|4|DET 4|6|NSUBJ 5|6|NSUBJ 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|11|CC 10|11|MARK 11|8|CONJ 12|13|DET 13|11|OBJ 14|15|MARK 15|11|ADVCL 16|18|DET 17|18|AMOD 18|15|OBJ 19|20|CASE 20|15|OBL 21|6|PUNCT
+@End

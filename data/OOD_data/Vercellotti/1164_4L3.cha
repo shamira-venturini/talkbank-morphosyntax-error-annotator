@@ -1,0 +1,26 @@
+@UTF8
+@PID:	11312/a-00062511-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1164_4L3, audio
+*PAR0:	today I wanna talk about a famous person from the past this &-uh person from my country . 2390_12360
+%mor:	noun|today pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1~part|to verb|talk-Inf-S adp|about det|a-Ind-Art adj|famous-S1 noun|person adp|from det|the-Def-Art adp|past det|this-Def-Dem-Sing noun|person adp|from pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|3|OBL-UNMARKED 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|14|CASE 11|14|DET 12|14|CASE 13|14|DET 14|5|OBL 15|17|CASE 16|17|NMOD-POSS 17|14|NMOD 18|3|PUNCT
+*PAR0:	and I will demonstrate &-uh how the person how this person get &-uh &-uh got a famous &-uh I wanna talk about &-uh Maj Abdullah when you say Maj Abdullah all of &-uh my &-uh all of people in my country knows &-uh who &-uh match Abdullah because he &-uh he was a good player a good soccer [/] soccer player in &-uh my country . 13680_46110
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|will-Fin-S verb|demonstrate-Inf-S adv|how det|the-Def-Art noun|person adv|how det|this-Def-Dem-Sing noun|person aux|get-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|a-Ind-Art adj|famous-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1~part|to verb|talk-Inf-S adp|about propn|Maj propn|Abdullah adv|when pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Pres-S2 propn|Maj propn|Abdullah det|all-Def-Tot adp|of pron|my-Prs-Gen-S1 det|all-Def-Tot adp|of noun|person-Plur adp|in pron|my-Prs-Gen-S1 noun|country verb|know-Fin-Ind-Pres-S3 pron|who-Int verb|match-Fin-Ind-Pres-S3 propn|Abdullah-Acc sconj|because pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|good-S1 noun|player det|a-Ind-Art adj|good-S1 noun|soccer noun|player adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|DET 7|12|NSUBJ 8|12|ADVMOD 9|10|DET 10|12|NSUBJ 11|12|AUX 12|5|ADVCL-RELCL 13|14|DET 14|12|OBJ 15|16|NSUBJ 16|5|ADVCL-RELCL 17|18|MARK 18|16|XCOMP 19|20|CASE 20|18|OBL 21|20|FLAT 22|24|ADVMOD 23|24|NSUBJ 24|36|ADVCL 25|36|NSUBJ 26|25|FLAT 27|25|APPOS 28|30|CASE 29|30|NMOD-POSS 30|27|NMOD 31|32|CASE 32|30|NMOD 33|35|CASE 34|35|NMOD-POSS 35|30|NMOD 36|4|CCOMP 37|38|NSUBJ 38|36|CCOMP 39|38|OBJ 40|46|MARK 41|46|NSUBJ 42|46|NSUBJ 43|46|COP 44|46|DET 45|46|AMOD 46|36|ADVCL 47|50|DET 48|50|AMOD 49|50|COMPOUND 50|46|APPOS 51|53|CASE 52|53|NMOD-POSS 53|50|NMOD 54|4|PUNCT
+*PAR0:	and he &-uh he was &-uh a chief &-uh &-um many things . 55200_65900
+%mor:	cconj|and pron|he-Prs-Nom-S3 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|chief-S1 adj|many-S1 noun|thing-Plur .
+%gra:	1|8|CC 2|8|NSUBJ 3|8|NSUBJ 4|8|COP 5|8|DET 6|8|AMOD 7|8|AMOD 8|0|ROOT 9|8|PUNCT
+*PAR0:	&-uh and &-uh my country &-um a chief &-uh has a achievement . 67360_72640
+%mor:	cconj|and pron|my-Prs-Gen-S1 noun|country det|a-Ind-Art noun|chief verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|achievement-Acc .
+%gra:	1|6|CC 2|3|NMOD-POSS 3|6|NSUBJ 4|5|DET 5|6|NSUBJ 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*PAR0:	&-uh &-um when [/] when &-uh our team &-uh went to the World cup &-uh match of the law was the [/] the best player in &-uh that team because the &-uh because he was &-uh &-um check many goals in our team . 74040_93590
+%mor:	adv|when pron|our-Prs-Gen-P1 noun|team verb|go-Fin-Ind-Past-S3-irr adp|to det|the-Def-Art propn|World noun|cup noun|match adp|of det|the-Def-Art noun|law aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art adj|good-Sup-S1 noun|player adp|in det|that-Def-Dem-Sing noun|team sconj|because det|the-Def-Art sconj|because pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|check-Inf-S adj|many-S1 noun|goal-Plur-Acc adp|in pron|our-Prs-Gen-P1 noun|team .
+%gra:	1|4|ADVMOD 2|3|NMOD-POSS 3|4|NSUBJ 4|16|ADVCL 5|9|CASE 6|9|DET 7|8|COMPOUND 8|9|COMPOUND 9|4|OBL 10|12|CASE 11|12|DET 12|9|NMOD 13|16|COP 14|16|DET 15|16|AMOD 16|0|ROOT 17|19|CASE 18|19|DET 19|16|NMOD 20|25|MARK 21|25|REPARANDUM 22|25|MARK 23|25|NSUBJ 24|25|AUX 25|16|ADVCL 26|27|AMOD 27|25|OBJ 28|30|CASE 29|30|NMOD-POSS 30|25|OBL 31|16|PUNCT
+*PAR0:	and this person &-uh was &-um have a good &-um have a good &-um experience &-uh has had a good . 107510_119810
+%mor:	cconj|and det|this-Def-Dem-Sing noun|person aux|be-Fin-Ind-Past-S3-irr verb|have-Inf-S det|a-Ind-Art adj|good-S1 verb|have-Inf-S det|a-Ind-Art adj|good-S1 noun|experience-Acc aux|have-Fin-Ind-Pres-S3 verb|have-Part-Past-S-irr det|a-Ind-Art noun|good-Acc .
+%gra:	1|13|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|13|CSUBJ 6|7|DET 7|5|OBJ 8|5|XCOMP 9|11|DET 10|11|AMOD 11|8|OBJ 12|13|AUX 13|0|ROOT 14|15|DET 15|13|OBJ 16|13|PUNCT
+@End

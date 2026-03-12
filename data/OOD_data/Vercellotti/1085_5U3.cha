@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/t-00010144-1
+@Begin
+@Languages:	eng
+@Participants:	1085 Student
+@ID:	eng|Vercellotti|1085|||3||Student|level4||
+@Media:	1085_5U3, audio
+@Transcriber:	jms
+*1085:	&-uh I (a)gree [//] agree &~i ah that when the group between the rich and the poor is so large and you needta balance a desire for luxury with compassion for the needs of others . 1922_18734
+%mor:	pron|I-Prs-Nom-S1 verb|agree-Fin-Ind-Pres-S1 intj|ah sconj|that adv|when det|the-Def-Art noun|group adp|between det|the-Def-Art adj|rich-S1 cconj|and det|the-Def-Art noun|poor aux|be-Fin-Ind-Pres-S3 adv|so adj|large-S1 cconj|and pron|you-Prs-Nom-S2 aux|needta-Fin-Ind-Pres-S verb|balance-Fin-S det|a-Ind-Art noun|desire-Acc adp|for noun|luxury adp|with noun|compassion adp|for det|the-Def-Art noun|need-Plur adp|of noun|other-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|DISCOURSE 4|16|MARK 5|16|ADVMOD 6|7|DET 7|16|NSUBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|13|CC 12|13|DET 13|10|CONJ 14|16|COP 15|16|ADVMOD 16|2|CCOMP 17|20|CC 18|20|NSUBJ 19|20|AUX 20|16|CONJ 21|22|DET 22|20|OBJ 23|24|CASE 24|22|NMOD 25|26|CASE 26|22|NMOD 27|29|CASE 28|29|DET 29|26|NMOD 30|31|CASE 31|29|NMOD 32|2|PUNCT
+*1085:	because the ah poor family they [/] &~don they [//] sometimes they don't have enough money to go to [/] ah to see a doctor when [/] they [/] &~ha when they are sick . 21138_34002
+%mor:	sconj|because det|the-Def-Art intj|ah adj|poor-S1 noun|family adv|sometimes pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|have-Inf-S adj|enough-S1 noun|money-Acc part|to verb|go-Inf-S intj|ah part|to verb|see-Inf-S det|a-Ind-Art noun|doctor-Acc adv|when pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 adj|sick-S1 .
+%gra:	1|10|MARK 2|5|DET 3|5|REPARANDUM 4|5|AMOD 5|10|NSUBJ 6|10|ADVMOD 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|0|ROOT 11|12|AMOD 12|10|OBJ 13|14|MARK 14|12|ACL 15|14|DISCOURSE 16|17|MARK 17|14|ADVCL 18|19|DET 19|17|OBJ 20|23|ADVMOD 21|23|NSUBJ 22|23|COP 23|17|ADVCL 24|10|PUNCT
+*1085:	and they sometimes collect the garbage or papers &-uh to sell the &-uh &~industruh industry to ah earn the money and to buy some &-uh &-uh necessary they need . 35658_57863
+%mor:	cconj|and pron|they-Prs-Nom-P3 adv|sometimes verb|collect-Fin-Ind-Pres-P3 det|the-Def-Art noun|garbage-Acc cconj|or noun|paper-Plur part|to verb|sell-Inf-S det|the-Def-Art noun|industry-Acc part|to intj|ah verb|earn-Inf-S det|the-Def-Art noun|money-Acc cconj|and part|to verb|buy-Inf-S det|some-Def-Ind adj|necessary-S1 pron|they-Prs-Nom-P3 verb|need-Fin-Ind-Pres-P3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|6|CONJ 9|10|MARK 10|4|ADVCL 11|12|DET 12|10|OBJ 13|15|MARK 14|15|DISCOURSE 15|10|ADVCL 16|17|DET 17|15|OBJ 18|20|CC 19|20|MARK 20|15|CONJ 21|22|DET 22|20|OBJ 23|24|NSUBJ 24|22|ADVCL-RELCL 25|4|PUNCT
+*1085:	and they desire to: &-uh earn the money to &-uh educate <their childrens> [//] their children . 59094_71587
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|desire-Fin-Ind-Pres-P3 part|to verb|earn-Inf-S det|the-Def-Art noun|money-Acc part|to verb|educate-Inf-S pron|their-Prs-Gen-P3 noun|child-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|9|MARK 9|5|ADVCL 10|11|NMOD-POSS 11|9|OBJ 12|3|PUNCT
+*1085:	&-uh the [/] the rich family &-uh &~s they &~s &-uh sometimes collect the exotic unnecessary . 72158_86207
+%mor:	det|the-Def-Art adj|rich-S1 noun|family pron|they-Prs-Nom-P3 adv|sometimes verb|collect-Fin-Ind-Pres-P3 det|the-Def-Art adj|exotic-S1 adj|unnecessary-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|6|NSUBJ 4|6|NSUBJ 5|6|ADVMOD 6|0|ROOT 7|9|DET 8|9|AMOD 9|6|OBJ 10|6|PUNCT
+*1085:	<in their> [//] &-uh it's they're interested in . 86982_91642
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adj|interested-S1 adp|in .
+%gra:	1|5|NSUBJ-OUTER 2|5|COP 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|OBL 7|5|PUNCT
+*1085:	&-uh if they'll give &-uh exotic &~neh &-uh goods for &-uh poor families I think the poor families they will have a &~d &-uh good life for one month or one year . 91959_110700
+%mor:	sconj|if pron|they-Prs-Nom-P3~aux|will-Fin-S verb|give-Inf-S adj|exotic-S1 noun|goods-Plur-Acc adp|for adj|poor-S1 noun|family-Plur pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art adj|poor-S1 noun|family-Plur pron|they-Prs-Nom-P3 aux|will-Fin-S verb|have-Inf-S det|a-Ind-Art adj|good-S1 noun|life-Acc adp|for num|one noun|month cconj|or num|one noun|year .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|11|ADVCL 5|6|AMOD 6|4|OBJ 7|9|CASE 8|9|AMOD 9|4|OBL 10|11|NSUBJ 11|0|ROOT 12|14|DET 13|14|AMOD 14|17|NSUBJ 15|17|NSUBJ 16|17|AUX 17|11|CCOMP 18|20|DET 19|20|AMOD 20|17|OBJ 21|23|CASE 22|23|NUMMOD 23|17|OBL 24|26|CC 25|26|NUMMOD 26|23|CONJ 27|11|PUNCT
+*1085:	&-uh because the &~i &~i poor family they afford to &-uh improve their lives . 111321_120191
+%mor:	sconj|because det|the-Def-Art adj|poor-S1 noun|family pron|they-Prs-Nom-P3 verb|afford-Fin-Ind-Pres-P3 part|to verb|improve-Inf-S pron|their-Prs-Gen-P3 noun|life-Plur-Acc .
+%gra:	1|6|MARK 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|NSUBJ 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|10|NMOD-POSS 10|8|OBJ 11|6|PUNCT
+@End

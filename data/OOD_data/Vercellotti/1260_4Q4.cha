@@ -1,0 +1,77 @@
+@UTF8
+@PID:	11312/a-00062537-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1260_4Q4, audio
+*PAR0:	&-um there's this custom that I don't like . 1040_3130
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|custom pron|that-Rel pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|9|OBJ 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|4|ACL-RELCL 10|2|PUNCT
+*PAR0:	and &-uh maybe it's maybe in the United States also . 3560_7410
+%mor:	cconj|and adv|maybe pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|maybe adp|in det|the-Def-Art verb|Unite-Part-Past-S propn|State-Plur adv|also .
+%gra:	1|9|CC 2|9|ADVMOD 3|9|NSUBJ 4|9|COP 5|9|ADVMOD 6|9|CASE 7|9|DET 8|9|AMOD 9|0|ROOT 10|9|ADVMOD 11|9|PUNCT
+*PAR0:	but I will talk now about British people . 7860_9680
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|will-Fin-S verb|talk-Inf-S adv|now adp|about adj|British-S1 noun|person-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|8|CASE 7|8|AMOD 8|4|OBL 9|4|PUNCT
+*PAR0:	so I don't like that . 10690_11460
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S pron|that-Dem .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR0:	they wake up very early . 11540_13210
+%mor:	pron|they-Prs-Nom-P3 verb|wake-Fin-Ind-Pres-P3 adp|up adv|very adv|early .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|5|ADVMOD 5|2|ADVMOD 6|2|PUNCT
+*PAR0:	and also they sleep very early . 14170_15720
+%mor:	cconj|and adv|also pron|they-Prs-Nom-P3 verb|sleep-Fin-Ind-Pres-P3 adv|very adv|early .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|6|ADVMOD 6|4|ADVMOD 7|4|PUNCT
+*PAR0:	&-um and also <they have their> [/] they have their dinner or their lunch also early . 17620_24160
+%mor:	cconj|and adv|also pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 pron|their-Prs-Gen-P3 noun|dinner-Acc cconj|or pron|their-Prs-Gen-P3 noun|lunch adv|also adv|early .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|CC 8|9|NMOD-POSS 9|6|CONJ 10|11|ADVMOD 11|4|ADVMOD 12|4|PUNCT
+*PAR0:	so maybe for us the Middle Eastern people we eat our lunch maybe at between twelve until maybe four . 25320_37690
+%mor:	adv|so adv|maybe adp|for pron|we-Prs-Acc-P1 det|the-Def-Art adj|Middle-S1 adj|Eastern-S1 noun|person-Plur pron|we-Prs-Nom-P1 verb|eat-Fin-Ind-Pres-P1 pron|our-Prs-Gen-P1 noun|lunch-Acc adv|maybe adp|at adp|between num|twelve adp|until adv|maybe num|four .
+%gra:	1|10|ADVMOD 2|10|ADVMOD 3|4|CASE 4|10|OBL 5|8|DET 6|7|AMOD 7|8|AMOD 8|10|NSUBJ 9|10|NSUBJ 10|0|ROOT 11|12|NMOD-POSS 12|10|OBJ 13|16|ADVMOD 14|16|CASE 15|16|CASE 16|10|OBL 17|19|CASE 18|19|ADVMOD 19|10|OBL 20|10|PUNCT
+*PAR0:	and our dinner <usually usually> [/] usually it starts maybe early . 39610_43360
+%mor:	cconj|and pron|our-Prs-Gen-P1 noun|dinner adv|usually pron|it-Prs-Nom-S3 verb|start-Fin-Ind-Pres-S3 adv|maybe adv|early .
+%gra:	1|6|CC 2|3|NMOD-POSS 3|6|NSUBJ 4|6|ADVMOD 5|6|NSUBJ 6|0|ROOT 7|8|ADVMOD 8|6|ADVMOD 9|6|PUNCT
+*PAR0:	but usually we eat it on eight . 43400_47010
+%mor:	cconj|but adv|usually pron|we-Prs-Nom-P1 verb|eat-Fin-Ind-Pres-P1 pron|it-Prs-Acc-S3 adp|on num|eight .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+*PAR0:	so I think &-uh let not [/] not late [/] late . 49440_53280
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 verb|let-Fin-Imp-S part|not adv|late .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|6|ADVMOD 6|4|ADVMOD 7|3|PUNCT
+*PAR0:	not later is &-uh better because maybe it's good for [/] for the human body to eat &-uh eat early . 53440_61400
+%mor:	part|not adv|late aux|be-Fin-Ind-Pres-S3 adj|good-Cmp-S1 sconj|because adv|maybe pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-S1 sconj|for det|the-Def-Art adj|human-S1 noun|body part|to verb|eat-Inf-S verb|eat-Inf-S adv|early .
+%gra:	1|2|ADVMOD 2|4|ADVMOD 3|4|COP 4|0|ROOT 5|9|MARK 6|9|ADVMOD 7|9|EXPL 8|9|COP 9|4|ADVCL 10|15|MARK 11|13|DET 12|13|AMOD 13|15|NSUBJ 14|15|MARK 15|9|CSUBJ 16|15|XCOMP 17|16|ADVMOD 18|4|PUNCT
+*PAR0:	but also another thing that I don't like that . 64750_66520
+%mor:	cconj|but adv|also det|another-Def-Ind noun|thing-Ger pron|that-Rel pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S pron|that-Dem .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|DET 4|0|ROOT 5|9|OBJ 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|4|ACL-RELCL 10|9|OBJ 11|4|PUNCT
+*PAR0:	they <in in> [/] in London Britain they close their shop very [/] very early . 66620_71610
+%mor:	pron|they-Prs-Nom-P3 adp|in propn|London propn|Britain pron|they-Prs-Nom-P3 verb|close-Fin-Ind-Pres-P3 pron|their-Prs-Gen-P3 noun|shop-Acc adv|very adv|early .
+%gra:	1|6|NSUBJ 2|4|CASE 3|4|COMPOUND 4|6|OBL 5|6|NSUBJ 6|0|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|10|ADVMOD 10|6|ADVMOD 11|6|PUNCT
+*PAR0:	so maybe <at six> [/] at six in the evening all shops are closed . 72170_79920
+%mor:	adv|so adv|maybe adp|at num|six adp|in det|the-Def-Art noun|evening-Ger det|all-Def-Tot noun|shop-Plur aux|be-Fin-Ind-Pres-P3 verb|close-Part-Past-S .
+%gra:	1|11|ADVMOD 2|11|ADVMOD 3|4|CASE 4|11|OBL 5|7|CASE 6|7|DET 7|4|NMOD 8|9|DET 9|11|NSUBJ-PASS 10|11|AUX-PASS 11|0|ROOT 12|11|PUNCT
+*PAR0:	so for us Middle Eastern people we like to sleep so late . 80870_84760
+%mor:	adv|so adp|for pron|we-Prs-Acc-P1 adj|Middle-S1 adj|Eastern-S1 noun|person-Plur pron|we-Prs-Nom-P1 verb|like-Fin-Ind-Pres-P1 part|to verb|sleep-Inf-S adv|so adv|late .
+%gra:	1|8|ADVMOD 2|3|CASE 3|8|OBL 4|5|AMOD 5|6|AMOD 6|8|OBL 7|8|NSUBJ 8|0|ROOT 9|10|MARK 10|8|XCOMP 11|12|ADVMOD 12|10|ADVMOD 13|8|PUNCT
+*PAR0:	we like to sleep &-uh until late time . 84840_87240
+%mor:	pron|we-Prs-Nom-P1 verb|like-Fin-Ind-Pres-P1 part|to verb|sleep-Inf-S adp|until adj|late-S1 noun|time .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|7|CASE 6|7|AMOD 7|4|OBL 8|2|PUNCT
+*PAR0:	and [/] and we like to spend our evening at our night chopping . 87440_92960
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|like-Fin-Ind-Pres-P1 part|to verb|spend-Inf-S pron|our-Prs-Gen-P1 noun|evening-Acc-Ger adp|at pron|our-Prs-Gen-P1 noun|night noun|chop-Ger .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|NMOD-POSS 7|5|OBJ 8|11|CASE 9|11|NMOD-POSS 10|11|COMPOUND 11|5|OBL 12|3|PUNCT
+*PAR0:	but we have if you wanna shop we have to go like early because they will close their stores . 93630_99320
+%mor:	cconj|but pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 sconj|if pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|shop-Inf-S pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 part|to verb|go-Inf-S intj|like adv|early sconj|because pron|they-Prs-Nom-P3 aux|will-Fin-S verb|close-Inf-S pron|their-Prs-Gen-P3 noun|store-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|NSUBJ 6|3|ADVCL 7|8|MARK 8|6|XCOMP 9|10|NSUBJ 10|8|CCOMP 11|12|MARK 12|10|XCOMP 13|14|DISCOURSE 14|12|ADVMOD 15|18|MARK 16|18|NSUBJ 17|18|AUX 18|12|ADVCL 19|20|NMOD-POSS 20|18|OBJ 21|3|PUNCT
+*PAR0:	it's not there's there isn't a lot of places to go . 99890_104400
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not pron|there-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3~part|not det|a-Ind-Art noun|lot adp|of noun|place-Plur part|to verb|go-Inf-S .
+%gra:	1|5|NSUBJ-OUTER 2|7|REPARANDUM 3|7|ADVMOD 4|7|EXPL 5|7|REPARANDUM 6|7|EXPL 7|0|ROOT 8|7|ADVMOD 9|10|DET 10|7|NSUBJ 11|12|CASE 12|10|NMOD 13|14|MARK 14|12|ACL 15|7|PUNCT
+*PAR0:	at night if you are there for a vacation or something . 106510_109800
+%mor:	adp|at noun|night sconj|if pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 adv|there adp|for det|a-Ind-Art noun|vacation cconj|or pron|something-Ind-S1 .
+%gra:	1|2|CASE 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|COP 6|2|ACL 7|9|CASE 8|9|DET 9|6|OBL 10|11|CC 11|9|CONJ 12|2|PUNCT
+*PAR0:	so I don't like it . 111990_112790
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR0:	I wish that shopping malls will open later more late . 114460_117520
+%mor:	pron|I-Prs-Nom-S1 verb|wish-Fin-Ind-Pres-S1 sconj|that noun|shopping-Ger noun|mall-Plur aux|will-Fin-S verb|open-Inf-S adv|late adv|more adv|late .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|MARK 4|5|COMPOUND 5|7|NSUBJ 6|7|AUX 7|2|CCOMP 8|7|ADVMOD 9|10|ADVMOD 10|7|ADVMOD 11|2|PUNCT
+@End

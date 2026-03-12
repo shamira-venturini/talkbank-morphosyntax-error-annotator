@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/a-00062599-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	848_4M2, audio
+*PAR0:	hi everyone . 920_1770
+%mor:	intj|hi pron|everyone-Tot-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR0:	now you will talk about custom &-um all know the custom . 2040_8070
+%mor:	adv|now pron|you-Prs-Nom-S2 aux|will-Fin-S verb|talk-Inf-S adp|about noun|custom det|all-Def-Tot verb|know-Fin-Ind-Pres-P3 det|the-Def-Art noun|custom-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|6|DET 8|4|PARATAXIS 9|10|DET 10|8|OBJ 11|4|PUNCT
+*PAR0:	every country is different . 9740_11160
+%mor:	det|every-Def-Tot noun|country aux|be-Fin-Ind-Pres-S3 adj|different-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR0:	and there are a custom is not accepted . 11440_15400
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art noun|custom aux|be-Fin-Ind-Pres-S3 part|not verb|accept-Part-Past-S .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|8|NSUBJ-PASS 6|8|AUX-PASS 7|8|ADVMOD 8|3|ADVCL 9|3|PUNCT
+*PAR0:	and another &-uh custom is accepted . 16470_22110
+%mor:	cconj|and det|another-Def-Ind noun|custom aux|be-Fin-Ind-Pres-S3 verb|accept-Part-Past-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|0|ROOT 6|5|PUNCT
+*PAR0:	I will talk about the custom . 23340_26280
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S verb|talk-Inf-S adp|about det|the-Def-Art noun|custom .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR0:	I don't I didn't like the custom in my country is different now before for fifteen years ago . 26740_41290
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|like-Inf-S det|the-Def-Art noun|custom adp|in pron|my-Prs-Gen-S1 noun|country aux|be-Fin-Ind-Pres-S3 adj|different-S1 adv|now adv|before adp|for num|fifteen noun|year-Plur adv|ago .
+%gra:	1|2|NSUBJ 2|7|REPARANDUM 3|2|ADVMOD 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|9|DET 9|14|NSUBJ 10|12|CASE 11|12|NMOD-POSS 12|9|NMOD 13|14|COP 14|7|CCOMP 15|14|ADVMOD 16|14|ADVMOD 17|19|CASE 18|19|NUMMOD 19|14|OBL 20|14|ADVMOD 21|7|PUNCT
+*PAR0:	the custom I didn't &-uh like is one &-uh young English people don't consider are mm polite when he talk or see &-uh old people the <custom that> [/] custom that custom is very important to learn &-uh your child or people about that . 42960_75180
+%mor:	det|the-Def-Art noun|custom pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|like-Inf-S aux|be-Fin-Ind-Pres-S3 num|one adj|young-S1 adj|English-S1 noun|person-Plur aux|do-Fin-Ind-Pres-P3~part|not verb|consider-Inf-S aux|be-Fin-Ind-Pres-P3 intj|mm adj|polite-S1 adv|when pron|he-Prs-Nom-S3 verb|talk-Fin-Ind-Pres-P3 cconj|or verb|see-Fin-Ind-Pres-P3 adj|old-S1 noun|person-Plur det|the-Def-Art noun|custom-Acc sconj|that noun|custom aux|be-Fin-Ind-Pres-S3 adv|very adj|important-S1 part|to verb|learn-Inf-S pron|your-Prs-Gen-S2 noun|child-Acc cconj|or noun|person-Plur adp|about pron|that-Dem .
+%gra:	1|2|DET 2|14|NSUBJ-OUTER 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|ACL-RELCL 7|14|COP 8|11|NUMMOD 9|11|AMOD 10|11|AMOD 11|14|NSUBJ 12|14|AUX 13|14|ADVMOD 14|0|ROOT 15|17|COP 16|17|DISCOURSE 17|14|CCOMP 18|20|ADVMOD 19|20|NSUBJ 20|17|ADVCL 21|22|CC 22|20|CONJ 23|24|AMOD 24|22|IOBJ 25|26|DET 26|22|OBJ 27|31|MARK 28|31|NSUBJ 29|31|COP 30|31|ADVMOD 31|26|ACL 32|33|MARK 33|31|ADVCL 34|35|NMOD-POSS 35|33|OBJ 36|37|CC 37|35|CONJ 38|39|CASE 39|33|OBL 40|14|PUNCT
+*PAR0:	cause . 85080_85280
+%mor:	noun|cause .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	if you &-uh because if you accept our &-uh if you don't like that &-uh custom you should tell your &-uh child or your family this &-uh custom . 85480_104860
+%mor:	sconj|if pron|you-Prs-Acc-S2 sconj|because sconj|if pron|you-Prs-Nom-S2 verb|accept-Fin-Ind-Pres-S2 pron|our-Prs-Gen-P1 sconj|if pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|like-Inf-S det|that-Def-Dem-Sing noun|custom-Acc pron|you-Prs-Nom-S2 aux|should-Fin-S verb|tell-Inf-S pron|your-Prs-Gen-S2 noun|child-Acc cconj|or pron|your-Prs-Gen-S2 noun|family det|this-Def-Dem-Sing noun|custom-Acc .
+%gra:	1|6|MARK 2|17|ADVCL 3|17|MARK 4|6|MARK 5|6|NSUBJ 6|17|ADVCL 7|6|IOBJ 8|12|MARK 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|6|ADVCL 13|14|DET 14|12|OBJ 15|17|NSUBJ 16|17|AUX 17|0|ROOT 18|19|NMOD-POSS 19|17|OBJ 20|22|CC 21|22|NMOD-POSS 22|19|CONJ 23|24|DET 24|17|OBJ 25|17|PUNCT
+*PAR0:	so when someone &-um so &-uh all [/] all the people he showed &-uh the . 108050_118370
+%mor:	adv|so adv|when pron|someone-Ind-S1 adv|so det|all-Def-Tot det|the-Def-Art noun|person-Plur pron|he-Prs-Nom-S3 verb|show-Fin-Ind-Past-S3 det|the-Def-Art .
+%gra:	1|2|ADVMOD 2|3|ADVMOD 3|7|NSUBJ 4|7|ADVMOD 5|7|DET-PREDET 6|7|DET 7|0|ROOT 8|9|NSUBJ 9|7|ACL-RELCL 10|9|OBJ 11|7|PUNCT
+@End

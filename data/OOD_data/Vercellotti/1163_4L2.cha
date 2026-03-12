@@ -1,0 +1,45 @@
+@UTF8
+@PID:	11312/a-00062507-1
+@Begin
+@Languages:	eng
+@Participants:	PAR1 Participant, PAR0 Participant
+@ID:	eng|Vercellotti|PAR1|||||Participant|||
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1163_4L2, audio
+*PAR1:	excuse me . 5580_6040
+%mor:	verb|excuse-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR0:	you should start talking . 16180_16990
+%mor:	pron|you-Prs-Nom-S2 aux|should-Fin-S verb|start-Inf-S verb|talk-Ger-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|XCOMP 5|3|PUNCT
+*PAR0:	I finish you need to talk you . 17850_22090
+%mor:	pron|I-Prs-Nom-S1 verb|finish-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 part|to verb|talk-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|2|PUNCT
+*PAR1:	okay . 24060_24290
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	the topic is describe a custom and my culture &-uh which I don't like in my culture . 25530_38300
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S det|a-Ind-Art noun|custom-Acc cconj|and pron|my-Prs-Gen-S1 noun|culture pron|which-Rel-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S adp|in pron|my-Prs-Gen-S1 noun|culture .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CC 8|9|NMOD-POSS 9|6|CONJ 10|14|OBJ 11|14|NSUBJ 12|14|AUX 13|14|ADVMOD 14|6|ACL-RELCL 15|17|CASE 16|17|NMOD-POSS 17|14|OBL 18|4|PUNCT
+*PAR1:	there are some method in the life . 38560_44140
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|some-Def-Ind noun|method adp|in det|the-Def-Art noun|life .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*PAR1:	&-uh for example I don't like &-uh some people &-uh who dependent on his mother or his wife because <in my> [/] in my culture must [/] must &-uh man dependent on his wife or his mother . 49860_72140
+%mor:	adp|for noun|example pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S det|some-Def-Ind noun|person-Plur-Acc pron|who-Rel adj|dependent-S1 adp|on pron|his-Prs-Gen-S3 noun|mother cconj|or pron|his-Prs-Gen-S3 noun|wife sconj|because adp|in pron|my-Prs-Gen-S1 noun|culture aux|must-Fin-S verb|man-Inf-S adj|dependent-S1 adp|on pron|his-Prs-Gen-S3 noun|wife cconj|or pron|his-Prs-Gen-S3 noun|mother .
+%gra:	1|2|CASE 2|6|OBL 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|DET 8|6|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|13|CASE 12|13|NMOD-POSS 13|10|OBL 14|16|CC 15|16|NMOD-POSS 16|13|CONJ 17|22|MARK 18|20|CASE 19|20|NMOD-POSS 20|22|OBL 21|22|AUX 22|6|ADVCL 23|22|XCOMP 24|26|CASE 25|26|NMOD-POSS 26|23|OBL 27|29|CC 28|29|NMOD-POSS 29|26|CONJ 30|6|PUNCT
+*PAR1:	&-uh when I was eighteen I didn't wake up with my aunt . 80710_86000
+%mor:	adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr num|eighteen pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|wake-Inf-S adp|up adp|with pron|my-Prs-Gen-S1 noun|aunt .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|8|ADVCL 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|8|COMPOUND-PRT 10|12|CASE 11|12|NMOD-POSS 12|8|OBL 13|8|PUNCT
+*PAR1:	I usually depending on my and my mother because he wake up me every day . 88830_98180
+%mor:	pron|I-Prs-Nom-S1 adv|usually verb|depend-Part-Pres-S adp|on pron|my-Prs-Gen-S1 cconj|and pron|my-Prs-Gen-S1 noun|mother sconj|because pron|he-Prs-Nom-S3 verb|wake-Fin-Ind-Pres-S3 adp|up pron|I-Prs-Acc-S1 det|every-Def-Tot noun|day .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|CASE 5|8|NMOD-POSS 6|8|CC 7|5|CONJ 8|3|OBL 9|11|MARK 10|11|NSUBJ 11|3|ADVCL 12|11|COMPOUND-PRT 13|11|OBJ 14|15|DET 15|11|OBL-UNMARKED 16|3|PUNCT
+*PAR1:	I like some &-uh some custom and other &-uh other &-uh culture &-uh because . 101650_112910
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 det|some-Def-Ind det|some-Def-Ind adj|custom-S1 cconj|and adj|other-S1 adj|other-S1 noun|culture-Acc adv|because .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|9|DET 4|9|DET 5|9|AMOD 6|7|CC 7|5|CONJ 8|9|AMOD 9|2|OBJ 10|2|ADVMOD 11|2|PUNCT
+*PAR0:	the . 114070_114090
+%mor:	det|the-Def-Art .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	the culture &-uh sharing man with women's . 115220_119670
+%mor:	det|the-Def-Art noun|culture noun|sharing-Ger noun|man adp|with noun|woman-Plur~part|s .
+%gra:	1|4|DET 2|4|COMPOUND 3|4|COMPOUND 4|0|ROOT 5|6|CASE 6|4|NMOD 7|6|CASE 8|4|PUNCT
+@End

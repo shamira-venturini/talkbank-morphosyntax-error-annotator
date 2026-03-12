@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/a-00062549-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@ID:	eng|Vercellotti|PAR1|||||Participant|||
+@Media:	1286_4R1, audio
+*PAR0:	I come from Taiwan &-um Taiwan is located in the north of Taiwan &-um Taipei is not very big but &-um I not sure how big it is . 1620_13300
+%mor:	pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from propn|Taiwan propn|Taiwan aux|be-Fin-Ind-Pres-S3 verb|locate-Part-Past-S adp|in det|the-Def-Art noun|north adp|of propn|Taiwan propn|Taipei aux|be-Fin-Ind-Pres-S3 part|not adv|very adj|big-S1 cconj|but pron|I-Prs-Nom-S1 part|not adj|sure-S1 adv|how adj|big-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|7|NSUBJ-PASS 6|7|AUX-PASS 7|2|CCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|12|CASE 12|10|NMOD 13|17|NSUBJ 14|17|COP 15|17|ADVMOD 16|17|ADVMOD 17|7|PARATAXIS 18|21|CC 19|21|NSUBJ 20|21|ADVMOD 21|17|CONJ 22|23|ADVMOD 23|21|CCOMP 24|23|NSUBJ 25|23|COP 26|2|PUNCT
+*PAR0:	and &-um there are a lot of mountain around Taipei and &-um and there are a lot of river around Taipei too . 19840_33960
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art noun|lot adp|of noun|mountain adp|around propn|Taipei cconj|and cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art noun|lot adp|of noun|river adp|around propn|Taipei adv|too .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|9|CASE 9|7|NMOD 10|13|CC 11|13|CC 12|13|EXPL 13|3|CONJ 14|15|DET 15|13|NSUBJ 16|17|CASE 17|15|NMOD 18|19|CASE 19|17|NMOD 20|13|ADVMOD 21|3|PUNCT
+*PAR0:	&-um Taipei is a very big and modern city . 35280_40110
+%mor:	propn|Taipei aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very adj|big-S1 cconj|and adj|modern-S1 noun|city .
+%gra:	1|8|NSUBJ 2|8|COP 3|8|DET 4|5|ADVMOD 5|8|AMOD 6|7|CC 7|5|CONJ 8|0|ROOT 9|8|PUNCT
+*PAR0:	so <I can> [/] I can always &-um I can always do a lot of shopping in Taipei and also &-um there are a lot of museum and &-uh &-uh stadiums . 40840_58640
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|can-Fin-S adv|always pron|I-Prs-Nom-S1 aux|can-Fin-S adv|always verb|do-Inf-S det|a-Ind-Art noun|lot-Acc adp|of noun|shopping-Ger adp|in propn|Taipei cconj|and adv|also pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art noun|lot adp|of noun|museum cconj|and noun|stadium-Plur .
+%gra:	1|8|ADVMOD 2|8|NSUBJ 3|8|REPARANDUM 4|8|ADVMOD 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|10|DET 10|8|OBJ 11|12|CASE 12|10|NMOD 13|14|CASE 14|12|NMOD 15|18|CC 16|18|ADVMOD 17|18|EXPL 18|8|CONJ 19|20|DET 20|18|NSUBJ 21|22|CASE 22|20|NMOD 23|24|CC 24|22|CONJ 25|8|PUNCT
+*PAR0:	and &-um and a lot of activity I can do in Taipei . 59520_68450
+%mor:	cconj|and cconj|and det|a-Ind-Art noun|lot adp|of noun|activity pron|I-Prs-Nom-S1 aux|can-Fin-S verb|do-Inf-S adp|in propn|Taipei .
+%gra:	1|4|CC 2|4|CC 3|4|DET 4|0|ROOT 5|6|CASE 6|4|NMOD 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|11|CASE 11|9|OBL 12|4|PUNCT
+*PAR1:	uhhuh . 71180_71250
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and &-um in Taipei the waiter in Taipei is always hot . 72320_81450
+%mor:	cconj|and adp|in propn|Taipei det|the-Def-Art noun|waiter adp|in propn|Taipei aux|be-Fin-Ind-Pres-S3 adv|always adj|hot-S1 .
+%gra:	1|10|CC 2|3|CASE 3|10|OBL 4|5|DET 5|10|NSUBJ 6|7|CASE 7|5|NMOD 8|10|COP 9|10|ADVMOD 10|0|ROOT 11|10|PUNCT
+*PAR0:	but in the winter there are a lot of rain in Taipei &-um and &-um there are a lot of restaurant [/] restaurant museum . 82120_99170
+%mor:	cconj|but adp|in det|the-Def-Art noun|winter pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art noun|lot adp|of noun|rain adp|in propn|Taipei cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art noun|lot adp|of noun|restaurant noun|museum .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|0|ROOT 7|8|DET 8|6|NSUBJ 9|10|CASE 10|8|NMOD 11|12|CASE 12|10|NMOD 13|15|CC 14|15|EXPL 15|6|CONJ 16|17|DET 17|15|NSUBJ 18|20|CASE 19|20|COMPOUND 20|17|NMOD 21|6|PUNCT
+*PAR0:	&-um all kind of building you can find in Taipei so &-uh everyone come to Taipei they can have a very great time there because there are so many sea . 103800_117830
+%mor:	det|all-Def-Tot noun|kind adp|of noun|building-Ger pron|you-Prs-Nom-S2 aux|can-Fin-S verb|find-Inf-S adp|in propn|Taipei adv|so pron|everyone-Tot-S1 verb|come-Fin-Ind-Pres-S3 adp|to propn|Taipei pron|they-Prs-Nom-P3 aux|can-Fin-S verb|have-Inf-S det|a-Ind-Art adv|very adj|great-S1 noun|time-Acc adv|there sconj|because pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adv|so adj|many-S1 noun|sea .
+%gra:	1|2|DET 2|17|NSUBJ-OUTER 3|4|CASE 4|2|NMOD 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|9|CASE 9|7|OBL 10|12|ADVMOD 11|12|NSUBJ 12|17|PARATAXIS 13|14|CASE 14|12|OBL 15|17|NSUBJ 16|17|AUX 17|0|ROOT 18|21|DET 19|20|ADVMOD 20|21|AMOD 21|17|OBJ 22|17|ADVMOD 23|25|MARK 24|25|EXPL 25|17|ADVCL 26|27|ADVMOD 27|28|AMOD 28|25|NSUBJ 29|17|PUNCT
+@End

@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/a-00062563-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1295_4Q2, audio
+*PAR0:	&-uh the topic is describe a job that I would love to have . 1040_4650
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S det|a-Ind-Art noun|job-Acc pron|that-Rel pron|I-Prs-Nom-S1 aux|would-Fin-S verb|love-Inf-S part|to verb|have-Inf-S .
+%gra:	1|2|DET 2|4|NSUBJ-OUTER 3|4|COP 4|0|ROOT 5|6|DET 6|4|OBJ 7|12|OBJ 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|12|MARK 12|10|XCOMP 13|4|PUNCT
+*PAR0:	&-uh I love to help other people . 6570_10120
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 part|to verb|help-Inf-S adj|other-S1 noun|person-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|AMOD 6|4|OBJ 7|2|PUNCT
+*PAR0:	and I like to make them return to home . 11040_15440
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 part|to verb|make-Inf-S pron|they-Prs-Acc-P3 verb|return-Inf-S adp|to noun|home .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|5|XCOMP 8|9|CASE 9|7|OBL 10|3|PUNCT
+*PAR0:	and I consider &-uh the physical therapist is the best job for me . 15880_22840
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|consider-Fin-Ind-Pres-S1 det|the-Def-Art adj|physical-S1 noun|therapist aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|good-Sup-S1 noun|job adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|10|NSUBJ 7|10|COP 8|10|DET 9|10|AMOD 10|3|CCOMP 11|12|CASE 12|10|NMOD 13|3|PUNCT
+*PAR0:	&-uh my personality is very supportive . 24560_26800
+%mor:	pron|my-Prs-Gen-S1 noun|personality aux|be-Fin-Ind-Pres-S3 adv|very adj|supportive-S1 .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*PAR0:	and I like to &-uh handle with the business like &-uh straw or &-uh &-uh cerebral parcy or any accidents injury . 28360_45680
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 part|to verb|handle-Inf-S adp|with det|the-Def-Art noun|business adp|like noun|straw cconj|or adj|cerebral-S1 noun|parcy cconj|or det|any-Def-Ind noun|accident-Plur noun|injury .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|10|CASE 10|8|NMOD 11|13|CC 12|13|AMOD 13|10|CONJ 14|17|CC 15|17|DET 16|17|COMPOUND 17|10|CONJ 18|3|PUNCT
+*PAR0:	and I think physical therapist can help the people who has a dis disabilities . 46520_53580
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adj|physical-S1 noun|therapist aux|can-Fin-S verb|help-Inf-S det|the-Def-Art noun|person-Plur-Acc pron|who-Rel verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|dis noun|disability-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|AMOD 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|9|DET 9|7|OBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|14|DET 13|14|COMPOUND 14|11|OBJ 15|3|PUNCT
+*PAR0:	and today they are many old [/] old people . 55160_58760
+%mor:	cconj|and noun|today pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 adj|many-S1 adj|old-S1 noun|person-Plur .
+%gra:	1|7|CC 2|7|OBL-UNMARKED 3|7|NSUBJ 4|7|COP 5|7|AMOD 6|7|AMOD 7|0|ROOT 8|7|PUNCT
+*PAR0:	and many accidents are happening like car accidents and &-uh other disaster . 59880_68240
+%mor:	cconj|and adj|many-S1 noun|accident-Plur aux|be-Fin-Ind-Pres-P3 verb|happen-Part-Pres-S adp|like noun|car noun|accident-Plur cconj|and adj|other-S1 noun|disaster .
+%gra:	1|5|CC 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|COMPOUND 8|5|OBL 9|11|CC 10|11|AMOD 11|8|CONJ 12|5|PUNCT
+*PAR0:	so many person have an injury of their bodies . 70080_74280
+%mor:	adv|so adj|many-S1 noun|person verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|injury-Acc adp|of pron|their-Prs-Gen-P3 noun|body-Plur .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|4|PUNCT
+*PAR0:	and &-uh physical therapist can &-uh work to them . 75480_80200
+%mor:	cconj|and adj|physical-S1 noun|therapist aux|can-Fin-S verb|work-Inf-S adp|to pron|they-Prs-Acc-P3 .
+%gra:	1|5|CC 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*PAR0:	and &-uh they can &-uh help them to recover about the damage the injury and to make them to return the home . 81080_91520
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|can-Fin-S verb|help-Inf-S pron|they-Prs-Acc-P3 part|to verb|recover-Inf-S adp|about det|the-Def-Art noun|damage det|the-Def-Art noun|injury-Acc cconj|and part|to verb|make-Inf-S pron|they-Prs-Acc-P3 part|to verb|return-Inf-S det|the-Def-Art noun|home-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|12|DET 12|7|OBJ 13|15|CC 14|15|MARK 15|7|CONJ 16|15|OBJ 17|18|MARK 18|15|XCOMP 19|20|DET 20|18|OBJ 21|4|PUNCT
+*PAR0:	so &-uh I think physical therapist is the best job for me . 93000_99330
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adj|physical-S1 noun|therapist aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|good-Sup-S1 noun|job adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|AMOD 5|9|NSUBJ 6|9|COP 7|9|DET 8|9|AMOD 9|3|CCOMP 10|11|CASE 11|9|NMOD 12|3|PUNCT
+*PAR0:	I want to make sure that &-um the patient &-uh can go to harm home only and make the decision to approve about the rehabilitation about them . 101820_119330
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|make-Inf-S adj|sure-S1 sconj|that det|the-Def-Art noun|patient aux|can-Fin-S verb|go-Inf-S part|to verb|harm-Inf-S noun|home-Acc adv|only cconj|and verb|make-Inf-S det|the-Def-Art noun|decision-Acc part|to verb|approve-Inf-S adp|about det|the-Def-Art noun|rehabilitation adp|about pron|they-Prs-Acc-P3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|XCOMP 6|10|MARK 7|8|DET 8|10|NSUBJ 9|10|AUX 10|5|CCOMP 11|12|MARK 12|10|ADVCL 13|12|OBJ 14|12|ADVMOD 15|16|CC 16|10|CONJ 17|18|DET 18|16|OBJ 19|20|MARK 20|18|ACL 21|23|CASE 22|23|DET 23|20|OBL 24|25|CASE 25|23|NMOD 26|2|PUNCT
+@End

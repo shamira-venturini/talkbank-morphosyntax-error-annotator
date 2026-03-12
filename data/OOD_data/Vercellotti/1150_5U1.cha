@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/t-00010164-1
+@Begin
+@Languages:	eng
+@Participants:	1150 Student
+@ID:	eng|Vercellotti|1150|||1||Student|level4||
+@Media:	1150_5U1, audio
+@Transcriber:	jms
+*1150:	hello good morning .
+%mor:	intj|hello adj|good-S1 noun|morning-Ger .
+%gra:	1|3|DISCOURSE 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*1150:	today topic is talk about media violence in your country . 1607_6852
+%mor:	noun|today noun|topic aux|be-Fin-Ind-Pres-S3 verb|talk-Inf-S adp|about noun|media noun|violence adp|in pron|your-Prs-Gen-S2 noun|country .
+%gra:	1|2|COMPOUND 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|COMPOUND 7|4|OBL 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|4|PUNCT
+*1150:	&-uh media violence is the: main reason for [/] &~bala for banning movies and trying to censor them . 7064_17629
+%mor:	noun|media noun|violence aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|main-S1 noun|reason sconj|for verb|bann-Ger-S noun|movie-Plur-Acc cconj|and verb|try-Ger-S part|to verb|censor-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|2|COMPOUND 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|8|MARK 8|6|ACL 9|8|OBJ 10|11|CC 11|8|CONJ 12|13|MARK 13|11|XCOMP 14|13|OBJ 15|6|PUNCT
+*1150:	the media violence in my country is not that large . 19105_21694
+%mor:	det|the-Def-Art noun|media noun|violence adp|in pron|my-Prs-Gen-S1 noun|country aux|be-Fin-Ind-Pres-S3 part|not adv|that adj|large-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|10|NSUBJ 4|6|CASE 5|6|NMOD-POSS 6|3|NMOD 7|10|COP 8|10|ADVMOD 9|10|ADVMOD 10|0|ROOT 11|10|PUNCT
+*1150:	in some &-uh movies they have some violent scenes but not that much . 22662_30989
+%mor:	adp|in det|some-Def-Ind noun|movie-Plur pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|some-Def-Ind adj|violent-S1 noun|scene-Plur-Acc cconj|but part|not adv|that adv|much .
+%gra:	1|3|CASE 2|3|DET 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|12|CC 10|12|ADVMOD 11|12|ADVMOD 12|5|CONJ 13|5|PUNCT
+*1150:	but in America &-uh the [/] &~m the media violence is &-uh increasing day by day . 32029_39430
+%mor:	cconj|but adp|in propn|America det|the-Def-Art noun|media noun|violence aux|be-Fin-Ind-Pres-S3 verb|increase-Part-Pres-S noun|day adp|by noun|day .
+%gra:	1|8|CC 2|3|CASE 3|8|OBL 4|6|DET 5|6|COMPOUND 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|8|OBL-UNMARKED 10|11|CASE 11|8|OBL 12|8|PUNCT
+*1150:	a:nd I think they hafta ban it and censor i(t) . 40960_44489
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3 aux|hafta-Fin-Ind-Pres-P3 verb|ban-Inf-S pron|it-Prs-Acc-S3 cconj|and verb|censor-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|6|OBJ 8|9|CC 9|6|CONJ 10|9|OBJ 11|3|PUNCT
+*1150:	an(d) [/] and they shouldn't have violence movie . 44799_49442
+%mor:	cconj|and pron|they-Prs-Nom-P3 aux|should-Fin-S~part|not verb|have-Inf-S noun|violence noun|movie-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|COMPOUND 7|5|OBJ 8|5|PUNCT
+*1150:	because it affects the way &-uh how [//] the community ah how they can act and how [/] &~th how they think . 51869_58809
+%mor:	sconj|because pron|it-Prs-Nom-S3 verb|affect-Fin-Ind-Pres-S3 det|the-Def-Art noun|way-Acc det|the-Def-Art noun|community aux|ah-Fin-Ind-Pres-S3 adv|how pron|they-Prs-Nom-P3 aux|can-Fin-S verb|act-Inf-S cconj|and adv|how pron|they-Prs-Nom-P3 verb|think-Fin-Ind-Pres-P3 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|DET 7|9|NSUBJ 8|9|COP 9|5|ACL-RELCL 10|12|NSUBJ 11|12|AUX 12|9|ADVCL-RELCL 13|14|CC 14|12|CONJ 15|16|NSUBJ 16|14|ADVCL-RELCL 17|3|PUNCT
+*1150:	or media violence is a &-uh very bad thing . 59237_63996
+%mor:	cconj|or noun|media noun|violence aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very adj|bad-S1 noun|thing-Ger .
+%gra:	1|8|CC 2|3|COMPOUND 3|8|NSUBJ 4|8|COP 5|8|DET 6|7|ADVMOD 7|8|AMOD 8|0|ROOT 9|8|PUNCT
+*1150:	<and everybody should be> [///] ah &-uh how can I say it in english . 65887_68836
+%mor:	intj|ah adv|how aux|can-Fin-S pron|I-Prs-Nom-S1 verb|say-Inf-S pron|it-Prs-Acc-S3 adp|in propn|English .
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|8|CASE 8|5|OBL 9|5|PUNCT
+*1150:	mm everybody shoul(d) be open about the subject . 69896_75304
+%mor:	intj|mm pron|everybody-Tot-S1 aux|should-Fin-S aux|be-Inf-S adj|open-S1 adp|about det|the-Def-Art noun|subject .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|COP 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*1150:	&-uh <and tv> [/] and tv should reduce <the violence> [/] mm &~i the violence content . 76231_84367
+%mor:	cconj|and noun|TV aux|should-Fin-S verb|reduce-Inf-S noun|mm-Acc det|the-Def-Art noun|violence noun|content-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|DET 7|8|COMPOUND 8|4|OBJ 9|4|PUNCT
+*1150:	and in <the movies> [/] &-uh the movies they should have decrease the amount of violence and have a &~censorshi &~cen censorship over it . 85932_96379
+%mor:	cconj|and adp|in det|the-Def-Art noun|movie-Plur pron|they-Prs-Nom-P3 aux|should-Fin-S aux|have-Inf-S verb|decrease-Part-Past-S det|the-Def-Art noun|amount-Acc adp|of noun|violence cconj|and verb|have-Inf-S det|a-Ind-Art noun|censorship-Acc adp|over pron|it-Prs-Acc-S3 .
+%gra:	1|8|CC 2|4|CASE 3|4|DET 4|8|OBL 5|8|NSUBJ 6|8|AUX 7|8|AUX 8|0|ROOT 9|10|DET 10|8|OBJ 11|12|CASE 12|10|NMOD 13|14|CC 14|8|CONJ 15|16|DET 16|14|OBJ 17|18|CASE 18|14|OBL 19|8|PUNCT
+*1150:	and people hafta be aware of media violence . 97177_105259
+%mor:	cconj|and noun|person-Plur aux|hafta-Fin-Ind-Pres-P3 aux|be-Inf-S adj|aware-S1 adp|of noun|media noun|violence .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|COP 5|0|ROOT 6|8|CASE 7|8|COMPOUND 8|5|OBL 9|5|PUNCT
+*1150:	&~m media violence is a big problem that everybody suffers from . 105338_112375
+%mor:	noun|media noun|violence aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|problem pron|that-Rel pron|everybody-Tot-S1 verb|suffer-Fin-Ind-Pres-S3 adp|from .
+%gra:	1|2|COMPOUND 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|9|OBJ 8|9|NSUBJ 9|6|ACL-RELCL 10|7|CASE 11|6|PUNCT
+*1150:	and I hope they reduce the problem and thank you for l:istening . 113324_120191
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3 verb|reduce-Fin-Ind-Pres-P3 det|the-Def-Art noun|problem-Acc cconj|and verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 sconj|for verb|listen-Part-Pres-S .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NSUBJ 5|3|CCOMP 6|7|DET 7|5|OBJ 8|9|CC 9|5|CONJ 10|9|OBJ 11|12|MARK 12|9|ADVCL 13|3|PUNCT
+@End

@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/a-00062524-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1245_4R1, audio
+*PAR0:	luck . 290_470
+%mor:	noun|luck .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	I come from El Meina Ra it's &-uh a western &-uh in the western . 1340_7840
+%mor:	pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Pres-S1 adp|from propn|El propn|Meina propn|Ra pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|western adp|in det|the-Def-Art noun|western .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|4|FLAT 6|4|FLAT 7|10|NSUBJ 8|10|COP 9|10|DET 10|2|PARATAXIS 11|13|CASE 12|13|DET 13|10|NMOD 14|2|PUNCT
+*PAR0:	it's in the western region of Saudi Arabia it's a small city but I love it too much . 9490_16720
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art adj|western-S1 noun|region adp|of adj|Saudi-S1 propn|Arabia pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|small-S1 noun|city cconj|but pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 adv|too adv|much .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|DET 5|6|AMOD 6|0|ROOT 7|9|CASE 8|9|AMOD 9|6|NMOD 10|14|NSUBJ 11|14|COP 12|14|DET 13|14|AMOD 14|6|PARATAXIS 15|17|CC 16|17|NSUBJ 17|14|CONJ 18|17|OBJ 19|20|ADVMOD 20|17|ADVMOD 21|6|PUNCT
+*PAR0:	&-uh it [/] it is small &-uh small city . 17870_24920
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|small-S1 adj|small-S1 noun|city .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|AMOD 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*PAR0:	not too big . 25200_25890
+%mor:	part|not adv|too adj|big-S1 .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*PAR0:	but it has &-um a special thing that called &-uh the Prophet Mosque the holy the [/] the Prophet Mohammed Mosque &-uh we consider and Medina Ura in Saudi Arabia as a religious city because of the mosque . 26280_48250
+%mor:	cconj|but pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|special-S1 noun|thing-Acc-Ger pron|that-Rel verb|call-Fin-Ind-Past-S3 det|the-Def-Art propn|Prophet propn|Mosque-Acc det|the-Def-Art adj|holy-S1 det|the-Def-Art propn|Prophet propn|Mohammed propn|Mosque pron|we-Prs-Nom-P1 verb|consider-Fin-Ind-Pres-P1 cconj|and propn|Medina propn|Ura adp|in adj|Saudi-S1 propn|Arabia adp|as det|a-Ind-Art adj|religious-S1 noun|city adp|because adp|of det|the-Def-Art noun|mosque .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|11|DET 10|11|COMPOUND 11|8|OBJ 12|17|DET 13|17|AMOD 14|17|DET 15|17|COMPOUND 16|15|FLAT 17|8|XCOMP 18|19|NSUBJ 19|17|ACL-RELCL 20|21|CC 21|19|CONJ 22|21|FLAT 23|25|CASE 24|25|AMOD 25|19|OBL 26|29|CASE 27|29|DET 28|29|AMOD 29|19|OBL 30|33|CASE 31|30|FIXED 32|33|DET 33|29|NMOD 34|3|PUNCT
+*PAR0:	and &-uh &-uh it is &-uh <a flat> [/] a flat earth &-uh and has a lot &-um of &-uh mountain around &-uh around it not &-um inside the city . 49240_62820
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|flat-S1 noun|earth cconj|and verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|mountain adv|around adp|around pron|it-Prs-Acc-S3 part|not adp|inside det|the-Def-Art noun|city .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|8|CC 8|6|CONJ 9|10|DET 10|8|OBJ 11|12|CASE 12|10|NMOD 13|10|ADVMOD 14|15|CASE 15|8|OBL 16|19|ADVMOD 17|19|CASE 18|19|DET 19|8|OBL 20|6|PUNCT
+*PAR0:	&-uh &-um the weather is &-uh too dry there . 66880_70560
+%mor:	det|the-Def-Art noun|weather aux|be-Fin-Ind-Pres-S3 adv|too adj|dry-S1 adv|there .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR0:	&-uh <there's no> [/] there's no rain all the time . 71080_75690
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|no-Def-Neg noun|rain det|all-Def-Tot det|the-Def-Art noun|time .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|DET-PREDET 6|7|DET 7|2|OBL-UNMARKED 8|2|PUNCT
+*PAR0:	and &-um there's no there's [/] there's no a lot of activities . 80640_85470
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 intj|no pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|no-Def-Neg det|a-Ind-Art noun|lot adp|of noun|activity-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|DISCOURSE 5|6|EXPL 6|3|PARATAXIS 7|9|DET 8|9|DET 9|6|NSUBJ 10|11|CASE 11|9|NMOD 12|3|PUNCT
+*PAR0:	we can do it in &-uh Al Matina Ra because &-um it's not &-um &-um there is &-um there is no a lot of parks or something like that . 88480_103920
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|do-Inf-S pron|it-Prs-Acc-S3 adp|in propn|Al propn|Matina propn|Ra sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not pron|there-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|no-Def-Neg det|a-Ind-Art noun|lot adp|of noun|park-Plur cconj|or pron|something-Ind-S1 adp|like pron|that-Dem .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|CASE 6|3|OBL 7|6|FLAT 8|3|OBL 9|14|MARK 10|14|EXPL 11|14|COP 12|14|ADVMOD 13|16|EXPL 14|16|ADVCL 15|16|EXPL 16|3|ADVCL 17|19|DET 18|19|DET 19|16|NSUBJ 20|21|CASE 21|19|NMOD 22|23|CC 23|21|CONJ 24|25|CASE 25|23|NMOD 26|3|PUNCT
+*PAR0:	&-um the only thing we can do it to do is &-um &-uh to go to the Profit Mosque &-uh and &-um &-uh to . 105840_115750
+%mor:	det|the-Def-Art adj|only-S1 noun|thing-Ger pron|we-Prs-Nom-P1 aux|can-Fin-S verb|do-Inf-S pron|it-Prs-Nom-S3 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 part|to verb|go-Inf-S adp|to det|the-Def-Art propn|Profit propn|Mosque cconj|and part|to .
+%gra:	1|3|DET 2|3|AMOD 3|12|NSUBJ-OUTER 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|OBJ 8|9|MARK 9|6|XCOMP 10|12|COP 11|12|MARK 12|0|ROOT 13|16|CASE 14|16|DET 15|16|COMPOUND 16|12|OBL 17|18|CC 18|12|CONJ 19|12|PUNCT
+@End

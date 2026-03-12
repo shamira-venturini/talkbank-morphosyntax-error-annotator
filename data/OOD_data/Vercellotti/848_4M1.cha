@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/a-00062598-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	848_4M1, audio
+*PAR0:	hi . 2360_2530
+%mor:	intj|hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	everyone . 2940_3150
+%mor:	pron|everyone-Tot-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	&-um my city is ah [/] ah is the second &-uh city in &-uh my country . 3720_11310
+%mor:	pron|my-Prs-Gen-S1 noun|city aux|be-Fin-Ind-Pres-S3 intj|ah aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|second-S1 noun|city adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|2|NMOD-POSS 2|8|NSUBJ 3|8|COP 4|8|DISCOURSE 5|8|COP 6|8|DET 7|8|AMOD 8|0|ROOT 9|11|CASE 10|11|NMOD-POSS 11|8|NMOD 12|8|PUNCT
+*PAR0:	my country is Kuwait the biggest of the [/] the biggest of my country . 12320_19580
+%mor:	pron|my-Prs-Gen-S1 noun|country aux|be-Fin-Ind-Pres-S3 propn|Kuwait det|the-Def-Art adj|big-Sup-S1 adp|of det|the-Def-Art adj|big-Sup-S1 adp|of pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|DET 6|4|AMOD 7|9|CASE 8|9|DET 9|6|OBL 10|12|CASE 11|12|NMOD-POSS 12|9|OBL 13|4|PUNCT
+*PAR0:	it's around mid second city . 20530_24450
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|around x|mid adj|second-S1 noun|city .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|COMPOUND 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*PAR0:	and &-um it's like &-um it's look like &-uh circle . 24800_30050
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Inf-S adp|like noun|circle .
+%gra:	1|7|CC 2|7|NSUBJ-OUTER 3|7|COP 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|9|CASE 9|7|OBL 10|7|PUNCT
+*PAR0:	and there are many . 30560_32159
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|3|PUNCT
+*PAR0:	there are many three around my city . 34580_37080
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 num|three adp|around pron|my-Prs-Gen-S1 noun|city .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|AMOD 4|2|NSUBJ 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|2|PUNCT
+*PAR0:	and there are many things we can do . 38760_44100
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 noun|thing-Plur pron|we-Prs-Nom-P1 aux|can-Fin-S verb|do-Inf-S .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|AMOD 5|3|NSUBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|3|PUNCT
+*PAR0:	and there we can go with my friend . 48560_52960
+%mor:	cconj|and pron|there-Int-S1 pron|we-Prs-Nom-P1 aux|can-Fin-S verb|go-Inf-S adp|with pron|my-Prs-Gen-S1 noun|friend .
+%gra:	1|5|CC 2|5|EXPL 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|5|PUNCT
+*PAR0:	and we can play in soccer or walking around the park . 55640_64050
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|can-Fin-S verb|play-Inf-S adp|in noun|soccer cconj|or verb|walk-Part-Pres-S adp|around det|the-Def-Art noun|park .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|8|CC 8|4|CONJ 9|11|CASE 10|11|DET 11|8|OBL 12|4|PUNCT
+*PAR0:	and also we can go with my friend to make barbecue or something like [/] like that . 64319_73250
+%mor:	cconj|and adv|also pron|we-Prs-Nom-P1 aux|can-Fin-S verb|go-Inf-S adp|with pron|my-Prs-Gen-S1 noun|friend part|to verb|make-Inf-S noun|barbecue-Acc cconj|or pron|something-Ind-S1 adp|like pron|that-Dem .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|10|MARK 10|5|ADVCL 11|10|OBJ 12|13|CC 13|11|CONJ 14|15|CASE 15|13|NMOD 16|5|PUNCT
+*PAR0:	also we can visit the zoo in &-uh in my city . 74640_82430
+%mor:	adv|also pron|we-Prs-Nom-P1 aux|can-Fin-S verb|visit-Inf-S det|the-Def-Art noun|zoo-Acc adp|in adp|in pron|my-Prs-Gen-S1 noun|city .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|10|CASE 9|10|NMOD-POSS 10|4|OBL 11|4|PUNCT
+*PAR0:	there are a small zoo in my city . 83660_86960
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art adj|small-S1 noun|zoo adp|in pron|my-Prs-Gen-S1 noun|city .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|2|PUNCT
+@End

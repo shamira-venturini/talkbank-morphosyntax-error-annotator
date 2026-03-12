@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/a-00062601-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	948_4L1, audio
+*PAR0:	the topic is describe the city you came from that you came from . 840_4850
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S det|the-Def-Art noun|city-Acc pron|you-Prs-Nom-S2 verb|come-Fin-Ind-Past-S2-irr adp|from pron|that-Rel pron|you-Prs-Nom-S2 verb|come-Fin-Ind-Past-S2-irr adp|from .
+%gra:	1|2|DET 2|4|NSUBJ-OUTER 3|4|COP 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|10|CASE 10|12|OBL 11|12|NSUBJ 12|6|ACL-RELCL 13|10|CASE 14|4|PUNCT
+*PAR0:	&-uh I [/] I came from Jda &-uh in Saudi Arabia &-uh Jda is the second biggest city in Saudi Arabia &-uh it's really big city that have many &-uh shopping mall huge shopping mall . 6280_22900
+%mor:	pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Past-S1-irr adp|from propn|Jda adp|in adj|Saudi-S1 propn|Arabia propn|Jda aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|second-S1 adj|big-Sup-S1 noun|city adp|in adj|Saudi-S1 propn|Arabia pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|really adj|big-S1 noun|city pron|that-Rel verb|have-Fin-Ind-Pres-P3 adj|many-S1 noun|shopping-Ger noun|mall adj|huge-S1 noun|shopping-Ger noun|mall-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|7|CASE 6|7|AMOD 7|2|OBL 8|13|NSUBJ 9|13|COP 10|13|DET 11|13|AMOD 12|13|AMOD 13|2|PARATAXIS 14|16|CASE 15|16|AMOD 16|13|NMOD 17|21|NSUBJ 18|21|COP 19|20|ADVMOD 20|21|AMOD 21|13|PARATAXIS 22|23|NSUBJ 23|21|ACL-RELCL 24|29|AMOD 25|26|COMPOUND 26|29|COMPOUND 27|29|AMOD 28|29|COMPOUND 29|23|OBJ 30|2|PUNCT
+*PAR0:	&-uh and &-uh have and has &-uh a beach and really nice restaurants usually there . 29840_41200
+%mor:	cconj|and verb|have-Fin-Ind-Pres-S cconj|and verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|beach cconj|and adv|really adj|nice-S1 noun|restaurant-Plur-Acc adv|usually adv|there .
+%gra:	1|2|CC 2|0|ROOT 3|4|CC 4|2|CONJ 5|10|DET 6|10|COMPOUND 7|10|CC 8|9|ADVMOD 9|10|AMOD 10|4|OBJ 11|12|ADVMOD 12|4|ADVMOD 13|2|PUNCT
+*PAR0:	&-uh me and &-uh my family &-uh we went &-uh to &-uh we have a boat . 41920_47640
+%mor:	pron|I-Prs-Acc-S1 cconj|and pron|my-Prs-Gen-S1 noun|family pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr sconj|to pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|boat-Acc .
+%gra:	1|6|NSUBJ 2|4|CC 3|4|NMOD-POSS 4|1|CONJ 5|6|NSUBJ 6|0|ROOT 7|9|MARK 8|9|NSUBJ 9|6|ADVCL 10|11|DET 11|9|OBJ 12|6|PUNCT
+*PAR0:	&-uh so every weekend I used to go to the sea . 48760_53600
+%mor:	adv|so det|every-Def-Tot noun|weekend pron|I-Prs-Nom-S1 verb|use-Fin-Ind-Past-S1 part|to verb|go-Inf-S adp|to det|the-Def-Art noun|sea .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|OBL-UNMARKED 4|5|NSUBJ 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|5|PUNCT
+*PAR0:	we swim . 54640_55080
+%mor:	pron|we-Prs-Nom-P1 verb|swim-Fin-Ind-Pres-P1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR0:	and we have our lunch there also in we have &-uh three big universities . 55270_66090
+%mor:	cconj|and pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 pron|our-Prs-Gen-P1 noun|lunch-Acc adv|there adv|also sconj|in pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 num|three adj|big-S1 noun|university-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|ADVMOD 7|10|ADVMOD 8|10|MARK 9|10|NSUBJ 10|3|ADVCL 11|13|NUMMOD 12|13|AMOD 13|10|OBJ 14|3|PUNCT
+*PAR0:	&-uh that &-uh most people come &-uh from small cities to study there . 67960_73690
+%mor:	sconj|that adj|most-Sup-S1 noun|person-Plur verb|come-Fin-Ind-Pres-P3 adp|from adj|small-S1 noun|city-Plur part|to verb|study-Inf-S adv|there .
+%gra:	1|4|MARK 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|7|CASE 6|7|AMOD 7|4|OBL 8|9|MARK 9|4|ADVCL 10|9|ADVMOD 11|4|PUNCT
+*PAR0:	mm . 77400_77410
+%mor:	intj|mm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	and also in Jah there is the second longest fountain in the world . 79280_83650
+%mor:	cconj|and adv|also adp|in propn|Jah pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|second-S1 adj|long-Sup-S1 noun|fountain adp|in det|the-Def-Art noun|world .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|CASE 4|6|OBL 5|6|EXPL 6|0|ROOT 7|10|DET 8|10|AMOD 9|10|AMOD 10|6|NSUBJ 11|13|CASE 12|13|DET 13|10|NMOD 14|6|PUNCT
+*PAR0:	&-uh it has really nice &-uh view and &-uh something that &-uh make Jah famous width &-uh also &-uh Gita &-uh is near to Macka the holy place . 84760_109130
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adv|really adj|nice-S1 noun|view-Acc cconj|and pron|something-Ind-S1 pron|that-Rel verb|make-Fin-Ind-Pres-P3 propn|Jah adj|famous-S1 noun|width-Acc adv|also propn|Gita aux|be-Fin-Ind-Pres-S3 adv|near adp|to propn|Macka det|the-Def-Art adj|holy-S1 noun|place .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|ADVMOD 4|5|AMOD 5|2|OBJ 6|16|CC 7|16|NSUBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|12|COMPOUND 11|12|AMOD 12|9|OBJ 13|16|ADVMOD 14|16|NSUBJ 15|16|COP 16|2|CONJ 17|18|CASE 18|16|OBL 19|21|DET 20|21|AMOD 21|16|OBL 22|2|PUNCT
+*PAR0:	the holy &-uh place for Muslims thank you's . 112770_116720
+%mor:	det|the-Def-Art adj|holy-S1 noun|place adp|for propn|Muslim-Plur verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2~part|s .
+%gra:	1|3|DET 2|3|AMOD 3|6|NSUBJ 4|5|CASE 5|3|NMOD 6|0|ROOT 7|6|OBJ 8|7|CASE 9|6|PUNCT
+@End

@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/t-00010221-1
+@Begin
+@Languages:	eng
+@Participants:	1182 Student
+@ID:	eng|Vercellotti|1182|||1||Student|level4||
+@Media:	1182_5S1, audio
+@Transcriber:	jms
+*1182:	&-uh the topic is talk about my opinion of violence on tv . 2524_5786
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|talk-Inf-S adp|about pron|my-Prs-Gen-S1 noun|opinion adp|of noun|violence adp|on noun|TV .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|9|CASE 9|7|NMOD 10|11|CASE 11|9|NMOD 12|4|PUNCT
+*1182:	&-uh <what kind is> [//] what kind in [/] in my [/] &~ka my country . 6046_10783
+%mor:	det|what-Def-Int noun|kind adp|in pron|my-Prs-Gen-S1 noun|country .
+%gra:	1|2|DET 2|0|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|2|PUNCT
+*1182:	&-um the kind of violence in my country is crime violence . 11253_16112
+%mor:	det|the-Def-Art noun|kind adp|of noun|violence adp|in pron|my-Prs-Gen-S1 noun|country aux|be-Fin-Ind-Pres-S3 noun|crime noun|violence .
+%gra:	1|2|DET 2|10|NSUBJ 3|4|CASE 4|2|NMOD 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|10|COP 9|10|COMPOUND 10|0|ROOT 11|10|PUNCT
+*1182:	and I think &~i it should be banned especially for children . 19580_20809
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 aux|should-Fin-S aux|be-Inf-S verb|ban-Part-Past-S adv|especially adp|for noun|child-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|NSUBJ-PASS 5|7|AUX 6|7|AUX-PASS 7|3|CCOMP 8|10|ADVMOD 9|10|CASE 10|7|OBL 11|3|PUNCT
+*1182:	because &-um &-uh this type of [/] of violence will encourage [/] ah encourage the children to do it in real life because they don't &-um rationally think about if it is real or not . 21320_40891
+%mor:	sconj|because det|this-Def-Dem-Sing noun|type adp|of noun|violence aux|will-Fin-S intj|ah verb|encourage-Inf-S det|the-Def-Art noun|child-Plur-Acc part|to verb|do-Inf-S pron|it-Prs-Acc-S3 adp|in adj|real-S1 noun|life sconj|because pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not adv|rationally verb|think-Inf-S sconj|about sconj|if pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|real-S1 cconj|or part|not .
+%gra:	1|8|MARK 2|3|DET 3|8|NSUBJ 4|5|CASE 5|3|NMOD 6|8|AUX 7|8|DISCOURSE 8|0|ROOT 9|10|DET 10|8|OBJ 11|12|MARK 12|8|XCOMP 13|12|OBJ 14|16|CASE 15|16|AMOD 16|12|OBL 17|22|MARK 18|22|NSUBJ 19|22|AUX 20|22|ADVMOD 21|22|ADVMOD 22|8|ADVCL 23|27|MARK 24|27|MARK 25|27|NSUBJ 26|27|COP 27|22|ADVCL 28|29|CC 29|27|CONJ 30|8|PUNCT
+*1182:	&-um so I think we should &-um eliminate it because it's crucial that the children will [///] should grow up in a good environment . 41505_58678
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1 aux|should-Fin-S verb|eliminate-Inf-S pron|it-Prs-Acc-S3 sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|crucial-S1 sconj|that det|the-Def-Art noun|child-Plur aux|should-Fin-S verb|grow-Inf-S adp|up adp|in det|a-Ind-Art adj|good-S1 noun|environment .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|6|OBJ 8|11|MARK 9|11|EXPL 10|11|COP 11|3|ADVCL 12|16|MARK 13|14|DET 14|16|NSUBJ 15|16|AUX 16|11|CSUBJ 17|16|COMPOUND-PRT 18|21|CASE 19|21|DET 20|21|AMOD 21|16|OBL 22|3|PUNCT
+*1182:	an(d) that's why &-um we should banned it . 59014_66685
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|why pron|we-Prs-Nom-P1 aux|should-Fin-S verb|ban-Inf-Past-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ADVCL-RELCL 8|7|OBJ 9|4|PUNCT
+*1182:	and sometimes it depends on the type of the violence . 67350_120191
+%mor:	cconj|and adv|sometimes pron|it-Prs-Nom-S3 verb|depend-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|type adp|of det|the-Def-Art noun|violence .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|7|NMOD 11|4|PUNCT
+@End

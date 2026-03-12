@@ -1,0 +1,6 @@
+run_name,experiment,split,holdout_rows,holdout_exact_label_accuracy,holdout_operator_accuracy
+recon_full_comp_preserve_final_seed3407,unknown,test_real,0,0.0,0.0
+recon_full_comp_preserve_final_seed3407,unknown,test_coverage,0,0.0,0.0
+recon_full_comp_preserve_final_seed3407,unknown,holdout_generalization,588,0.056122,0.056122
+recon_full_comp_nonword_only_seed3407,unknown,test_real,0,0.0,0.0
+recon_full_comp_nonword_only_seed3407,unknown,holdout_generalization,591,0.0,0.0

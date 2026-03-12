@@ -1,0 +1,42 @@
+@UTF8
+@PID:	11312/t-00010141-1
+@Begin
+@Languages:	eng
+@Participants:	1085 Student
+@ID:	eng|Vercellotti|1085|||1||Student|level4||
+@Media:	1085_4R1, audio
+@Transcriber:	jms
+*1085:	today's topic is discuss a problem in the world that concerns you . 5422_7713
+%mor:	noun|today~part|s noun|topic aux|be-Fin-Ind-Pres-S3 verb|discuss-Inf-S det|a-Ind-Art noun|problem-Acc adp|in det|the-Def-Art noun|world pron|that-Rel verb|concern-Fin-Ind-Pres-S3 pron|you-Prs-Acc-S2 .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|12|NSUBJ 12|10|ACL-RELCL 13|12|OBJ 14|5|PUNCT
+*1085:	what is being done to solve it . 9780_9984
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 aux|be-Part-Pres-S verb|do-Part-Past-S-irr part|to verb|solve-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ-PASS 2|4|AUX 3|4|AUX-PASS 4|0|ROOT 5|6|MARK 6|4|ADVCL 7|6|OBJ 8|4|PUNCT
+*1085:	and what are some things that still needta be done [% reading prompt] . 12551_15995
+%mor:	cconj|and pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 det|some-Def-Ind noun|thing-Plur pron|that-Rel adv|still aux|needta-Fin-Ind-Pres-P3 aux|be-Fin-Ind-Pres-P3 verb|do-Part-Past-S-irr .
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|10|NSUBJ-PASS 7|10|ADVMOD 8|10|AUX 9|10|AUX-PASS 10|5|ACL-RELCL 11|2|PUNCT
+*1085:	&-um <my problem> [/] is my problem is &-uh speaking english learn english listening english . 16922_31384
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|problem aux|be-Fin-Ind-Pres-S3 verb|speak-Part-Pres-S noun|English-Acc verb|learn-Inf-S adj|English-S1 noun|listening-Acc-Ger adv|English .
+%gra:	1|5|AUX 2|3|NMOD-POSS 3|5|NSUBJ-OUTER 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|XCOMP 8|9|AMOD 9|7|OBJ 10|7|ADVMOD 11|5|PUNCT
+*1085:	&~an &~d &~m &-uh I [//] how do I solve it . 31892_40410
+%mor:	adv|how aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|solve-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*1085:	&-uh <I comed> [//] <I came to> [//] <I came> [/] I came in &-uh Pittsburgh &-uh to study english . 41066_52745
+%mor:	pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Past-S1-irr adp|in propn|Pittsburgh part|to verb|study-Inf-S noun|English-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|6|MARK 6|2|ADVCL 7|6|OBJ 8|2|PUNCT
+*1085:	and &-uh my [/] &~tar my target is &-um speak english fluently with american . 53248_66740
+%mor:	cconj|and pron|my-Prs-Gen-S1 noun|target aux|be-Fin-Ind-Pres-S3 verb|speak-Inf-S adv|English adv|fluently adp|with adj|American-S1 .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|ADVMOD 8|9|CASE 9|5|OBL 10|5|PUNCT
+*1085:	&~i &-uh &~i &~e e_l_i [/] ELI's teacher is my resources . 66794_78022
+%mor:	propn|ELI~part|s noun|teacher aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|resource-Plur .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|6|NSUBJ 4|6|COP 5|6|NMOD-POSS 6|0|ROOT 7|6|PUNCT
+*1085:	they are my resources . 79715_80025
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 pron|my-Prs-Gen-S1 noun|resource-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|0|ROOT 5|4|PUNCT
+*1085:	and &-uh &-uh I [/] I learn english &~meth method [//] methods are &-uh practice more than before <when I in Taiwan when I live> [//] when I lived in Taiwan . 80414_102577
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|learn-Fin-Ind-Pres-S1 adj|English-S1 noun|method-Plur aux|be-Fin-Ind-Pres-P3 noun|practice adj|more-Cmp-S1 adp|than adv|before adv|when pron|I-Prs-Nom-S1 verb|live-Fin-Ind-Past-S1 adp|in propn|Taiwan .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|AMOD 5|7|NSUBJ 6|7|COP 7|3|CCOMP 8|7|ADVMOD 9|10|CASE 10|8|OBL 11|13|ADVMOD 12|13|NSUBJ 13|8|ADVCL 14|15|CASE 15|13|OBL 16|3|PUNCT
+*1085:	and ah I try to speak english &-uh more than before <and listen> [//] and &-uh listening &~a &-uh english and practice them . 103261_120191
+%mor:	cconj|and intj|ah pron|I-Prs-Nom-S1 verb|try-Fin-Ind-Pres-S1 part|to verb|speak-Inf-S adv|English adv|more sconj|than adv|before cconj|and verb|listen-Part-Pres-S adv|English cconj|and verb|practice-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|4|CC 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|6|ADVMOD 9|10|MARK 10|6|ADVCL 11|12|CC 12|6|CONJ 13|12|ADVMOD 14|15|CC 15|12|CONJ 16|15|OBJ 17|4|PUNCT
+@End

@@ -1,0 +1,24 @@
+@UTF8
+@PID:	11312/t-00010135-1
+@Begin
+@Languages:	eng
+@Participants:	1081 Student
+@ID:	eng|Vercellotti|1081|||2||Student|level4||
+@Media:	1081_4R2, audio
+@Transcriber:	jms
+*1081:	I [/] &-uh <I should have studied> [/] ah I should have studied english before I came in us . 2816_11502
+%mor:	intj|ah pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S verb|study-Part-Past-S noun|English-Acc sconj|before pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Past-S1-irr adp|in pron|we-Prs-Acc-P1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|OBJ 7|9|MARK 8|9|NSUBJ 9|5|ADVCL 10|11|CASE 11|9|OBL 12|5|PUNCT
+*1081:	if I had ah studied &-um english before I: [/] I came I [/] &~wa I will be [/] &-um be good . 13264_23658
+%mor:	sconj|if pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1-irr intj|ah verb|study-Part-Past-S noun|English-Acc sconj|before pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 aux|will-Fin-S aux|be-Inf-S adj|good-S1 .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|AUX 4|5|DISCOURSE 5|13|ADVCL 6|5|OBJ 7|9|MARK 8|9|NSUBJ 9|5|ADVCL 10|13|NSUBJ 11|13|AUX 12|13|COP 13|0|ROOT 14|13|PUNCT
+*1081:	&-uh and &-um mm mm I [/] I could understood &-uh &-uh something &-uh &-uh at the street or &-um when [/] &-uh when I &-uh need get something from restaurant or [/] &-uh or [/] &-um or [/] &-um or when I call some company for &-uh cellphone . 23658_50585
+%mor:	cconj|and intj|mm intj|mm pron|I-Prs-Nom-S1 aux|could-Fin-S verb|understand-Inf-Past-S-irr pron|something-Ind-S1 adp|at det|the-Def-Art noun|street cconj|or adv|when pron|I-Prs-Nom-S1 aux|need-Fin-Ind-Pres-S1 verb|get-Inf-S pron|something-Ind-S1 adp|from noun|restaurant cconj|or adv|when pron|I-Prs-Nom-S1 verb|call-Fin-Ind-Pres-S1 det|some-Def-Ind noun|company-Acc adp|for noun|cellphone .
+%gra:	1|6|CC 2|6|DISCOURSE 3|6|DISCOURSE 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|15|CC 12|15|ADVMOD 13|15|NSUBJ 14|15|AUX 15|6|ADVCL 16|15|OBJ 17|18|CASE 18|15|OBL 19|22|CC 20|22|ADVMOD 21|22|NSUBJ 22|15|CONJ 23|24|DET 24|22|OBJ 25|26|CASE 26|22|OBL 27|6|PUNCT
+*1081:	or [///] &-uh and I think this &-uh <the the> [/] the best important &-uh factor or: what [//] factor [//] <what I> [/] &-uh what I &-uh should [/] &-uh &-uh should have &-uh been &-uh before I came &-uh in us . 50585_73985
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|this-Dem-S1 det|the-Def-Art adj|good-Sup-S1 adj|important-S1 noun|factor cconj|or pron|what-Rel-S1 pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S aux|be-Part-Past-S-irr sconj|before pron|I-Prs-Nom-S1 verb|come-Fin-Ind-Past-S1-irr adp|in pron|we-Prs-Acc-P1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|8|NSUBJ 5|8|DET 6|8|AMOD 7|8|AMOD 8|3|CCOMP 9|10|CC 10|8|CONJ 11|14|NSUBJ 12|14|AUX 13|14|AUX 14|10|COP 15|17|MARK 16|17|NSUBJ 17|10|ADVCL 18|19|CASE 19|17|OBL 20|3|PUNCT
+*1081:	&-uh &-uh <if I> [/] &-um &-uh if I had &-uh understood &-uh &-uh english &-um &-uh I [/] &-uh I could have &-um mm discussing [//] &-uh discuss &-uh anything with &-uh &-uh the teachers or &-uh or students &-um mm . 74844_120191
+%mor:	sconj|if pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1-irr verb|understand-Part-Past-S-irr noun|English-Acc pron|I-Prs-Nom-S1 aux|could-Fin-S verb|have-Inf-S intj|mm verb|discuss-Inf-S pron|anything-Ind-S1 adp|with det|the-Def-Art noun|teacher-Plur cconj|or cconj|or noun|student-Plur intj|mm .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|8|ADVCL 5|4|OBJ 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|10|DISCOURSE 10|8|XCOMP 11|10|OBJ 12|14|CASE 13|14|DET 14|11|NMOD 15|17|CC 16|17|CC 17|14|CONJ 18|8|DISCOURSE 19|8|PUNCT
+@End

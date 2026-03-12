@@ -1,0 +1,30 @@
+@UTF8
+@PID:	11312/t-00010179-1
+@Begin
+@Languages:	eng
+@Participants:	1158 Student
+@ID:	eng|Vercellotti|1158|||1||Student|level3||
+@Media:	1158_3F1, audio
+@Transcriber:	jms
+*1158:	question one how did you meet [% reading prompt] . 4217_4806
+%mor:	verb|question-Inf-S num|one adv|how aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|meet-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|ADVMOD 4|6|AUX 5|6|NSUBJ 6|1|CCOMP 7|1|PUNCT
+*1158:	&-um I produce individual me for another person . 4806_20627
+%mor:	pron|I-Prs-Nom-S1 verb|produce-Fin-Ind-Pres-S1 noun|individual pron|I-Prs-Acc-S1 adp|for det|another-Def-Ind noun|person .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|COMPOUND 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*1158:	this [///] what ah qualities help describe your friend [% reading prompt] . 21076_31750
+%mor:	pron|what-Int-S1 intj|ah noun|quality-Plur verb|help-Fin-Ind-Pres-P3 verb|describe-Inf-S pron|your-Prs-Gen-S2 noun|friend-Acc .
+%gra:	1|4|OBJ 2|3|REPARANDUM 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|7|NMOD-POSS 7|5|OBJ 8|4|PUNCT
+*1158:	&-um I help my friend if you need any assist . 32100_69294
+%mor:	pron|I-Prs-Nom-S1 verb|help-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|friend-Acc sconj|if pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 det|any-Def-Ind noun|assist-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|7|MARK 6|7|NSUBJ 7|2|ADVCL 8|9|DET 9|7|OBJ 10|2|PUNCT
+*1158:	or <if you> [/] if you [//] she have any things: &~s significant can I &-uh talk with her for that . 70566_90475
+%mor:	cconj|or sconj|if pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|any-Def-Ind noun|thing-Plur-Acc adj|significant-S1 aux|can-Fin-S pron|I-Prs-Nom-S1 verb|talk-Inf-S adp|with pron|her-Prs-Acc-S3 adp|for pron|that-Dem .
+%gra:	1|10|CC 2|4|MARK 3|4|NSUBJ 4|10|ADVCL 5|6|DET 6|4|OBJ 7|6|AMOD 8|10|AUX 9|10|NSUBJ 10|0|ROOT 11|12|CASE 12|10|OBL 13|14|CASE 14|10|OBL 15|10|PUNCT
+*1158:	what did you useta do together [% reading prompt] . 93420_94405
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 intj|useta verb|do-Inf-S adv|together .
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|DISCOURSE 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*1158:	&-um I useta together create something &-um for example for &-uh make food or . 94954_120191
+%mor:	pron|I-Prs-Nom-S1 aux|useta-Fin-Ind-Pres-S1 adv|together verb|create-Inf-S pron|something-Ind-S1 adp|for noun|example adp|for verb|make-Inf-S noun|food-Acc cconj|or .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|9|MARK 9|4|ADVCL 10|9|OBJ 11|4|CONJ 12|4|PUNCT
+@End

@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/a-00062578-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1325_4Q3, audio
+*PAR0:	my topic is about a famous person from my country from the past is &-uh it is called Omar and Moar it is a famous person because &-uh he was a brave man . 1720_14640
+%mor:	pron|my-Prs-Gen-S1 noun|topic aux|be-Fin-Ind-Pres-S3 adp|about det|a-Ind-Art adj|famous-S1 noun|person adp|from pron|my-Prs-Gen-S1 noun|country adp|from det|the-Def-Art noun|past aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|call-Part-Past-S propn|Omar cconj|and propn|Moar pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|famous-S1 noun|person sconj|because pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|brave-S1 noun|man .
+%gra:	1|2|NMOD-POSS 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|AMOD 7|0|ROOT 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|13|CASE 12|13|DET 13|7|NMOD 14|17|COP 15|17|NSUBJ-PASS 16|17|AUX-PASS 17|7|PARATAXIS 18|17|XCOMP 19|20|CC 20|18|CONJ 21|25|NSUBJ 22|25|COP 23|25|DET 24|25|AMOD 25|17|CCOMP 26|31|MARK 27|31|NSUBJ 28|31|COP 29|31|DET 30|31|AMOD 31|25|ADVCL 32|7|PUNCT
+*PAR0:	and he is &-uh also old man . 15850_18440
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|also adj|old-S1 noun|man .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*PAR0:	and &-uh he tried to get out &-uh Italian people &-uh from our country . 19510_25520
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|try-Fin-Ind-Past-S3 part|to verb|get-Inf-S adp|out adj|Italian-S1 noun|person-Plur-Acc adp|from pron|our-Prs-Gen-P1 noun|country .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|8|AMOD 8|5|OBJ 9|11|CASE 10|11|NMOD-POSS 11|5|OBL 12|3|PUNCT
+*PAR0:	he fight the Italian people &-uh very much when they get in our country . 26560_34000
+%mor:	pron|he-Prs-Nom-S3 verb|fight-Fin-Ind-Pres-S3 det|the-Def-Art adj|Italian-S1 noun|person-Plur-Acc adv|very adv|much adv|when pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Pres-P3 adp|in pron|our-Prs-Gen-P1 noun|country .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|7|ADVMOD 7|2|ADVMOD 8|10|ADVMOD 9|10|NSUBJ 10|2|ADVCL 11|13|CASE 12|13|NMOD-POSS 13|10|OBL 14|2|PUNCT
+*PAR0:	and &-uh the principle goal &-uh which he want to achieve is to &-uh &-uh tell the Italian people to came to get out from our country . 35630_50010
+%mor:	cconj|and det|the-Def-Art noun|principle noun|goal pron|which-Rel-S1 pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 part|to verb|achieve-Inf-S aux|be-Fin-Ind-Pres-S3 part|to verb|tell-Inf-S det|the-Def-Art adj|Italian-S1 noun|person-Plur part|to verb|come-Inf-Past-S-irr part|to verb|get-Inf-S adp|out adp|from pron|our-Prs-Gen-P1 noun|country .
+%gra:	1|12|CC 2|4|DET 3|4|COMPOUND 4|12|NSUBJ-OUTER 5|7|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|9|MARK 9|7|XCOMP 10|12|COP 11|12|MARK 12|0|ROOT 13|15|DET 14|15|AMOD 15|12|IOBJ 16|17|MARK 17|12|XCOMP 18|19|MARK 19|17|ADVCL 20|19|COMPOUND-PRT 21|23|CASE 22|23|NMOD-POSS 23|19|OBL 24|12|PUNCT
+*PAR0:	so he &-uh did a lot of effort and fighting &-uh with &-uh with his group to &-uh tell &-uh to get out &-uh the people Italian &-uh military &-um people . 52400_67850
+%mor:	adv|so pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|lot-Acc adp|of noun|effort cconj|and verb|fight-Ger-S adp|with adp|with pron|his-Prs-Gen-S3 noun|group part|to verb|tell-Inf-S part|to verb|get-Inf-S adp|out det|the-Def-Art noun|person-Plur-Acc adj|Italian-S1 adj|military-S1 noun|person-Plur-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|9|CC 9|3|CONJ 10|9|OBL 11|13|CASE 12|13|NMOD-POSS 13|9|OBL 14|15|MARK 15|9|ADVCL 16|17|MARK 17|15|XCOMP 18|17|COMPOUND-PRT 19|20|DET 20|17|OBJ 21|23|AMOD 22|23|AMOD 23|17|OBJ 24|3|PUNCT
+*PAR0:	&-uh so he do a lot of things a lot of actions . 70680_76360
+%mor:	adv|so pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot-Acc adp|of noun|thing-Plur det|a-Ind-Art noun|lot adp|of noun|action-Plur .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|9|DET 9|3|OBL-UNMARKED 10|11|CASE 11|9|NMOD 12|3|PUNCT
+*PAR0:	and he also fight by simple &-uh ways by his [/] his gun and his &-uh horse with his group . 77600_85400
+%mor:	cconj|and pron|he-Prs-Nom-S3 adv|also verb|fight-Fin-Ind-Pres-S3 adp|by adj|simple-S1 noun|way-Plur adp|by pron|his-Prs-Gen-S3 noun|gun cconj|and pron|his-Prs-Gen-S3 noun|horse adp|with pron|his-Prs-Gen-S3 noun|group .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|AMOD 7|4|OBL 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|13|CC 12|13|NMOD-POSS 13|10|CONJ 14|16|CASE 15|16|NMOD-POSS 16|13|NMOD 17|4|PUNCT
+*PAR0:	&-um &-uh he &-uh they &-uh ask him to make &-uh make &-um us &-uh for peace . 86920_97880
+%mor:	pron|he-Prs-Nom-S3 pron|they-Prs-Nom-P3 verb|ask-Fin-Ind-Pres-P3 pron|he-Prs-Acc-S3 part|to verb|make-Inf-S verb|make-Inf-S pron|we-Prs-Acc-P1 adp|for noun|peace .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|6|MARK 6|3|XCOMP 7|6|XCOMP 8|7|OBJ 9|10|CASE 10|7|OBL 11|3|PUNCT
+*PAR0:	and we will make you &-uh a king of &-uh Libya so he refuse it . 99440_104100
+%mor:	cconj|and pron|we-Prs-Nom-P1 aux|will-Fin-S verb|make-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|king-Ger adp|of propn|Libya adv|so pron|he-Prs-Nom-S3 verb|refuse-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|DET 7|4|XCOMP 8|9|CASE 9|7|NMOD 10|12|ADVMOD 11|12|NSUBJ 12|4|PARATAXIS 13|12|OBJ 14|4|PUNCT
+*PAR0:	the [/] the bad thing would happen . 104960_107120
+%mor:	det|the-Def-Art adj|bad-S1 noun|thing-Ger aux|would-Fin-S verb|happen-Inf-S .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR0:	it called by handing &-uh by Italian people in front of &-uh pub &-uh people or front of publication . 107220_115320
+%mor:	pron|it-Prs-Nom-S3 verb|call-Fin-Ind-Past-S3 sconj|by verb|hand-Part-Pres-S adp|by adj|Italian-S1 noun|person-Plur adp|in noun|front adp|of noun|pub noun|person-Plur cconj|or noun|front adp|of noun|publication .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|ADVCL 5|7|CASE 6|7|AMOD 7|4|OBL 8|9|CASE 9|4|OBL 10|12|CASE 11|12|COMPOUND 12|9|NMOD 13|14|CC 14|12|CONJ 15|16|CASE 16|14|NMOD 17|2|PUNCT
+*PAR0:	so it is a famous person .
+%mor:	adv|so pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|famous-S1 noun|person .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+@End

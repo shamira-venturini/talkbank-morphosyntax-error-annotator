@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/a-00062548-1
+@Begin
+@Languages:	eng
+@Participants:	PAR1 Participant, PAR0 Participant
+@ID:	eng|Vercellotti|PAR1|||||Participant|||
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1285_4Q4, audio
+*PAR1:	I'd like to talk . 2040_2670
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S part|to verb|talk-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+*PAR1:	I'd like to talk about a custom in Korea [/] Korea which I do not like . 3120_10680
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S part|to verb|talk-Inf-S adp|about det|a-Ind-Art noun|custom adp|in propn|Korea pron|which-Rel-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1 part|not verb|like-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|10|CASE 10|8|NMOD 11|15|OBJ 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|8|ACL-RELCL 16|3|PUNCT
+*PAR1:	&-um one of my country's custom is very old nature . 13040_18540
+%mor:	num|one adp|of pron|my-Prs-Gen-S1 noun|country~part|s noun|custom aux|be-Fin-Ind-Pres-S3 adv|very adj|old-S1 noun|nature .
+%gra:	1|10|NSUBJ 2|6|CASE 3|4|NMOD-POSS 4|6|NMOD-POSS 5|4|CASE 6|1|NMOD 7|10|COP 8|9|ADVMOD 9|10|AMOD 10|0|ROOT 11|10|PUNCT
+*PAR1:	and the &-um when I met a elder person &-uh we must not give a hand first if I am there I am a [/] a younger person than him or her . 21600_39960
+%mor:	cconj|and det|the-Def-Art adv|when pron|I-Prs-Nom-S1 verb|meet-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|elder noun|person-Acc pron|we-Prs-Nom-P1 aux|must-Fin-S part|not verb|give-Inf-S det|a-Ind-Art noun|hand-Acc adv|first sconj|if pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 adv|there pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art adj|young-Cmp-S1 noun|person adp|than pron|he-Prs-Acc-S3 cconj|or pron|her-Prs-Acc-S3 .
+%gra:	1|12|CC 2|12|REPARANDUM 3|5|ADVMOD 4|5|NSUBJ 5|12|ADVCL 6|8|DET 7|8|COMPOUND 8|5|OBJ 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|0|ROOT 13|14|DET 14|12|OBJ 15|12|ADVMOD 16|19|MARK 17|19|NSUBJ 18|19|COP 19|12|ADVCL 20|24|NSUBJ 21|24|COP 22|24|DET 23|24|AMOD 24|19|PARATAXIS 25|26|CASE 26|24|NMOD 27|28|CC 28|26|CONJ 29|12|PUNCT
+*PAR1:	so we have to wait until he or she suggests to the shake a hand . 40960_48530
+%mor:	adv|so pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 part|to verb|wait-Inf-S sconj|until pron|he-Prs-Nom-S3 cconj|or pron|she-Prs-Nom-S3 verb|suggest-Fin-Ind-Pres-S3 adp|to det|the-Def-Art verb|shake-Inf-S det|a-Ind-Art noun|hand-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|10|MARK 7|10|NSUBJ 8|9|CC 9|7|CONJ 10|5|ADVCL 11|13|MARK 12|13|DET 13|10|OBL 14|15|DET 15|13|OBJ 16|3|PUNCT
+*PAR0:	mm . 51600_51610
+%mor:	intj|mm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR1:	I think because I think the picture of the Korean culture is respecting so much &-uh to other person . 52430_62970
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|because pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art noun|picture adp|of det|the-Def-Art adj|Korean-S1 noun|culture aux|be-Fin-Ind-Pres-S3 verb|respect-Part-Pres-S adv|so adj|much-S1 adp|to adj|other-S1 noun|person .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|MARK 4|5|NSUBJ 5|2|ADVCL 6|7|DET 7|13|NSUBJ 8|11|CASE 9|11|DET 10|11|AMOD 11|7|NMOD 12|13|AUX 13|5|CCOMP 14|15|ADVMOD 15|13|OBJ 16|18|CASE 17|18|AMOD 18|13|OBL 19|2|PUNCT
+*PAR1:	so &-uh they [/] they think it is very rude if we give a hand first to shake [/] shake hands . 64800_73150
+%mor:	adv|so pron|they-Prs-Nom-P3 verb|think-Fin-Ind-Pres-P3 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|very adj|rude-S1 sconj|if pron|we-Prs-Nom-P1 verb|give-Fin-Ind-Pres-P1 det|a-Ind-Art noun|hand-Acc adj|first-S1 part|to verb|shake-Inf-S noun|hand-Plur-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|7|EXPL 5|7|COP 6|7|ADVMOD 7|3|CCOMP 8|10|MARK 9|10|NSUBJ 10|7|ADVCL 11|12|DET 12|10|OBJ 13|10|ADVMOD 14|15|MARK 15|10|ADVCL 16|15|OBJ 17|3|PUNCT
+*PAR1:	so &-um sometimes the person another person is a man the woman tend . 76840_85720
+%mor:	adv|so adv|sometimes det|the-Def-Art noun|person det|another-Def-Ind noun|person aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|man det|the-Def-Art noun|woman verb|tend-Fin-Ind-Pres-S3 .
+%gra:	1|9|DISCOURSE 2|9|ADVMOD 3|4|DET 4|9|NSUBJ 5|6|DET 6|4|APPOS 7|9|COP 8|9|DET 9|0|ROOT 10|11|DET 11|12|NSUBJ 12|9|ACL-RELCL 13|9|PUNCT
+*PAR0:	&-um . 87320_87380
+*PAR1:	woman &-uh hesitate to give a hand to shake hands because then gender is a different day . 88980_96680
+%mor:	noun|woman verb|hesitate-Fin-Imp-S part|to verb|give-Inf-S det|a-Ind-Art noun|hand-Acc part|to verb|shake-Inf-S noun|hand-Plur-Acc sconj|because adv|then noun|gender aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|different-S1 noun|day .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|8|MARK 8|4|ADVCL 9|8|OBJ 10|16|MARK 11|16|ADVMOD 12|16|NSUBJ 13|16|COP 14|16|DET 15|16|AMOD 16|2|ADVCL 17|2|PUNCT
+*PAR1:	the older person think it is not comfortable . 96840_100720
+%mor:	det|the-Def-Art adj|old-Cmp-S1 noun|person verb|think-Fin-Ind-Pres-P3 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 part|not adj|comfortable-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|4|CCOMP 9|4|PUNCT
+*PAR1:	so I don't like this custom because these days women have many I have many jobs in society . 103120_113800
+%mor:	adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S det|this-Def-Dem-Sing noun|custom-Acc sconj|because det|this-Def-Dem-Plur noun|day-Plur noun|woman-Plur verb|have-Fin-Ind-Pres-P3 adj|many-S1 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 adj|many-S1 noun|job-Plur-Acc adp|in noun|society .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|DET 7|5|OBJ 8|12|MARK 9|10|DET 10|12|OBL-UNMARKED 11|12|NSUBJ 12|5|ADVCL 13|12|OBJ 14|15|NSUBJ 15|13|ACL-RELCL 16|17|AMOD 17|15|OBJ 18|19|CASE 19|15|OBL 20|5|PUNCT
+*PAR1:	and the woman can meet many people . 114880_117450
+%mor:	cconj|and det|the-Def-Art noun|woman aux|can-Fin-S verb|meet-Inf-S adj|many-S1 noun|person-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|AMOD 7|5|OBJ 8|5|PUNCT
+*PAR1:	and they have a business in the . 117800_119480
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|business-Acc adp|in det|the-Def-Art .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+@End

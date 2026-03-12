@@ -1,0 +1,39 @@
+@UTF8
+@PID:	11312/t-00010090-1
+@Begin
+@Languages:	eng
+@Participants:	1060 Student
+@ID:	eng|Vercellotti|1060|||2||Student|level4||
+@Media:	1060_4P2, audio
+@Transcriber:	jms
+*1060:	the topic is &-uh talk about something I regret that I have done . 1508_4538
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|talk-Inf-S adp|about pron|something-Ind-S1 pron|I-Prs-Nom-S1 verb|regret-Fin-Ind-Pres-S1 sconj|that pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1 verb|do-Part-Past-S-irr .
+%gra:	1|2|DET 2|4|NSUBJ-OUTER 3|4|COP 4|0|ROOT 5|6|CASE 6|4|OBL 7|8|NSUBJ 8|6|ACL-RELCL 9|12|MARK 10|12|NSUBJ 11|12|AUX 12|8|CCOMP 13|4|PUNCT
+*1060:	&-uh first ah yesterday the teacher was &~dispu distributing the [/] the worksheet <or or the> [/] or the exam paper [/] &~eh paper test and actually &-uh I didn't study . 4828_17087
+%mor:	adj|first-S1 intj|ah noun|yesterday det|the-Def-Art noun|teacher aux|be-Fin-Ind-Past-S3-irr verb|distribute-Part-Pres-S det|the-Def-Art noun|worksheet-Acc cconj|or det|the-Def-Art noun|exam noun|paper noun|test cconj|and adv|actually pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|study-Inf-S .
+%gra:	1|7|ADVMOD 2|7|DISCOURSE 3|7|OBL-UNMARKED 4|5|DET 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|9|DET 9|7|OBJ 10|14|CC 11|14|DET 12|14|COMPOUND 13|14|COMPOUND 14|9|CONJ 15|20|CC 16|20|ADVMOD 17|20|NSUBJ 18|20|AUX 19|20|ADVMOD 20|7|CONJ 21|7|PUNCT
+*1060:	and [/] &-uh and while I'm facing <the the the> [/] the exam I [/] I didn't know how to answer . 17293_24110
+%mor:	cconj|and sconj|while pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|face-Part-Pres-S det|the-Def-Art noun|exam-Acc pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|know-Inf-S adv|how part|to verb|answer-Inf-S .
+%gra:	1|11|CC 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|11|ADVCL 6|7|DET 7|5|OBJ 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|0|ROOT 12|11|OBJ 13|14|MARK 14|12|ACL 15|11|PUNCT
+*1060:	so [/] so the result was &-uh that I failed in the exam . 24538_29354
+%mor:	adv|so det|the-Def-Art noun|result aux|be-Fin-Ind-Past-S3-irr sconj|that pron|I-Prs-Nom-S1 verb|fail-Fin-Ind-Past-S1 adp|in det|the-Def-Art noun|exam .
+%gra:	1|7|ADVMOD 2|3|DET 3|7|NSUBJ-OUTER 4|7|COP 5|7|MARK 6|7|NSUBJ 7|0|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+*1060:	&-uh so if: [/] if I studied good I: [/] I shouldn't fail <in the in> [/] &~th in the exam . 29826_37033
+%mor:	adv|so sconj|if pron|I-Prs-Nom-S1 verb|study-Fin-Ind-Past-S1 adj|good-S1 pron|I-Prs-Nom-S1 aux|should-Fin-S~part|not verb|fail-Inf-S adp|in det|the-Def-Art noun|exam .
+%gra:	1|9|ADVMOD 2|4|MARK 3|4|NSUBJ 4|9|ADVCL 5|4|XCOMP 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|0|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|9|PUNCT
+*1060:	<so I should> [//] &-uh have [//] &-um what I should have done differently I should have ah to study hard &-uh and worked hard to pass this exam . 37788_47265
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S verb|do-Part-Past-S-irr adv|differently pron|I-Prs-Nom-S1 aux|should-Fin-S verb|have-Inf-S intj|ah part|to verb|study-Inf-S adv|hard cconj|and verb|work-Part-Past-S adv|hard part|to verb|pass-Inf-S det|this-Def-Dem-Sing noun|exam-Acc .
+%gra:	1|9|NSUBJ-OUTER 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|1|ACL-RELCL 6|5|ADVMOD 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|9|DISCOURSE 11|12|MARK 12|9|XCOMP 13|12|ADVMOD 14|15|CC 15|9|CONJ 16|15|ADVMOD 17|18|MARK 18|15|ADVCL 19|20|DET 20|18|OBJ 21|9|PUNCT
+*1060:	and [/] &-um and &-uh <if I study> [//] if I studied good and if I work hard I: would not fail in my exam . 47702_58892
+%mor:	cconj|and sconj|if pron|I-Prs-Nom-S1 verb|study-Fin-Ind-Past-S1 adj|good-S1 cconj|and sconj|if pron|I-Prs-Nom-S1 verb|work-Fin-Ind-Pres-S1 adv|hard pron|I-Prs-Nom-S1 aux|would-Fin-S part|not verb|fail-Inf-S adp|in pron|my-Prs-Gen-S1 noun|exam .
+%gra:	1|14|CC 2|4|MARK 3|4|NSUBJ 4|14|ADVCL 5|4|XCOMP 6|14|CC 7|9|MARK 8|9|NSUBJ 9|14|ADVCL 10|9|ADVMOD 11|14|NSUBJ 12|14|AUX 13|14|ADVMOD 14|0|ROOT 15|17|CASE 16|17|NMOD-POSS 17|14|OBL 18|14|PUNCT
+*1060:	&-uh I will &-uh get &-uh full mark . 59568_63242
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S verb|get-Inf-S adj|full-S1 noun|mark-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+*1060:	and [/] &-um I [/] will [/] ah and I will pass the exam thank you . 63652_85331
+%mor:	intj|ah cconj|and pron|I-Prs-Nom-S1 aux|will-Fin-S verb|pass-Inf-S det|the-Def-Art noun|exam-Acc verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|5|DISCOURSE 2|5|CC 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|XCOMP 9|8|OBJ 10|5|PUNCT
+*1060:	so &-uh <when I> [///] there is some process I have to: follow for studying to pass any exam to get a full mark . 85957_120191
+%mor:	adv|so pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|process pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|follow-Inf-S sconj|for verb|study-Part-Pres-S part|to verb|pass-Inf-S det|any-Def-Ind noun|exam-Acc part|to verb|get-Inf-S det|a-Ind-Art adj|full-S1 noun|mark-Acc .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|9|MARK 9|7|XCOMP 10|11|MARK 11|9|ADVCL 12|13|MARK 13|11|XCOMP 14|15|DET 15|13|OBJ 16|17|MARK 17|13|ADVCL 18|20|DET 19|20|AMOD 20|17|OBJ 21|3|PUNCT
+@End

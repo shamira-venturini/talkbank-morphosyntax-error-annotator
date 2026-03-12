@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/t-00010210-1
+@Begin
+@Languages:	eng
+@Participants:	1168 Student
+@ID:	eng|Vercellotti|1168|||1||Student|level4||
+@Media:	1168_5T1, audio
+@Transcriber:	jms
+*1168:	the topic is describe the [/] &~advanta the advantages and disadvantages of living in a computerized society . 3246_8220
+%mor:	det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S det|the-Def-Art noun|advantage-Plur-Acc cconj|and noun|disadvantage-Plur sconj|of verb|live-Ger-S adp|in det|a-Ind-Art adj|computerized-S1 noun|society .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|6|CONJ 9|10|MARK 10|8|ACL 11|14|CASE 12|14|DET 13|14|AMOD 14|10|OBL 15|4|PUNCT
+*1168:	&-um I believe that living in a computerized society is advantageous especially for me as an international student . 8811_16729
+%mor:	pron|I-Prs-Nom-S1 verb|believe-Fin-Ind-Pres-S1 sconj|that verb|live-Ger-S adp|in det|a-Ind-Art verb|computerize-Part-Past-S noun|society aux|be-Fin-Ind-Pres-S3 adj|advantageous-S1 adv|especially adp|for pron|I-Prs-Acc-S1 adp|as det|a-Ind-Art adj|international-S1 noun|student .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|10|MARK 4|10|CSUBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|10|COP 10|2|CCOMP 11|13|ADVMOD 12|13|CASE 13|10|OBL 14|17|CASE 15|17|DET 16|17|AMOD 17|10|OBL 18|2|PUNCT
+*1168:	I get the chance to <contact my family [% 3 syllables]> [//] ah contact with my family and friends without spending a lot of money &-uh on mobile phones &-um and land phones which are very costly . 19050_30770
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 det|the-Def-Art noun|chance-Acc part|to intj|ah verb|contact-Inf-S adp|with pron|my-Prs-Gen-S1 noun|family cconj|and noun|friend-Plur sconj|without verb|spend-Part-Pres-S det|a-Ind-Art noun|lot-Acc adp|of noun|money adp|on adj|mobile-S1 noun|phone-Plur cconj|and noun|land noun|phone-Plur pron|which-Rel-S1 aux|be-Fin-Ind-Pres-P3 adv|very adj|costly-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|MARK 6|7|DISCOURSE 7|4|ACL 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|12|CC 12|10|CONJ 13|14|MARK 14|7|ADVCL 15|16|DET 16|14|OBJ 17|18|CASE 18|16|NMOD 19|21|CASE 20|21|AMOD 21|14|OBL 22|24|CC 23|24|COMPOUND 24|21|CONJ 25|28|NSUBJ 26|28|COP 27|28|ADVMOD 28|21|ACL-RELCL 29|2|PUNCT
+*1168:	&-uh &-uh all I hafta do is to [/] &-um to [/] &~ak to &~co coordinate a convenient time because of the time differences between us . 31261_43831
+%mor:	det|all-Def-Tot pron|I-Prs-Nom-S1 aux|hafta-Fin-Ind-Pres-S1 verb|do-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-S3 part|to verb|coordinate-Inf-S det|a-Ind-Art adj|convenient-S1 noun|time-Acc adp|because adp|of det|the-Def-Art noun|time noun|difference-Plur adp|between pron|we-Prs-Acc-P1 .
+%gra:	1|7|NSUBJ-OUTER 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|7|COP 6|7|MARK 7|0|ROOT 8|10|DET 9|10|AMOD 10|7|OBJ 11|15|CASE 12|11|FIXED 13|15|DET 14|15|COMPOUND 15|7|OBL 16|17|CASE 17|15|NMOD 18|7|PUNCT
+*1168:	&~i but although that there are <very advantages> [//] a lot of advantages and [//] of living in a computerize ah &~st society &-um there are also disadvantages . 44106_56966
+%mor:	cconj|but sconj|although sconj|that pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art noun|lot adp|of noun|advantage-Plur sconj|of verb|live-Ger-S adp|in det|a-Ind-Art noun|computerize intj|ah noun|society pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adv|also noun|disadvantage-Plur .
+%gra:	1|18|CC 2|5|MARK 3|5|MARK 4|5|EXPL 5|18|ADVCL 6|7|DET 7|5|NSUBJ 8|9|CASE 9|7|NMOD 10|11|MARK 11|9|ACL 12|16|CASE 13|16|DET 14|16|COMPOUND 15|16|DISCOURSE 16|11|OBL 17|18|EXPL 18|0|ROOT 19|18|ADVMOD 20|18|NSUBJ 21|18|PUNCT
+*1168:	one of them is &-um people can hack in [//] into &~to your computer and steal personal information such as your bank accounts your credit card number and [/] &-um and another information . 58153_72785
+%mor:	num|one adp|of pron|they-Prs-Acc-P3 aux|be-Fin-Ind-Pres-S3 noun|person-Plur aux|can-Fin-S verb|hack-Inf-S adp|into pron|your-Prs-Gen-S2 noun|computer cconj|and verb|steal-Inf-S adj|personal-S1 noun|information-Acc adj|such-S1 adp|as pron|your-Prs-Gen-S2 noun|bank noun|account-Plur pron|your-Prs-Gen-S2 noun|credit noun|card noun|number cconj|and det|another-Def-Ind noun|information .
+%gra:	1|7|NSUBJ-OUTER 2|3|CASE 3|1|NMOD 4|7|COP 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|12|CC 12|7|CONJ 13|14|AMOD 14|12|OBJ 15|19|CASE 16|15|FIXED 17|19|NMOD-POSS 18|19|COMPOUND 19|14|NMOD 20|23|NMOD-POSS 21|22|COMPOUND 22|23|COMPOUND 23|19|APPOS 24|26|CC 25|26|DET 26|23|CONJ 27|7|PUNCT
+*1168:	and &-um another dangers or disadvantage is &-um the possibility that [//] &-um of like computer viruses and phishing programs . 73152_87211
+%mor:	cconj|and det|another-Def-Ind noun|danger-Plur cconj|or noun|disadvantage aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|possibility adp|of adp|like noun|computer noun|viruse-Plur cconj|and noun|phishing-Ger noun|program-Plur .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ 4|5|CC 5|3|CONJ 6|8|COP 7|8|DET 8|0|ROOT 9|12|CASE 10|12|CASE 11|12|COMPOUND 12|8|NMOD 13|15|CC 14|15|COMPOUND 15|12|CONJ 16|8|PUNCT
+*1168:	and all of those are disadvantages of living in a computerized society . 88435_94366
+%mor:	cconj|and det|all-Def-Tot adp|of pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|disadvantage-Plur sconj|of verb|live-Ger-S adp|in det|a-Ind-Art adj|computerized-S1 noun|society .
+%gra:	1|6|CC 2|6|NSUBJ 3|4|CASE 4|2|NMOD 5|6|COP 6|0|ROOT 7|8|MARK 8|6|ACL 9|12|CASE 10|12|DET 11|12|AMOD 12|8|OBL 13|6|PUNCT
+@End

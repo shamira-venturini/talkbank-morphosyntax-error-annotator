@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/a-00062581-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1327_4Q2, audio
+*PAR0:	my topic is describe a job &-um that I would love to have &-um my new perspective &-um for having a job now is &-uh different than what I had before . 920_13040
+%mor:	pron|my-Prs-Gen-S1 noun|topic aux|be-Fin-Ind-Pres-S3 verb|describe-Inf-S det|a-Ind-Art noun|job-Acc pron|that-Rel pron|I-Prs-Nom-S1 aux|would-Fin-S verb|love-Inf-S part|to verb|have-Inf-S pron|my-Prs-Gen-S1 adj|new-S1 noun|perspective-Acc sconj|for verb|have-Ger-S det|a-Ind-Art noun|job-Acc adv|now aux|be-Fin-Ind-Pres-S3 adj|different-S1 adp|than pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr adv|before .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ-OUTER 3|4|COP 4|0|ROOT 5|6|DET 6|4|OBJ 7|12|OBJ 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|12|MARK 12|10|XCOMP 13|15|NMOD-POSS 14|15|AMOD 15|12|OBJ 16|17|MARK 17|12|ADVCL 18|19|DET 19|17|OBJ 20|17|ADVMOD 21|22|COP 22|4|PARATAXIS 23|24|CASE 24|22|OBL 25|26|NSUBJ 26|24|ACL-RELCL 27|26|ADVMOD 28|4|PUNCT
+*PAR0:	&-um before I worked as an anesthetic doctors &-uh doctor . 13720_17560
+%mor:	sconj|before pron|I-Prs-Nom-S1 verb|work-Fin-Ind-Past-S1 adp|as det|a-Ind-Art noun|anesthetic noun|doctor-Plur noun|doctor .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|8|CASE 5|8|DET 6|8|COMPOUND 7|8|COMPOUND 8|3|OBL 9|3|PUNCT
+*PAR0:	and &-um and it was &-um interesting job for me . 18180_23360
+%mor:	cconj|and cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|interesting-S1 noun|job adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|6|CC 2|6|CC 3|6|NSUBJ 4|6|COP 5|6|AMOD 6|0|ROOT 7|8|CASE 8|6|NMOD 9|6|PUNCT
+*PAR0:	and &-uh &-um the most &-um most interesting job for me . 23680_29800
+%mor:	cconj|and det|the-Def-Art adv|most adv|most adj|interesting-S1 noun|job adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|6|CC 2|6|DET 3|5|ADVMOD 4|5|ADVMOD 5|6|AMOD 6|0|ROOT 7|8|CASE 8|6|NMOD 9|6|PUNCT
+*PAR0:	&-um that I had it . 30120_31050
+%mor:	sconj|that pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR0:	&-um but &-um as anesthesiologist &-uh I faced many &-uh stress work . 32000_37350
+%mor:	cconj|but adp|as noun|anesthesiologist pron|I-Prs-Nom-S1 verb|face-Fin-Ind-Past-S1 adj|many-S1 noun|stress noun|work-Acc .
+%gra:	1|5|CC 2|3|CASE 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|8|AMOD 7|8|COMPOUND 8|5|OBJ 9|5|PUNCT
+*PAR0:	and &-uh it [/] it wasn't secure enough for me to have the job . 41360_46840
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr~part|not adj|secure-S1 adv|enough sconj|for pron|I-Prs-Acc-S1 part|to verb|have-Inf-S det|the-Def-Art noun|job-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|5|ADVMOD 7|10|MARK 8|10|NSUBJ 9|10|MARK 10|5|ADVCL 11|12|DET 12|10|OBJ 13|5|PUNCT
+*PAR0:	so &-um I [/] I change my &-um feature for &-uh my new job to another feature of job . 47080_53570
+%mor:	adv|so pron|I-Prs-Nom-S1 verb|change-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|feature-Acc adp|for pron|my-Prs-Gen-S1 adj|new-S1 noun|job adp|to det|another-Def-Ind noun|feature adp|of noun|job .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|9|CASE 7|9|NMOD-POSS 8|9|AMOD 9|3|OBL 10|12|CASE 11|12|DET 12|3|OBL 13|14|CASE 14|12|NMOD 15|3|PUNCT
+*PAR0:	it's related to work as a doctor but in &-um in &-um wide range &-um I'm looking now to work in public &-uh with &-uh in public health . 59170_71010
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|related-S1 part|to noun|work adp|as det|a-Ind-Art noun|doctor cconj|but adp|in adp|in adj|wide-S1 noun|range pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|look-Part-Pres-S adv|now part|to verb|work-Inf-S adp|in noun|public adp|with adp|in adj|public-S1 noun|health .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|CASE 5|3|OBL 6|8|CASE 7|8|DET 8|5|OBL 9|16|CC 10|13|CASE 11|13|CASE 12|13|AMOD 13|16|OBL 14|16|NSUBJ 15|16|AUX 16|3|CONJ 17|16|ADVMOD 18|19|MARK 19|16|XCOMP 20|21|CASE 21|19|OBL 22|25|CASE 23|25|CASE 24|25|AMOD 25|19|OBL 26|3|PUNCT
+*PAR0:	&-uh as &-um &-uh epidemiologist &-uh doctors or &-um &-uh people who work to prevent and control diseases that their country faces sometimes chronic disease . 72960_84210
+%mor:	adp|as noun|epidemiologist noun|doctor-Plur cconj|or noun|person-Plur pron|who-Rel verb|work-Fin-Ind-Pres-P3 part|to verb|prevent-Inf-S cconj|and verb|control-Inf-S noun|disease-Plur-Acc pron|that-Rel pron|their-Prs-Gen-P3 noun|country verb|face-Fin-Ind-Pres-S3 adv|sometimes adj|chronic-S1 noun|disease-Acc .
+%gra:	1|3|CASE 2|3|COMPOUND 3|0|ROOT 4|5|CC 5|3|CONJ 6|7|NSUBJ 7|5|ACL-RELCL 8|9|MARK 9|7|ADVCL 10|11|CC 11|9|CONJ 12|9|OBJ 13|16|OBJ 14|15|NMOD-POSS 15|16|NSUBJ 16|12|ACL-RELCL 17|18|ADVMOD 18|19|AMOD 19|16|OBJ 20|3|PUNCT
+*PAR0:	sometimes not &-uh I chose &-uh I chose this &-um this kind of work because it &-um it's [/] it's potentially important for me to &-uh work in wide range instead_of limited &-uh by one patient . 86500_103840
+%mor:	adv|sometimes part|not pron|I-Prs-Nom-S1 verb|choose-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|choose-Fin-Ind-Past-S1-irr pron|this-Dem-S1 det|this-Def-Dem-Sing noun|kind-Acc adp|of noun|work sconj|because pron|it-Prs-Nom-S3 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|potentially adj|important-S1 sconj|for pron|I-Prs-Acc-S1 part|to verb|work-Inf-S adp|in adj|wide-S1 noun|range noun|insteadof verb|limit-Part-Past-S adp|by num|one noun|patient .
+%gra:	1|2|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|6|OBJ 8|9|DET 9|6|OBJ 10|11|CASE 11|9|NMOD 12|17|MARK 13|17|EXPL 14|17|EXPL 15|17|COP 16|17|ADVMOD 17|4|ADVCL 18|21|MARK 19|21|NSUBJ 20|21|MARK 21|17|CSUBJ 22|25|CASE 23|25|AMOD 24|25|COMPOUND 25|21|OBL 26|25|ACL 27|29|CASE 28|29|NUMMOD 29|26|OBL-AGENT 30|4|PUNCT
+*PAR0:	&-um also &-um it's secure and &-um good experience to get from this job . 104680_111680
+%mor:	adv|also pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|secure-S1 cconj|and adj|good-S1 noun|experience part|to verb|get-Inf-S adp|from det|this-Def-Dem-Sing noun|job .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CC 6|7|AMOD 7|4|CONJ 8|9|MARK 9|7|ACL 10|12|CASE 11|12|DET 12|9|OBL 13|4|PUNCT
+*PAR0:	&-um &-um &-um I [/] I send my application . 112760_117200
+%mor:	pron|I-Prs-Nom-S1 verb|send-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|application-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*PAR0:	and &-um &-um . 117720_118960
+%mor:	cconj|and .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

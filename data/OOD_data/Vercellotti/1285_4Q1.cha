@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/a-00062545-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Vercellotti|PAR0|||||Participant|||
+@Media:	1285_4Q1, audio
+*PAR0:	&-uh I'm going to introduce my hometown . 1360_4600
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|introduce-Inf-S pron|my-Prs-Gen-S1 noun|hometown-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|NMOD-POSS 7|5|OBJ 8|3|PUNCT
+*PAR0:	I'm from &-uh Korea the capital of the soul . 5760_10280
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adp|from propn|Korea det|the-Def-Art noun|capital adp|of det|the-Def-Art noun|soul .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|6|DET 6|4|APPOS 7|9|CASE 8|9|DET 9|6|NMOD 10|4|PUNCT
+*PAR0:	&-uh soul is the capital of Korea <it is> [/] it is bigger than Pittsburgh yes . 11960_19720
+%mor:	noun|soul aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|capital adp|of propn|Korea pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|big-Cmp-S1 adp|than propn|Pittsburgh intj|yes .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|6|CASE 6|4|NMOD 7|9|NSUBJ 8|9|COP 9|4|ACL-RELCL 10|11|CASE 11|9|OBL 12|4|DISCOURSE 13|4|PUNCT
+*PAR0:	and [/] and but it is a different it is similar to Pittsburgh because there are many mountains in . 22880_32920
+%mor:	cconj|and cconj|but pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|different-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|similar-S1 adp|to propn|Pittsburgh sconj|because pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|many-S1 noun|mountain-Plur adp|in .
+%gra:	1|9|CC 2|6|CC 3|6|EXPL 4|6|COP 5|6|DET 6|0|ROOT 7|9|NSUBJ 8|9|COP 9|6|CONJ 10|11|CASE 11|9|OBL 12|14|MARK 13|14|EXPL 14|9|ADVCL 15|16|AMOD 16|14|NSUBJ 17|14|ADVMOD 18|6|PUNCT
+*PAR0:	there are big river in front of in [/] in the middle of the city . 34670_40080
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|big-S1 noun|river adp|in noun|front adp|of adp|in det|the-Def-Art noun|middle adp|of det|the-Def-Art noun|city .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|AMOD 4|2|NSUBJ 5|6|CASE 6|2|OBL 7|10|CASE 8|10|CASE 9|10|DET 10|6|NMOD 11|13|CASE 12|13|DET 13|10|NMOD 14|2|PUNCT
+*PAR0:	and so when I compare with Pittsburgh it there is not so many cultural things such_as museum and beautiful park . 43080_56920
+%mor:	cconj|and adv|so adv|when pron|I-Prs-Nom-S1 verb|compare-Fin-Ind-Pres-S1 adp|with propn|Pittsburgh pron|it-Prs-Acc-S3 pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 part|not adv|so adj|many-S1 adj|cultural-S1 noun|thing-Plur noun|sucha noun|museum cconj|and adj|beautiful-S1 noun|park .
+%gra:	1|10|CC 2|10|ADVMOD 3|5|ADVMOD 4|5|NSUBJ 5|10|ADVCL 6|7|CASE 7|5|OBL 8|5|OBJ 9|10|EXPL 10|0|ROOT 11|10|ADVMOD 12|13|ADVMOD 13|15|AMOD 14|15|AMOD 15|10|NSUBJ 16|17|COMPOUND 17|15|APPOS 18|20|CC 19|20|AMOD 20|17|CONJ 21|10|PUNCT
+*PAR0:	&-uh like &-uh Pittsburgh so during the weekend we usually go to the amusement park with my whole family . 59600_72910
+%mor:	adp|like propn|Pittsburgh adv|so adp|during det|the-Def-Art noun|weekend pron|we-Prs-Nom-P1 adv|usually verb|go-Fin-Ind-Pres-P1 adp|to det|the-Def-Art noun|amusement noun|park adp|with pron|my-Prs-Gen-S1 adj|whole-S1 noun|family .
+%gra:	1|2|CASE 2|9|OBL 3|9|ADVMOD 4|6|CASE 5|6|DET 6|9|OBL 7|9|NSUBJ 8|9|ADVMOD 9|0|ROOT 10|13|CASE 11|13|DET 12|13|COMPOUND 13|9|OBL 14|17|CASE 15|17|NMOD-POSS 16|17|AMOD 17|9|OBL 18|9|PUNCT
+*PAR0:	in the summer we are we went to the swimming pool together . 74990_79290
+%mor:	adp|in det|the-Def-Art noun|summer pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr adp|to det|the-Def-Art noun|swim-Ger noun|pool adv|together .
+%gra:	1|3|CASE 2|3|DET 3|7|OBL 4|7|NSUBJ 5|7|COP 6|7|NSUBJ 7|0|ROOT 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|OBL 12|7|ADVMOD 13|7|PUNCT
+*PAR0:	there are indoor outdoor swimming pool . 80720_83080
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|indoor-S1 adj|outdoor-S1 noun|swim-Ger noun|pool .
+%gra:	1|2|EXPL 2|0|ROOT 3|6|AMOD 4|6|AMOD 5|6|COMPOUND 6|2|NSUBJ 7|2|PUNCT
+*PAR0:	and in winter &-um there is &-um ski . 85160_89240
+%mor:	cconj|and adp|in noun|winter pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 noun|ski .
+%gra:	1|5|CC 2|3|CASE 3|5|OBL 4|5|EXPL 5|0|ROOT 6|5|NSUBJ 7|5|PUNCT
+*PAR0:	there is a ski . 92840_93770
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|ski .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*PAR0:	there is a mountain . 94280_95000
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|mountain .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*PAR0:	we can play the ski . 95320_96760
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|play-Inf-S det|the-Def-Art noun|ski-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR0:	so we drove there and enjoying skiing . 98160_102760
+%mor:	adv|so pron|we-Prs-Nom-P1 verb|drive-Fin-Ind-Past-P1-irr adv|there cconj|and verb|enjoy-Part-Pres-S noun|ski-Acc-Ger .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|6|CC 6|3|CONJ 7|6|OBJ 8|3|PUNCT
+*PAR0:	and in summer in [/] in winter there are not so many snow like Pittsburgh so it is not cold . 108320_118080
+%mor:	cconj|and adp|in noun|summer adp|in noun|winter pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 part|not adv|so adj|many-S1 noun|snow adp|like propn|Pittsburgh adv|so pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 part|not adj|cold-S1 .
+%gra:	1|7|CC 2|3|CASE 3|7|OBL 4|5|CASE 5|3|NMOD 6|7|EXPL 7|0|ROOT 8|10|ADVMOD 9|10|ADVMOD 10|11|AMOD 11|7|NSUBJ 12|13|CASE 13|11|NMOD 14|18|ADVMOD 15|18|NSUBJ 16|18|COP 17|18|ADVMOD 18|7|PARATAXIS 19|7|PUNCT
+@End

@@ -1,0 +1,39 @@
+@UTF8
+@PID:	11312/t-00010196-1
+@Begin
+@Languages:	eng
+@Participants:	1165 Student
+@ID:	eng|Vercellotti|1165|||2||Student|level4||
+@Media:	1165_4Q2, audio
+@Transcriber:	jms
+*1165:	hello &-uh the topic is talk about something that you regret . 2183_6151
+%mor:	intj|hello det|the-Def-Art noun|topic aux|be-Fin-Ind-Pres-S3 verb|talk-Inf-S adp|about pron|something-Ind-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|regret-Fin-Ind-Pres-S2 .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ-OUTER 4|5|COP 5|0|ROOT 6|7|CASE 7|5|OBL 8|10|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|5|PUNCT
+*1165:	in last couple of years I didn't use efficient method to study english . 8619_11722
+%mor:	adp|in adj|last-S1 noun|couple adp|of noun|year-Plur pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|use-Inf-S adj|efficient-S1 noun|method-Acc part|to verb|study-Inf-S noun|English-Acc .
+%gra:	1|3|CASE 2|3|AMOD 3|9|OBL 4|5|CASE 5|3|NMOD 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|0|ROOT 10|11|AMOD 11|9|OBJ 12|13|MARK 13|11|ACL 14|13|OBJ 15|9|PUNCT
+*1165:	and I waste a lot of time &-uh playing and just hanging out &-uh . 13501_20231
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|waste-Fin-Ind-Pres-S1 det|a-Ind-Art noun|lot-Acc adp|of noun|time verb|play-Ger-S cconj|and adv|just verb|hang-Part-Pres-S adp|out .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|7|ACL 9|11|CC 10|11|ADVMOD 11|8|CONJ 12|11|COMPOUND-PRT 13|3|PUNCT
+*1165:	and &-uh when I reach the time that <I useta> [//] I hafta use my english to: study I: [/] <I didn't> [/] I: [/] I didn't be ready <to to> [/] to do that . 20624_38465
+%mor:	cconj|and adv|when pron|I-Prs-Nom-S1 verb|reach-Fin-Ind-Pres-S1 det|the-Def-Art noun|time-Acc sconj|that pron|I-Prs-Nom-S1 aux|hafta-Fin-Ind-Pres-S1 verb|use-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|English-Acc part|to verb|study-Inf-S pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not aux|be-Inf-S adj|ready-S1 part|to verb|do-Inf-S pron|that-Dem .
+%gra:	1|19|CC 2|4|ADVMOD 3|4|NSUBJ 4|19|ADVCL 5|6|DET 6|4|OBJ 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|6|ACL 11|12|NMOD-POSS 12|10|OBJ 13|14|MARK 14|10|ADVCL 15|19|NSUBJ 16|19|AUX 17|19|ADVMOD 18|19|COP 19|0|ROOT 20|21|MARK 21|19|XCOMP 22|21|OBJ 23|19|PUNCT
+*1165:	<if I> [/] if I had studied much harder I would have been ready to: use my english in my studies . 41775_49264
+%mor:	sconj|if pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Past-S1-irr verb|study-Part-Past-S adv|much adj|hard-Cmp-S1 pron|I-Prs-Nom-S1 aux|would-Fin-S aux|have-Inf-S aux|be-Part-Past-S-irr adj|ready-S1 part|to verb|use-Inf-S pron|my-Prs-Gen-S1 noun|English-Acc adp|in pron|my-Prs-Gen-S1 noun|study-Plur .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|11|ADVCL 5|6|ADVMOD 6|4|XCOMP 7|11|NSUBJ 8|11|AUX 9|11|AUX 10|11|COP 11|0|ROOT 12|13|MARK 13|11|XCOMP 14|15|NMOD-POSS 15|13|OBJ 16|18|CASE 17|18|NMOD-POSS 18|13|OBL 19|11|PUNCT
+*1165:	and <I should> [/] &-uh I should &-uh have been more ambitious about my: [/] my future so I can &~i &~sh show [//] &-uh make the time that I spend <in english> [//] &-uh &~s in study english shorter &-uh . 50388_69921
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|should-Fin-S aux|have-Inf-S aux|be-Part-Past-S-irr adv|more adj|ambitious-S1 adp|about pron|my-Prs-Gen-S1 noun|future sconj|so pron|I-Prs-Nom-S1 aux|can-Fin-S verb|make-Inf-S det|the-Def-Art noun|time-Acc pron|that-Rel pron|I-Prs-Nom-S1 verb|spend-Fin-Ind-Pres-S1 adp|in noun|study adv|English adj|short-Cmp-S1 .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|AUX 4|7|AUX 5|7|COP 6|7|ADVMOD 7|0|ROOT 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|14|ADVMOD 12|14|NSUBJ 13|14|AUX 14|7|PARATAXIS 15|16|DET 16|14|OBJ 17|19|OBJ 18|19|NSUBJ 19|16|ACL-RELCL 20|21|CASE 21|19|OBL 22|23|ADVMOD 23|19|ADVMOD 24|7|PUNCT
+*1165:	if I'd &-uh studied harder I would have more opportunities to: [/] to choose between the: schools that I might go to mm &-uh . 69921_88518
+%mor:	sconj|if pron|I-Prs-Nom-S1~aux|would-Fin-Ind-Past-S1 verb|study-Part-Past-S adj|hard-Cmp-S1 pron|I-Prs-Nom-S1 aux|would-Fin-S verb|have-Inf-S adj|more-Cmp-S1 noun|opportunity-Plur-Acc part|to verb|choose-Inf-S adp|between det|the-Def-Art noun|school-Plur pron|that-Rel pron|I-Prs-Nom-S1 aux|might-Fin-S verb|go-Inf-S adp|to intj|mm .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|8|ADVCL 5|4|XCOMP 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|10|AMOD 10|8|OBJ 11|12|MARK 12|10|ACL 13|15|CASE 14|15|DET 15|12|OBL 16|19|OBL 17|19|NSUBJ 18|19|AUX 19|15|ACL-RELCL 20|16|CASE 21|19|OBL 22|8|PUNCT
+*1165:	that's problem demonstrate that everyone should plan &-uh to his future carefully and &-uh use effective &-uh plan to: [/] to reach his goal &-uh . 89441_108935
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|problem verb|demonstrate-Inf-S sconj|that pron|everyone-Tot-S1 aux|should-Fin-S verb|plan-Inf-S adp|to pron|his-Prs-Gen-S3 noun|future adv|carefully cconj|and verb|use-Inf-S adj|effective-S1 noun|plan-Acc part|to verb|reach-Inf-S pron|his-Prs-Gen-S3 noun|goal-Acc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NSUBJ 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|11|CASE 10|11|NMOD-POSS 11|8|OBL 12|8|ADVMOD 13|14|CC 14|8|CONJ 15|16|AMOD 16|14|OBJ 17|18|MARK 18|16|ACL 19|20|NMOD-POSS 20|18|OBJ 21|4|PUNCT
+*1165:	right now I'm working <in &~th> [//] to fix that problem . 112697_113057
+%mor:	adv|right adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|work-Part-Pres-S part|to verb|fix-Inf-S det|that-Def-Dem-Sing noun|problem-Acc .
+%gra:	1|2|ADVMOD 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|ADVCL 8|9|DET 9|7|OBJ 10|5|PUNCT
+*1165:	and I hope that work out . 114743_120186
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 det|that-Def-Dem-Sing noun|work-Acc adp|out .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|3|PUNCT
+@End

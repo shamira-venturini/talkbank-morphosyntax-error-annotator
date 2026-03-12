@@ -1,0 +1,27 @@
+@UTF8
+@PID:	11312/t-00010133-1
+@Begin
+@Languages:	eng
+@Participants:	1081 Student
+@ID:	eng|Vercellotti|1081|||3||Student|level4||
+@Media:	1081_3F3, audio
+@Transcriber:	mlv
+*1081:	king Abdullah king of Saudi Arabia king Abdullah &-uh he got &-uh present &-uh of Saudi Arabia in two thousand five . 2740_22157
+%mor:	noun|king-Ger propn|Abdullah noun|king-Ger adp|of adj|Saudi-S1 propn|Arabia noun|king-Ger propn|Abdullah pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr adj|present-S1 adp|of adj|Saudi-S1 propn|Arabia adp|in num|two num|thousand num|five .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|10|NSUBJ 4|7|CASE 5|6|AMOD 6|7|COMPOUND 7|3|NMOD 8|7|FLAT 9|10|NSUBJ 10|0|ROOT 11|10|XCOMP 12|14|CASE 13|14|AMOD 14|11|OBL 15|17|CASE 16|17|COMPOUND 17|10|OBL 18|10|OBL 19|10|PUNCT
+*1081:	I admire &-uh this person because he did &-uh many thing &-uh to: population in Saudi Arabia . 22989_33341
+%mor:	pron|I-Prs-Nom-S1 verb|admire-Fin-Ind-Pres-S1 det|this-Def-Dem-Sing noun|person-Acc sconj|because pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3-irr adj|many-S1 noun|thing-Acc-Ger adp|to noun|population adp|in adj|Saudi-S1 propn|Arabia .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|MARK 6|7|NSUBJ 7|2|ADVCL 8|9|AMOD 9|7|OBJ 10|11|CASE 11|9|NMOD 12|14|CASE 13|14|AMOD 14|11|NMOD 15|2|PUNCT
+*1081:	&-uh <he he> [/] he create &-uh now &-uh &-uh many [/] &~univer new [/] &~anniver many new &~anni university [/] university . 34899_57979
+%mor:	pron|he-Prs-Nom-S3 verb|create-Fin-Ind-Pres-S3 adv|now adj|many-S1 adj|new-S1 noun|university-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|6|AMOD 5|6|AMOD 6|2|OBJ 7|2|PUNCT
+*1081:	and he [/] &-uh he &-uh &~iport important to: [/] to: [/] to: [/] &-uh &-uh to education for [/] &-uh &-uh for &-uh &~a young people . 58827_83750
+%mor:	cconj|and pron|he-Prs-Nom-S3 adj|important-S1 adp|to noun|education adp|for adj|young-S1 noun|person-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|8|CASE 7|8|AMOD 8|5|NMOD 9|3|PUNCT
+*1081:	and &-uh he &-uh send &-uh many &-uh students to: [/] to: [//] &-uh in &-uh &~kayan &-uh US and british for [/] ah get [/] &-uh forget &-uh for get &-uh major: to: . 85132_109937
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|send-Fin-Ind-Pres-S3 adj|many-S1 noun|student-Plur-Acc adp|in propn|US cconj|and adj|british-S1 intj|ah verb|forget-Inf-S adp|for verb|get-Inf-S adj|major-S1 adp|to .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|7|CASE 7|3|OBL 8|9|CC 9|7|CONJ 10|11|DISCOURSE 11|3|CONJ 12|13|MARK 13|11|ADVCL 14|13|XCOMP 15|3|PUNCT 16|3|PUNCT
+*1081:	&-uh and &-uh he assist &-uh &-uh the poor country &-uh . 111092_120191
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|assist-Fin-Ind-Pres-S3 det|the-Def-Art adj|poor-S1 noun|country-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+@End
