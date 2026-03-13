@@ -1,0 +1,44 @@
+{
+  "corpus_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/data/OOD_data/Gillam",
+  "out_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/data/processed/ood_gillam",
+  "speaker_policy": "dominant",
+  "include_speakers_override": [],
+  "min_word_count": 1,
+  "files_processed": 20,
+  "utterances_kept": 763,
+  "utterances_dropped_short": 0,
+  "utterances_by_group": {
+    "SLI": 407,
+    "TD": 356
+  },
+  "utterances_by_age_years": {
+    "5": 85,
+    "6": 75,
+    "7": 142,
+    "8": 118,
+    "9": 114,
+    "10": 133,
+    "11": 96
+  },
+  "utterances_by_group_age_years": {
+    "SLI:10": 76,
+    "SLI:11": 47,
+    "SLI:5": 53,
+    "SLI:6": 48,
+    "SLI:7": 43,
+    "SLI:8": 73,
+    "SLI:9": 67,
+    "TD:10": 57,
+    "TD:11": 49,
+    "TD:5": 32,
+    "TD:6": 27,
+    "TD:7": 99,
+    "TD:8": 45,
+    "TD:9": 47
+  },
+  "outputs": {
+    "utterances_jsonl": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/data/processed/ood_gillam/gillam_utterances.jsonl",
+    "file_summary_csv": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/data/processed/ood_gillam/gillam_file_summary.csv",
+    "speaker_summary_csv": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/data/processed/ood_gillam/gillam_speaker_summary.csv"
+  }
+}
