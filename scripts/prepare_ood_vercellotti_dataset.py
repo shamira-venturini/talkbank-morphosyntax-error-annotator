@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import re
 from collections import Counter
 from pathlib import Path
 from typing import Dict, Iterable, List
@@ -12,16 +13,26 @@ from ood_chat_utils import parse_chat_file, select_speakers
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Prepare utterance-level OOD inputs from Vercellotti CHAT files.")
+    parser = argparse.ArgumentParser(description="Prepare utterance-level OOD inputs from CHAT .cha files.")
     parser.add_argument(
         "--corpus-dir",
         default="data/OOD_data/Vercellotti",
-        help="Directory containing Vercellotti .cha files.",
+        help="Directory containing CHAT .cha files.",
+    )
+    parser.add_argument(
+        "--corpus-name",
+        default="",
+        help="Optional corpus name to store in metadata (default: inferred from corpus dir name).",
     )
     parser.add_argument(
         "--out-dir",
-        default="data/processed/ood_vercellotti",
+        default="data/processed/ood_chat",
         help="Output directory for prepared JSONL/CSV files.",
+    )
+    parser.add_argument(
+        "--output-prefix",
+        default="",
+        help="Optional output filename prefix (default: slugified corpus name).",
     )
     parser.add_argument(
         "--speaker-policy",
@@ -81,6 +92,10 @@ def main() -> None:
     corpus_dir = resolve_path(args.corpus_dir)
     out_dir = resolve_path(args.out_dir)
     include_speakers = args.include_speaker or []
+    corpus_name = (args.corpus_name or "").strip() or corpus_dir.name
+    output_prefix = (args.output_prefix or "").strip()
+    if not output_prefix:
+        output_prefix = re.sub(r"[^a-z0-9]+", "_", corpus_name.lower()).strip("_") or "ood_chat"
 
     if not corpus_dir.exists():
         raise SystemExit(f"Missing corpus directory: {corpus_dir}")
@@ -112,7 +127,7 @@ def main() -> None:
 
             row = {
                 "row_id": next_row_id,
-                "corpus": "Vercellotti",
+                "corpus": corpus_name,
                 "file_name": parsed["file_name"],
                 "file_path": parsed["file_path"],
                 "speaker": utt["speaker"],
@@ -136,9 +151,9 @@ def main() -> None:
             }
         )
 
-    out_jsonl = out_dir / "vercellotti_utterances.jsonl"
-    out_file_summary = out_dir / "vercellotti_file_summary.csv"
-    out_speaker_summary = out_dir / "vercellotti_speaker_summary.csv"
+    out_jsonl = out_dir / f"{output_prefix}_utterances.jsonl"
+    out_file_summary = out_dir / f"{output_prefix}_file_summary.csv"
+    out_speaker_summary = out_dir / f"{output_prefix}_speaker_summary.csv"
     out_summary_json = out_dir / "summary.json"
 
     n_rows = write_jsonl(out_jsonl, utterance_rows)
@@ -161,7 +176,9 @@ def main() -> None:
 
     summary = {
         "corpus_dir": str(corpus_dir),
+        "corpus_name": corpus_name,
         "out_dir": str(out_dir),
+        "output_prefix": output_prefix,
         "speaker_policy": args.speaker_policy,
         "include_speakers_override": include_speakers,
         "min_word_count": args.min_word_count,
