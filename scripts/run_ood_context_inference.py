@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import math
 import re
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple
@@ -16,9 +15,27 @@ DEFAULT_INPUT_JSONL = "data/processed/ood_vercellotti/vercellotti_utterances.jso
 DEFAULT_CHAT_TOKENS = "experiments/recon_full_comp_preserve/chat_tokens.json"
 DEFAULT_STAGE3_SPLIT = "experiments/recon_full_comp_preserve/stage3_train.jsonl"
 DEFAULT_OUT_DIR = "results/ood_vercellotti"
+
 SYSTEM_PROMPT_WRAPPER = "### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Response:\n"
-TAG_RE = re.compile(r"\[\*\s*[ms](?::[^\]]+)?\]")
+
+# Looser tag regex: catches things like [* m], [* m:allo], [* s], etc.
+TAG_RE = re.compile(r"\[\*\s*[^\]]+\]")
+
+# Reconstruction markers like [:: has to] or [: miss]
 RECON_RE = re.compile(r"\[(::?)\s+[^\]]+\]")
+
+# Lines that are just scaffold echoes
+SCAFFOLD_LINE_RE = re.compile(
+    r"^(?:#+\s*)?(instruction|input|response)\s*:\s*$",
+    re.IGNORECASE,
+)
+
+# Boilerplate fragments that the model sometimes echoes back
+BOILERPLATE_ECHOES = {
+    "one annotated utterance line and nothing else.",
+    "utterance line and nothing else.",
+    "nothing else.",
+}
 
 
 def parse_args() -> argparse.Namespace:
@@ -247,7 +264,6 @@ def prepare_model_and_tokenizer(
         model = None
 
     if model is None:
-        # Compatibility fallback for older transformers that still expect load_in_4bit.
         model = load_with_auth(AutoModelForCausalLM, base_model, **model_kwargs, load_in_4bit=True)
 
     extra_tokens = json.loads(chat_tokens_path.read_text(encoding="utf-8"))
@@ -268,12 +284,58 @@ def prepare_model_and_tokenizer(
     return tokenizer, model
 
 
-def decode_first_nonempty_line(text: str) -> str:
-    for line in text.splitlines():
-        stripped = line.strip()
-        if stripped:
-            return stripped
-    return text.strip()
+def is_scaffold_or_boilerplate(line: str) -> bool:
+    stripped = line.strip()
+    if not stripped:
+        return True
+    if SCAFFOLD_LINE_RE.match(stripped):
+        return True
+    if stripped.lower() in BOILERPLATE_ECHOES:
+        return True
+    return False
+
+
+def extract_prediction_line(raw_text: str) -> str:
+    """
+    Extract the best single-line prediction from decoded generation text.
+
+    Strategy:
+    1. Split into non-empty lines.
+    2. Remove obvious scaffold echoes like '### Response:' and instruction boilerplate.
+    3. Prefer lines after the last scaffold marker, if present.
+    4. Prefer a line containing a tag or reconstruction marker.
+    5. Otherwise keep the last meaningful line.
+    """
+    if not raw_text:
+        return ""
+
+    original_lines = [line.strip() for line in raw_text.splitlines() if line.strip()]
+    if not original_lines:
+        return ""
+
+    scaffold_idxs = [
+        idx for idx, line in enumerate(original_lines)
+        if SCAFFOLD_LINE_RE.match(line)
+    ]
+    if scaffold_idxs:
+        candidate_lines = original_lines[scaffold_idxs[-1] + 1 :]
+        if not candidate_lines:
+            candidate_lines = original_lines
+    else:
+        candidate_lines = original_lines
+
+    candidate_lines = [line for line in candidate_lines if not is_scaffold_or_boilerplate(line)]
+    if not candidate_lines:
+        candidate_lines = [line for line in original_lines if not is_scaffold_or_boilerplate(line)]
+
+    if not candidate_lines:
+        return ""
+
+    for line in candidate_lines:
+        if TAG_RE.search(line) or RECON_RE.search(line):
+            return line
+
+    return candidate_lines[-1]
 
 
 def summarize_generation_uncertainty(
@@ -382,6 +444,7 @@ def main() -> None:
             )
             for row in batch_rows
         ]
+
         prompts = [
             SYSTEM_PROMPT_WRAPPER.format(
                 instruction=instruction,
@@ -389,6 +452,7 @@ def main() -> None:
             )
             for prep in prepared
         ]
+
         enc = tokenizer(
             prompts,
             return_tensors="pt",
@@ -408,6 +472,8 @@ def main() -> None:
                 do_sample=False,
                 output_scores=True,
                 return_dict_in_generate=True,
+                pad_token_id=tokenizer.pad_token_id,
+                eos_token_id=tokenizer.eos_token_id,
             )
 
         sequences = gen.sequences
@@ -423,7 +489,8 @@ def main() -> None:
             start = prompt_lengths[j]
             gen_ids = sequences[j, start:]
             raw_text = tokenizer.decode(gen_ids, skip_special_tokens=True).strip()
-            first_line = decode_first_nonempty_line(raw_text)
+            prediction_line = extract_prediction_line(raw_text)
+
             out_row = {
                 "row_id": row["row_id"],
                 "file_name": row["file_name"],
@@ -437,10 +504,10 @@ def main() -> None:
                 "context_char_count": prepared[j]["context_char_count"],
                 "instruction": instruction,
                 "input": row["input"],
-                "model_prediction": first_line,
+                "model_prediction": prediction_line,
                 "model_prediction_raw": raw_text,
-                "pred_tag_count": len(extract_tag_set(first_line)),
-                "pred_reconstruction_marker_count": len(marker_signature(first_line)),
+                "pred_tag_count": len(extract_tag_set(prediction_line)),
+                "pred_reconstruction_marker_count": len(marker_signature(prediction_line)),
                 "adapter_repo": args.adapter_repo,
                 "base_model": args.base_model,
             }
@@ -464,6 +531,7 @@ def main() -> None:
         "max_context_chars": args.max_context_chars,
         "batch_size": args.batch_size,
         "max_new_tokens": args.max_new_tokens,
+        "max_seq_length": args.max_seq_length,
     }
     (out_dir / f"summary_{args.context_mode}.json").write_text(
         json.dumps(summary, ensure_ascii=False, indent=2) + "\n",
