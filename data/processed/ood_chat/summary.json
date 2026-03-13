@@ -1,0 +1,17 @@
+{
+  "corpus_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/data/OOD_data/ENNI",
+  "corpus_name": "ENNI",
+  "out_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/data/processed/ood_chat",
+  "output_prefix": "enni",
+  "speaker_policy": "dominant",
+  "include_speakers_override": [],
+  "min_word_count": 1,
+  "files_processed": 1,
+  "utterances_kept": 122,
+  "utterances_dropped_short": 0,
+  "outputs": {
+    "utterances_jsonl": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/data/processed/ood_chat/enni_utterances.jsonl",
+    "file_summary_csv": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/data/processed/ood_chat/enni_file_summary.csv",
+    "speaker_summary_csv": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/data/processed/ood_chat/enni_speaker_summary.csv"
+  }
+}
