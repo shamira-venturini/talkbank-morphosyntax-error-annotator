@@ -11,7 +11,7 @@ from normalize_ood_review_csv import classify_hallucination
 
 
 DEFAULT_REVIEW_CSVS = [
-    "results/ood_vercellotti/review_utterance_only.csv",
+    "results/ood_vercellotti/ENNI_review_utterance_only.csv",
     "results/ood_vercellotti/review_TAGGED_utterance_only.csv",
     "results/ood_vercellotti/review_TAGGED_utterance_only_normalized.csv",
     "results/ood_vercellotti/review_TAGGED_cross_mode_assist.csv",

@@ -20,7 +20,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--review-csv",
-        default="results/ood_vercellotti/review_utterance_only.csv",
+        default="results/ood_vercellotti/ENNI_review_utterance_only.csv",
         help="Main utterance-only review CSV to update in place.",
     )
     return parser.parse_args()

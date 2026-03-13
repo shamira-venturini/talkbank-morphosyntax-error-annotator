@@ -22,7 +22,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--out-csv",
-        default="results/ood_vercellotti/review_utterance_only.csv",
+        default="results/ood_vercellotti/ENNI_review_utterance_only.csv",
         help="Output review CSV path.",
     )
     return parser.parse_args()
