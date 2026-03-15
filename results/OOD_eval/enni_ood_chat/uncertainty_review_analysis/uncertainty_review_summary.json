@@ -1,0 +1,343 @@
+{
+  "n_reviewed_rows": 3123,
+  "review_decision_counts": {},
+  "groups": {
+    "all_reviewed": {
+      "n_rows": 3123,
+      "strict_accuracy": 0.9340377841818764,
+      "lenient_accuracy": 0.9385206532180596,
+      "review_decision_counts": {
+        "CORRECT": 2917,
+        "WRONG": 159,
+        "UNSURE": 23,
+        "AMBIGUOUS": 14,
+        "MIXED": 10
+      },
+      "metrics": [
+        {
+          "correctness_target": "strict_correct",
+          "summaries": [
+            {
+              "group": "all_reviewed",
+              "metric": "uncertainty_mean_token_logprob",
+              "n_items": 3123,
+              "n_bins": 4,
+              "auc": 0.37776709014115445,
+              "mean_correct": -12.998866337645678,
+              "mean_incorrect": -7.98554796431715,
+              "top_quartile_accuracy": 0.9512820512820512,
+              "bottom_quartile_accuracy": 0.982051282051282
+            },
+            {
+              "group": "all_reviewed",
+              "metric": "uncertainty_min_token_logprob",
+              "n_items": 3123,
+              "n_bins": 4,
+              "auc": 0.40711879807356277,
+              "mean_correct": -19.830010984499037,
+              "mean_incorrect": -13.032868006669272,
+              "top_quartile_accuracy": 0.9615384615384616,
+              "bottom_quartile_accuracy": 0.9692307692307692
+            },
+            {
+              "group": "all_reviewed",
+              "metric": "uncertainty_mean_token_margin",
+              "n_items": 3123,
+              "n_bins": 4,
+              "auc": 0.7246231498647034,
+              "mean_correct": 8.191445159291739,
+              "mean_incorrect": 7.392246737281553,
+              "top_quartile_accuracy": 0.9846153846153847,
+              "bottom_quartile_accuracy": 0.8576923076923076
+            },
+            {
+              "group": "all_reviewed",
+              "metric": "uncertainty_min_token_margin",
+              "n_items": 3123,
+              "n_bins": 4,
+              "auc": 0.7895555348459482,
+              "mean_correct": 2.2415473945834763,
+              "mean_incorrect": 0.712378640776699,
+              "top_quartile_accuracy": 0.9987179487179487,
+              "bottom_quartile_accuracy": 0.8397435897435898
+            }
+          ]
+        },
+        {
+          "correctness_target": "lenient_correct",
+          "summaries": [
+            {
+              "group": "all_reviewed",
+              "metric": "uncertainty_mean_token_logprob",
+              "n_items": 3123,
+              "n_bins": 4,
+              "auc": 0.3778858182645286,
+              "mean_correct": -12.978844289487721,
+              "mean_incorrect": -7.925642578506583,
+              "top_quartile_accuracy": 0.9576923076923077,
+              "bottom_quartile_accuracy": 0.982051282051282
+            },
+            {
+              "group": "all_reviewed",
+              "metric": "uncertainty_min_token_logprob",
+              "n_items": 3123,
+              "n_bins": 4,
+              "auc": 0.40560939810076196,
+              "mean_correct": -19.80213424293138,
+              "mean_incorrect": -12.96279888086297,
+              "top_quartile_accuracy": 0.967948717948718,
+              "bottom_quartile_accuracy": 0.9730769230769231
+            },
+            {
+              "group": "all_reviewed",
+              "metric": "uncertainty_mean_token_margin",
+              "n_items": 3123,
+              "n_bins": 4,
+              "auc": 0.7257184336972592,
+              "mean_correct": 8.188381647931763,
+              "mean_incorrect": 7.380738267947916,
+              "top_quartile_accuracy": 0.9871794871794872,
+              "bottom_quartile_accuracy": 0.867948717948718
+            },
+            {
+              "group": "all_reviewed",
+              "metric": "uncertainty_min_token_margin",
+              "n_items": 3123,
+              "n_bins": 4,
+              "auc": 0.7956000156374389,
+              "mean_correct": 2.2366832992152847,
+              "mean_incorrect": 0.6751302083333334,
+              "top_quartile_accuracy": 1,
+              "bottom_quartile_accuracy": 0.8474358974358974
+            }
+          ]
+        }
+      ]
+    },
+    "untagged_prediction": {
+      "n_rows": 2291,
+      "strict_accuracy": 0.9746835443037974,
+      "lenient_accuracy": 0.975556525534701,
+      "review_decision_counts": {
+        "CORRECT": 2233,
+        "WRONG": 41,
+        "UNSURE": 15,
+        "AMBIGUOUS": 2
+      },
+      "metrics": [
+        {
+          "correctness_target": "strict_correct",
+          "summaries": [
+            {
+              "group": "untagged_prediction",
+              "metric": "uncertainty_mean_token_logprob",
+              "n_items": 2291,
+              "n_bins": 4,
+              "auc": 0.36921105054279846,
+              "mean_correct": -13.48259587685907,
+              "mean_incorrect": -7.1000951820497935,
+              "top_quartile_accuracy": 0.9825174825174825,
+              "bottom_quartile_accuracy": 0.9912587412587412
+            },
+            {
+              "group": "untagged_prediction",
+              "metric": "uncertainty_min_token_logprob",
+              "n_items": 2291,
+              "n_bins": 4,
+              "auc": 0.3892667974118628,
+              "mean_correct": -20.390768806112927,
+              "mean_incorrect": -12.05284433576707,
+              "top_quartile_accuracy": 0.993006993006993,
+              "bottom_quartile_accuracy": 0.993006993006993
+            },
+            {
+              "group": "untagged_prediction",
+              "metric": "uncertainty_mean_token_margin",
+              "n_items": 2291,
+              "n_bins": 4,
+              "auc": 0.5717103942430934,
+              "mean_correct": 8.314179990314376,
+              "mean_incorrect": 8.016333789586207,
+              "top_quartile_accuracy": 0.9895104895104895,
+              "bottom_quartile_accuracy": 0.9667832167832168
+            },
+            {
+              "group": "untagged_prediction",
+              "metric": "uncertainty_min_token_margin",
+              "n_items": 2291,
+              "n_bins": 4,
+              "auc": 0.7694264712695152,
+              "mean_correct": 2.383564711150918,
+              "mean_incorrect": 0.8739224137931034,
+              "top_quartile_accuracy": 0.9982517482517482,
+              "bottom_quartile_accuracy": 0.9335664335664335
+            }
+          ]
+        },
+        {
+          "correctness_target": "lenient_correct",
+          "summaries": [
+            {
+              "group": "untagged_prediction",
+              "metric": "uncertainty_mean_token_logprob",
+              "n_items": 2291,
+              "n_bins": 4,
+              "auc": 0.3643016938318952,
+              "mean_correct": -13.48618958201177,
+              "mean_incorrect": -6.728721389087286,
+              "top_quartile_accuracy": 0.9825174825174825,
+              "bottom_quartile_accuracy": 0.9912587412587412
+            },
+            {
+              "group": "untagged_prediction",
+              "metric": "uncertainty_min_token_logprob",
+              "n_items": 2291,
+              "n_bins": 4,
+              "auc": 0.38548657718120805,
+              "mean_correct": -20.396195907821102,
+              "mean_incorrect": -11.538461813294465,
+              "top_quartile_accuracy": 0.993006993006993,
+              "bottom_quartile_accuracy": 0.993006993006993
+            },
+            {
+              "group": "untagged_prediction",
+              "metric": "uncertainty_mean_token_margin",
+              "n_items": 2291,
+              "n_bins": 4,
+              "auc": 0.5743448386065836,
+              "mean_correct": 8.31428525938971,
+              "mean_incorrect": 8.001495061285715,
+              "top_quartile_accuracy": 0.9912587412587412,
+              "bottom_quartile_accuracy": 0.9685314685314685
+            },
+            {
+              "group": "untagged_prediction",
+              "metric": "uncertainty_min_token_margin",
+              "n_items": 2291,
+              "n_bins": 4,
+              "auc": 0.7798178331735379,
+              "mean_correct": 2.3843400447427294,
+              "mean_incorrect": 0.7890625,
+              "top_quartile_accuracy": 1,
+              "bottom_quartile_accuracy": 0.9353146853146853
+            }
+          ]
+        }
+      ]
+    },
+    "tagged_prediction": {
+      "n_rows": 832,
+      "strict_accuracy": 0.8221153846153846,
+      "lenient_accuracy": 0.8365384615384616,
+      "review_decision_counts": {
+        "CORRECT": 684,
+        "WRONG": 118,
+        "UNSURE": 8,
+        "AMBIGUOUS": 12,
+        "MIXED": 10
+      },
+      "metrics": [
+        {
+          "correctness_target": "strict_correct",
+          "summaries": [
+            {
+              "group": "tagged_prediction",
+              "metric": "uncertainty_mean_token_logprob",
+              "n_items": 832,
+              "n_bins": 4,
+              "auc": 0.43247194562984037,
+              "mean_correct": -11.419673265915407,
+              "mean_incorrect": -8.332549730340844,
+              "top_quartile_accuracy": 0.8653846153846154,
+              "bottom_quartile_accuracy": 0.9134615384615384
+            },
+            {
+              "group": "tagged_prediction",
+              "metric": "uncertainty_min_token_logprob",
+              "n_items": 832,
+              "n_bins": 4,
+              "auc": 0.44506677730361943,
+              "mean_correct": -17.999349850487615,
+              "mean_incorrect": -13.416931337157973,
+              "top_quartile_accuracy": 0.875,
+              "bottom_quartile_accuracy": 0.8798076923076923
+            },
+            {
+              "group": "tagged_prediction",
+              "metric": "uncertainty_mean_token_margin",
+              "n_items": 832,
+              "n_bins": 4,
+              "auc": 0.7123636794689426,
+              "mean_correct": 7.790762589593567,
+              "mean_incorrect": 7.147672081648649,
+              "top_quartile_accuracy": 0.9615384615384616,
+              "bottom_quartile_accuracy": 0.6538461538461539
+            },
+            {
+              "group": "tagged_prediction",
+              "metric": "uncertainty_min_token_margin",
+              "n_items": 832,
+              "n_bins": 4,
+              "auc": 0.7644815868500079,
+              "mean_correct": 1.7779148391812865,
+              "mean_incorrect": 0.6490709459459459,
+              "top_quartile_accuracy": 0.9903846153846154,
+              "bottom_quartile_accuracy": 0.6346153846153846
+            }
+          ]
+        },
+        {
+          "correctness_target": "lenient_correct",
+          "summaries": [
+            {
+              "group": "tagged_prediction",
+              "metric": "uncertainty_mean_token_logprob",
+              "n_items": 832,
+              "n_bins": 4,
+              "auc": 0.4379120182555781,
+              "mean_correct": -11.349653587201447,
+              "mean_incorrect": -8.418492480032176,
+              "top_quartile_accuracy": 0.8894230769230769,
+              "bottom_quartile_accuracy": 0.9230769230769231
+            },
+            {
+              "group": "tagged_prediction",
+              "metric": "uncertainty_min_token_logprob",
+              "n_items": 832,
+              "n_bins": 4,
+              "auc": 0.4482652974983097,
+              "mean_correct": -17.894479327660502,
+              "mean_incorrect": -13.549290614567647,
+              "top_quartile_accuracy": 0.8990384615384616,
+              "bottom_quartile_accuracy": 0.8942307692307693
+            },
+            {
+              "group": "tagged_prediction",
+              "metric": "uncertainty_mean_token_margin",
+              "n_items": 832,
+              "n_bins": 4,
+              "auc": 0.7167797075726843,
+              "mean_correct": 7.784079102517241,
+              "mean_incorrect": 7.125132529514706,
+              "top_quartile_accuracy": 0.9663461538461539,
+              "bottom_quartile_accuracy": 0.6778846153846154
+            },
+            {
+              "group": "tagged_prediction",
+              "metric": "uncertainty_min_token_margin",
+              "n_items": 832,
+              "n_bins": 4,
+              "auc": 0.7682608603786342,
+              "mean_correct": 1.7625269396551724,
+              "mean_incorrect": 0.6282169117647058,
+              "top_quartile_accuracy": 0.9951923076923077,
+              "bottom_quartile_accuracy": 0.6538461538461539
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "review_csv": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/results/OOD_eval/enni_ood_chat/enni_review_utterance_only.csv",
+  "out_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/results/OOD_eval/enni_ood_chat/uncertainty_review_analysis"
+}
