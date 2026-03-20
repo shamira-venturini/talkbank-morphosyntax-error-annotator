@@ -9,6 +9,7 @@ from typing import Optional
 from common import resolve_path
 
 DEFAULT_BASE_MODEL = "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit"
+DEFAULT_EXPORT_BASE_MODEL = "meta-llama/Llama-3.1-8B-Instruct"
 DEFAULT_ADAPTER_REPO = "mash-mash/Llama_TalkTag_CHAT_error_annotator_adapter"
 DEFAULT_CHAT_TOKENS = "experiments/recon_full_comp_preserve/chat_tokens.json"
 DEFAULT_OUT_DIR = "artifacts/merged_llama_talktag_chat_error_annotator"
@@ -17,6 +18,14 @@ DEFAULT_OUT_DIR = "artifacts/merged_llama_talktag_chat_error_annotator"
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Merge a LoRA adapter into a standalone model checkpoint.")
     parser.add_argument("--base-model", default=DEFAULT_BASE_MODEL, help="Base model repo id.")
+    parser.add_argument(
+        "--export-base-model",
+        default="",
+        help=(
+            "Optional non-quantized base model repo id to use for merge/export. "
+            "Recommended when the training base model is a `-bnb-4bit` repo."
+        ),
+    )
     parser.add_argument("--adapter-repo", default=DEFAULT_ADAPTER_REPO, help="Adapter repo id.")
     parser.add_argument("--chat-tokens", default=DEFAULT_CHAT_TOKENS, help="JSON file with CHAT tokens.")
     parser.add_argument("--out-dir", default=DEFAULT_OUT_DIR, help="Directory to save the merged model.")
@@ -101,16 +110,18 @@ def main() -> None:
     if not chat_tokens_path.exists():
         raise SystemExit(f"Missing chat tokens file: {chat_tokens_path}")
 
-    print(f"Loading tokenizer from: {args.base_model}")
-    tokenizer = load_with_auth(AutoTokenizer, args.base_model, use_fast=True)
+    export_base_model = args.export_base_model.strip() or args.base_model
+
+    print(f"Loading tokenizer from: {export_base_model}")
+    tokenizer = load_with_auth(AutoTokenizer, export_base_model, use_fast=True)
 
     torch_dtype = resolve_dtype(args.torch_dtype)
-    print(f"Loading base model from: {args.base_model}")
+    print(f"Loading base model from: {export_base_model}")
     print(f"Using dtype: {torch_dtype}")
     model = load_with_auth(
         AutoModelForCausalLM,
-        args.base_model,
-        torch_dtype=torch_dtype,
+        export_base_model,
+        dtype=torch_dtype,
         device_map=args.device_map,
     )
 
@@ -142,6 +153,7 @@ def main() -> None:
 
     merge_manifest = {
         "base_model": args.base_model,
+        "export_base_model": export_base_model,
         "adapter_repo": args.adapter_repo,
         "chat_tokens_path": str(chat_tokens_path),
         "chat_tokens_count": len(chat_tokens),
@@ -171,6 +183,11 @@ def main() -> None:
             tokenizer.push_to_hub(args.hub_repo_id)
 
     print("Merge complete.")
+    if export_base_model == args.base_model and "bnb-4bit" in args.base_model.lower():
+        print(
+            "Note: you merged from a `-bnb-4bit` base repo. If save or reload issues persist, rerun with "
+            f"`--export-base-model {DEFAULT_EXPORT_BASE_MODEL}` after confirming access to that base model."
+        )
 
 
 if __name__ == "__main__":
