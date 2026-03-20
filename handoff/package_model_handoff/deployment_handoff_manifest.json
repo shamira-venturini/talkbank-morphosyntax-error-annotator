@@ -1,0 +1,61 @@
+{
+  "model_name": "recon_full_comp_preserve_final_seed3407",
+  "status": {
+    "hf_load_verified": true,
+    "eval_completed": true,
+    "package_skeleton_present": false,
+    "training_metrics_available_in_repo_results": false,
+    "uncertainty_analysis_completed": true,
+    "uncertainty_tests_passed": true
+  },
+  "deployment_contract": {
+    "base_model": "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit",
+    "adapter_repo_id": "mash-mash/talkbank-morphosyntax-annotator-final-recon_full_comp_preserve_final_seed3407",
+    "split_package_dir": "experiments/recon_full_comp_preserve",
+    "chat_tokens_path": "experiments/recon_full_comp_preserve/chat_tokens.json",
+    "chat_tokens_count": 53,
+    "instruction_source": "experiments/recon_full_comp_preserve/stage3_train.jsonl",
+    "prompt_wrapper": "### Instruction:\\n{instruction}\\n\\n### Input:\\n{input}\\n\\n### Response:\\n",
+    "generation": {
+      "do_sample": false,
+      "max_new_tokens": 96
+    },
+    "stage": 3,
+    "seed": 3407,
+    "reconstruction_mode": "preserve"
+  },
+  "final_eval_metrics": {
+    "eval_real": {
+      "exact_match": 0.95355587808418,
+      "micro_f1": 0.8901098901098901
+    },
+    "test_real": {
+      "exact_match": 0.9359534206695779,
+      "micro_f1": 0.8043478260869564
+    },
+    "eval_coverage": {
+      "exact_match": 0.8243243243243243,
+      "micro_f1": 0.9026063100137174
+    },
+    "test_coverage": {
+      "exact_match": 0.827027027027027,
+      "micro_f1": 0.9320652173913044
+    },
+    "holdout_generalization": {
+      "exact_match": 0.05583756345177665,
+      "micro_f1": 0.07166123778501629
+    }
+  },
+  "analysis_outputs": {
+    "eval_outputs_dir": "results/recon_full_comp_preserve_final_seed3407/eval_outputs",
+    "paper_analysis_dir": "results/paper_analysis_recon_full_comp_preserve_final_vs_prev",
+    "synthetic_diagnostic_dir": "results/synthetic_data_diagnostic_recon_full_comp_preserve_final_vs_prev",
+    "uncertainty_dir": "results/uncertainty_recon_full_comp_preserve_final_seed3407"
+  },
+  "missing_for_package_work": [
+    "pyproject.toml or setup.py",
+    "package module with model loader and inference wrapper",
+    "package-level deployment tests",
+    "package-facing documentation"
+  ]
+}

@@ -1,0 +1,40 @@
+Public package model handout
+
+Purpose
+This folder contains the minimum deployment artifacts needed to package the trained model for annotating .cha files.
+
+Files in this folder
+- PACKAGE_MODEL_HANDOUT.txt: this note
+- deployment_handoff_manifest.json: exact current deployment contract from the repo
+- chat_tokens.json: tokenizer augmentation list used by the current adapter-based inference path
+- prompt_wrapper.txt: exact prompt scaffold to preserve
+
+What the package should do
+- Read a target utterance from a .cha file
+- Format it with the prompt scaffold in prompt_wrapper.txt
+- Run the model
+- Return one annotated CHAT utterance line
+
+Explicit default runtime parameters
+- batch_size = 4
+- max_new_tokens = 128
+- max_seq_length = 512
+- max_context_chars = 1200
+- limit = 0
+- do_sample = false
+
+Current model contract
+- Base model: unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit
+- Current adapter repo: mash-mash/Llama_TalkTag_CHAT_error_annotator
+
+Important naming point for public release
+- Because this is a distributed Llama-derived model, use a public model name that starts with Llama
+- Do not publish it publicly as only TalkTag
+- Safer examples:
+  - Llama-TalkTag-CHAT-Morphosyntax-Annotator
+  - Llama-TalkTag-CHAT-Annotator
+
+Minimal package inputs
+- model repo id
+- prompt scaffold
+- tokenizer with the CHAT tokens, or chat_tokens.json if adapter-based loading is used
