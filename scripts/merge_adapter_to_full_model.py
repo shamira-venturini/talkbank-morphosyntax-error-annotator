@@ -9,7 +9,7 @@ from typing import Optional
 from common import resolve_path
 
 DEFAULT_BASE_MODEL = "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit"
-DEFAULT_ADAPTER_REPO = "mash-mash/talkbank-morphosyntax-annotator-final-recon_full_comp_preserve_final_seed3407"
+DEFAULT_ADAPTER_REPO = "mash-mash/Llama_TalkTag_CHAT_error_annotator_adapter"
 DEFAULT_CHAT_TOKENS = "experiments/recon_full_comp_preserve/chat_tokens.json"
 DEFAULT_OUT_DIR = "artifacts/merged_llama_talktag_chat_error_annotator"
 
