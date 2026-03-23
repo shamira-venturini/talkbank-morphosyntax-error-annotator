@@ -1,0 +1,9 @@
+{
+  "train_split": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/experiments/recon_full_comp_preserve/stage3_train.jsonl",
+  "out_jsonl": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/studies/02_uncertainty_and_feedback/audits/training_missing_error_audit_real_only_v1/input_utterance_only.jsonl",
+  "rows_total": 7698,
+  "rows_written": 3183,
+  "include_synthetic": false,
+  "include_ambiguous": false,
+  "zero_error_only": false
+}

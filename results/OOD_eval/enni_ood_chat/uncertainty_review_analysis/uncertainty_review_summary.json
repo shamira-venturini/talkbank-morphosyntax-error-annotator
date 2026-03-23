@@ -338,6 +338,6 @@
       ]
     }
   },
-  "review_csv": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/results/OOD_eval/enni_ood_chat/enni_review_utterance_only.csv",
+  "review_csv": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/reviews/ood/enni/enni_review_utterance_only.csv",
   "out_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/results/OOD_eval/enni_ood_chat/uncertainty_review_analysis"
 }

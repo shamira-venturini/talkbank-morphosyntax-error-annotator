@@ -1,0 +1,89 @@
+review_id,utterance_id,input,candidate_annotation,score_correct,score_incorrect,score_ambiguous,score_unsure,notes
+R001,U006,he tell him .,he tell [:: tells] [* m:03s:a] him .,x,,,,
+R002,U013,he came t(o) .,he came t(o).,x,,,,
+R003,U004,&-uh cry .,&-uh cry.,x,,,,
+R004,U003,what's this +/.,what's this +/ .,x,,,,
+R005,U028,and the elephant was walking and close hims eyes .,and the elephant was walking and close [:: closed] [* m:0ed] hims [: his] [* s:r:gc:pro] eyes .,x,,,,
+R006,U034,so &-um he dived under the water and got the ball and give it back to her .,so &-um he dived under the water and got the ball and give [:: gave] [* m:base:ed] it back to her .,x,,,,
+R007,U025,then it &-um fly at the sky .,then it &-um fly [:: flies] [* m:03s:a] at [:: to] [* s:r:prep] the sky .,x,,,,
+R008,U038,and he have lots of balloo(n) .,and he have [:: has] [* m:vun:a] lots of balloo(n) .,x,,,,
+R009,U039,then he hurt hisself .,then he hurt hisself [: himself] [* s:r:der] .,x,,,,
+R010,U011,and then her have a owie .,and then her [:: she] [* s:r:gc:pro] have [* m:vun:a] a [* m:allo] owie .,x,,,,MISSING_RECONSTRUCTION: and then her [:: she] [* s:r:gc:pro] have [:: has] [* m:vun:a] a [:: an] [* m:allo] owie .
+R011,U036,he tried to fly it high so it could be more like a airplane .,he tried to fly it high so it could be more [!] like a [:: an] [* m:allo] airplane .,x,,,,
+R012,U040,and then they scoop a sand and make a sandcastle and pour some sand .,and then they scoop a sand and make a sandcastle and pour some sand .,,x,,,MISSING_ERROR: and then they scoop a [* s:r:gc:det] sand and make a sandcastle and pour some sand .
+R013,U031,and he eated all he stuff .,and he eated [: ate] [* m:=ed] all he [* s:r:gc:pro] stuff .,x,,,,MISSING_RECONSTRUCTION: and he eated [: ate] [* m:=ed] all he [:: his] [* s:r:gc:pro] stuff .
+R014,U007,the elephant slip .,the elephant slip [:: slipped] [* m:03s:a] .,x,,,,WRONG_RECONSTRUCTION: the elephant slip [:: slips] [* m:03s:a] .
+R015,U012,on the pools .,on the pools .,x,,x,,CONTEXT_DEPENDENT
+R016,U032,so he got a &+nn and then she cried because nothing can be doed about it .,so he got a &+nn and then she cried because nothing can be doed [: done] [* m:=en] about it .,x,,,,
+R017,U035,and they drive and drive .,and they drive [: drove] [* m:=ed] and drive [: drove] [* m:=ed] .,,x,,,CORRECT_RECONSTRUCTION: and they drive [: drove] [* m:base:ed] and drive [: drove] [* m:base:ed] .
+R018,U021,the giraffe was smiling and the elephant +...,the giraffe was smiling and the elephant +...,x,,,,
+R019,U024,and so they jumped and jumped tried to pedal .,and so they jumped and jumped tried [:: trying] [* m:+ed] [* m:0ing] to pedal .,x,,,,
+R020,U023,and so he felleded down again .,and so he felleded [: fell] [* m:++ed:i] down again .,x,,,,
+R021,U010,and it hurt his leg .,and it hurt [:: hurts] [* m:03s:a] his leg .,x,,,,
+R022,U012,on the pools .,on [:: in] [* s:r:prep] the pools .,x,,x,,CONTEXT_DEPENDENT
+R023,U028,and the elephant was walking and close hims eyes .,and the elephant was walking and close [:: closing] [* m:0ing] his eyes .,x,,x,,CONTEXT_DEPENDENT
+R024,U005,then rabbit do n(o)t want a balloon .,then rabbit do [:: does] [* m:03s:a] not want a balloon .,x,,,,
+R025,U029,so he was started to be &+eh always day or long .,so he was started [:: starting] [* m:0ing] [* m:+ed] to be &+eh always day or long .,x,,,,
+R026,U025,then it &-um fly at the sky .,then it &-um fly at [:: in] [* s:r:prep] the sky .,x,x,,,PARTIAL_MISSING: then it &-um fly [:: flies] [* m:03s:a] at [:: in] [* s:r:prep] the sky .
+R027,U029,so he was started to be &+eh always day or long .,so he was started to be &+eh always day or long .,,x,,,so he was started [:: starting] [* m:0ing] [* m:+ed] to be &+eh always day or long .
+R028,U041,her gots it .,her [:: she] [* s:r:gc:pro] gots [:: has got] [* m:allo] it .,x,,,,
+R029,U017,then they're thinking of letting +//.,then they're thinking of letting +// .,x,,,,
+R030,U042,(.) she's face is like .,(.) she's face is like .,,x,,,(.) she's [:: her] [* s:r:gc:pro] face is like .
+R031,U033,he spilled all his food .,he spilled [: spilt] [* m:=ed] all his food .,x,,,,
+R032,U032,so he got a &+nn and then she cried because nothing can be doed about it .,so he got a &+nn and then she cried because nothing can be doed [: done] [* m:=ed] about it .,,x,,,so he got a &+nn and then she cried because nothing can be doed [: done] [* m:=en] about it .
+R033,U014,then he grabbed where there's two cookies .,then he grabbed where there's two cookies .,,x,,,then he grabbed where there's [:: are] [* m:vsg:a] two cookies .
+R034,U030,he was mad (be)cause those box of cookies fall down .,he was mad (be)cause those box of cookies fall [:: fell] [* m:base:ed] down .,x,x,,,PARTIAL_MISSING: he was mad (be)cause those box [:: boxes] [* m:0s:a] of cookies fall [:: fell] [* m:base:ed] down .
+R035,U003,what's this +/.,what's this +/.,x,,,,
+R036,U011,and then her have a owie .,and then her [:: she] [* s:r:gc:pro] have [:: has] [* m:vun:a] a [:: an] [* m:allo] owie .,x,,,,
+R037,U043,"the elephant was staring at the airplane , how the giraffe couldn't make it go up .","the elephant was staring at the airplane, how the giraffe couldn't make it go up .",,x,,,"the elephant was staring at the airplane, how [:: that] [* s:r:gc:pro] the giraffe couldn't make it go up ."
+R038,U016,but she was very trifle .,but she was very trifle.,x,,,,
+R039,U035,and they drive and drive .,and they drive and drive .,x,,,,
+R040,U001,and it tire .,and it tire .,,x,,,and it tire [:: tires] [* m:03s:a] .
+R041,U015,the bunny's +...,the bunny's +...,x,,,,
+R042,U041,her gots it .,her [:: she] [* s:r:gc:pro] gots [:: has got] [* m:allo] [!] it .,x,,,,
+R043,U022,and she gets a banand he take one out daid on it .,and she gets a banand he take [:: takes] [* m:03s:a] one out daid on it .,x,,,,
+R044,U019,the kangaroo thinks the rabbit's silly .,the kangaroo thinks the rabbit's silly .,x,,,,
+R045,U026,then he just give it to the boy who had it .,then he just give [:: gave] [* m:03s:a] it to the boy who had it .,x,,,,WRONG_RECONSTRUCTION: then he just give [:: gives] [* m:03s:a] it to the boy who had it .
+R046,U036,he tried to fly it high so it could be more like a airplane .,he tried to fly it high so it could be more like a [:: an] [* m:allo] airplane .,x,,,,
+R047,U005,then rabbit do n(o)t want a balloon .,then rabbit do n(o)t want a balloon .,,x,,,then rabbit do [:: does] [* m:03s:a] not want a balloon .
+R048,U037,once upon a time there's a little bloy .,once upon a time there's a little bloy .,,x,,,once upon a time there's [:: was] [* m:base:ed] a little bloy [: boy] .
+R049,U010,and it hurt his leg .,and it [:: he] [* s:r:gc:det] hurt [:: hurts] [* m:03s:a] his leg .,x,,,,CONTEXT_DEPENDENT
+R050,U030,he was mad (be)cause those box of cookies fall down .,he was mad (be)cause those box [* m:0s:a] of cookies fall [:: fell] [* m:base:ed] down .,x,,,,
+R051,U040,and then they scoop a sand and make a sandcastle and pour some sand .,and then they scoop a [* s:r:gc:det] sand and make a sandcastle and pour some sand .,x,,,,
+R052,U034,so &-um he dived under the water and got the ball and give it back to her .,so &-um he dived [: dove] [* m:=ed] under the water and got the ball and give [:: gave] [* m:base:ed] it back to her .,x,,,,
+R053,U019,the kangaroo thinks the rabbit's silly .,(..) the kangaroo thinks the rabbit's silly .,x,,,,
+R054,U042,(.) she's face is like .,(.) she's [:: her] [* s:r:gc:pro] face is like [^ makes face] .,x,,,,
+R055,U006,he tell him .,he tell [:: told] [* m:03s:a] him .,x,,,,WRONG_RECONSTRUCTION: he tell [:: told] [* m:03s:a] him .
+R056,U024,and so they jumped and jumped tried to pedal .,and so they jumped and jumped tried to pedal .,,x,,,and so they jumped and jumped tried [:: trying] [* m:+ed] [* m:0ing] to pedal .
+R057,U001,and it tire .,and it tire [:: tires] [* m:03s:a] .,x,,,,
+R058,U002,a long time elephant can t do it .,a long time elephant can (no)t do it .,x,,x,,CONTEXT_DEPENDENT
+R059,U018,and so they build it and build it and build it until there was no castle (be)cause somebody moved it in to apartment building .,and so they build it and build it and build it until there was no castle (be)cause somebody moved it in to [:: into] [* s:r:prep] apartment building .,x,,,,
+R060,U044,and then the doggy ran to the doctor bunny to help .,and then the doggy ran to the doctor bunny to [:: for] [* s:r:prep] help .,x,,x,,CONTEXT_DEPENDENT
+R061,U039,then he hurt hisself .,then he hurt [:: hurts] [* m:03s:a] hisself [: himself] [* s:r:der] .,x,,,,
+R062,U009,and the puppy and the &+ki kitty and the is sick .,and the puppy and the &+ki kitty and the is sick .,x,,x,,CONTEXT_DEPENDENT
+R063,U044,and then the doggy ran to the doctor bunny to help .,and then the doggy ran to the doctor bunny to help .,x,,x,,CONTEXT_DEPENDENT
+R064,U002,a long time elephant can t do it .,a long time elephant can t do it .,x,,x,,CONTEXT_DEPENDENT
+R065,U043,"the elephant was staring at the airplane , how the giraffe couldn't make it go up .","the elephant was staring at the airplane , how [:: that] [* s:r:gc:pro] the giraffe couldn't make it go up .",x,,,,
+R066,U037,once upon a time there's a little bloy .,once upon a time there's [:: was] [* m:base:ed] a little bloy [: boy] .,x,,,,
+R067,U008,oh it's flied !,oh it's flied [: flown] [* m:=en] !,x,,,,
+R068,U008,oh it's flied !,oh it's flied [: flew] [* m:=ed] !,,x,,,oh it's flied [: flown] [* m:=en] !
+R069,U021,the giraffe was smiling and the elephant +...,the giraffe was smiling and the elephant + ...,x,,,,
+R070,U013,he came t(o) .,he came t(o) .,x,,,,
+R071,U020,I don't know what +...,I don't know what + ...,x,,,,
+R072,U007,the elephant slip .,the elephant slip [:: slips] [* m:03s:a] .,x,,,,
+R073,U015,the bunny's +...,the bunny's + ...,x,,,,
+R074,U018,and so they build it and build it and build it until there was no castle (be)cause somebody moved it in to apartment building .,and so they build it and build it and build it until there was no castle (be)cause somebody moved it in to apartment building .,,x,x,,and so they build it and build it and build it until there was no castle (be)cause somebody moved it in to [:: into] [* s:r:prep] apartment building .
+R075,U017,then they're thinking of letting +//.,then they're thinking of letting +//.,x,,,,
+R076,U027,and he needta do something .,and he needta [:: needs] [* m:03s:a] do something .,x,,,,and he needta [:: needs to] [* m:03s:a] do something .
+R077,U033,he spilled all his food .,he spilled all his food .,,x,,,he spilled [: spilt] [* m:=ed] all his food .
+R078,U031,and he eated all he stuff .,and he eated [: ate] [* m:=ed] [* m:=ed] all he stuff .,x,,,,and he eated [: ate] [* m:=ed] all he stuff .
+R079,U016,but she was very trifle .,but she was very trifle .,x,,x,,CONTEXT_DEPENDENT
+R080,U023,and so he felleded down again .,and so he felleded [: fell] [* m:++ed] down again .,x,,,,
+R081,U038,and he have lots of balloo(n) .,and he have [:: has] [* m:vun:a] lots of balloo(n).,x,,,,
+R082,U020,I don't know what +...,I don't know what +...,x,,,,
+R083,U026,then he just give it to the boy who had it .,then he just give [:: gave] [* m:base:ed] it to the boy who had it .,x,,x,,CONTEXT_DEPENDENT
+R084,U014,then he grabbed where there's two cookies .,then he grabbed where there's [:: are] [* m:vsg:a] two cookies .,x,,x,,CONTEXT_DEPENDENT
+R085,U022,and she gets a banand he take one out daid on it .,and she gets a bandaid on it .,x,,,,
+R086,U009,and the puppy and the &+ki kitty and the is sick .,and the puppy and the &+ki kitty and the is [:: are] [* m:vsg:a] sick .,x,,x,,CONTEXT_DEPENDENT
+R087,U027,and he needta do something .,and he needta do something .,,x,,,and he needta [:: needs to] [* m:03s:a] do something .
+R088,U004,&-uh cry .,&-uh cry .,x,,,,

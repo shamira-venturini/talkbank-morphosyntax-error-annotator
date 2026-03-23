@@ -1,0 +1,23 @@
+{
+  "input_dir": "/content/training_zero_error_only_chi.jsonl",
+  "output_dir": "/content/talk_tag_output_single_file",
+  "started_at": "2026-03-23T13:09:50.916977+00:00",
+  "ended_at": "2026-03-23T14:24:32.528764+00:00",
+  "total_files": 1,
+  "processed_files": 1,
+  "failed_files": 0,
+  "target_lines": 3737,
+  "annotated_lines": 3697,
+  "report_path": "",
+  "files": [
+    {
+      "input_path": "/content/training_zero_error_only_chi.jsonl",
+      "output_path": "/content/talk_tag_output_single_file/training_zero_error_only_chi.jsonl",
+      "status": "ok",
+      "target_lines": 3737,
+      "annotated_lines": 3697,
+      "errors": [],
+      "warnings": []
+    }
+  ]
+}

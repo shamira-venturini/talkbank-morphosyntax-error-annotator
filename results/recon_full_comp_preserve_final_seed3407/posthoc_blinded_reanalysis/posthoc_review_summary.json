@@ -1,6 +1,6 @@
 {
-  "review_sheet": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/artifacts/manual_review_test_real_recon_full_comp_preserve_final_seed3407_vs_gold/blinded_review_sheet.csv",
-  "answer_key": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/artifacts/manual_review_test_real_recon_full_comp_preserve_final_seed3407_vs_gold/answer_key.csv",
+  "review_sheet": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/reviews/posthoc/manual_review_test_real_recon_full_comp_preserve_final_seed3407_vs_gold/blinded_review_sheet.csv",
+  "answer_key": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/reviews/posthoc/manual_review_test_real_recon_full_comp_preserve_final_seed3407_vs_gold/answer_key.csv",
   "n_review_rows": 88,
   "n_answer_key_rows": 88,
   "n_merged_source_rows": 88,

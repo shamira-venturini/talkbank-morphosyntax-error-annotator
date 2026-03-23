@@ -1,0 +1,1047 @@
+@UTF8
+@PID:	11312/c-00004582-1
+@Begin
+@Languages:	eng
+@Participants:	CLI Investigator, CHI Target_Child
+@ID:	eng|Bliss|CLI|||||Investigator|||
+@ID:	eng|Bliss|CHI|11;08.|female|||Target_Child|||
+@Types:	cross, toyplay, LT
+*CLI:	can you open this for me ?
+%exp:	a "tightly closed" glass jar with a puppet inside
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|open-Inf-S pron|this-Dem-S1 adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	can he come out?
+%mor:	aux|can-Fin-S pron|he-Prs-Nom-S3 verb|come-Inf-S adp|out ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*CLI:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	you can take him out .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|take-Inf-S pron|he-Prs-Acc-S3 adp|out .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*CLI:	do you have one at home ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Inf-S num|one adp|at noun|home ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	no .
+%act:	aft Sarah takes puppet out of jar
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	me neither .
+%mor:	pron|I-Prs-Acc-S1 cconj|neither .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|PUNCT
+*CLI:	<what do you think> [//] shall we think of a name for him ?
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|think-Inf-S adp|of det|a-Ind-Art noun|name adp|for pron|he-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|6|NMOD 9|3|PUNCT
+*CLI:	or is it a her@q ?
+%mor:	cconj|or aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 det|a-Ind-Art q|her-Prs-Acc-S3 ?
+%gra:	1|5|CC 2|5|COP 3|5|NSUBJ 4|5|DET 5|0|ROOT 6|5|PUNCT
+*CHI:	Strawberry_Shortcake .
+%exp:	name of the puppet
+%mor:	propn|StrawberryShortcake .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	Strawberry_Shortcake ?
+%mor:	propn|StrawberryShortcake ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	that's an awfully nice name .
+%mor:	aux|that-Fin-Ind-Pres-S3 det|a-Ind-Art adv|awfully adj|nice-S1 noun|name .
+%gra:	1|5|COP 2|5|DET 3|4|ADVMOD 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*CLI:	hi Strawberry_Shortcake !
+%mor:	intj|hi propn|StrawberryShortcake !
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	how are you today ?
+%mor:	adv|how aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 noun|today ?
+%gra:	1|0|ROOT 2|1|COP 3|2|NSUBJ 4|1|OBL-UNMARKED 5|1|PUNCT
+*CHI:	I put him in here .
+%mor:	pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1-irr pron|he-Prs-Acc-S3 adp|in adv|here .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+*CHI:	xxx .
+%act:	<1w> Sarah puts puppet back in jar
+*CHI:	what's in the box?
+%mor:	pron|what-Int-S1 adp|in det|the-Def-Art noun|box ?
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*CLI:	well I don't know if I wanna show you that right away .
+%mor:	intj|well pron|I-Prs-Nom-S1 adv|dont verb|know-Inf-Ind-Pres-S1 sconj|if pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|show-Fin-Ind-Pres-S pron|you-Prs-Acc-S2 pron|that-Dem adv|right adv|away .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|8|IOBJ 10|8|OBJ 11|12|ADVMOD 12|8|ADVMOD 13|4|PUNCT
+*CLI:	I have all kinds of neat things .
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|all-Def-Tot noun|kind-Plur-Acc adp|of adj|neat-S1 noun|thing-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|AMOD 7|4|NMOD 8|2|PUNCT
+*CLI:	I don't think you've ever seen my house , have you ?
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|think-Fin-Ind-Pres-S1 pron|youve-Prs-Nom-S2 adv|ever verb|see-Part-Past-S-irr pron|my-Prs-Gen-S1 noun|house-Acc cm|cm verb|have-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|NSUBJ 5|6|ADVMOD 6|3|CCOMP 7|8|NMOD-POSS 8|6|OBJ 9|10|PUNCT 10|3|PARATAXIS 11|10|OBJ 12|3|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	0 .
+%act:	pulls out Fisher-Price playhouse
+*CHI:	hm: ( .) where's the people?
+%act:	<1w> rings front door bell
+%mor:	intj|hm aux|where-Fin-Ind-Pres-S3 det|the-Def-Art noun|person-Plur ?
+%gra:	1|4|DISCOURSE 2|4|COP 3|4|DET 4|0|ROOT 5|4|PUNCT
+*CHI:	in the garage .
+%mor:	adp|in det|the-Def-Art noun|garage .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*CHI:	where the bus?
+%mor:	adv|where det|the-Def-Art noun|bus ?
+%gra:	1|0|ROOT 2|3|DET 3|1|NSUBJ 4|1|PUNCT
+*CLI:	the bus ?
+%exp:	<1w> the bus was not visually present yet
+%mor:	det|the-Def-Art noun|bus ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CLI:	what do you need a bus for ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|need-Inf-S det|a-Ind-Art noun|bus-Acc adp|for ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT 8|4|PUNCT
+*CHI:	they go in here .
+%gpx:	points to garage
+%mor:	pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Pres-P3 adp|in adv|here .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|CASE 4|2|OBL 5|2|PUNCT
+*CLI:	oh (.) okay (.) I think I have a bus .
+%act:	<1w> looks through a bag and finds a bus
+%mor:	intj|oh intj|okay pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|bus-Acc .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*CLI:	here .
+%act:	<1w> gives bus to Sarah
+%mor:	adv|here .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	it can't fit .
+%act:	aft tries to fit bus in garage
+%mor:	pron|it-Prs-Nom-S3 aux|can-Fin-S~part|not verb|fit-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*CLI:	it should (.) try it again .
+%act:	Sarah tries again
+%mor:	pron|it-Prs-Nom-S3 aux|should-Fin-S verb|try-Inf-S pron|it-Prs-Acc-S3 adv|again .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CLI:	what's the problem ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Masc-Def-Art noun|problem ?
+%gra:	1|0|ROOT 2|4|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	it's too big .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|too adj|big-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*CLI:	maybe I can find another one .
+%act:	Sarah nods head yes
+%mor:	adv|maybe pron|I-Prs-Nom-S1 aux|can-Fin-S verb|find-Inf-S det|another-Def-Ind noun|one-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CLI:	shall I try ?
+%mor:	aux|shall-Fin-S pron|I-Prs-Nom-S1 verb|try-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*CLI:	0 .
+%act:	gives car to Sarah after searching through her bag
+*CHI:	it doesn't come out!
+%act:	bef puts a "wooden block" doll in car and puts them in garage . Sarah tries to pull car through doorway at opposite end of garage
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|come-Inf-S adp|out !
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*CHI:	hm: .
+%mor:	intj|hm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	I guess it's not sposta come out there .
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|its-Prs-Nom-S3 part|not adv|sposta verb|come-Inf-S adp|out adv|there .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|ADVMOD 5|6|ADVMOD 6|2|CCOMP 7|6|COMPOUND-PRT 8|6|ADVMOD 9|2|PUNCT
+*CHI:	put it here .
+%act:	aft takes car and puts it in the house
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adv|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CLI:	oh !
+%mor:	intj|oh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	you don't put a car in the house (.) just the garage .
+%mor:	pron|you-Prs-Nom-S2 aux|dont-Fin-Ind-Pres-S2 verb|put-Fin-Past-S-irr det|a-Ind-Art noun|car-Acc adp|in det|the-Def-Art noun|house adv|just det|the-Def-Art noun|garage .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|11|ADVMOD 10|11|DET 11|3|OBL-UNMARKED 12|3|PUNCT
+*CLI:	do you need anything else ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|need-Inf-S pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|3|PUNCT
+*CHI:	people .
+%mor:	noun|person-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	we need some people .
+%mor:	pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Pres-P1 det|some-Def-Ind noun|person-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CLI:	are you sure ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|sure-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*CLI:	okay (.) let's see .
+%act:	<1w> Sarah nods head yes <1w-4w> Clinician goes looking in her bag
+%mor:	intj|okay intj|let verb|see-Fin-Imp-S .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+*CLI:	I suppose I may be able to find some people around here somewhere .
+%act:	<1w-13w> Clinician goes looking in her bag
+%mor:	pron|I-Prs-Nom-S1 verb|suppose-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|may-Fin-S aux|be-Inf-S adj|able-S1 part|to verb|find-Inf-S det|some-Def-Ind noun|person-Plur-Acc adv|around adv|here adv|somewhere .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|AUX 5|6|COP 6|2|CCOMP 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|OBJ 11|8|ADVMOD 12|8|ADVMOD 13|8|ADVMOD 14|2|PUNCT
+*CLI:	what kind of people ?
+%act:	<1w-4w> Clinician goes looking in her bag
+%mor:	det|what-Def-Int noun|kind adp|of noun|person-Plur ?
+%gra:	1|2|DET 2|0|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*CHI:	little people .
+%mor:	adj|little-S1 noun|person-Plur .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*CLI:	tell me more .
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 adj|more-Cmp-S1 .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|1|PUNCT
+*CHI:	little people .
+%mor:	adj|little-S1 noun|person-Plur .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*CLI:	what kind of little people ?
+%mor:	det|what-Def-Int noun|kind adp|of adj|little-S1 noun|person-Plur ?
+%gra:	1|2|DET 2|0|ROOT 3|5|CASE 4|5|AMOD 5|2|NMOD 6|2|PUNCT
+*CLI:	I mean there are little people and there are little people !
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|little-S1 noun|person-Plur cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|little-S1 noun|person-Plur !
+%gra:	1|2|NSUBJ 2|4|PARATAXIS 3|4|EXPL 4|0|ROOT 5|6|AMOD 6|4|NSUBJ 7|9|CC 8|9|EXPL 9|4|CONJ 10|11|AMOD 11|9|NSUBJ 12|4|PUNCT
+*CHI:	little mans [: men] [* +s] .
+%mor:	adj|little-S1 noun|man-Plur .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*CLI:	okay (.) let me see what I can find (.) how about this ?
+%act:	<1w-8w> Clinician searches in bag aft Clinician hands Sarah a little wooden man
+%mor:	intj|okay verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S pron|what-Rel-S1 pron|I-Prs-Nom-S1 aux|can-Fin-S verb|find-Inf-S adv|how adp|about pron|this-Dem-S1 ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|8|OBJ 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|8|ADVMOD 10|11|CASE 11|9|OBL 12|2|PUNCT
+*CHI:	xxx .
+*CLI:	Sarah I can't understand .
+%mor:	propn|Sarah pron|I-Prs-Nom-S1 aux|cant-Fin-S verb|understand-Inf-S .
+%gra:	1|4|NSUBJ 2|1|FLAT 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CLI:	I think you're going to hafta talk clearer for me .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|your-Prs-Acc-S2 verb|go-Ger-S part|to verb|haft-Inf-S verb|talk-Inf-S adj|clear-Cmp-S1 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|MARK 6|4|XCOMP 7|6|XCOMP 8|7|XCOMP 9|10|CASE 10|8|OBL 11|2|PUNCT
+*CHI:	I need that car to put this man in .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|that-Def-Dem-Sing noun|car-Acc part|to verb|put-Inf-S det|this-Def-Dem-Sing noun|man-Acc adp|in .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|MARK 6|2|ADVCL 7|8|DET 8|6|OBJ 9|6|COMPOUND-PRT 10|2|PUNCT
+*CLI:	well I don't know if I have one .
+%mor:	intj|well pron|I-Prs-Nom-S1 adv|dont verb|know-Inf-Ind-Pres-S1 sconj|if pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 num|one .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|7|MARK 6|7|NSUBJ 7|4|CCOMP 8|7|OBJ 9|4|PUNCT
+*CLI:	let me look in here .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|look-Inf-S adp|in adv|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|5|CASE 5|3|OBL 6|1|PUNCT
+*CLI:	oh here's one !
+%act:	<1w> Clinician looks in bag
+%mor:	intj|oh adv|here~aux|be-Fin-Ind-Pres-S3 num|one !
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|COP 4|2|NSUBJ 5|2|PUNCT
+*CLI:	what are going to do Sarah ?
+%act:	<1w> Clinician hands Sarah a car
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S part|to verb|do-Inf-S propn|Sarah-Acc ?
+%gra:	1|3|OBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*CHI:	put one in here .
+%act:	<1w> puts one car in garage
+%mor:	verb|put-Fin-Imp-S num|one adp|in adv|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT
+*CHI:	I need two cars .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 num|two noun|car-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NUMMOD 4|2|OBJ 5|2|PUNCT
+*CLI:	okay (.) hm: (.) well I don't know .
+%mor:	intj|okay intj|hm intj|well pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|DISCOURSE 4|6|NSUBJ 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*CLI:	the garage is full of cars that's a good start for the house .
+%mor:	det|the-Def-Art noun|garage aux|be-Fin-Ind-Pres-S3 adj|full-S1 adp|of noun|car-Plur aux|that-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-S1 noun|start adp|for det|the-Def-Art noun|house .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|CASE 6|4|OBL 7|10|COP 8|10|DET 9|10|AMOD 10|4|PARATAXIS 11|13|CASE 12|13|DET 13|10|NMOD 14|4|PUNCT
+*CLI:	are they going to go some place ?
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|go-Part-Pres-S part|to verb|go-Inf-S det|some-Def-Ind noun|place-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CLI:	or is he going to go some place ?
+%mor:	cconj|or aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|go-Part-Pres-S part|to verb|go-Inf-S det|some-Def-Ind noun|place-Acc ?
+%gra:	1|4|CC 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*CHI:	he not gonna go someplace .
+%mor:	pron|he-Prs-Nom-S3 part|not part|go verb|go-Inf-S adv|someplace .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|ADVMOD 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CLI:	oh .
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	is anyone going to go anywhere today ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|anyone-Ind-S1 verb|go-Part-Pres-S part|to verb|go-Inf-S adv|anywhere noun|today ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|ADVMOD 7|5|OBL-UNMARKED 8|3|PUNCT
+*CHI:	0 .
+%act:	nods head no
+*CLI:	no ?
+%mor:	intj|no ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	boy our house is awfully bare .
+%mor:	intj|boy pron|our-Prs-Gen-P1 noun|house aux|be-Fin-Ind-Pres-S3 adv|awfully adj|bare-S1 .
+%gra:	1|6|DISCOURSE 2|3|NMOD-POSS 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*CLI:	what do you think about that ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S adp|about pron|that-Dem ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	him [:: he] [* s:r:gc:pro] gonna pick up the truck xxx .
+%act:	aft Sarah makes car noises while moving it
+%mor:	pron|he-Prs-Acc-S3 part|go verb|pick-Inf-S adp|up det|the-Def-Art noun|truck-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CLI:	I don't understand you Sarah .
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|understand-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 propn|Sarah-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|3|PUNCT
+*CLI:	you don't talk loud enough for me .
+%mor:	pron|you-Prs-Nom-S2 aux|dont-Fin-S2 verb|talk-Inf-S adv|loud adv|enough adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|ADVMOD 6|7|CASE 7|3|OBL 8|3|PUNCT
+*CLI:	I need you to talk louder so I don't needta keep asking you +"/.
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|talk-Inf-S adv|louder adv|so pron|I-Prs-Nom-S1 aux|dont-Fin-S part|needta verb|keep-Inf-S verb|ask-Ger-S pron|you-Prs-Acc-S2 +"/.
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|ADVMOD 7|11|ADVMOD 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|2|PARATAXIS 12|11|XCOMP 13|12|IOBJ 14|2|PUNCT
+*CLI:	+" what did you say ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|say-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*CLI:	+" what did you say ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|say-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	they gonna go on the bus ride .
+%mor:	pron|they-Prs-Nom-P3 adv|gonna verb|go-Inf-S adp|on det|the-Def-Art noun|bus noun|ride .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*CLI:	oh !
+%mor:	intj|oh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	they go in here .
+%act:	aft Sarah puts bus in the house
+%mor:	pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Pres-P3 adp|in adv|here .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|CASE 4|2|OBL 5|2|PUNCT
+*CLI:	no they don't go in there .
+%com:	<1w> sarcastically spoken
+%mor:	intj|no pron|they-Prs-Nom-P3 adv|dont verb|go-Inf-P3 adp|in adv|there .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CLI:	I'll tell you who goes in there .
+%mor:	intj|ill verb|tell-Fin-Imp-S pron|you-Prs-Acc-S2 pron|who-Int verb|go-Fin-Ind-Pres-S3 adp|in adv|there .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|IOBJ 4|5|NSUBJ 5|2|CCOMP 6|7|CASE 7|5|ADVMOD 8|2|PUNCT
+*CLI:	<I would say> [//] who else could I put in there ?
+%act:	<1w-3w> Clinician searching in her bag
+%mor:	pron|who-Int adv|else aux|could-Fin-S pron|I-Prs-Nom-S1 verb|put-Inf-S adp|in adv|there ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|ADVMOD 7|5|ADVMOD 8|5|PUNCT
+*CHI:	I put em in .
+%mor:	pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1-irr pron|they-Prs-Acc-P3 adp|in .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|PUNCT
+*CLI:	what else could we use ?
+%mor:	pron|what-Int-S1 adv|else aux|could-Fin-S pron|we-Prs-Nom-P1 verb|use-Inf-S ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*CLI:	this is your house .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|house .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|0|ROOT 5|4|PUNCT
+*CHI:	more people .
+%mor:	adj|more-Cmp-S1 noun|person-Plur .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*CLI:	are you sure that's all you want (.) ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|sure-S1 pron|that-Prs-S1 det|all-Def-Tot pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|5|NSUBJ 5|3|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|3|PUNCT
+*CLI:	this could be a very boring house .
+%mor:	pron|this-Dem-S1 aux|could-Fin-S aux|be-Inf-S det|a-Ind-Art adv|very adj|boring-S1 noun|house .
+%gra:	1|7|NSUBJ 2|7|AUX 3|7|COP 4|7|DET 5|6|ADVMOD 6|7|AMOD 7|0|ROOT 8|7|PUNCT
+*CLI:	okay (.) well what kind ?
+%mor:	intj|okay intj|well det|what-Def-Int noun|kind ?
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|DET 4|0|ROOT 5|4|PUNCT
+*CHI:	girls!
+%mor:	noun|girl-Plur !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	here's one .
+%act:	aft Clinician finds one after searching through bag; Clinician hands Sarah a wooden girl doll
+%mor:	noun|here num|one .
+%gra:	1|0|ROOT 2|1|DEP 3|1|PUNCT
+*CHI:	I need another car .
+%gpx:	Sarah points to bus located by clinician
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|another-Def-Ind noun|car-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	I need that bus .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|that-Def-Dem-Sing noun|bus-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CLI:	okay .
+%act:	aft Clinician drives bus over to Sarah
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	I need another person to go on my bus .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|another-Def-Ind noun|person-Acc part|to verb|go-Inf-S adp|on pron|my-Prs-Gen-S1 noun|bus .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|MARK 6|4|ACL 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|2|PUNCT
+*CLI:	oh you need another person to go on your bus (.) how many can we get in there do you think ?
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 det|another-Def-Ind noun|person-Acc part|to verb|go-Inf-S adp|on pron|your-Prs-Gen-S2 noun|bus adv|how adj|many-S1 aux|can-Fin-S pron|we-Prs-Nom-P1 verb|get-Inf-S adp|in adv|there aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|MARK 7|5|ACL 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|12|ADVMOD 12|15|OBJ 13|15|AUX 14|15|NSUBJ 15|3|PARATAXIS 16|17|CASE 17|15|OBL 18|20|AUX 19|20|NSUBJ 20|3|PARATAXIS 21|3|PUNCT
+*CHI:	two .
+%mor:	num|two .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	two ?
+%mor:	num|two ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	okay well let's see .
+%act:	aft Clinician searches in bag and pulls out wooden doll
+%mor:	intj|okay intj|well intj|let verb|see-Fin-Imp-S .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|DISCOURSE 4|0|ROOT 5|4|PUNCT
+*CHI:	use that one .
+%gpx:	Sarah points to doll in clinician's hand
+%mor:	verb|use-Fin-Imp-S det|that-Def-Dem-Sing noun|one-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CLI:	who do you think this is ?
+%mor:	pron|who-Int aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|4|PUNCT
+*CLI:	look at it before you take it .
+%act:	<1u> Sarah tries to take doll out of clinician's hand .
+%mor:	verb|look-Fin-Imp-S adp|at pron|it-Prs-Acc-S3 sconj|before pron|you-Prs-Nom-S2 verb|take-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|6|MARK 5|6|NSUBJ 6|1|ADVCL 7|6|OBJ 8|1|PUNCT
+*CHI:	I don't know .
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*CLI:	does she look young or does she look old ?
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|look-Inf-S adj|young-S1 cconj|or aux|do-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|look-Inf-S adj|old-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|8|CC 6|8|AUX 7|8|NSUBJ 8|3|CONJ 9|8|XCOMP 10|3|PUNCT
+*CHI:	old .
+%mor:	adj|old-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	yes she does look old .
+%com:	Clinician spoke with granny-type voice
+%mor:	intj|yes pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3 verb|look-Inf-S adj|old-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|XCOMP 6|4|PUNCT
+*CLI:	that looks like grandma to me .
+%mor:	pron|that-Dem verb|look-Fin-Ind-Pres-S3 adp|like noun|grandma adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|6|CASE 6|2|OBL 7|2|PUNCT
+*CLI:	you'd better be careful with grandma in that bus .
+%mor:	aux|youd-Fin-S adv|well aux|be-Fin-Imp-S adj|careful-S1 adp|with noun|grandma adp|in det|that-Def-Dem-Sing noun|bus .
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|COP 4|0|ROOT 5|6|CASE 6|4|OBL 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+*CHI:	I need another person .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|another-Def-Ind noun|person-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	another little person .
+%mor:	det|another-Def-Ind adj|little-S1 noun|person .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*CLI:	how many more ?
+%mor:	adv|how adj|many-S1 adj|more-Cmp-S1 ?
+%gra:	1|2|ADVMOD 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*CHI:	two more .
+%mor:	num|two adj|more-Cmp-S1 .
+%gra:	1|2|NUMMOD 2|0|ROOT 3|2|PUNCT
+*CLI:	okay .
+%act:	aft Clinician searches in bag for another
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	<I want> [/] I want more .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 adj|more-Cmp-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	<I got> [/] I got a little person xxx .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1-irr det|a-Ind-Art adj|little-S1 noun|person-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+*CLI:	you hafta talk louder for me .
+%mor:	pron|you-Prs-Nom-S2 aux|hafta-Fin-Ind-Pres-S2 verb|talk-Inf-S adj|louder-Cmp-S1 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|XCOMP 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	I need some person [:: people] [* m:base:s] .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|some-Def-Ind noun|person-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CLI:	she fell on her head !
+%act:	bef Clinician hands her another doll and she puts the doll in the bus upside down
+%mor:	pron|she-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3-irr adp|on pron|her-Prs-Gen-S3 noun|head !
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+*CLI:	you made her drop on her head !
+%mor:	pron|you-Prs-Nom-S2 verb|make-Fin-Ind-Past-S2-irr pron|her-Prs-Acc-S3 verb|drop-Inf-S adp|on pron|her-Prs-Gen-S3 noun|head !
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|2|PUNCT
+*CLI:	I think we needta get the ambulance .
+%act:	<1w> ambulance car driven by clinician around to Sarah
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1 aux|needta-Fin-Ind-Pres-P1 verb|get-Inf-S det|the-Def-Art noun|ambulance-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+*CLI:	what are you going to do ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|do-Inf-S ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*CLI:	she fell on her head .
+%mor:	pron|she-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3-irr adp|on pron|her-Prs-Gen-S3 noun|head .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+*CLI:	okay if you're not going to use it +...
+%act:	<1w> Sarah not attending to ambulance
+%mor:	intj|okay sconj|if pron|your-Prs-Nom-S2 part|not verb|go-Part-Pres-S part|to verb|use-Inf-S pron|it-Prs-Acc-S3 +...
+%gra:	1|5|DISCOURSE 2|5|MARK 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|5|PUNCT
+*CHI:	I need it!
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 !
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I need it!
+%act:	aft Sarah puts hand out for ambulance
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 !
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CLI:	well (.) what for ?
+%mor:	intj|well pron|what-Int-S1 adp|for ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|CASE 4|2|PUNCT
+*CHI:	<I'm gonna put> [/] <I'm gonna put it> [//] I [/] I need another person .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|another-Def-Ind noun|person-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	to put in here + . . .
+%mor:	part|to verb|put-Inf-S adp|in adv|here +...
+%gra:	1|2|MARK 2|0|ROOT 3|2|COMPOUND-PRT 4|2|ADVMOD 5|2|PUNCT
+*CLI:	no (.) no (.) no you mean you need a person for this one .
+%com:	<1w-3w> sarcastically spoken
+%exp:	<1w> ambulance
+%mor:	intj|no intj|no intj|no pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 det|a-Ind-Art noun|person-Acc adp|for det|this-Def-Dem-Sing noun|one .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|7|DISCOURSE 4|5|NSUBJ 5|7|PARATAXIS 6|7|NSUBJ 7|0|ROOT 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|7|OBL 13|7|PUNCT
+*CLI:	okay (.) let's see if we can find somebody to drive this ambulance .
+%act:	aft Clinician searches in bag
+%mor:	intj|okay intj|let verb|see-Fin-Imp-S sconj|if pron|we-Prs-Nom-P1 aux|can-Fin-S verb|find-Inf-S pron|somebody-Ind-S1 part|to verb|drive-Inf-S det|this-Def-Dem-Sing noun|ambulance-Acc .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|OBJ 9|10|MARK 10|8|ACL 11|12|DET 12|10|OBJ 13|3|PUNCT
+*CHI:	I need that ambulance .
+%exp:	Sarah is referring to a wooden policeman clinician is holding in her hand while still looking in the bag for an ambulance driver
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|that-Def-Dem-Sing noun|ambulance-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CLI:	pardon me .
+%mor:	verb|pardon-Inf-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	I need it .
+%act:	aft Sarah puts her hand out toward doll in clinician's hand
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CLI:	this is a policeman we don't need a policeman .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|policeman pron|we-Prs-Nom-P1 aux|dont-Fin-S verb|need-Inf-Pres-S1 det|a-Ind-Art noun|policeman-Acc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|9|DET 9|7|OBJ 10|4|PUNCT
+*CLI:	this looks like it'll do .
+%act:	aft Clinician puts doll in ambulance and drives it around house where client is sitting
+%mor:	pron|this-Dem-S1 verb|look-Fin-Ind-Pres-S3 sconj|like pron|itll-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|MARK 4|5|NSUBJ 5|2|ADVCL 6|2|PUNCT
+*CHI:	I need it .
+%com:	ignores ambulance
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CLI:	okay I'm taking this away .
+%exp:	ambulance
+%mor:	intj|okay intj|im verb|take-Part-Pres-S pron|this-Dem-S1 adv|away .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CHI:	why?
+%mor:	adv|why ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	we don't need this .
+%act:	<1w> pause then puts away ambulance
+%mor:	pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|need-Inf-S pron|this-Dem-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CLI:	besides I thought you were going to take our people for a ride .
+%mor:	sconj|besides pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr verb|go-Part-Pres-S part|to verb|take-Inf-S pron|our-Prs-Gen-P1 noun|person-Plur-Acc adp|for det|a-Ind-Art noun|ride .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|8|MARK 8|6|XCOMP 9|10|NMOD-POSS 10|8|OBJ 11|13|CASE 12|13|DET 13|8|OBL 14|3|PUNCT
+*CLI:	you have them all in the bus .
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 pron|they-Prs-Acc-P3 det|all-Def-Tot adp|in det|the-Def-Art noun|bus .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|3|DET 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*CHI:	<they gon> [/] <they gonna> [//] I gonna [:: going to] [* m:irr:ed] xxx .
+%mor:	pron|I-Prs-Nom-S1 aux|gonna-Fin-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	<the bus> [//] the cars are gonna go in here .
+%act:	aft Sarah tries to fit all the cars in the garage
+%mor:	det|the-Def-Art noun|car-Plur aux|be-Fin-Ind-Pres-P3 adv|gonna verb|go-Inf-S adp|in adv|here .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*CLI:	oh well I think I'm going to take these people for a ride .
+%act:	aft clinician starts to move toward the bus full of dolls
+%mor:	intj|oh intj|well pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|im-Prs-Nom-S1 verb|go-Part-Pres-S part|to verb|take-Inf-S det|this-Def-Dem-Plur noun|person-Plur-Acc adp|for det|a-Ind-Art noun|ride .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|OBJ 11|13|CASE 12|13|DET 13|8|OBL 14|4|PUNCT
+*CHI:	no!
+%mor:	intj|no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	no ?
+%mor:	intj|no ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	I takin(g) em for a ride .
+%act:	aft Sarah starts to drive them around making car noises
+%mor:	pron|I-Prs-Nom-S1 verb|take-Part-Pres-S pron|they-Prs-Acc-P3 adp|for det|a-Ind-Art noun|ride .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*CLI:	where are you going to go (.) ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|go-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*CLI:	where are you going to take them ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|take-Inf-S pron|they-Prs-Acc-P3 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+*CHI:	in the house .
+%act:	aft starts to drive bus into the house
+%mor:	adp|in det|the-Def-Art noun|house .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*CLI:	no .
+%com:	<1w> said sarcastically
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	buses don't drive in the house .
+%mor:	noun|bus-Plur aux|dont-Fin-Ind-Pres-P3 verb|drive-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|house .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CLI:	where're you going to take them ?
+%mor:	adv|wherere pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|take-Inf-S pron|they-Prs-Acc-P3 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*CHI:	they gonna stand right here and they xxx .
+%act:	aft Sarah trying to get bus in garage
+%mor:	pron|they-Prs-Nom-P3 adv|gonna verb|stand-Inf-P3 adv|right adv|here cconj|and pron|they-Prs-Nom-P3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|ADVMOD 5|3|ADVMOD 6|7|CC 7|3|CONJ 8|3|PUNCT
+*CLI:	where do buses go ?
+%mor:	adv|where aux|do-Fin-Ind-Pres-P3 noun|bus-Plur verb|go-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	right here?
+%gpx:	points to garage
+%mor:	adv|right adv|here ?
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*CLI:	no .
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	where do they travel ?
+%mor:	adv|where aux|do-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|travel-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	in the garage .
+%mor:	adp|in det|the-Def-Art noun|garage .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*CLI:	they can go in a garage .
+%mor:	pron|they-Prs-Nom-P3 aux|can-Fin-S verb|go-Inf-S adp|in det|a-Ind-Art noun|garage .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	they can go in the house in the night .
+%mor:	pron|they-Prs-Nom-P3 aux|can-Fin-S verb|go-Inf-S adp|in det|the-Def-Art noun|house adp|in det|the-Def-Art noun|night .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*CLI:	who ?
+%mor:	pron|who-Int ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	the bus .
+%mor:	det|the-Def-Art noun|bus .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CLI:	no .
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	I'm taking the bus back you're being silly .
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S det|the-Def-Art noun|bus-Acc adv|back sconj|your aux|be-Part-Pres-S adj|silly-S1 .
+%gra:	1|2|AUX 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|8|MARK 7|8|COP 8|2|ADVCL 9|2|PUNCT
+*CLI:	we don't put buses in the house .
+%act:	aft Clinician takes people out of bus and puts it aside
+%mor:	pron|we-Prs-Nom-P1 aux|dont-Fin-Pres-S verb|put-Inf-Past-S-irr noun|bus-Plur-Acc adp|in det|the-Def-Art noun|house .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*CHI:	xxx .
+%act:	aft Sarah starts putting people in the house
+*CLI:	where are you going to put them ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|put-Inf-S pron|they-Prs-Acc-P3 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+*CHI:	they got company .
+%mor:	pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Past-P3-irr noun|company-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CLI:	they're having company ?
+%mor:	pron|their-Prs-Nom-S1 verb|have-Part-Pres-S noun|company-Acc ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CLI:	where are you going to put all your company ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|put-Inf-S det|all-Def-Tot pron|your-Prs-Gen-S2 noun|company-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|DET-PREDET 8|9|NMOD-POSS 9|6|OBJ 10|4|PUNCT
+*CHI:	in the garage .
+%mor:	adp|in det|the-Def-Art noun|garage .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*CLI:	you're going to put them in the garage ?
+%gpx:	Clinician points to house
+%mor:	aux|your-Fin-Ind-Pres-S2 verb|go-Part-Pres-S part|to verb|put-Inf-S pron|they-Prs-Acc-P3 adp|in det|the-Def-Art noun|garage ?
+%gra:	1|2|AUX 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|2|PUNCT
+*CLI:	are they going to sleep in there too ?
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|go-Part-Pres-S part|to verb|sleep-Inf-S adp|in adv|there adv|too ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|CASE 7|5|OBL 8|5|ADVMOD 9|3|PUNCT
+*CLI:	no they're not going to sleep in the garage .
+%mor:	intj|no sconj|their part|not verb|go-Part-Pres-S part|to verb|sleep-Inf-S adp|in det|the-Def-Art noun|garage .
+%gra:	1|4|DISCOURSE 2|4|MARK 3|4|ADVMOD 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+*CLI:	don't you think we should put them in here ?
+%mor:	intj|dont pron|you-Prs-Nom-S2 verb|think-Fin-Ind-Pres-S2 pron|we-Prs-Nom-P1 aux|should-Fin-S verb|put-Inf-S pron|they-Prs-Acc-P3 adp|in adv|here ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|6|OBJ 8|9|CASE 9|6|OBL 10|3|PUNCT
+*CHI:	this one gonna go on the couch and go to sleep and this one gonna go on the floor .
+%mor:	det|this-Def-Dem-Sing noun|one aux|gonna-Fin-S verb|go-Inf-S adp|on det|the-Def-Art noun|couch cconj|and verb|go-Inf-S adp|to noun|sleep cconj|and det|this-Def-Dem-Sing noun|one adv|gonna verb|go-Inf-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|CC 9|4|CONJ 10|11|CASE 11|9|OBL 12|16|CC 13|14|DET 14|16|NSUBJ 15|16|ADVMOD 16|4|CONJ 17|19|CASE 18|19|DET 19|16|OBL 20|4|PUNCT
+*CLI:	<well what do you think> [//] do you think we need this ?
+%act:	aft Clinician pulls bed out of bag
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Pres-P1 pron|this-Dem-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|NSUBJ 5|3|CCOMP 6|5|OBJ 7|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	well should we put it in the garage ?
+%mor:	intj|well aux|should-Fin-S pron|we-Prs-Nom-P1 verb|put-Inf-S pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|garage ?
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	no in the house .
+%mor:	intj|no adp|in det|the-Def-Art noun|house .
+%gra:	1|4|DISCOURSE 2|4|CASE 3|4|DET 4|0|ROOT 5|4|PUNCT
+*CLI:	shall I put it in the kitchen ?
+%mor:	aux|shall-Fin-S pron|I-Prs-Nom-S1 verb|put-Inf-S pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|kitchen ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*CHI:	no <in the kitchen> [//] <in the gar(age)> [//] <in the> [/] <in the> [/] in the bed .
+%mor:	intj|no adp|in det|the-Def-Art noun|bed .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*CLI:	in the bed ?
+%mor:	adp|in det|the-Def-Art noun|bed ?
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*CHI:	yeah!
+%mor:	intj|yeah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	this is the bed .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|bed .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|4|PUNCT
+*CLI:	where are you going to put the bed ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|put-Inf-S det|the-Def-Art noun|bed-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*CHI:	right here in there .
+%act:	aft Sarah puts bed in front door
+%mor:	adv|right adv|here adp|in adv|there .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CLI:	no you don't put it in the front door .
+%mor:	intj|no pron|you-Prs-Nom-S2 aux|dont-Fin-Ind-Pres-S2 verb|put-Fin-Ind-Past-S2-irr pron|it-Prs-Acc-S3 adp|in det|the-Def-Art adj|front-S1 noun|door .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|CASE 7|9|DET 8|9|AMOD 9|4|OBL 10|4|PUNCT
+*CLI:	you put it in the bedroom don't you ?
+%mor:	pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Past-S2-irr pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|bedroom adp|dont pron|you-Prs-Nom-S2 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|8|CASE 8|2|OBL 9|2|PUNCT
+*CHI:	xxx .
+*CLI:	do you think those people are going to be able to fit in that bed ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S det|that-Def-Dem-Plur noun|person-Plur aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S part|to aux|be-Inf-S adj|able-S1 part|to verb|fit-Inf-S adp|in det|that-Def-Dem-Sing noun|bed ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|10|MARK 9|10|COP 10|7|XCOMP 11|12|MARK 12|10|XCOMP 13|15|CASE 14|15|DET 15|12|OBL 16|3|PUNCT
+*CHI:	need another bed .
+%mor:	verb|need-Fin-Imp-S det|another-Def-Ind noun|bed-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CLI:	what did you say ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|say-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	need another bed .
+%mor:	verb|need-Fin-Imp-S det|another-Def-Ind noun|bed-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CLI:	okay well I don't know how many more beds I have let me see .
+%mor:	intj|okay intj|well pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 adv|how adj|many-S1 adj|more-Cmp-S1 noun|bed-Plur-Acc pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1 verb|let-Part-Past-S-irr pron|I-Prs-Acc-S1 verb|see-Inf-S .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|7|ADVMOD 7|9|AMOD 8|9|AMOD 9|12|OBJ 10|12|NSUBJ 11|12|AUX 12|5|CCOMP 13|12|OBJ 14|12|XCOMP 15|5|PUNCT
+*CLI:	oh !
+%act:	<1w> Clinician goes looking through the bag
+%mor:	intj|oh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	look at this one !
+%mor:	verb|look-Fin-Imp-S adp|at det|this-Def-Dem-Sing noun|one !
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	what's so different about this one ?
+%mor:	pron|what-Int-S1 adv|so adj|different-S1 adp|about det|this-Def-Dem-Sing noun|one ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	it's a sofa bed!
+%com:	it is actually a double bed
+%mor:	pron|its-Prs-Gen-S3 det|a-Ind-Art noun|sofa noun|bed !
+%gra:	1|4|NMOD-POSS 2|4|DET 3|4|COMPOUND 4|0|ROOT 5|4|PUNCT
+*CHI:	you two can sleep in it .
+%alt:	<2w> too
+%mor:	pron|you-Prs-Nom-S2 num|two aux|can-Fin-S verb|sleep-Inf-S adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|1|NUMMOD 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CLI:	maybe we can fit three do you think so ?
+%mor:	adv|maybe pron|we-Prs-Nom-P1 aux|can-Fin-S verb|fit-Inf-S num|three aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S adv|so ?
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|AUX 7|8|NSUBJ 8|4|PARATAXIS 9|8|ADVMOD 10|4|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	no ?
+%act:	aft Clinician puts another doll in the bed and it falls out
+%mor:	intj|no ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CLI:	I think we have a problem here .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|problem-Acc adv|here .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|2|PUNCT
+*CLI:	you are all under arrest come out with your hands up !
+%act:	<1-7> clinician drives a police car around to the front of the house .
+%mor:	pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 adv|all adp|under noun|arrest verb|come-Fin-S adp|out adp|with pron|your-Prs-Gen-S2 noun|hand-Plur adp|up !
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|CASE 5|6|OBL 6|0|ROOT 7|6|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|6|OBL 11|6|COMPOUND-PRT 12|6|PUNCT
+*CHI:	they are not!
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 part|not !
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*CLI:	I said you are !
+%com:	Clinician speaks with deep low voice
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 !
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|2|PUNCT
+*CLI:	I will give you two seconds to come out of the house .
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S verb|give-Inf-S pron|you-Prs-Acc-S2 num|two noun|second-Plur-Acc part|to verb|come-Inf-S adp|out adp|of det|the-Def-Art noun|house .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|IOBJ 5|6|NUMMOD 6|3|OBJ 7|8|MARK 8|3|ADVCL 9|12|CASE 10|9|FIXED 11|12|DET 12|8|OBL 13|3|PUNCT
+*CLI:	if you don't I will come in and get you !
+%mor:	sconj|if pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 pron|I-Prs-Nom-S1 aux|will-Fin-S verb|come-Inf-S adv|in cconj|and verb|get-Inf-S pron|you-Prs-Acc-S2 !
+%gra:	1|3|MARK 2|3|NSUBJ 3|6|ADVCL 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|ADVMOD 8|9|CC 9|6|CONJ 10|9|OBJ 11|6|PUNCT
+*CLI:	one +...
+%mor:	num|one +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	Sarah brings people out of house
+*CLI:	good thing you people came out of the house .
+%mor:	adj|good-S1 noun|thing-Ger pron|you-Prs-Nom-S2 noun|person-Plur verb|come-Fin-Ind-Past-P3-irr adp|out adp|of det|the-Def-Art noun|house .
+%gra:	1|2|AMOD 2|0|ROOT 3|4|DEP 4|5|NSUBJ 5|2|ACL-RELCL 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|2|PUNCT
+*CHI:	why?
+%mor:	adv|why ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	because you're disturbing the neighbors !
+%mor:	sconj|because pron|your-Prs-Nom-S2 verb|disturbing-Part-Pres-S det|the-Def-Art noun|neighbor-Plur-Acc !
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CLI:	what do you think about that (.) ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S adp|about pron|that-Dem ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CLI:	I'm taking you_all down to the police headquarters .
+%mor:	adv|im verb|take-Part-Pres-S pron|youall-Prs-Acc-S2 adp|down adp|to det|the-Def-Art noun|police noun|headquarters .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|2|OBL 9|2|PUNCT
+*CHI:	0 .
+%act:	Sarah starts taking cars out of garage
+*CLI:	what are you doing ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	I'm taking the ambulance out of here and the ambulance is gonna to come into the house .
+%act:	aft Sarah takes ambulance out of garage and takes police car then puts them back in the garage rattling the cars around
+%mor:	pron|im-Prs-Nom-S1 verb|take-Part-Pres-S det|the-Def-Art noun|ambulance-Acc adp|out adp|of adv|here cconj|and det|the-Def-Art noun|ambulance aux|be-Fin-Ind-Pres-S3 adj|gonna-S1 part|to verb|come-Inf-S adp|into det|the-Def-Art noun|house .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|CASE 7|2|OBL 8|12|CC 9|10|DET 10|12|NSUBJ 11|12|COP 12|2|CONJ 13|14|MARK 14|12|XCOMP 15|17|CASE 16|17|DET 17|14|OBL 18|2|PUNCT
+*CLI:	you can't put the police car in with the ambulance !
+%mor:	pron|you-Prs-Nom-S2 aux|cant-Fin-S verb|put-Inf-S det|the-Def-Art noun|police noun|car-Acc adp|in adp|with det|the-Def-Art noun|ambulance !
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|COMPOUND-PRT 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+*CLI:	first of all it won't fit and second you can't kidnap my policeman .
+%act:	<1w-12w> Sarah hides policeman behind her
+%mor:	adj|first-S1 adp|of det|all-Def-Tot pron|it-Prs-Nom-S3 aux|won-Fin-S verb|fit-Inf-S cconj|and adj|second-S1 pron|you-Prs-Nom-S2 aux|cant-Fin-S verb|kidnap-Inf-S pron|my-Prs-Gen-S1 noun|policeman-Acc .
+%gra:	1|6|ADVMOD 2|3|CASE 3|1|OBL 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|11|CC 8|11|ADVMOD 9|11|NSUBJ 10|11|AUX 11|6|CONJ 12|13|NMOD-POSS 13|11|OBJ 14|6|PUNCT
+*CLI:	okay I think I need another policeman then .
+%mor:	intj|okay pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|another-Def-Ind noun|policeman-Acc adv|then .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|NSUBJ 5|3|CCOMP 6|7|DET 7|5|OBJ 8|5|ADVMOD 9|3|PUNCT
+*CLI:	I'm going to get you_all !
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|get-Inf-S noun|youall-Acc !
+%gra:	1|2|AUX 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*CHI:	no!
+%mor:	intj|no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	what do you mean no !
+%com:	<1w-5w> said sarcastically
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|mean-Inf-S intj|no !
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|DISCOURSE 6|4|PUNCT
+*CLI:	give me those back bring those here !
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 det|that-Def-Dem-Plur adv|back verb|bring-Inf-S pron|that-Dem-P1 adv|here !
+%gra:	1|0|ROOT 2|1|IOBJ 3|4|DET 4|1|ADVMOD 5|1|XCOMP 6|5|OBJ 7|5|ADVMOD 8|1|PUNCT
+*CLI:	we can't play if you don't bring them back !
+%mor:	pron|we-Prs-Nom-P1 aux|cant-Fin-S verb|play-Inf-S sconj|if pron|you-Prs-Nom-S2 aux|dont-Fin-Pres-S2 verb|bring-Inf-S pron|they-Prs-Acc-P3 adv|back !
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ADVCL 8|7|OBJ 9|7|ADVMOD 10|3|PUNCT
+*CHI:	xxx .
+*CLI:	I want the policeman !
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|the-Def-Art noun|policeman-Acc !
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CLI:	give it to me .
+%com:	<1w> playfully spoken
+%mor:	verb|give-Fin-Imp-S pron|it-Prs-Acc-S3 adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT
+*CLI:	okay (.) let's round them all up .
+%act:	<1w> Clinician collects the people and puts them in the "paddy-wagon" bus with policeman
+%mor:	intj|okay intj|let adp|round pron|they-Prs-Acc-P3 det|all-Def-Tot adp|up .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|CASE 4|2|OBL 5|6|DET 6|2|COMPOUND-PRT 7|2|PUNCT
+*CLI:	everybody in the bus .
+%mor:	pron|everybody-Tot-S1 adp|in det|the-Def-Art noun|bus .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*CHI:	why?
+%mor:	adv|why ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	because I'm taking you_all down to the police station .
+%mor:	sconj|because propn|Im verb|take-Part-Pres-S pron|youall-Prs-Acc-S2 adp|down adp|to det|the-Def-Art noun|police noun|station .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|3|OBL 10|3|PUNCT
+*CLI:	you're all being arrested because you're all too silly !
+%act:	aft Clinician starts to load up bus
+%mor:	pron|your-Prs-Nom-S2 det|all-Def-Tot aux|be-Part-Pres-S verb|arrest-Part-Past-S sconj|because pron|your-Prs-Acc-S2 det|all-Def-Tot adv|too adj|silly-S1 !
+%gra:	1|4|NSUBJ-PASS 2|1|DET 3|4|AUX-PASS 4|0|ROOT 5|9|MARK 6|9|NSUBJ 7|9|ADVMOD 8|9|ADVMOD 9|4|ADVCL 10|4|PUNCT
+*CHI:	I do it .
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I'm do [:: doing] [* m:0ing] it .
+%act:	aft Sarah takes over loading of bus
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CLI:	okay follow me .
+%act:	aft Sarah drives paddy-wagon and follows police car
+%mor:	intj|okay verb|follow-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	0 .
+%act:	Sarah stops bus and takes out people
+*CLI:	what did you do ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2 pron|you-Prs-Nom-S2 verb|do-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	I'm taking them out of the van and I am go [:: going] [* m:0ing] to the police .
+%com:	Sarah's parent's have van
+%mor:	adv|im verb|take-Part-Pres-S pron|they-Prs-Acc-P3 adp|out adp|of det|the-Def-Art noun|van cconj|and pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 verb|go-Inf-S adp|to det|the-Def-Art noun|police .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|7|CASE 5|7|CASE 6|7|DET 7|2|OBL 8|11|CC 9|11|NSUBJ 10|11|AUX 11|2|CONJ 12|14|CASE 13|14|DET 14|11|OBL 15|2|PUNCT
+*CLI:	where are they going to go ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|go-Part-Pres-S part|to verb|go-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*CLI:	I didn't understand you please slow down .
+%mor:	pron|I-Prs-Nom-S1 adv|didnt verb|understand-Inf-S pron|you-Prs-Nom-S2 intj|please verb|slow-Inf-S adp|down .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|NSUBJ 5|6|DISCOURSE 6|3|CCOMP 7|6|COMPOUND-PRT 8|3|PUNCT
+*CHI:	she gonna go to the policemen [:: police] [* m:irr:s] station .
+%mor:	pron|she-Prs-Nom-S3 adv|gonna verb|go-Inf-S adp|to det|the-Def-Art noun|policemen-Plur noun|station .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*CLI:	okay (.) we're going to take them to court .
+%mor:	intj|okay sconj|were verb|go-Part-Pres-S part|to verb|take-Inf-S pron|they-Prs-Acc-P3 adp|to noun|court .
+%gra:	1|3|DISCOURSE 2|3|MARK 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|8|CASE 8|5|OBL 9|3|PUNCT
+*CLI:	line them up !
+%mor:	verb|line-Fin-Imp-S pron|they-Prs-Acc-P3 adp|up !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*CHI:	this one gonna go in bed and go to sleep .
+%act:	bef Sarah takes a person and puts it in the house
+%mor:	det|this-Def-Dem-Sing noun|one adv|gonna verb|go-Inf-S adp|in noun|bed cconj|and verb|go-Inf-Imp-S adp|to noun|sleep .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|CASE 6|4|OBL 7|8|CC 8|4|CONJ 9|10|CASE 10|8|OBL 11|4|PUNCT
+*CLI:	how did you get from the police station back to the house ?
+%mor:	adv|how aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|get-Inf-S adp|from det|the-Def-Art noun|police noun|station adv|back adp|to det|the-Def-Art noun|house ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|ADVMOD 10|12|CASE 11|12|DET 12|4|OBL 13|4|PUNCT
+*CHI:	xxx .
+*CLI:	Sarah I didn't understand a word you said .
+%mor:	propn|Sarah pron|I-Prs-Nom-S1 part|didnt verb|understand-Inf-S det|a-Ind-Art noun|word-Acc pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr .
+%gra:	1|4|VOCATIVE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|4|PUNCT
+*CLI:	you talked too fast .
+%mor:	pron|you-Prs-Nom-S2 verb|talk-Fin-Ind-Past-S2 adv|too adv|fast .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+*CHI:	they gonna go to the policemen [:: police] [* m:irr:s] station .
+%mor:	pron|they-Prs-Nom-P3 adv|gonna verb|go-Inf-S adp|to det|the-Def-Art noun|policemen-Plur noun|station .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*CHI:	xxx .
+%act:	aft Sarah brings all the people into the dining room part of the house which has no furniture in it
+*CLI:	well I think if we're going to eat dinner I think we're going to need this .
+%act:	aft Clinician hands Sarah a table
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|if sconj|were verb|go-Part-Pres-S part|to verb|eat-Inf-S noun|dinner-Acc pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|were verb|go-Part-Pres-S part|to verb|need-Inf-S pron|this-Dem-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|11|MARK 5|6|MARK 6|11|ADVCL 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|11|NSUBJ 11|3|CCOMP 12|13|MARK 13|11|ADVCL 14|15|MARK 15|13|XCOMP 16|15|OBJ 17|3|PUNCT
+*CHI:	we're gonna need it .
+%mor:	aux|be-Fin-S adv|gonna verb|need-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	we didn't eat dinner .
+%mor:	pron|we-Prs-Nom-P1 aux|didnt-Fin-S verb|eat-Inf-S noun|dinner-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CLI:	are you going to put it in the bedroom ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|put-Inf-S pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|bedroom ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|9|CASE 8|9|DET 9|5|OBL 10|3|PUNCT
+*CHI:	I need a chair .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|a-Ind-Art noun|chair-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CLI:	what color do you want ?
+%act:	bef Clinician goes looking in the bag for a chair
+%mor:	det|what-Def-Int noun|color-Acc aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S ?
+%gra:	1|2|DET 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	orange .
+%act:	aft Sarah attempts to grab chair from clinician's hand
+%mor:	adj|orange-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	don't grab .
+%act:	aft Clinician gives chair to Sarah
+%mor:	intj|dont verb|grab-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CHI:	we need food on it .
+%mor:	pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Pres-P1 noun|food-Acc adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+*CLI:	I don't know if we have any food .
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 sconj|if pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|any-Def-Ind noun|food-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|MARK 5|6|NSUBJ 6|3|CCOMP 7|8|DET 8|6|OBJ 9|3|PUNCT
+*CLI:	we may hafta make believe .
+%mor:	pron|we-Prs-Nom-P1 aux|may-Fin-S part|hafta verb|make-Inf-S verb|believe-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|XCOMP 6|4|PUNCT
+*CHI:	we need chairs more chairs .
+%mor:	pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Pres-P1 noun|chair-Plur-Acc adj|more-Cmp-S1 noun|chair-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+*CLI:	you need (.) chairs ?
+%com:	<3w> questioning what Sarah said
+%mor:	pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 noun|chair-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	chairs .
+%mor:	noun|chair-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	okay here's one .
+%act:	aft Clinician searches through bag and finds one
+%mor:	intj|okay adv|here~aux|be-Fin-Ind-Pres-S3 num|one .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|COP 4|2|NSUBJ 5|2|PUNCT
+*CHI:	and another one .
+%mor:	cconj|and det|another-Def-Ind noun|one .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*CLI:	okay .
+%act:	aft Finds and hands Sarah another chair
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	I need another chair .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|another-Def-Ind noun|chair-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CLI:	are they going to have breakfast or dinner ?
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|go-Part-Pres-S part|to verb|have-Inf-S noun|breakfast-Acc cconj|or noun|dinner ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|8|CC 8|6|CONJ 9|3|PUNCT
+*CHI:	breakfast .
+%mor:	noun|breakfast .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	are they going to have spaghetti then ?
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|go-Part-Pres-S part|to verb|have-Inf-S noun|spaghetti-Acc adv|then ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|5|ADVMOD 8|3|PUNCT
+*CHI:	0 .
+%act:	Sarah nods head yes
+*CLI:	yuck .
+%mor:	intj|yuck .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	spaghetti for breakfast ?
+%mor:	noun|spaghetti adp|for noun|breakfast ?
+%gra:	1|0|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	I need another chair .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 det|another-Def-Ind noun|chair-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CLI:	what for ?
+%mor:	pron|what-Int-S1 adp|for ?
+%gra:	1|0|ROOT 2|1|CASE 3|1|PUNCT
+*CHI:	it's for the policeman and to and to and to + . . .
+%mor:	pron|its-Prs-Gen-S3 adp|for det|the-Def-Art noun|policeman cconj|and part|to cconj|and part|to cconj|and adp|to +...
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|8|CC 6|4|CONJ 7|8|CC 8|6|CONJ 9|10|CC 10|8|CONJ 11|1|PUNCT
+*CLI:	and for what ?
+%com:	Clinician with puzzled look on her face
+%mor:	cconj|and adp|for pron|what-Int-S1 ?
+%gra:	1|3|CC 2|3|CASE 3|0|ROOT 4|3|PUNCT
+*CLI:	you said the policeman +...
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr det|the-Def-Art noun|policeman-Acc +...
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	( .) not to the policeman xxx .
+%act:	aft Clinician goes looking for chair no chair pulls out baby doll; Sarah puts out hand for doll
+%mor:	part|not adp|to det|the-Def-Art noun|policeman .
+%gra:	1|4|ADVMOD 2|4|CASE 3|4|DET 4|0|ROOT 5|4|PUNCT
+*CLI:	this isn't a man .
+%mor:	pron|this-Dem-S1 aux|isnt-Fin-Ind-Pres-S3 det|a-Ind-Art noun|man .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|4|PUNCT
+*CLI:	who is it ?
+%mor:	pron|who-Int aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*CHI:	a boy .
+%mor:	det|a-Ind-Art noun|boy .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CLI:	it's a little baby .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|baby .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*CHI:	little baby .
+%mor:	adj|little-S1 noun|baby .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*CLI:	there you go .
+%act:	bef Clinician hands baby doll to Sarah
+%mor:	pron|there-Dem-S1 pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	the baby needs high chair .
+%mor:	det|the-Def-Art noun|baby verb|need-Fin-Ind-Pres-S3 adj|high-S1 noun|chair-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+*CLI:	I don't know if I have a high chair in here .
+%act:	<1w> looks through bag
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 sconj|if pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art adj|high-S1 noun|chair-Acc adp|in adv|here .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|MARK 5|6|NSUBJ 6|3|CCOMP 7|9|DET 8|9|AMOD 9|6|OBJ 10|11|CASE 11|6|OBL 12|3|PUNCT
+*CLI:	no I don't have a high chair .
+%mor:	intj|no pron|I-Prs-Nom-S1 aux|dont-Fin-Ind-Pres-S1 verb|have-Inf-S det|a-Ind-Art adj|high-S1 noun|chair-Acc .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+*CLI:	I think we're just going to hafta have the baby sit (.) hm: (.) what can we do ?
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|were adv|just verb|go-Part-Pres-S part|to intj|hafta verb|have-Fin-S det|the-Def-Art noun|baby-Acc verb|sit-Inf-S intj|hm pron|what-Int-S1 aux|can-Fin-S pron|we-Prs-Nom-P1 verb|do-Inf-S ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|MARK 4|5|ADVMOD 5|2|ADVCL 6|8|MARK 7|8|DISCOURSE 8|5|XCOMP 9|10|DET 10|8|OBJ 11|8|XCOMP 12|13|DISCOURSE 13|16|OBJ 14|16|AUX 15|16|NSUBJ 16|2|PARATAXIS 17|2|PUNCT
+*CHI:	get get another chair .
+%mor:	aux|get-Fin-Imp-S verb|get-Inf-Imp-S det|another-Def-Ind noun|chair-Acc .
+%gra:	1|2|AUX 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CLI:	well if I don't have a chair what are we going to do ?
+%mor:	intj|well sconj|if pron|I-Prs-Nom-S1 aux|dont-Fin-Ind-Pres-S1 verb|have-Inf-S det|a-Ind-Art noun|chair-Acc pron|what-Int-S1 aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|go-Part-Pres-S part|to verb|do-Inf-S ?
+%gra:	1|11|DISCOURSE 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|11|ADVCL 6|7|DET 7|5|OBJ 8|13|OBJ 9|11|AUX 10|11|NSUBJ 11|0|ROOT 12|13|MARK 13|11|XCOMP 14|11|PUNCT
+*CLI:	as a matter of fact I don't have a chair .
+%mor:	adp|as det|a-Ind-Art noun|matter adp|of noun|fact pron|I-Prs-Nom-S1 aux|dont-Fin-S1 verb|have-Inf-S det|a-Ind-Art noun|chair-Acc .
+%gra:	1|3|CASE 2|3|DET 3|8|OBL 4|5|CASE 5|3|NMOD 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|10|DET 10|8|OBJ 11|8|PUNCT
+*CHI:	yes you do .
+%mor:	intj|yes pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*CLI:	no I don't that's a table .
+%exp:	Clinician has a table in her hand
+%mor:	intj|no pron|I-Prs-Nom-S1 adv|dont verb|that-Fin-Ind-Pres-S1 det|a-Ind-Art noun|table-Acc .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	xxx .
+*CLI:	what can we do up here ?
+%gpx:	Clinician points to dining room
+%mor:	pron|what-Int-S1 aux|can-Fin-S pron|we-Prs-Nom-P1 verb|do-Inf-S adp|up adv|here ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|COMPOUND-PRT 6|4|ADVMOD 7|4|PUNCT
+*CHI:	her [:: she] [* s:r:gc:pro] can sit on the table .
+%exp:	baby
+%mor:	pron|her-Prs-Nom-S3 aux|can-Fin-S verb|sit-Inf-S adp|on det|the-Def-Art noun|table .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CLI:	on the table ?
+%act:	<1w> Sarah and clinician try to rearrange table chairs and people
+%mor:	adp|on det|the-Def-Art noun|table ?
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*CLI:	do we have anymore room ?
+%mor:	aux|do-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|have-Inf-S adv|anymore noun|room-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|OBJ 6|3|PUNCT
+*CHI:	they hafta wait awhile (be)cause they can't eat right now .
+%mor:	pron|they-Prs-Nom-P3 aux|hafta-Fin-Ind-Pres-P3 verb|wait-Inf-P3 adv|awhile sconj|because pron|they-Prs-Nom-P3 aux|cant-Fin-S verb|eat-Inf-S adv|right adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|3|ADVCL 9|10|ADVMOD 10|8|ADVMOD 11|3|PUNCT
+*CHI:	they can't xxx .
+%mor:	pron|they-Prs-Nom-P3 aux|cant-Fin-Ind-Pres-P3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*CLI:	I don't understand what you're saying you hafta talk louder .
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|understand-Fin-Ind-Pres-S1 det|what-Def-Int noun|your verb|say-Part-Pres-S pron|you-Prs-Nom-S2 aux|hafta-Fin-Ind-Pres-S2 verb|talk-Inf-S adj|louder-Cmp-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|5|DET 5|6|NSUBJ 6|3|CCOMP 7|9|NSUBJ 8|9|AUX 9|6|CCOMP 10|9|XCOMP 11|3|PUNCT
+*CHI:	Dad can't eat right now (be)cause there not [:: no] [* s:r:gc:det] enough food .
+%mor:	noun|dad aux|cant-Fin-S verb|eat-Inf-S adv|right adv|now sconj|because pron|there-Int-S1 part|not adj|enough-S1 noun|food .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|ADVMOD 5|3|ADVMOD 6|10|MARK 7|10|EXPL 8|10|ADVMOD 9|10|AMOD 10|3|ADVCL 11|3|PUNCT
+*CLI:	well I think its about time to close up our shop Sarah .
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|its-Prs-Gen-S3 adv|about noun|time-Acc part|to verb|close-Inf-S adp|up pron|our-Prs-Gen-P1 noun|shop-Acc propn|Sarah-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|NMOD-POSS 5|6|ADVMOD 6|3|OBJ 7|8|MARK 8|6|ACL 9|8|COMPOUND-PRT 10|11|NMOD-POSS 11|8|OBJ 12|8|OBJ 13|3|PUNCT
+*CHI:	(be)cause they are done eating .
+%mor:	sconj|because pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 verb|do-Part-Past-S-irr verb|eat-Part-Pres-S .
+%gra:	1|4|MARK 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|4|XCOMP 6|4|PUNCT
+*CLI:	they're done eating ?
+%mor:	aux|their-Fin-Ind-Pres-P3 verb|do-Part-Past-S-irr verb|eat-Part-Pres-S ?
+%gra:	1|2|AUX 2|0|ROOT 3|2|XCOMP 4|2|PUNCT
+*CLI:	what are they going to do now ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|go-Part-Pres-S part|to verb|do-Inf-S adv|now ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|4|PUNCT
+*CHI:	they're gonna go on the bus and go back to they [:: their] [* s:r:gc:pro] house .
+%alt:	<11w> their
+%mor:	pron|their-Prs-Nom-P3 adv|gonna verb|go-Inf-S adp|on det|the-Def-Art noun|bus cconj|and verb|go-Inf-S adv|back adp|to pron|they-Prs-Nom-P3 noun|house .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CC 8|3|CONJ 9|8|ADVMOD 10|12|CASE 11|12|COMPOUND 12|8|OBL 13|3|PUNCT
+*CLI:	okay (.) then we can close up the house .
+%mor:	intj|okay adv|then pron|we-Prs-Nom-P1 aux|can-Fin-S verb|close-Inf-S adp|up det|the-Def-Art noun|house-Acc .
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|8|DET 8|5|OBJ 9|5|PUNCT
+@End

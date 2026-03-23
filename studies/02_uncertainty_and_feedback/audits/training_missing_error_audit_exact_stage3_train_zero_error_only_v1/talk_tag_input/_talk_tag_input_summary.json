@@ -1,0 +1,10 @@
+{
+  "input_jsonl": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/studies/02_uncertainty_and_feedback/audits/training_missing_error_audit_exact_stage3_train_zero_error_only_v1/input_utterance_only.jsonl",
+  "out_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/studies/02_uncertainty_and_feedback/audits/training_missing_error_audit_exact_stage3_train_zero_error_only_v1/talk_tag_input",
+  "output_jsonl": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/studies/02_uncertainty_and_feedback/audits/training_missing_error_audit_exact_stage3_train_zero_error_only_v1/talk_tag_input/training_zero_error_only_chi.jsonl",
+  "rows_written": 3737,
+  "speaker_field": "speaker",
+  "text_field": "utterance",
+  "speaker_value": "*CHI",
+  "run_example": "talk-tag annotate --input-dir /Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/studies/02_uncertainty_and_feedback/audits/training_missing_error_audit_exact_stage3_train_zero_error_only_v1/talk_tag_input --output-dir /Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/studies/02_uncertainty_and_feedback/audits/training_missing_error_audit_exact_stage3_train_zero_error_only_v1/talk_tag_output --target-speaker *CHI --speaker-field speaker --text-field utterance"
+}

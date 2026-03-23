@@ -26,7 +26,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--review-csv",
-        default="results/OOD_eval/enni_ood_chat/enni_review_utterance_only.csv",
+        default="reviews/ood/enni/enni_review_utterance_only.csv",
         help="Reviewed ENNI utterance-level CSV.",
     )
     parser.add_argument(

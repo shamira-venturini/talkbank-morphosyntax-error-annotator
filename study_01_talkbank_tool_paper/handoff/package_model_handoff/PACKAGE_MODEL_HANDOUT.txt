@@ -1,0 +1,54 @@
+Public package model handout
+
+Purpose
+This folder contains the minimum deployment artifacts needed to package the trained model for annotating .cha files.
+
+Files in this folder
+- PACKAGE_MODEL_HANDOUT.txt: this note
+- deployment_handoff_manifest.json: exact current deployment contract from the repo
+- chat_tokens.json: tokenizer augmentation list used by the current adapter-based inference path
+- prompt_wrapper.txt: exact prompt scaffold to preserve
+
+What the package should do
+- Read a target utterance from a .cha file
+- Format it with the prompt scaffold in prompt_wrapper.txt
+- Run the model
+- Return one annotated CHAT utterance line
+
+Explicit default runtime parameters
+- batch_size = 4
+- max_new_tokens = 128
+- max_seq_length = 512
+- max_context_chars = 1200
+- limit = 0
+- do_sample = false
+
+Current model contract
+- Base model: unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit
+- Current adapter repo: mash-mash/talkbank-morphosyntax-annotator-final-recon_full_comp_preserve_final_seed3407
+
+Critical adapter-loading requirement
+- This adapter was trained with 53 extra CHAT tokens.
+- If you are loading the adapter on top of the base model, you must:
+  1. load the base tokenizer,
+  2. add the tokens from chat_tokens.json,
+  3. call resize_token_embeddings(len(tokenizer)),
+  4. only then call PeftModel.from_pretrained(...).
+- If you skip steps 2-3, you will get embedding / lm_head size mismatches like:
+  - 128306 in the adapter checkpoint
+  - 128263 in the unexpanded base model
+
+Reference loader
+- reference_adapter_inference.py shows the correct adapter-based loading order.
+
+Important naming point for public release
+- Because this is a distributed Llama-derived model, use a public model name that starts with Llama
+- Do not publish it publicly as only TalkTag
+- Safer examples:
+  - Llama-TalkTag-CHAT-Morphosyntax-Annotator
+  - Llama-TalkTag-CHAT-Annotator
+
+Minimal package inputs
+- model repo id
+- prompt scaffold
+- tokenizer with the CHAT tokens, or chat_tokens.json if adapter-based loading is used

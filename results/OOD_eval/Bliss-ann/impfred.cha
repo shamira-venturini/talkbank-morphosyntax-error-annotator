@@ -1,0 +1,989 @@
+@UTF8
+@PID:	11312/c-00004578-1
+@Begin
+@Languages:	eng
+@Participants:	CLI Investigator, CHI Target_Child
+@ID:	eng|Bliss|CLI|||||Investigator|||
+@ID:	eng|Bliss|CHI|5;09.|male|||Target_Child|||
+@Date:	03-MAR-1985
+@Situation:	Fred and the clinician are playing with two small finger puppets. The puppets are Ernie and Bert of Sesame Street.
+@Types:	cross, toyplay, LT
+*CLI:	+" hey Bert .
+%mor:	intj|hey propn|Bert .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CHI:	+" what do you want?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*CLI:	+" I wanna play .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1~part|to verb|play-Inf-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+*CHI:	+" okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" what do you wanna do Bert ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|wanna-Inf-S verb|do-Inf-S propn|Bert-Acc ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|5|OBJ 7|4|PUNCT
+*CLI:	oops !
+%mor:	intj|oop !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	I said the wrong one .
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr det|the-Def-Art adj|wrong-S1 noun|one-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+*CLI:	he's Ernie right ?
+%mor:	verb|he-Fin-Ind-Pres-S3 propn|Ernie-Acc adj|right-S1 ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CLI:	okay .
+%act:	<1w> Fred nods his head
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" called you the wrong name Ernie .
+%mor:	verb|call-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 det|the-Def-Art adj|wrong-S1 noun|name-Acc propn|Ernie .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|DET 4|5|AMOD 5|1|OBJ 6|5|APPOS 7|1|PUNCT
+*CHI:	+" &~a:h Bert .
+%act:	Fred takes the puppet off his finger and puts him on the table
+%mor:	propn|Bert .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	oh you wanna play with them like that ?
+%mor:	intj|oh pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-S verb|play-Inf-S adp|with pron|they-Prs-Acc-P3 adp|like pron|that-Dem ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|8|CASE 8|4|OBL 9|4|PUNCT
+*CLI:	you see they go on your finger .
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Pres-P3 adp|on pron|your-Prs-Gen-S2 noun|finger .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|2|PUNCT
+*CLI:	you wanna play on your finger or the table ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 verb|play-Inf-S adp|on pron|your-Prs-Gen-S2 noun|finger cconj|or det|the-Def-Art noun|table ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|9|CC 8|9|DET 9|6|CONJ 10|3|PUNCT
+*CHI:	on the table .
+%mor:	adp|on det|the-Def-Art noun|table .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*CLI:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	+" hi Bert!
+%mor:	intj|hi propn|Bert !
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	+" hi Ernie !
+%mor:	intj|hi propn|Ernie !
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CHI:	+" what do you wanna do?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S~part|to verb|do-Inf-S ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*CLI:	+" let's play a game .
+%mor:	adv|let verb|play-Fin-Imp-S det|a-Ind-Art noun|game-Acc .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CLI:	+" let's see what we can do .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S pron|what-Rel-S1 pron|we-Prs-Nom-P1 aux|can-Fin-S verb|do-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|7|OBJ 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|1|PUNCT
+*CHI:	alright@q .
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" what do you wanna do ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S~part|to verb|do-Inf-S ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*CHI:	+" I don't know .
+%act:	<1w> grabs clinician's puppet
+%mor:	pron|I-Prs-Nom-S1 adv|dont verb|know-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*CHI:	+" <oink@o> [/] oink@o .
+%mor:	o|oink .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	oh you wanna trade now ?
+%mor:	intj|oh pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 noun|trade adv|now ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CLI:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" hey Bert .
+%mor:	intj|hey propn|Bert .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CHI:	+" what do you want?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*CLI:	+" how are you doing Bert ?
+%mor:	adv|how aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S propn|Bert-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	+" how are you doing Ernie?
+%mor:	adv|how aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S propn|Ernie-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CLI:	+" fine Bert .
+%mor:	adj|fine-S1 propn|Bert .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*CHI:	+" fine Bert .
+%spa:	$IMIT
+%mor:	adj|fine-S1 propn|Bert .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*CLI:	+" you know what I'm going to do ?
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|do-Inf-S ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|OBJ 4|5|AUX 5|2|CCOMP 6|7|MARK 7|5|XCOMP 8|2|PUNCT
+*CHI:	what@q?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" I'm going to hop over you .
+%act:	Fred uses his puppet to jump over the clinician's puppet
+%mor:	aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|hop-Inf-S adp|over pron|you-Prs-Acc-S2 .
+%gra:	1|2|AUX 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|CASE 6|4|OBL 7|2|PUNCT
+*CHI:	+" over you .
+%spa:	$IMIT
+%mor:	adp|over pron|you-Prs-Acc-S2 .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*CLI:	+" I'm going to hop back over you Bert .
+%act:	hops over Fred's puppet
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|hop-Inf-S adv|back adp|over pron|you-Prs-Acc-S2 propn|Bert .
+%gra:	1|2|AUX 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|ADVMOD 6|7|CASE 7|4|OBL 8|4|OBL 9|2|PUNCT
+*CHI:	+" I'm hop [:: hopping] [* m:0ing] over you .
+%mor:	pron|im-Prs-Nom-S1 verb|hop-Fin-Ind-Pres-S1 adp|over pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CLI:	+" now do you know what I'm going to do Bert ?
+%mor:	adv|now aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S pron|what-Int-S1 pron|im-Prs-Nom-S1 verb|go-Part-Pres-S part|to verb|do-Inf-S propn|Bert-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|9|MARK 9|7|XCOMP 10|9|OBJ 11|4|PUNCT
+*CHI:	what@q?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" I'm going to run .
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|run-Inf-S .
+%gra:	1|2|AUX 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+*CLI:	+" I'm running fast Bert .
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adj|fast-S1 propn|Bert-Acc .
+%gra:	1|2|AUX 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*CLI:	+" I'm running running running .
+%mor:	adv|im verb|run-Part-Pres-S noun|running-Ger noun|running-Ger .
+%gra:	1|2|ADVMOD 2|4|AMOD 3|4|COMPOUND 4|0|ROOT 5|4|PUNCT
+*CHI:	+" hey Ernie?
+%mor:	intj|hey propn|Ernie ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	what@q ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CLI:	what@q ?
+%act:	Fred puts his puppet on top of the other one
+%mor:	pron|what-Int-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	oh@q !
+%mor:	intj|oh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" you're riding my nose .
+%mor:	pron|your-Prs-Nom-S2 verb|ride-Part-Pres-S pron|my-Prs-Gen-S1 noun|nose-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CHI:	+" you hurt my nose .
+%mor:	pron|you-Prs-Nom-S2 verb|hurt-Fin-Ind-Pres-S2 pron|my-Prs-Gen-S1 noun|nose-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CLI:	+" I hurt yours too ?
+%mor:	pron|I-Prs-Nom-S1 verb|hurt-Fin-Ind-Past-S1-irr pron|your-Prs-S2 adv|too ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*CHI:	uhhuh@q .
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" oh I'm sorry Bert (.) I mean Ernie <B(er)t> [/] Bert .
+%mor:	intj|oh intj|im adj|sorry-S1 propn|Bert pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 propn|Ernie propn|Bert .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|VOCATIVE 5|6|NSUBJ 6|3|PARATAXIS 7|6|VOCATIVE 8|7|FLAT 9|3|PUNCT
+*CHI:	Bert .
+%mor:	propn|Bert .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" I'm sorry Bert .
+%mor:	intj|im adj|sorry-S1 propn|Bert .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|VOCATIVE 4|2|PUNCT
+*CHI:	+" I sorry [:: sorry] [* s:r:der] Ernie .
+%act:	appears to use his puppet to sniff the other puppet
+%mor:	pron|I-Prs-Nom-S1 adj|sorry-S1 propn|Ernie-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CLI:	+" what do I smell like Bert ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|smell-Inf-S adp|like propn|Bert ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CLI:	+" you keep sniffing me .
+%mor:	pron|you-Prs-Nom-S2 verb|keep-Fin-Ind-Pres-S2 verb|sniff-Ger-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+*CHI:	+" me too .
+%mor:	pron|I-Prs-Acc-S1 adv|too .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CLI:	+" wanna walk together ?
+%mor:	intj|wanna verb|walk-Fin-Imp-S adv|together ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CLI:	+" let's walk .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|walk-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*CLI:	+" oh oh !
+%mor:	intj|oh intj|oh !
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CLI:	+" you're walking faster than me .
+%mor:	intj|your verb|walk-Part-Pres-S adj|fast-Cmp-S1 adp|than pron|I-Prs-Acc-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|XCOMP 4|5|CASE 5|3|OBL 6|2|PUNCT
+*CLI:	+" wanna go to bed ?
+%act:	<1w> they walk the puppets for a while
+%mor:	intj|wanna verb|go-Fin-Imp-S adp|to noun|bed ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	okay@q .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" wake up !
+%act:	bef Fred and clinician pretend to make puppets sleep by snoring
+%mor:	verb|wake-Fin-Imp-S adp|up !
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*CLI:	+" I'm woke .
+%mor:	pron|im-Prs-Nom-S1 verb|wake-Fin-Ind-Past-S3-irr .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	+" hi Ernie .
+%mor:	intj|hi propn|Ernie .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	hi@q .
+%mor:	intj|hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	+" let('s) go walk .
+%mor:	adv|let verb|go-Fin-Imp-S verb|walk-Inf-S .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|XCOMP 4|2|PUNCT
+*CLI:	okay@q .
+%act:	Fred puts his puppet on the other puppet's head
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" where do you wanna walk ?
+%mor:	adv|where aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|wanna-Inf-S verb|walk-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|4|PUNCT
+*CLI:	hey@q !
+%mor:	intj|hey !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" get off my head .
+%mor:	verb|get-Fin-Imp-S adp|off pron|my-Prs-Gen-S1 noun|head .
+%gra:	1|0|ROOT 2|4|CASE 3|4|NMOD-POSS 4|1|OBL 5|1|PUNCT
+*CLI:	+" that hurt my head .
+%mor:	pron|that-Dem verb|hurt-Fin-Ind-Past-S3-irr pron|my-Prs-Gen-S1 noun|head-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CHI:	+" that hurt your head?
+%mor:	pron|that-Dem verb|hurt-Fin-Ind-Past-S3-irr pron|your-Prs-Gen-S2 noun|head-Acc ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CLI:	+" I can sit on your head .
+%act:	puts her puppet on the other puppet's head
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|sit-Inf-S adp|on pron|your-Prs-Gen-S2 noun|head .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*CLI:	+" you can't see me .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|see-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CLI:	+" you can't sit on my head .
+%mor:	pron|you-Prs-Nom-S2 aux|cant-Fin-S verb|sit-Inf-S adp|on pron|my-Prs-Gen-S1 noun|head .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*CHI:	stop@q .
+%act:	puts his puppet back on the other puppet's head
+%mor:	verb|stop-Fin-Imp-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	hey@q !
+%mor:	intj|hey !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" oh oh .
+%mor:	intj|oh intj|oh .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CLI:	+" you got stuck .
+%mor:	pron|you-Prs-Nom-S2 aux|get-Fin-Ind-Past-S2-irr adj|stuck-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*CLI:	+" I can't see you Bert .
+%mor:	pron|I-Prs-Nom-S1 aux|cant-Fin-S verb|see-Inf-S pron|you-Prs-Acc-S2 propn|Bert-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|3|PUNCT
+*CHI:	+" me too .
+%mor:	pron|I-Prs-Acc-S1 adv|too .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CLI:	+" I can't see you Bert .
+%mor:	pron|I-Prs-Nom-S1 aux|cant-Fin-S verb|see-Inf-S pron|you-Prs-Acc-S2 propn|Bert-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|3|PUNCT
+*CLI:	+" hey Bert .
+%act:	<1w> Fred puts his puppet back on the table
+%mor:	intj|hey propn|Bert .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	+" there you are Bert .
+%act:	<1w> Fred appears to use his puppet to kiss the other puppet
+%mor:	pron|there-Dem-S1 pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 propn|Bert .
+%gra:	1|4|EXPL 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*CLI:	+" oh Bert !
+%mor:	intj|oh propn|Bert !
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	+" you wanna kiss me ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S verb|kiss-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	yeah@q .
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	+" want kiss?
+%act:	<1w> Fred uses his puppet to kiss the other puppet . Fred puts his puppet on the other puppet's head again
+%mor:	verb|want-Fin-Imp-S noun|kiss-Acc ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CLI:	hey@q .
+%mor:	intj|hey .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" who's that on my head ?
+%mor:	pron|whose-Int-S1 pron|that-Dem adp|on pron|my-Prs-Gen-S1 noun|head ?
+%gra:	1|0|ROOT 2|1|NSUBJ 3|5|CASE 4|5|NMOD-POSS 5|1|OBL 6|1|PUNCT
+*CLI:	+" I can't see anybody .
+%mor:	pron|I-Prs-Nom-S1 aux|cant-Fin-S verb|see-Inf-S pron|anybody-Ind-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	+" that Bert .
+%mor:	sconj|that propn|Bert .
+%gra:	1|2|MARK 2|0|ROOT 3|2|PUNCT
+*CLI:	what@q ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	+" I hungry [:: am] [* m:vun:a] .
+%mor:	pron|I-Prs-Nom-S1 adj|hungry-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	+" you know where my xxx is?
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adv|where pron|my-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|CCOMP 4|5|NSUBJ 5|3|COP 6|2|PUNCT
+*CLI:	+" what did you say ?
+%act:	<1w> Fred puts his puppet on the other puppet's head
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|say-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*CLI:	+" you can't get on top of my head .
+%act:	<1w> Fred walks with his puppet on the other's head
+%mor:	pron|you-Prs-Nom-S2 aux|cant-Fin-S verb|get-Inf-S adp|on noun|top adp|of pron|my-Prs-Gen-S1 noun|head .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|3|PUNCT
+*CHI:	+" quack@o quack@o quack@o .
+%mor:	o|quack o|quack o|quack .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*CLI:	+" you got a piggy back ride .
+%mor:	pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr det|a-Ind-Art noun|piggy noun|back noun|ride-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|DET 4|5|COMPOUND 5|6|COMPOUND 6|2|OBJ 7|2|PUNCT
+*CLI:	+" can I have a piggy back ride ?
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S det|a-Ind-Art noun|piggy noun|back noun|ride-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|7|DET 5|6|COMPOUND 6|7|COMPOUND 7|3|OBJ 8|3|PUNCT
+*CHI:	yeah@q .
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	okay@q .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" I'll get on .
+%mor:	pron|ill-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S adp|on .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+*CHI:	+" what do you want?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*CLI:	+" I wanna (.) take a bath .
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|take-Fin-Ind-Pres-S1 det|a-Ind-Art noun|bath-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	+" I want take [:: take] [* m:irr:ed] a bath too .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 verb|take-Inf-Imp-S det|a-Ind-Art noun|bath-Acc adv|too .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|2|ADVMOD 7|2|PUNCT
+*CLI:	okay@q .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" let's go find the water .
+%act:	<1w> Both puppets pretend to bathe
+%mor:	pron|let-Prs-Nom-S2 verb|go-Fin-Imp-S verb|find-Fin-Imp-S det|the-Def-Art noun|water-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+*CHI:	that's the bed right there .
+%mor:	aux|that-Fin-Ind-Pres-S3 det|the-Def-Art noun|bed adv|right adv|there .
+%gra:	1|3|COP 2|3|DET 3|0|ROOT 4|5|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+*CLI:	that's the bed ?
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|bed ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|4|PUNCT
+*CLI:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" oh got all wet up .
+%mor:	intj|oh verb|get-Fin-Ind-Past-S3-irr det|all-Def-Tot adj|wet-S1 adp|up .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|DET 4|2|XCOMP 5|2|COMPOUND-PRT 6|2|PUNCT
+*CHI:	+" what you want do [:: do] [* m:irr:ed] Ernie?
+%mor:	pron|what-Int-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 adp|do propn|Ernie ?
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|5|CASE 5|3|OBL 6|1|PUNCT
+*CLI:	+" <I wanna> [/] I wanna eat .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1~part|to verb|eat-Inf-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+*CHI:	+" I wanna eat too .
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|eat-Fin-Ind-Pres-S1 adv|too .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CLI:	+" what do we hafta eat ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 part|hafta verb|eat-Inf-S ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*CLI:	+" this blanket .
+%act:	<1w> Clinician and Fred pretend to use a small blanket to eat
+%mor:	det|this-Def-Dem-Sing noun|blanket .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CLI:	+" that was good .
+%mor:	pron|that-Dem aux|be-Fin-Ind-Past-S3-irr adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*CLI:	+" did you like it ?
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|like-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	uhhuh@q .
+%act:	<1w> Fred puts his puppet on the other puppets head
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" oh my aching head .
+%mor:	intj|oh pron|my-Prs-Gen-S1 verb|ach-Ger-S noun|head .
+%gra:	1|4|DISCOURSE 2|4|NMOD-POSS 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*CHI:	oh!
+%mor:	intj|oh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	water@q .
+%mor:	noun|water .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" you wanna go for a swim ?
+%act:	pretend to make the puppets swim in the blanket
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 verb|go-Inf-S adp|for det|a-Ind-Art noun|swim ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	xxx .
+*CLI:	what@q ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	+" hi Ernie .
+%mor:	intj|hi propn|Ernie .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CHI:	+" oink@o oink@o .
+%mor:	noun|oink noun|oink .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*CLI:	+" oink@o oink@o .
+%act:	Fred waves his puppet in the air pretending to make the puppet fly
+%mor:	noun|oink noun|oink .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*CLI:	+" hey you're flying .
+%mor:	intj|hey intj|your verb|fly-Part-S .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+*CLI:	+" what are you doing up in the air ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S adp|up adp|in det|the-Def-Art noun|air ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	+" oink@o oink@o .
+%mor:	noun|oink noun|oink .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*CLI:	+" you're flying .
+%mor:	intj|your noun|fly-Ger .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	+" what are you doing up there ?
+%act:	aft Clinician also pretends to make her puppet fly . Fred drops his puppet to the floor clinician imitates
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S adp|up adv|there ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|COMPOUND-PRT 6|4|ADVMOD 7|4|PUNCT
+*CHI:	ouch@q!
+%mor:	o|ouch !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" oh gosh !
+%mor:	intj|oh intj|gosh !
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	+" are we dead ?
+%mor:	aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 adj|dead-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	yes@q .
+%mor:	intj|yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" why am I talking if I'm dead ?
+%act:	Fred picks his puppet up and begins bringing it over his head
+%mor:	adv|why aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|talk-Part-Pres-S sconj|if propn|Im adj|dead-S1 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|7|MARK 6|7|NSUBJ 7|4|ADVCL 8|4|PUNCT
+*CHI:	+" I <going up> [/] going up .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Part-Pres-S adp|up .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+*CLI:	0 .
+%act:	bef Imitates with her puppet
+*CHI:	+" and you <going up> [/] going up .
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|go-Part-Pres-S adp|up .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*CLI:	+" oh I'm <going up> [/] going up .
+%mor:	intj|oh pron|im-Prs-Nom-S1 verb|go-Part-Pres-S adp|up .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*CHI:	+" I'm going down [//] up up up .
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|up adp|up adp|up .
+%gra:	1|2|AUX 2|0|ROOT 3|2|COMPOUND-PRT 4|2|COMPOUND-PRT 5|2|COMPOUND-PRT 6|2|PUNCT
+*CHI:	+" you went down and I went up .
+%mor:	pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Past-S2-irr adp|down cconj|and pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr adp|up .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|6|CC 5|6|NSUBJ 6|2|CONJ 7|6|COMPOUND-PRT 8|2|PUNCT
+*CHI:	+" now I'm down , you go up .
+%act:	aft Fred takes puppet in the air again
+%mor:	adv|now intj|im adv|down cm|cm pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 adp|up .
+%gra:	1|3|ADVMOD 2|6|REPARANDUM 3|6|ADVMOD 4|6|PUNCT 5|6|NSUBJ 6|0|ROOT 7|6|COMPOUND-PRT 8|6|PUNCT
+*CHI:	+" oink@o oink@o oink@o .
+%mor:	noun|oink noun|oink noun|oink .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*CLI:	hey@q .
+%mor:	intj|hey .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" I wanna go up there .
+%act:	<1w> Clinician imitates
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|go-Inf-S adp|up adv|there .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|3|PUNCT
+*CLI:	+" oink@o oink@o oink@o .
+%act:	<1w> Fred and clinician continue to fly their puppets in the air making different animal sounds aft Fred lands and clinician puts her puppet on the other's head
+%mor:	noun|oink noun|oink noun|oink .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*CHI:	+" I can't see nobody .
+%act:	Clinician's puppet falls off
+%mor:	pron|I-Prs-Nom-S1 aux|cant-Fin-S verb|see-Inf-S pron|nobody-Neg-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CLI:	oh he fell down .
+%mor:	intj|oh pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3-irr adp|down .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*CLI:	+" you couldn't see anybody huh Bert ?
+%mor:	pron|you-Prs-Nom-S2 aux|couldnt-Fin-S verb|see-Inf-S pron|anybody-Ind-S1 intj|huh propn|Bert ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|FLAT 6|4|FLAT 7|3|PUNCT
+*CLI:	+" poor Bert .
+%mor:	adj|poor-S1 propn|Bert .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*CLI:	+" you couldn't see me .
+%act:	<1w> Fred puts his puppet on other's head
+%mor:	pron|you-Prs-Nom-S2 aux|couldnt-Fin-S verb|see-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	+" can't see me .
+%mor:	aux|can-Fin-S~part|not verb|see-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	+" can't see me Ernie .
+%mor:	intj|cant verb|see-Fin-Imp-S pron|I-Prs-Acc-S1 propn|Ernie-Acc .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*CLI:	+" you're right Bert .
+%mor:	intj|your adj|right-S1 propn|Bert .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+*CLI:	+" I can't see you anymore .
+%mor:	pron|I-Prs-Nom-S1 aux|cant-Fin-S verb|see-Inf-S pron|you-Prs-Acc-S2 adv|anymore .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CLI:	+" where are you ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	+" on top your head .
+%mor:	adp|on verb|top-Fin-Imp-S pron|your-Prs-Gen-S2 noun|head-Acc .
+%gra:	1|2|MARK 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CLI:	+" ha !
+%mor:	intj|ha !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" you're on top of my head .
+%mor:	intj|your adp|on noun|top adp|of pron|my-Prs-Gen-S1 noun|head .
+%gra:	1|3|DISCOURSE 2|3|CASE 3|0|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|NMOD 7|3|PUNCT
+*CLI:	+" oh Bert !
+%act:	aft Fred moves his puppet to the blanket
+%mor:	intj|oh propn|Bert !
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	+" where are you now Bert ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|now propn|Bert ?
+%gra:	1|5|ADVMOD 2|5|COP 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*CLI:	+" I can't see you .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	+" I sleeping [:: sleep] [* m:+ing] .
+%mor:	pron|I-Prs-Nom-S1 verb|sleep-Part-Pres-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	+" I sleeping [:: sleep] [* m:+ing] .
+%mor:	pron|I-Prs-Nom-S1 verb|sleep-Part-Pres-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*CLI:	+" you're eating ?
+%mor:	intj|your noun|eating-Ger ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CHI:	sleeping@q .
+%mor:	q|sleeping-Ger .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	oh@q .
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" let me sleep too .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|sleep-Inf-S adv|too .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|ADVMOD 5|1|PUNCT
+*CHI:	+" I want take [:: take] [* m:irr:ed] a bath .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 verb|take-Inf-Imp-S det|a-Ind-Art noun|bath-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+*CLI:	okay@q .
+%act:	aft Clinician and Fred pretend to take a bath in the blanket
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" I'm washing my face .
+%mor:	adv|im verb|wash-Part-Pres-S pron|my-Prs-Gen-S1 noun|face-Acc .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CHI:	+" I washing [:: wash] [* m:+ing] my face too .
+%mor:	pron|I-Prs-Nom-S1 verb|wash-Part-Pres-S pron|my-Prs-Gen-S1 noun|face-Acc adv|too .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+*CLI:	+" I'm washing my hair .
+%mor:	adv|im verb|wash-Part-Pres-S pron|my-Prs-Gen-S1 noun|hair-Acc .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CLI:	+" now I'm all washed up .
+%mor:	adv|now pron|im-Prs-Nom-S1 det|all-Def-Tot verb|wash-Fin-Ind-Past-S3 adp|up .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|2|DET 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*CHI:	+" I wash up too .
+%mor:	pron|I-Prs-Nom-S1 verb|wash-Fin-Ind-Pres-S1 adp|up adv|too .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|2|ADVMOD 5|2|PUNCT
+*CLI:	+" I'm going to splash water on you Bert .
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|splash-Inf-S noun|water-Acc adp|on pron|you-Prs-Acc-S2 propn|Bert .
+%gra:	1|2|AUX 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|OBL 9|2|PUNCT
+*CHI:	+" I splash on you .
+%act:	bef pretending to splash the clinician's puppet with the blanket
+%mor:	pron|I-Prs-Nom-S1 verb|splash-Fin-Ind-Pres-S1 adp|on pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CLI:	oh@q !
+%mor:	intj|oh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" you splashed me first .
+%mor:	pron|you-Prs-Nom-S2 verb|splash-Fin-Ind-Past-S2 pron|I-Prs-Acc-S1 adv|first .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*CLI:	+" I'm going to splash water on you .
+%act:	aft pretending to splash each other
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|splash-Inf-S noun|water-Acc adp|on pron|you-Prs-Acc-S2 .
+%gra:	1|2|AUX 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|7|CASE 7|4|OBL 8|2|PUNCT
+*CHI:	+" hey Ernie .
+%mor:	intj|hey propn|Ernie .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	+" what Bert ?
+%mor:	pron|what-Int-S1 propn|Bert ?
+%gra:	1|0|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	+" let's eat .
+%mor:	intj|let verb|eat-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	+" yeah let's get something to eat .
+%mor:	intj|yeah pron|let-Prs-Nom-S1 verb|get-Fin-Ind-Pres-P3 pron|something-Ind-S1 part|to verb|eat-Inf-S .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|MARK 6|4|ACL 7|3|PUNCT
+*CLI:	+" what do you wanna eat Bert ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|wanna verb|eat-Inf-S propn|Bert-Acc ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	+" I want a hamburger .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|a-Ind-Art noun|hamburger-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CLI:	okay@q .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" let's go to McDonald's .
+%mor:	intj|let verb|go-Fin-Imp-S adp|to propn|McDonalds .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CLI:	+" I'll drive .
+%act:	<1w> Clinician gets two cars and a garage out of a cabinet
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|drive-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	+" I want drive too .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 verb|drive-Inf-S adv|too .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|2|ADVMOD 5|2|PUNCT
+*CHI:	+" I play with those car [:: cars] [* m:0s:a] .
+%mor:	pron|I-Prs-Nom-S1 verb|play-Fin-Ind-Pres-S1 adp|with det|that-Def-Dem-Plur noun|car .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CLI:	yes you can play with the cars and the garage too .
+%mor:	intj|yes pron|you-Prs-Nom-S2 aux|can-Fin-S verb|play-Inf-S adp|with det|the-Def-Art noun|car-Plur cconj|and det|the-Def-Art noun|garage adv|too .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CC 9|10|DET 10|7|CONJ 11|4|ADVMOD 12|4|PUNCT
+*CHI:	that a garage?
+%mor:	sconj|that det|a-Ind-Art noun|garage ?
+%gra:	1|3|MARK 2|3|DET 3|0|ROOT 4|3|PUNCT
+*CLI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	do you wanna play with it ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|play-Inf-S adp|with pron|it-Prs-Acc-S3 ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	pick the car you want .
+%mor:	verb|pick-Fin-Imp-S det|the-Def-Art noun|car-Acc pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|1|PUNCT
+*CHI:	the yellow one .
+%mor:	det|the-Def-Art adj|yellow-S1 noun|one .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*CLI:	okay and Ernie will take the red one .
+%mor:	intj|okay cconj|and propn|Ernie aux|will-Fin-S verb|take-Inf-S det|the-Def-Art adj|red-S1 noun|one-Acc .
+%gra:	1|5|DISCOURSE 2|5|CC 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|5|PUNCT
+*CLI:	+" you ready Bert ?
+%mor:	pron|you-Prs-Nom-S2 adj|ready-S1 propn|Bert-Acc ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	+" ready Ernie?
+%mor:	adj|ready-S1 propn|Ernie ?
+%gra:	1|0|ROOT 2|1|VOCATIVE 3|1|PUNCT
+*CLI:	+" come on .
+%mor:	verb|come-Fin-Imp-S adp|on .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CLI:	+" let's get some hamburgers .
+%act:	aft Fred and clinician riding puppets on cars and making car sounds
+%mor:	adv|let verb|get-Fin-Imp-S det|some-Def-Ind noun|hamburger-Plur-Acc .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CLI:	+" where did you go Bert ?
+%mor:	adv|where aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|go-Inf-S propn|Bert-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	+" here I am .
+%act:	aft Walks puppets around the garage
+%mor:	adv|here pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|COP 4|1|PUNCT
+*CHI:	+" let go .
+%act:	aft Walks puppets around the garage
+%mor:	verb|let-Fin-Imp-S noun|go-Acc .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CLI:	+" here we are .
+%mor:	adv|here pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|COP 4|1|PUNCT
+*CHI:	+" I want a hamburger .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|a-Ind-Art noun|hamburger-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CLI:	+" and I want a hamburger ad french fries .
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|a-Ind-Art noun|hamburger noun|ad adj|French-S1 noun|fry-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|8|DET 5|8|COMPOUND 6|8|COMPOUND 7|8|AMOD 8|3|OBJ 9|3|PUNCT
+*CHI:	+" I want french fry .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 adj|French-S1 noun|fry-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*CLI:	+" &-um .
+*CLI:	+" this is good .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*CLI:	+" I ate mine .
+%mor:	pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Past-S1-irr pron|my-Prs-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CLI:	+" did you finish Bert ?
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|finish-Inf-S propn|Bert-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	+" yeah I eat mine too .
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Pres-S1 pron|my-Prs-S1 adv|too .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CHI:	+" I want go now Ernie .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 verb|go-Inf-S adv|now propn|Ernie-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|3|ADVMOD 5|3|OBJ 6|2|PUNCT
+*CLI:	okay@q .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" where do you wanna go ?
+%mor:	adv|where aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S~part|to verb|go-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*CHI:	+" where you want go Ernie?
+%mor:	adv|where pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 verb|go-Inf-S propn|Ernie-Acc ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|4|OBJ 6|3|PUNCT
+*CLI:	+" let's get our cars washed .
+%mor:	adv|let verb|get-Fin-Imp-S pron|our-Prs-Gen-P1 noun|car-Plur-Acc verb|wash-Part-Past-S .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+*CHI:	+" I going [:: go] [* m:+ing] car wash .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Part-Pres-S noun|car noun|wash-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CLI:	+" wait for me Bert .
+%mor:	verb|wait-Fin-Imp-S adp|for pron|I-Prs-Acc-S1 propn|Bert .
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|1|VOCATIVE 5|1|PUNCT
+*CHI:	+" I'm going wash my car .
+%mor:	aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S verb|wash-Inf-S pron|my-Prs-Gen-S1 noun|car-Acc .
+%gra:	1|2|AUX 2|0|ROOT 3|2|XCOMP 4|5|NMOD-POSS 5|3|OBJ 6|2|PUNCT
+*CLI:	+" I'm going to wash mine too .
+%mor:	aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|wash-Inf-S pron|my-Prs-S1 adv|too .
+%gra:	1|2|AUX 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|4|ADVMOD 7|2|PUNCT
+*CHI:	+" I driving [:: drive] [* m:+ing] high .
+%act:	bef Fred waves the car and puppet around in the air aft His puppet drops off
+%mor:	pron|I-Prs-Nom-S1 verb|drive-Part-Pres-S adj|high-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CLI:	+" oh no .
+%mor:	intj|oh intj|no .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	+" are you alright Ernie ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|alright-S1 propn|Ernie ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|VOCATIVE 5|3|PUNCT
+*CHI:	I <going up> [/] going up .
+%act:	Fred starts riding the car up the wall
+%mor:	pron|I-Prs-Nom-S1 verb|go-Part-Pres-S adp|up .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+*CLI:	what about Ernie ?
+%mor:	pron|what-Int-S1 adp|about propn|Ernie ?
+%gra:	1|0|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CLI:	I think he's hurt .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 noun|he-Plur verb|hurt-Fin-Ind-Past-P3-irr .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|2|PUNCT
+*CHI:	I going [:: go] [* m:+ing] over your head .
+%act:	Fred starts flying the car in the air
+%mor:	pron|I-Prs-Nom-S1 verb|go-Part-Pres-S adp|over pron|your-Prs-Gen-S2 noun|head .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+*CLI:	I didn't know cars could fly .
+%mor:	pron|I-Prs-Nom-S1 adv|didnt verb|know-Inf-S noun|car-Plur aux|could-Fin-S verb|fly-Inf-S .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|3|PUNCT
+*CHI:	I going [:: go] [* m:+ing] round and round .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Part-Pres-S adv|round cconj|and adv|round .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|5|CC 5|3|CONJ 6|2|PUNCT
+*CLI:	let me see if my car can fly .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S sconj|if pron|my-Prs-Gen-S1 noun|car aux|can-Fin-S verb|fly-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|8|MARK 5|6|NMOD-POSS 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|1|PUNCT
+*CLI:	I'm going up and around too .
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|up cconj|and adv|around adv|too .
+%gra:	1|2|AUX 2|0|ROOT 3|2|COMPOUND-PRT 4|5|CC 5|3|CONJ 6|2|ADVMOD 7|2|PUNCT
+*CLI:	I'm going down now .
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|down adv|now .
+%gra:	1|2|AUX 2|0|ROOT 3|2|COMPOUND-PRT 4|2|ADVMOD 5|2|PUNCT
+*CHI:	my car down too .
+%act:	bef Fred drops his car aft Clinician gets down on the floor with the cars
+%mor:	pron|my-Prs-Gen-S1 noun|car adp|down adv|too .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CLI:	I'm going a long way from here .
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S det|a-Ind-Art adj|long-S1 noun|way-Acc adp|from adv|here .
+%gra:	1|2|AUX 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|7|CASE 7|2|OBL 8|2|PUNCT
+*CHI:	want the garage?
+%mor:	verb|want-Fin-Imp-S det|the-Def-Art noun|garage-Acc ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CLI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	we'll put it on the floor so we can have more room .
+%mor:	pron|well-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 adp|on det|the-Def-Art noun|floor sconj|so pron|we-Prs-Nom-P1 aux|can-Fin-S verb|have-Inf-S adj|more-Cmp-S1 noun|room-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|2|ADVCL 11|12|AMOD 12|10|OBJ 13|2|PUNCT
+*CHI:	okay .
+%act:	Clinician puts the garage on the floor
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	I'm going to ride on top of the garage .
+%mor:	aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|ride-Inf-S adp|on noun|top adp|of det|the-Def-Art noun|garage .
+%gra:	1|2|AUX 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|CASE 6|4|OBL 7|9|CASE 8|9|DET 9|6|NMOD 10|2|PUNCT
+*CHI:	I ride on top .
+%mor:	pron|I-Prs-Nom-S1 verb|ride-Fin-Ind-Pres-S1 adp|on noun|top .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CLI:	I think Ernie and Bert would like to ride on the garage too .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 propn|Ernie cconj|and propn|Bert aux|would-Fin-S verb|like-Inf-S part|to verb|ride-Inf-S adp|on det|the-Def-Art noun|garage adv|too .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|NSUBJ 4|5|CC 5|3|CONJ 6|7|AUX 7|2|CCOMP 8|9|MARK 9|7|XCOMP 10|12|CASE 11|12|DET 12|9|OBL 13|9|ADVMOD 14|2|PUNCT
+*CLI:	do you want Bert back ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S propn|Bert-Acc adv|back ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CHI:	Bert can ride .
+%mor:	propn|Bert aux|can-Fin-S verb|ride-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	+" what are you doing Ernie?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S propn|Ernie-Acc ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CLI:	+" I'm riding around Bert .
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|ride-Part-Pres-S adp|around propn|Bert .
+%gra:	1|2|AUX 2|0|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	+" I riding [:: ride] [* m:+ing] round too .
+%mor:	pron|I-Prs-Nom-S1 verb|ride-Part-Pres-S adv|round adv|too .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+*CLI:	+" I'm going to follow you Bert .
+%mor:	aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|follow-Inf-S pron|you-Prs-Acc-S2 propn|Bert-Acc .
+%gra:	1|2|AUX 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|4|OBJ 7|2|PUNCT
+*CLI:	+" where are you going ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	+" going up .
+%act:	aft Fred drives to the top floor of the garage
+%mor:	verb|go-Part-Pres-S adp|up .
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*CLI:	+" oh no .
+%mor:	intj|oh intj|no .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	+" I've gotta find you .
+%mor:	aux|be-Fin-S aux|getta-Fin-S verb|find-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|3|AUX 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	+" you can't find me Ernie .
+%mor:	pron|you-Prs-Nom-S2 aux|cant-Fin-S verb|find-Inf-S pron|I-Prs-Acc-S1 propn|Ernie-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|3|PUNCT
+*CLI:	+" yes I will Bert .
+%mor:	intj|yes pron|I-Prs-Nom-S1 aux|will-Fin-S propn|Bert-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CLI:	+" I know you're up here somewhere .
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|your-Prs-Acc-S2 adp|up adv|here adv|somewhere .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|ADVMOD 6|2|ADVMOD 7|2|PUNCT
+*CHI:	+" I down here Ernie .
+%mor:	pron|I-Prs-Nom-S1 adv|down adv|here propn|Ernie .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|VOCATIVE 5|3|PUNCT
+*CLI:	+" but I thought you were up here Bert .
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr adp|up adv|here propn|Bert .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|NSUBJ 5|7|COP 6|7|CASE 7|3|CCOMP 8|3|CCOMP 9|3|PUNCT
+*CHI:	+" my car in here .
+%mor:	pron|my-Prs-Gen-S1 noun|car adp|in adv|here .
+%gra:	1|2|NMOD-POSS 2|0|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*CLI:	okay@q .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" I'll go down and find you .
+%mor:	pron|ill-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S adp|down cconj|and verb|find-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|5|CC 5|2|CONJ 6|5|OBJ 7|2|PUNCT
+*CLI:	+" where are you ?
+%mor:	adv|where aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	+" in here .
+%mor:	adp|in adv|here .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*CLI:	+" I found you Ernie .
+%mor:	pron|I-Prs-Nom-S1 verb|find-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 propn|Ernie-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*CLI:	+" now I'm going to hide .
+%act:	aft Fred puts the puppet and car on his head
+%mor:	adv|now pron|im-Prs-Nom-S1 verb|go-Part-Pres-S part|to verb|hide-Inf-S .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+*CHI:	+" look at me Ernie .
+%mor:	verb|look-Fin-Imp-S adp|at pron|I-Prs-Acc-S1 propn|Ernie .
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|1|OBL 5|1|PUNCT
+*CLI:	Bert@q !
+%mor:	propn|Bert !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" what are you doing on Ashley's head ?
+%act:	aft Fred drops his head to make the puppet and cars fall
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S adp|on propn|Ashleys noun|head ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|7|CASE 6|7|COMPOUND 7|4|OBL 8|4|PUNCT
+*CLI:	+" oh you fell a long way Bert .
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|fall-Fin-Ind-Past-S2-irr det|a-Ind-Art adj|long-S1 noun|way-Acc propn|Bert-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|OBJ 8|3|PUNCT
+*CHI:	+" I doing [:: do] [* m:+ing] up .
+%act:	Fred puts car on top of the garage
+%mor:	pron|I-Prs-Nom-S1 verb|do-Part-Pres-S adp|up .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+*CLI:	+" I see you .
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	+" I'm up .
+%mor:	intj|im adv|up .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	+" you're up there again ?
+%mor:	intj|your adv|up adv|there adv|again ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+*CHI:	yeah@q .
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" what are you doing up there Bert ?
+%act:	aft Fred drops car so the first floor of the garage
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S adp|up adv|there propn|Bert ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|COMPOUND-PRT 6|4|ADVMOD 7|4|VOCATIVE 8|4|PUNCT
+*CHI:	+" I falling [:: fall] [* m:+ing] down .
+%mor:	pron|I-Prs-Nom-S1 verb|fall-Part-Pres-S adp|down .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+*CLI:	+" my car's coming up there to get you Bert .
+%mor:	pron|my-Prs-Gen-S1 noun|car-Plur verb|come-Part-Pres-S adp|up adv|there part|to verb|get-Inf-S pron|you-Prs-Acc-S2 propn|Bert-Acc .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|0|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|7|MARK 7|3|ADVCL 8|7|OBJ 9|7|OBJ 10|3|PUNCT
+*CHI:	+" I get my car .
+%act:	aft Fred brings car back to the top of the garage
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|car-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CLI:	+" hey Bert .
+%mor:	intj|hey propn|Bert .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*CLI:	+" where's my car ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|car ?
+%gra:	1|0|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+*CHI:	+" car right here Ernie .
+%mor:	noun|car adv|right adv|here propn|Ernie .
+%gra:	1|0|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|APPOS 5|1|PUNCT
+*CLI:	+" are you in my car Bert ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adp|in pron|my-Prs-Gen-S1 noun|car propn|Bert ?
+%gra:	1|5|COP 2|5|NSUBJ 3|5|CASE 4|5|NMOD-POSS 5|0|ROOT 6|5|FLAT 7|5|PUNCT
+*CHI:	yeah@q .
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	+" I wanna ride it .
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|ride-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CLI:	+" well what can I ride if you have my car ?
+%mor:	intj|well pron|what-Int-S1 aux|can-Fin-S pron|I-Prs-Nom-S1 verb|ride-Inf-S sconj|if pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 pron|my-Prs-Gen-S1 noun|car-Acc ?
+%gra:	1|5|DISCOURSE 2|8|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|8|MARK 7|8|NSUBJ 8|5|ADVCL 9|10|NMOD-POSS 10|8|OBJ 11|5|PUNCT
+*CHI:	+" you can ride my car .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|ride-Inf-S pron|my-Prs-Gen-S1 noun|car-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*CLI:	+" okay I'll ride yours .
+%mor:	intj|okay propn|Ill verb|ride-Fin-Ind-Pres-S3 pron|your-Prs-S2 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	+" where you want go Ernie?
+%mor:	adv|where pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 verb|go-Inf-S propn|Ernie-Acc ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|4|OBJ 6|3|PUNCT
+*CLI:	+" around the garage .
+%act:	aft Fred hides his puppet and car in a corner of the garage
+%mor:	adp|around det|the-Def-Art noun|garage .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*CHI:	+" can't see me Ernie .
+%mor:	intj|cant verb|see-Fin-Imp-S pron|I-Prs-Acc-S1 propn|Ernie-Acc .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*CLI:	+" I see your car but I can't see you .
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|your-Prs-Gen-S2 noun|car-Acc cconj|but pron|I-Prs-Nom-S1 aux|cant-Fin-S verb|see-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|8|CC 6|8|NSUBJ 7|8|AUX 8|2|CONJ 9|8|OBJ 10|2|PUNCT
+*CLI:	+" where did you go ?
+%mor:	adv|where aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|go-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	+" I back a garage .
+%mor:	pron|I-Prs-Nom-S1 adv|back det|a-Ind-Art noun|garage .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|DET 4|0|ROOT 5|4|PUNCT
+*CLI:	+" you're where ?
+%act:	Fred puts his puppet next to the clinician's puppet
+%mor:	intj|your adv|where ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	here@q!
+%mor:	adv|here !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	oh@q !
+%mor:	intj|oh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CLI:	+" you scared me Bert .
+%mor:	pron|you-Prs-Nom-S2 verb|scare-Fin-Ind-Past-S2 pron|I-Prs-Acc-S1 propn|Bert-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*CHI:	+" you scare me Ernie .
+%mor:	pron|you-Prs-Nom-S2 verb|scare-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 propn|Ernie-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+@End

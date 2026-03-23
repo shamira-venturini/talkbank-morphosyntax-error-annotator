@@ -1,0 +1,11 @@
+{
+  "train_split": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/experiments/recon_full_comp_preserve/stage3_train.jsonl",
+  "out_jsonl": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/studies/02_uncertainty_and_feedback/audits/training_missing_error_audit_exact_stage3_train_v1/manual_reannotation.jsonl",
+  "answer_key_jsonl": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/studies/02_uncertainty_and_feedback/audits/training_missing_error_audit_exact_stage3_train_v1/manual_reannotation_answer_key.jsonl",
+  "out_csv": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/studies/02_uncertainty_and_feedback/audits/training_missing_error_audit_exact_stage3_train_v1/manual_reannotation.csv",
+  "answer_key_csv": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/studies/02_uncertainty_and_feedback/audits/training_missing_error_audit_exact_stage3_train_v1/manual_reannotation_answer_key.csv",
+  "rows_written": 7698,
+  "include_synthetic": true,
+  "include_ambiguous": true,
+  "zero_error_only": false
+}

@@ -1,0 +1,8 @@
+{
+  "predictions": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/results/recon_full_comp_preserve_final_seed3407/eval_outputs/predictions_test_real.jsonl",
+  "model_label": "recon_full_comp_preserve_final_seed3407",
+  "disagreement_items": 44,
+  "blinded_review_rows": 88,
+  "review_sheet": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/reviews/posthoc/manual_review_test_real_recon_full_comp_preserve_final_seed3407_vs_gold/blinded_review_sheet.csv",
+  "answer_key": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/reviews/posthoc/manual_review_test_real_recon_full_comp_preserve_final_seed3407_vs_gold/answer_key.csv"
+}
