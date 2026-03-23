@@ -103,7 +103,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Set strict experiment prompts on frozen split JSONL files.")
     parser.add_argument(
         "--experiment-dir",
-        default="experiments/acl_rr_v1",
+        default="studies/01_confirmatory_annotation/experiment_packages/recon_full_comp_preserve",
         help="Directory containing stage{1,2,3}_*.jsonl files.",
     )
     parser.add_argument(

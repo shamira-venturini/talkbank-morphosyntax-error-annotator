@@ -127,6 +127,8 @@ def infer_experiment(run_name: str, split_dir: str) -> str:
         return "exp3"
     if "exp4_unseen_tags" in split_dir:
         return "exp4"
+    if "recon_full_comp_preserve" in split_dir:
+        return "confirmatory_final"
     if "acl_rr_v1" in split_dir:
         if "exp1" in run_name_l:
             return "exp1"

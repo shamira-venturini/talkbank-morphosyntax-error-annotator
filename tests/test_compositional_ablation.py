@@ -36,7 +36,7 @@ class CompositionalAblationTests(unittest.TestCase):
     def test_standard_prompt_remains_simple(self):
         prompt = build_prompt(["[* m:03s:a]"], reconstruction_mode="nonword_only", prompt_style="standard")
         self.assertNotIn("Build each CHAT error tag compositionally", prompt)
-        self.assertIn("Use reconstruction markers only for nonword corrections", prompt)
+        self.assertIn("Write the correct target form only as [: target]", prompt)
 
 
 if __name__ == "__main__":

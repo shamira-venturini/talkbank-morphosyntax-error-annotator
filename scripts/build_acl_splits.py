@@ -766,7 +766,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--out-dir",
-        default="experiments/acl_rr_v1",
+        default="studies/01_confirmatory_annotation/experiment_packages/recon_full_comp_preserve",
         help="Output directory for frozen split files.",
     )
     parser.add_argument("--eval-ratio", type=float, default=0.15, help="Eval ratio for real-data split.")
