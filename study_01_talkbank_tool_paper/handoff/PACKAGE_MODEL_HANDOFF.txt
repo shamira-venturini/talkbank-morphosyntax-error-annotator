@@ -1,0 +1,261 @@
+TalkBank CHAT Morphosyntax Annotator: package handoff for deployment
+
+Purpose
+This file is the package-facing handoff for turning the trained research model into a Python package that annotates .cha files. It records the current inference contract from this repo so the package can reproduce the trained model behavior instead of guessing.
+
+Scope
+- Task: automatic morphosyntactic error annotation in TalkBank CHAT
+- Unit of prediction: one CHAT utterance line at a time
+- Expected output: the original utterance line with inline CHAT morphosyntactic error annotations inserted
+- This is not generic grammatical error correction and not generic POS tagging
+
+Current selected model
+- Local run name: recon_full_comp_preserve_final_seed3407
+- Training stage for deployment: stage 3
+- Reconstruction mode: preserve
+- Seed: 3407
+
+Current deployment contract from repo
+- Base model: unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit
+- Current adapter repo on Hugging Face: mash-mash/TalkTag_CHAT_error_annotator
+- Split package directory: experiments/recon_full_comp_preserve
+- CHAT tokens file: experiments/recon_full_comp_preserve/chat_tokens.json
+- CHAT token count: 53
+- Instruction source: experiments/recon_full_comp_preserve/stage3_train.jsonl
+- Prompt wrapper:
+  ### Instruction:
+  {instruction}
+
+  ### Input:
+  {input}
+
+  ### Response:
+
+- Generation defaults:
+  - do_sample = false
+  - max_new_tokens = 96
+
+Recommended packaging choice
+Use a merged standalone model repo for packaging if possible.
+
+Why
+- It gives the package a single model repo to load.
+- It avoids package-time PEFT adapter assembly.
+- It avoids package-time embedding resize logic in the normal case.
+- It reduces opportunities for tokenizer/model mismatch.
+
+Recommended Hugging Face layout
+Option A: preferred
+- One private merged-model repo containing the final full model weights plus tokenizer
+- The package loads only that repo with transformers
+
+Option B: acceptable but less clean
+- One private adapter repo
+- The package also needs the exact base model id
+- The package also needs the exact tokenizer state or the exact chat_tokens.json
+- The package must add CHAT tokens, resize embeddings if tokens were added, then load the adapter
+
+What to do with the current private Hugging Face repo
+- Share the exact repo id with the package developer.
+- Give the package developer access to the private repo, preferably through a shared Hugging Face organization or direct collaborator access.
+- The package developer should use his own HF token on his laptop.
+- Do not share your personal HF token in this file, in code, or in the package.
+
+Important access check
+- Confirm whether the base model also requires separate gated access on Hugging Face.
+- If yes, the package developer must have access to both:
+  - the private annotator repo
+  - the base model repo
+
+Tokenizer and embedding rule
+This project uses tokenizer augmentation for CHAT-specific units and structured label pieces.
+
+Current repo behavior
+- Load the base model tokenizer
+- Load the base model
+- Read experiments/recon_full_comp_preserve/chat_tokens.json
+- Add the CHAT tokens to the tokenizer
+- If new tokens were actually added, resize token embeddings
+- Then load the LoRA adapter
+
+Practical rule
+- If deploying base model + adapter: yes, resize embeddings when and only when token addition actually increases tokenizer size
+- If deploying a merged full model saved with the correct tokenizer: no runtime resize should be needed
+- If the tokenizer already contains the 53 CHAT tokens and the model already matches that vocab size, do not resize again
+
+Answer to "does the embedding layer need to be resized every time?"
+- No, not every time in the abstract
+- Yes for the current adapter-based loading path if starting from the base model tokenizer and then adding the CHAT tokens
+- No for a properly saved merged full model repo with the final tokenizer
+
+Exact tokenization artifact to preserve
+- experiments/recon_full_comp_preserve/chat_tokens.json
+
+The current 53 CHAT tokens are:
+- [* m]
+- [* s]
+- [* m:++]
+- [* m:+]
+- [* m:=]
+- [* m:0]
+- [* m:allo]
+- [* m:base]
+- [* m:irr]
+- [* m:sub]
+- [* m:vsg]
+- [* m:vun]
+- [* s:r]
+- [* s:r:gc]
+- [* m:++
+- [* m:+
+- [* m:=
+- [* m:0
+- [* m:base
+- [* m:irr
+- [* m:sub
+- [* m:vsg
+- [* m:vun
+- [* m:03s
+- [* m:+3s
+- [* m:+s
+- [* m:0s
+- [* s:r
+- [* s:r:gc
+- :ed]
+- :en]
+- :er]
+- :est]
+- :s]
+- :3s]
+- :ing]
+- :prep]
+- :der]
+- :pro]
+- :det]
+- :a]
+- :i]
+- :allo]
+- [/]
+- [//]
+- xxx
+- (.)
+- (..)
+- (...)
+- +...
+- [!]
+- &-
+- &+
+
+How to merge the adapter into a standalone model
+Use PEFT merge_and_unload() after reproducing the exact tokenizer state used for inference.
+
+Safe merge order
+1. Load the exact base model used in training.
+2. Load the tokenizer.
+3. Add the CHAT tokens from experiments/recon_full_comp_preserve/chat_tokens.json.
+4. If tokens were added, resize the model embeddings.
+5. Load the adapter from the private HF repo.
+6. Run merge_and_unload().
+7. Save the merged model and tokenizer.
+8. Push the merged result to a new private HF repo.
+
+Minimal merge example
+```python
+import json
+from pathlib import Path
+
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from peft import PeftModel
+
+base_model_id = "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit"
+adapter_repo_id = "mash-mash/talkbank-morphosyntax-annotator-final-recon_full_comp_preserve_final_seed3407"
+chat_tokens_path = Path("experiments/recon_full_comp_preserve/chat_tokens.json")
+out_dir = "merged-talkbank-chat-annotator"
+
+tokenizer = AutoTokenizer.from_pretrained(base_model_id, use_fast=True)
+
+model = AutoModelForCausalLM.from_pretrained(
+    base_model_id,
+    torch_dtype=torch.bfloat16 if torch.cuda.is_available() else torch.float32,
+    device_map="auto",
+)
+
+chat_tokens = json.loads(chat_tokens_path.read_text(encoding="utf-8"))
+chat_tokens = list(dict.fromkeys(chat_tokens))
+added = tokenizer.add_tokens(chat_tokens, special_tokens=False)
+if added > 0:
+    model.resize_token_embeddings(len(tokenizer))
+
+model = PeftModel.from_pretrained(model, adapter_repo_id)
+model = model.merge_and_unload()
+
+model.save_pretrained(out_dir)
+tokenizer.save_pretrained(out_dir)
+```
+
+Recommended post-merge verification
+- Run the same prompt through:
+  - base + tokenizer augmentation + adapter
+  - merged model + saved tokenizer
+- Use greedy decoding
+- Confirm the outputs match on a small set of known examples
+
+Inference contract the package should preserve
+- One input utterance line goes in
+- One annotated utterance line comes out
+- Greedy decoding
+- max_new_tokens = 96
+- Prompt scaffold must match the training/inference wrapper exactly
+- Preserve CHAT symbols, punctuation, disfluencies, and token order
+- Insert only licensed inline morphosyntactic tags
+
+Likely package components
+- cha file reader / utterance extractor
+- utterance-to-prompt formatter
+- model loader
+- annotation inference wrapper
+- output postprocessor for extracting the final utterance line
+- optional batch runner for full transcripts
+
+What the package developer should read in this repo
+- docs/PROJECT_AIM_AND_RQS.md
+- results/recon_full_comp_preserve_final_seed3407/deployment_handoff_manifest.json
+- experiments/recon_full_comp_preserve/chat_tokens.json
+- scripts/run_ood_context_inference.py
+
+Key code paths in this repo
+- scripts/run_ood_context_inference.py
+  - defaults:
+    - base model: unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit
+    - adapter repo: mash-mash/talkbank-morphosyntax-annotator-final-recon_full_comp_preserve_final_seed3407
+    - chat tokens: experiments/recon_full_comp_preserve/chat_tokens.json
+  - includes the current prepare_model_and_tokenizer() logic
+- scripts/generate_acl_colab_notebook.py
+  - shows the training-side token addition and saved adapter/tokenizer behavior
+
+Package developer checklist
+- Get access to the private Hugging Face repo
+- Confirm whether base-model access is also required
+- Decide whether to package:
+  - merged full model, preferred
+  - adapter + base model, acceptable
+- Preserve the exact prompt wrapper
+- Preserve the exact CHAT token augmentation behavior
+- Preserve greedy decoding defaults
+- Validate on a few known examples before building the .cha pipeline
+
+Open items for me to fill before sending this handoff externally
+- If a merged-model HF repo is created, add its repo id here:
+  MERGED_MODEL_REPO_ID = <fill_this_in>
+- If a package name is chosen, add it here:
+  PACKAGE_NAME = <fill_this_in>
+- If there is a canonical small validation set for deployment smoke tests, add it here:
+  SMOKE_TEST_ASSET = <fill_this_in>
+
+Repo note
+The repo currently does not yet contain the package skeleton itself. The deployment manifest explicitly lists these as still missing:
+- pyproject.toml or setup.py
+- package module with model loader and inference wrapper
+- package-level deployment tests
+- package-facing documentation

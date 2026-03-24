@@ -1,9 +1,0 @@
-{
-  "input_csv": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/reviews/ood/enni/enni_review_utterance_only.csv",
-  "eligible_rows": 860,
-  "sample_size": 100,
-  "seed": 3407,
-  "reviewed_only": true,
-  "review_sheet": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/reviews/study_02/enni_blinded_tagged_annotation_sample_reviewed_only_100_seed3407/blinded_annotation_sheet.csv",
-  "answer_key": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/reviews/study_02/enni_blinded_tagged_annotation_sample_reviewed_only_100_seed3407/answer_key.csv"
-}

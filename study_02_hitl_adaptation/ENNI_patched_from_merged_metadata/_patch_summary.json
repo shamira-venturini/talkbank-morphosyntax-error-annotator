@@ -1,0 +1,22 @@
+{
+  "metadata_csv": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/study_02_hitl_adaptation/data/2026-03-23_training-data-auto-annotated/stage3_corrected_plus_enni_review_utterance_only_merged_metadata.csv",
+  "enni_root": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/study_02_hitl_adaptation/ENNI",
+  "out_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/study_02_hitl_adaptation/ENNI_patched_from_merged_metadata",
+  "copy_all_files": true,
+  "current_enni_files": 361,
+  "direct_enni_rows": 13637,
+  "study1_story_rows": 3185,
+  "patched_files": 256,
+  "status_counts": {
+    "patched": 14042,
+    "matched_no_change": 2752,
+    "insufficient_story_matches": 16,
+    "unmatched_story": 10,
+    "ambiguous_repeated_input": 2
+  },
+  "patch_source_counts": {
+    "ENNI_OOD": 13637,
+    "study1_train": 3185
+  },
+  "manifest_csv": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/study_02_hitl_adaptation/ENNI_patched_from_merged_metadata/_patch_manifest.csv"
+}
