@@ -8,10 +8,15 @@ SCRIPTS = ROOT / "study_04_context_windows" / "scripts"
 if str(SCRIPTS) not in sys.path:
     sys.path.insert(0, str(SCRIPTS))
 
-from run_ood_context_inference import build_augmented_input
+from run_ood_context_inference import build_augmented_input, source_file_path
 
 
 class RunOodContextInferenceTests(unittest.TestCase):
+    def test_source_file_path_prefers_file_path_then_transcript_path(self):
+        self.assertEqual(source_file_path({"file_path": "a.cha", "transcript_path": "b.cha"}), "a.cha")
+        self.assertEqual(source_file_path({"transcript_path": "b.cha"}), "b.cha")
+        self.assertEqual(source_file_path({}), "")
+
     def test_prev_same_speaker_uses_precomputed_field_when_available(self):
         row = {
             "row_id": 1,

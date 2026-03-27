@@ -219,6 +219,10 @@ def build_augmented_input(
     }
 
 
+def source_file_path(row: Dict) -> str:
+    return str(row.get("file_path") or row.get("transcript_path") or "")
+
+
 def prepare_model_and_tokenizer(
     base_model: str,
     adapter_repo: str,
@@ -501,7 +505,7 @@ def main() -> None:
             out_row = {
                 "row_id": row["row_id"],
                 "file_name": row["file_name"],
-                "file_path": row["file_path"],
+                "file_path": source_file_path(row),
                 "speaker": row["speaker"],
                 "line_no": row["line_no"],
                 "utterance_index_raw": row["utterance_index_raw"],
