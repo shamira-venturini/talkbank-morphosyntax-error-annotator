@@ -1,7 +1,7 @@
 {
-  "input_jsonl": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/study_02_hitl_adaptation/data/stage3_corrected_plus_enni_review_utterance_only_merged.jsonl",
-  "enni_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/studies/04_context_windows/ENNI",
-  "file_manifest": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/study_04_context_windows/data/pilot_10_ambiguous_agreement_over_past_files.txt",
+  "input_jsonl": "study_02_hitl_adaptation/data/stage3_corrected_plus_enni_review_utterance_only_merged.jsonl",
+  "enni_dir": "studies/04_context_windows/ENNI",
+  "file_manifest": "study_04_context_windows/data/pilot_10_ambiguous_agreement_over_past_files.txt",
   "selected_files": [
     "652.cha",
     "716.cha",
@@ -15,7 +15,7 @@
     "926.cha"
   ],
   "selected_file_count": 10,
-  "out_jsonl": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/study_04_context_windows/data/context_eval/pilot_10_prev_same_speaker_eval.jsonl",
+  "out_jsonl": "study_04_context_windows/data/context_eval/pilot_10_prev_same_speaker_eval.jsonl",
   "rows_exported": 232,
   "reviewed_only": true,
   "rows_with_prev_same_speaker": 230,

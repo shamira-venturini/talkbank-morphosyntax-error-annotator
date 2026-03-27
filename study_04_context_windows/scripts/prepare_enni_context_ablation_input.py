@@ -6,7 +6,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Set, Tuple
 
-from common import iter_jsonl, resolve_path, write_jsonl
+from common import iter_jsonl, project_root, resolve_path, write_jsonl
 from ood_chat_utils import parse_chat_file
 
 
@@ -62,6 +62,13 @@ def parse_args() -> argparse.Namespace:
 
 def normalize_text(text: str) -> str:
     return " ".join(str(text or "").strip().split())
+
+
+def portable_path(path: Path) -> str:
+    try:
+        return str(path.resolve().relative_to(project_root()))
+    except ValueError:
+        return str(path.resolve())
 
 
 def iter_enni_rows(path: Path, reviewed_only: bool) -> Iterable[Dict]:
@@ -168,7 +175,7 @@ def build_output_row(
         "row_id": row.get("row_id"),
         "source_dataset": row.get("source_dataset", ""),
         "file_name": row.get("file_name", ""),
-        "transcript_path": str(transcript_path),
+        "transcript_path": portable_path(transcript_path),
         "speaker": row.get("speaker", ""),
         "line_no": row.get("line_no"),
         "utterance_index_raw": row.get("utterance_index_raw"),
@@ -236,12 +243,12 @@ def main() -> None:
 
     write_jsonl(out_jsonl, output_rows)
     summary = {
-        "input_jsonl": str(input_jsonl),
-        "enni_dir": str(enni_dir),
-        "file_manifest": str(file_manifest) if file_manifest else "",
+        "input_jsonl": portable_path(input_jsonl),
+        "enni_dir": portable_path(enni_dir),
+        "file_manifest": portable_path(file_manifest) if file_manifest else "",
         "selected_files": sorted(selected_files),
         "selected_file_count": len(selected_files),
-        "out_jsonl": str(out_jsonl),
+        "out_jsonl": portable_path(out_jsonl),
         "rows_exported": len(output_rows),
         "reviewed_only": reviewed_only,
         "rows_with_prev_same_speaker": sum(1 for row in output_rows if row["has_prev_same_speaker"]),
