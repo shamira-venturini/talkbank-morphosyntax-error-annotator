@@ -1,6 +1,8 @@
 import sys
 import tempfile
 import unittest
+import subprocess
+import json
 from pathlib import Path
 
 
@@ -53,6 +55,71 @@ class PrepareEnniContextAblationInputTests(unittest.TestCase):
             actual = load_file_manifest(manifest)
 
         self.assertEqual(actual, {"716.cha", "903.cha"})
+
+    def test_prepare_script_uses_fallback_transcript_tree(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp = Path(tmpdir)
+            input_jsonl = tmp / "input.jsonl"
+            primary_dir = tmp / "clean"
+            fallback_dir = tmp / "fallback"
+            out_jsonl = tmp / "out.jsonl"
+            out_summary = tmp / "summary.json"
+
+            (fallback_dir / "TD" / "B").mkdir(parents=True)
+            (fallback_dir / "TD" / "B" / "999.cha").write_text(
+                "@UTF8\n"
+                "@Participants:\tCHI Target_Child, EXA Investigator\n"
+                "*CHI:\tfirst .\n"
+                "*EXA:\tokay .\n"
+                "*CHI:\ttarget .\n",
+                encoding="utf-8",
+            )
+            input_jsonl.write_text(
+                json.dumps(
+                    {
+                        "row_id": 1,
+                        "source_dataset": "ENNI_OOD",
+                        "review_is_reviewed": True,
+                        "file_name": "999.cha",
+                        "speaker": "CHI",
+                        "line_no": 5,
+                        "utterance_index_raw": 2,
+                        "input": "target .",
+                        "output": "target [* m:0ed] .",
+                    }
+                )
+                + "\n",
+                encoding="utf-8",
+            )
+
+            result = subprocess.run(
+                [
+                    sys.executable,
+                    str(STUDY4_SCRIPTS / "prepare_enni_context_ablation_input.py"),
+                    "--input-jsonl",
+                    str(input_jsonl),
+                    "--enni-dir",
+                    str(primary_dir),
+                    "--fallback-enni-dir",
+                    str(fallback_dir),
+                    "--out-jsonl",
+                    str(out_jsonl),
+                    "--out-summary",
+                    str(out_summary),
+                ],
+                check=True,
+                capture_output=True,
+                text=True,
+            )
+
+            summary = json.loads(out_summary.read_text(encoding="utf-8"))
+            rows = [json.loads(line) for line in out_jsonl.read_text(encoding="utf-8").splitlines() if line.strip()]
+
+        self.assertEqual(result.returncode, 0)
+        self.assertEqual(summary["rows_exported"], 1)
+        self.assertEqual(summary["rows_resolved_via_fallback"], 1)
+        self.assertEqual(summary["fallback_files_used"], ["999.cha"])
+        self.assertEqual(rows[0]["prev_same_speaker_text"], "first .")
 
 
 if __name__ == "__main__":

@@ -21,13 +21,18 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--enni-dir",
-        default="study_04_context_windows/ENNI",
+        default="study_04_context_windows/data/ENNI",
         help="Clean ENNI transcript tree used to recover previous same-speaker context.",
     )
     parser.add_argument(
         "--file-manifest",
         default="",
         help="Optional newline-delimited list of .cha filenames to keep for a pilot run.",
+    )
+    parser.add_argument(
+        "--fallback-enni-dir",
+        default="",
+        help="Optional secondary transcript tree used only when the primary clean tree cannot resolve a row.",
     )
     parser.add_argument(
         "--out-jsonl",
@@ -198,6 +203,7 @@ def main() -> None:
     args = parse_args()
     input_jsonl = resolve_path(args.input_jsonl)
     enni_dir = resolve_path(args.enni_dir)
+    fallback_enni_dir = resolve_path(args.fallback_enni_dir) if args.fallback_enni_dir else None
     file_manifest = resolve_path(args.file_manifest) if args.file_manifest else None
     out_jsonl = resolve_path(args.out_jsonl)
     out_summary = resolve_path(args.out_summary)
@@ -205,38 +211,62 @@ def main() -> None:
     reviewed_only = args.reviewed_only and not args.all_enni_rows
     selected_files = load_file_manifest(file_manifest)
     transcript_index = index_transcripts(enni_dir)
+    fallback_transcript_index = index_transcripts(fallback_enni_dir) if fallback_enni_dir else {}
     parsed_cache: Dict[Path, Dict] = {}
 
     output_rows: List[Dict] = []
     unresolved_rows: List[Dict] = []
+    rows_resolved_via_fallback = 0
+    fallback_files_used: Set[str] = set()
 
     for row in iter_enni_rows(input_jsonl, reviewed_only=reviewed_only):
         if args.limit > 0 and len(output_rows) >= args.limit:
             break
         if selected_files and str(row.get("file_name", "")) not in selected_files:
             continue
-        candidates = transcript_index.get(str(row.get("file_name", "")), [])
+        file_name = str(row.get("file_name", ""))
+        candidates = transcript_index.get(file_name, [])
         if not candidates:
-            unresolved_rows.append(
-                {
-                    "row_id": row.get("row_id"),
-                    "file_name": row.get("file_name", ""),
-                    "reason": "missing transcript candidate",
-                }
-            )
-            continue
+            candidates = fallback_transcript_index.get(file_name, [])
+            if not candidates:
+                unresolved_rows.append(
+                    {
+                        "row_id": row.get("row_id"),
+                        "file_name": row.get("file_name", ""),
+                        "reason": "missing transcript candidate",
+                    }
+                )
+                continue
+            rows_resolved_via_fallback += 1
+            fallback_files_used.add(file_name)
 
         try:
             transcript_path, parsed, target_idx = find_target_match(row, candidates, parsed_cache)
         except LookupError as exc:
-            unresolved_rows.append(
-                {
-                    "row_id": row.get("row_id"),
-                    "file_name": row.get("file_name", ""),
-                    "reason": str(exc),
-                }
-            )
-            continue
+            fallback_candidates = fallback_transcript_index.get(file_name, [])
+            if fallback_candidates and candidates != fallback_candidates:
+                try:
+                    transcript_path, parsed, target_idx = find_target_match(row, fallback_candidates, parsed_cache)
+                    rows_resolved_via_fallback += 1
+                    fallback_files_used.add(file_name)
+                except LookupError:
+                    unresolved_rows.append(
+                        {
+                            "row_id": row.get("row_id"),
+                            "file_name": row.get("file_name", ""),
+                            "reason": str(exc),
+                        }
+                    )
+                    continue
+            else:
+                unresolved_rows.append(
+                    {
+                        "row_id": row.get("row_id"),
+                        "file_name": row.get("file_name", ""),
+                        "reason": str(exc),
+                    }
+                )
+                continue
 
         prev_utt = previous_same_speaker(parsed["utterances"], target_idx, str(row.get("speaker", "")))
         output_rows.append(build_output_row(row, transcript_path, prev_utt))
@@ -245,6 +275,7 @@ def main() -> None:
     summary = {
         "input_jsonl": portable_path(input_jsonl),
         "enni_dir": portable_path(enni_dir),
+        "fallback_enni_dir": portable_path(fallback_enni_dir) if fallback_enni_dir else "",
         "file_manifest": portable_path(file_manifest) if file_manifest else "",
         "selected_files": sorted(selected_files),
         "selected_file_count": len(selected_files),
@@ -253,6 +284,8 @@ def main() -> None:
         "reviewed_only": reviewed_only,
         "rows_with_prev_same_speaker": sum(1 for row in output_rows if row["has_prev_same_speaker"]),
         "rows_without_prev_same_speaker": sum(1 for row in output_rows if not row["has_prev_same_speaker"]),
+        "rows_resolved_via_fallback": rows_resolved_via_fallback,
+        "fallback_files_used": sorted(fallback_files_used),
         "unresolved_rows": len(unresolved_rows),
         "unresolved_examples": unresolved_rows[:10],
     }
