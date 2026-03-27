@@ -13,7 +13,7 @@ DEFAULT_BASE_MODEL = "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit"
 DEFAULT_ADAPTER = "mash-mash/talkbank-morphosyntax-annotator-final-recon_full_comp_preserve_final_seed3407"
 DEFAULT_INPUT_JSONL = "data/processed/ood_vercellotti/vercellotti_utterances.jsonl"
 DEFAULT_CHAT_TOKENS = "experiments/recon_full_comp_preserve/chat_tokens.json"
-DEFAULT_STAGE3_SPLIT = "experiments/recon_full_comp_preserve/stage3_train.jsonl"
+DEFAULT_STAGE3_SPLIT = "study_01_talkbank_tool_paper/experiments/recon_full_comp_preserve/stage3_train.jsonl"
 DEFAULT_OUT_DIR = "study_04_context_windows/results/ood_context_eval"
 
 SYSTEM_PROMPT_WRAPPER = "### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Response:\n"
