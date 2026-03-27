@@ -3,7 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 from pathlib import Path
-from typing import Dict, Iterable, List
+from typing import Dict, Iterable, List, Optional, Tuple
 
 from common import resolve_path
 
@@ -14,6 +14,11 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument("--utterance-only", required=True, help="predictions_utterance_only.jsonl")
     parser.add_argument("--prev-same-speaker", required=True, help="predictions_prev_same_speaker.jsonl")
+    parser.add_argument(
+        "--prepared-input-jsonl",
+        default="",
+        help="Optional prepared eval JSONL used to recover prev_same_speaker_text for review exports.",
+    )
     parser.add_argument(
         "--out-dir",
         default="study_04_context_windows/results/enni_context_ablation",
@@ -43,18 +48,83 @@ def ratio(numerator: int, denominator: int) -> float:
     return numerator / denominator
 
 
+def row_key(row: Dict) -> Tuple[str, str, int, int]:
+    return (
+        str(row.get("file_name", "") or ""),
+        str(row.get("speaker", "") or ""),
+        int(row.get("line_no", 0) or 0),
+        int(row.get("utterance_index_raw", 0) or 0),
+    )
+
+
+def choose_alignment(
+    utterance_only_rows: List[Dict],
+    prev_rows: List[Dict],
+) -> Tuple[str, List[Tuple[Optional[int], Dict, Optional[int], Dict]], Dict[str, int]]:
+    by_row_id_uo = {int(row["row_id"]): row for row in utterance_only_rows}
+    by_row_id_prev = {int(row["row_id"]): row for row in prev_rows}
+    shared_row_ids = sorted(set(by_row_id_uo) & set(by_row_id_prev))
+
+    row_id_matches: List[Tuple[Optional[int], Dict, Optional[int], Dict]] = []
+    row_id_consistent = 0
+    for row_id in shared_row_ids:
+        base = by_row_id_uo[row_id]
+        alt = by_row_id_prev[row_id]
+        row_id_matches.append((row_id, base, row_id, alt))
+        if row_key(base) == row_key(alt):
+            row_id_consistent += 1
+
+    by_struct_uo = {row_key(row): row for row in utterance_only_rows}
+    by_struct_prev = {row_key(row): row for row in prev_rows}
+    shared_struct_keys = sorted(set(by_struct_uo) & set(by_struct_prev))
+    structural_matches = [
+        (
+            int(by_struct_uo[key]["row_id"]),
+            by_struct_uo[key],
+            int(by_struct_prev[key]["row_id"]),
+            by_struct_prev[key],
+        )
+        for key in shared_struct_keys
+    ]
+
+    if shared_row_ids and row_id_consistent == len(shared_row_ids):
+        strategy = "row_id"
+        matches = row_id_matches
+    elif shared_struct_keys:
+        strategy = "structural_key"
+        matches = structural_matches
+    elif shared_row_ids:
+        strategy = "row_id"
+        matches = row_id_matches
+    else:
+        raise SystemExit("No shared row_ids or structural keys between the two prediction files.")
+
+    diagnostics = {
+        "shared_row_ids": len(shared_row_ids),
+        "row_id_consistent_keys": row_id_consistent,
+        "shared_structural_keys": len(shared_struct_keys),
+    }
+    return strategy, matches, diagnostics
+
+
+def index_by_structural_key(rows: List[Dict]) -> Dict[Tuple[str, str, int, int], Dict]:
+    return {row_key(row): row for row in rows}
+
+
 def main() -> None:
     args = parse_args()
     utterance_only_path = resolve_path(args.utterance_only)
     prev_path = resolve_path(args.prev_same_speaker)
+    prepared_input_path = resolve_path(args.prepared_input_jsonl) if args.prepared_input_jsonl else None
     out_dir = resolve_path(args.out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    utterance_only_rows = {int(row["row_id"]): row for row in load_jsonl(utterance_only_path)}
-    prev_rows = {int(row["row_id"]): row for row in load_jsonl(prev_path)}
-    shared_ids = sorted(set(utterance_only_rows) & set(prev_rows))
-    if not shared_ids:
-        raise SystemExit("No shared row_ids between the two prediction files.")
+    utterance_only_rows = load_jsonl(utterance_only_path)
+    prev_rows = load_jsonl(prev_path)
+    alignment_strategy, matches, diagnostics = choose_alignment(utterance_only_rows, prev_rows)
+    prepared_rows_by_key = {}
+    if prepared_input_path:
+        prepared_rows_by_key = index_by_structural_key(load_jsonl(prepared_input_path))
 
     comparison_rows: List[Dict] = []
     uo_correct = 0
@@ -63,12 +133,15 @@ def main() -> None:
     improved = 0
     worsened = 0
 
-    for row_id in shared_ids:
-        base = utterance_only_rows[row_id]
-        alt = prev_rows[row_id]
+    for base_row_id, base, prev_row_id, alt in matches:
+        key = row_key(alt)
+        prepared_row = prepared_rows_by_key.get(key, {})
         gold = str(base.get("gold_output", alt.get("gold_output", "")) or "").strip()
         if not gold:
-            raise SystemExit(f"Missing gold_output for row_id={row_id}")
+            raise SystemExit(
+                "Missing gold_output for aligned rows: "
+                f"utterance_only_row_id={base_row_id}, prev_same_speaker_row_id={prev_row_id}"
+            )
 
         base_pred = str(base.get("model_prediction", "") or "").strip()
         alt_pred = str(alt.get("model_prediction", "") or "").strip()
@@ -92,11 +165,17 @@ def main() -> None:
 
         comparison_rows.append(
             {
-                "row_id": row_id,
+                "utterance_only_row_id": base_row_id,
+                "prev_same_speaker_row_id": prev_row_id,
                 "file_name": base.get("file_name", ""),
                 "speaker": base.get("speaker", ""),
                 "line_no": base.get("line_no"),
+                "utterance_index_raw": base.get("utterance_index_raw"),
                 "input": base.get("input", ""),
+                "prev_same_speaker_text": (
+                    alt.get("prev_same_speaker_text", "")
+                    or prepared_row.get("prev_same_speaker_text", "")
+                ),
                 "gold_output": gold,
                 "pred_utterance_only": base_pred,
                 "pred_prev_same_speaker": alt_pred,
@@ -127,17 +206,20 @@ def main() -> None:
             handle.write("row_id\n")
 
     summary = {
-        "rows_shared": len(shared_ids),
-        "utterance_only_exact_match": ratio(uo_correct, len(shared_ids)),
-        "prev_same_speaker_exact_match": ratio(prev_correct, len(shared_ids)),
+        "alignment_strategy": alignment_strategy,
+        "rows_shared": len(matches),
+        "utterance_only_exact_match": ratio(uo_correct, len(matches)),
+        "prev_same_speaker_exact_match": ratio(prev_correct, len(matches)),
         "prediction_changed_rows": changed_predictions,
-        "prediction_changed_rate": ratio(changed_predictions, len(shared_ids)),
+        "prediction_changed_rate": ratio(changed_predictions, len(matches)),
         "improved_rows": improved,
         "worsened_rows": worsened,
         "changed_rows_improved": changed_improved,
         "changed_rows_worsened": changed_worsened,
         "changed_rows_improved_rate": ratio(changed_improved, len(changed_rows)),
         "changed_rows_worsened_rate": ratio(changed_worsened, len(changed_rows)),
+        "alignment_diagnostics": diagnostics,
+        "prepared_input_jsonl": str(prepared_input_path) if prepared_input_path else "",
         "outputs": {
             "changed_items_csv": str(changed_csv),
         },

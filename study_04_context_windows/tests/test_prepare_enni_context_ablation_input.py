@@ -44,7 +44,7 @@ class PrepareEnniContextAblationInputTests(unittest.TestCase):
             manifest = Path(tmpdir) / "files.txt"
             manifest.write_text(
                 "# pilot selection\n"
-                "studies/04_context_windows/ENNI/TD/B/716.cha\n"
+                "studies/04_context_windows_pilot/ENNI/TD/B/716.cha\n"
                 "903.cha\n"
                 "\n",
                 encoding="utf-8",
