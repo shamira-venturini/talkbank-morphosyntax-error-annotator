@@ -2,10 +2,10 @@
   "input_jsonl": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/study_02_hitl_adaptation/data/stage3_corrected_plus_enni_review_utterance_only_merged.jsonl",
   "enni_dir": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/study_02_hitl_adaptation/ENNI_patched_from_merged_metadata",
   "out_jsonl": "/Users/shamiraventurini/PycharmProjects/talkbank-morphosyntax-error-annotator/study_04_context_windows/data/context_eval/enni_reviewed_prev_same_speaker_eval.jsonl",
-  "rows_exported": 3145,
+  "rows_exported": 1,
   "reviewed_only": true,
-  "rows_with_prev_same_speaker": 3115,
-  "rows_without_prev_same_speaker": 30,
+  "rows_with_prev_same_speaker": 1,
+  "rows_without_prev_same_speaker": 0,
   "unresolved_rows": 0,
   "unresolved_examples": []
 }

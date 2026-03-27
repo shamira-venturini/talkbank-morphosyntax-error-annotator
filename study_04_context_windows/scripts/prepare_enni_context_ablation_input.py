@@ -4,7 +4,7 @@ import argparse
 import json
 from collections import defaultdict
 from pathlib import Path
-from typing import Dict, Iterable, List, Optional, Tuple
+from typing import Dict, Iterable, List, Optional, Set, Tuple
 
 from common import iter_jsonl, resolve_path, write_jsonl
 from ood_chat_utils import parse_chat_file
@@ -21,8 +21,13 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--enni-dir",
-        default="study_02_hitl_adaptation/ENNI_patched_from_merged_metadata",
-        help="Patched ENNI transcript tree used to recover previous same-speaker context.",
+        default="studies/04_context_windows/ENNI",
+        help="Clean ENNI transcript tree used to recover previous same-speaker context.",
+    )
+    parser.add_argument(
+        "--file-manifest",
+        default="",
+        help="Optional newline-delimited list of .cha filenames to keep for a pilot run.",
     )
     parser.add_argument(
         "--out-jsonl",
@@ -66,6 +71,19 @@ def iter_enni_rows(path: Path, reviewed_only: bool) -> Iterable[Dict]:
         if reviewed_only and not bool(row.get("review_is_reviewed")):
             continue
         yield row
+
+
+def load_file_manifest(path: Optional[Path]) -> Set[str]:
+    if path is None:
+        return set()
+    selected: Set[str] = set()
+    with path.open("r", encoding="utf-8") as handle:
+        for raw in handle:
+            line = raw.strip()
+            if not line or line.startswith("#"):
+                continue
+            selected.add(Path(line).name)
+    return selected
 
 
 def index_transcripts(enni_dir: Path) -> Dict[str, List[Path]]:
@@ -173,10 +191,12 @@ def main() -> None:
     args = parse_args()
     input_jsonl = resolve_path(args.input_jsonl)
     enni_dir = resolve_path(args.enni_dir)
+    file_manifest = resolve_path(args.file_manifest) if args.file_manifest else None
     out_jsonl = resolve_path(args.out_jsonl)
     out_summary = resolve_path(args.out_summary)
 
     reviewed_only = args.reviewed_only and not args.all_enni_rows
+    selected_files = load_file_manifest(file_manifest)
     transcript_index = index_transcripts(enni_dir)
     parsed_cache: Dict[Path, Dict] = {}
 
@@ -186,6 +206,8 @@ def main() -> None:
     for row in iter_enni_rows(input_jsonl, reviewed_only=reviewed_only):
         if args.limit > 0 and len(output_rows) >= args.limit:
             break
+        if selected_files and str(row.get("file_name", "")) not in selected_files:
+            continue
         candidates = transcript_index.get(str(row.get("file_name", "")), [])
         if not candidates:
             unresolved_rows.append(
@@ -216,6 +238,9 @@ def main() -> None:
     summary = {
         "input_jsonl": str(input_jsonl),
         "enni_dir": str(enni_dir),
+        "file_manifest": str(file_manifest) if file_manifest else "",
+        "selected_files": sorted(selected_files),
+        "selected_file_count": len(selected_files),
         "out_jsonl": str(out_jsonl),
         "rows_exported": len(output_rows),
         "reviewed_only": reviewed_only,

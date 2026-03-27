@@ -1,0 +1,127 @@
+{
+  "selection_basis": "ENNI reviewed rows with review_review_decision == WRONG and review_notes matching AMBIGUOUS, OPTIONAL LABEL + AMBIGUOUS, AGREEMENT OVER PAST, AGREEMENT OVER PAST + ZERO-CHANGE VERB, or PAST OVER AGREEMENT + ZERO-CHANGE VERB.",
+  "source_review_file": "study_02_hitl_adaptation/data/stage3_corrected_plus_enni_review_utterance_only_merged.jsonl",
+  "clean_enni_root": "studies/04_context_windows/ENNI",
+  "selected_files": [
+    {
+      "file_name": "652.cha",
+      "clean_path": "studies/04_context_windows/ENNI/TD/B/652.cha",
+      "trigger_rows": [
+        {
+          "row_id": 12441,
+          "line_no": 185,
+          "review_notes": "AGREEMENT OVER PAST + ZERO-CHANGE VERB"
+        }
+      ]
+    },
+    {
+      "file_name": "716.cha",
+      "clean_path": "studies/04_context_windows/ENNI/TD/B/716.cha",
+      "trigger_rows": [
+        {
+          "row_id": 14031,
+          "line_no": 77,
+          "review_notes": "PAST OVER AGREEMENT + ZERO-CHANGE VERB"
+        }
+      ]
+    },
+    {
+      "file_name": "743.cha",
+      "clean_path": "studies/04_context_windows/ENNI/TD/B/743.cha",
+      "trigger_rows": [
+        {
+          "row_id": 15669,
+          "line_no": 190,
+          "review_notes": "PAST OVER AGREEMENT + ZERO-CHANGE VERB"
+        }
+      ]
+    },
+    {
+      "file_name": "874.cha",
+      "clean_path": "studies/04_context_windows/ENNI/SLI/B/874.cha",
+      "trigger_rows": [
+        {
+          "row_id": 20418,
+          "line_no": 78,
+          "review_notes": "AGREEMENT OVER PAST"
+        },
+        {
+          "row_id": 20467,
+          "line_no": 241,
+          "review_notes": "AGREEMENT OVER PAST"
+        }
+      ]
+    },
+    {
+      "file_name": "903.cha",
+      "clean_path": "studies/04_context_windows/ENNI/SLI/B/903.cha",
+      "trigger_rows": [
+        {
+          "row_id": 20936,
+          "line_no": 22,
+          "review_notes": "AMBIGUOUS"
+        }
+      ]
+    },
+    {
+      "file_name": "907.cha",
+      "clean_path": "studies/04_context_windows/ENNI/TD/B/907.cha",
+      "trigger_rows": [
+        {
+          "row_id": 21104,
+          "line_no": 171,
+          "review_notes": "OPTIONAL LABEL + AMBIGUOUS"
+        }
+      ]
+    },
+    {
+      "file_name": "911.cha",
+      "clean_path": "studies/04_context_windows/ENNI/TD/B/911.cha",
+      "trigger_rows": [
+        {
+          "row_id": 21303,
+          "line_no": 216,
+          "review_notes": "AGREEMENT OVER PAST + ZERO-CHANGE VERB"
+        }
+      ]
+    },
+    {
+      "file_name": "916.cha",
+      "clean_path": "studies/04_context_windows/ENNI/TD/B/916.cha",
+      "trigger_rows": [
+        {
+          "row_id": 21563,
+          "line_no": 22,
+          "review_notes": "AGREEMENT OVER PAST"
+        },
+        {
+          "row_id": 21647,
+          "line_no": 300,
+          "review_notes": "AGREEMENT OVER PAST + ZERO-CHANGE VERB"
+        }
+      ]
+    },
+    {
+      "file_name": "924.cha",
+      "clean_path": "studies/04_context_windows/ENNI/SLI/B/924.cha",
+      "trigger_rows": [
+        {
+          "row_id": 22165,
+          "line_no": 193,
+          "review_notes": "AGREEMENT OVER PAST"
+        }
+      ]
+    },
+    {
+      "file_name": "926.cha",
+      "clean_path": "studies/04_context_windows/ENNI/SLI/A/926.cha",
+      "trigger_rows": [
+        {
+          "row_id": 22351,
+          "line_no": 301,
+          "review_notes": "AGREEMENT OVER PAST"
+        }
+      ]
+    }
+  ]
+}
