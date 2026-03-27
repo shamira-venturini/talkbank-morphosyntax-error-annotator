@@ -21,7 +21,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--enni-dir",
-        default="studies/04_context_windows_pilot/ENNI",
+        default="studies/04_context_windows/ENNI",
         help="Clean ENNI transcript tree used to recover previous same-speaker context.",
     )
     parser.add_argument(
@@ -259,6 +259,10 @@ def main() -> None:
     out_summary.parent.mkdir(parents=True, exist_ok=True)
     out_summary.write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps(summary, indent=2))
+    if not output_rows:
+        raise SystemExit(
+            "No ENNI rows exported. Check --enni-dir / --file-manifest and inspect the prep summary."
+        )
 
 
 if __name__ == "__main__":
