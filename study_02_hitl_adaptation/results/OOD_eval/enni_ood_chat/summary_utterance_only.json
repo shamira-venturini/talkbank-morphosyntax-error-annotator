@@ -1,0 +1,14 @@
+{
+  "input_jsonl": "/content/talkbank-morphosyntax-error-annotator/data/processed/ood_chat/enni_utterances.jsonl",
+  "context_mode": "utterance_only",
+  "context_scope": "same_speaker",
+  "rows": 13637,
+  "prediction_file": "/content/talkbank-morphosyntax-error-annotator/results/ood_chat/predictions_utterance_only.jsonl",
+  "base_model": "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit",
+  "adapter_repo": "mash-mash/talkbank-morphosyntax-annotator-final-recon_full_comp_preserve_final_seed3407",
+  "local_prev_k": 2,
+  "max_context_chars": 1200,
+  "batch_size": 4,
+  "max_new_tokens": 128,
+  "max_seq_length": 512
+}

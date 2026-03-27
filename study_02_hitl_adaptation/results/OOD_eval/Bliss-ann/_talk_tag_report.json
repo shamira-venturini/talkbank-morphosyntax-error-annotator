@@ -1,0 +1,77 @@
+{
+  "input_dir": "/content/Bliss",
+  "output_dir": "/content/Bliss-ann",
+  "started_at": "2026-03-23T09:19:05.669020+00:00",
+  "ended_at": "2026-03-23T09:22:38.731096+00:00",
+  "total_files": 7,
+  "processed_files": 7,
+  "failed_files": 0,
+  "target_lines": 932,
+  "annotated_lines": 257,
+  "report_path": "",
+  "files": [
+    {
+      "input_path": "/content/Bliss/impdenis.cha",
+      "output_path": "/content/Bliss-ann/impdenis.cha",
+      "status": "ok",
+      "target_lines": 139,
+      "annotated_lines": 56,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "input_path": "/content/Bliss/impfred.cha",
+      "output_path": "/content/Bliss-ann/impfred.cha",
+      "status": "ok",
+      "target_lines": 117,
+      "annotated_lines": 38,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "input_path": "/content/Bliss/impjim.cha",
+      "output_path": "/content/Bliss-ann/impjim.cha",
+      "status": "ok",
+      "target_lines": 103,
+      "annotated_lines": 21,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "input_path": "/content/Bliss/impjoel.cha",
+      "output_path": "/content/Bliss-ann/impjoel.cha",
+      "status": "ok",
+      "target_lines": 164,
+      "annotated_lines": 22,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "input_path": "/content/Bliss/impjohn.cha",
+      "output_path": "/content/Bliss-ann/impjohn.cha",
+      "status": "ok",
+      "target_lines": 123,
+      "annotated_lines": 37,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "input_path": "/content/Bliss/impsarah.cha",
+      "output_path": "/content/Bliss-ann/impsarah.cha",
+      "status": "ok",
+      "target_lines": 123,
+      "annotated_lines": 30,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "input_path": "/content/Bliss/impterra.cha",
+      "output_path": "/content/Bliss-ann/impterra.cha",
+      "status": "ok",
+      "target_lines": 163,
+      "annotated_lines": 53,
+      "errors": [],
+      "warnings": []
+    }
+  ]
+}

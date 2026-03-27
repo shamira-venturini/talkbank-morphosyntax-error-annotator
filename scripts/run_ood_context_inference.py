@@ -14,7 +14,7 @@ DEFAULT_ADAPTER = "mash-mash/talkbank-morphosyntax-annotator-final-recon_full_co
 DEFAULT_INPUT_JSONL = "data/processed/ood_vercellotti/vercellotti_utterances.jsonl"
 DEFAULT_CHAT_TOKENS = "experiments/recon_full_comp_preserve/chat_tokens.json"
 DEFAULT_STAGE3_SPLIT = "experiments/recon_full_comp_preserve/stage3_train.jsonl"
-DEFAULT_OUT_DIR = "results/ood_vercellotti"
+DEFAULT_OUT_DIR = "study_04_context_windows/results/ood_context_eval"
 
 SYSTEM_PROMPT_WRAPPER = "### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Response:\n"
 
@@ -43,7 +43,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--input-jsonl", default=DEFAULT_INPUT_JSONL, help="Prepared OOD utterance JSONL.")
     parser.add_argument(
         "--context-mode",
-        choices=["utterance_only", "local_prev", "full_prev", "full_document"],
+        choices=["utterance_only", "prev_same_speaker", "local_prev", "full_prev", "full_document"],
         default="utterance_only",
         help="Context strategy for inference.",
     )
@@ -179,6 +179,11 @@ def build_augmented_input(
     if context_mode == "utterance_only":
         context_text = ""
         context_count = 0
+    elif context_mode == "prev_same_speaker":
+        context_text = str(row.get("prev_same_speaker_text", "") or "").strip()
+        if not context_text and prev_rows:
+            context_text = serialize_rows(prev_rows[-1:])
+        context_count = 1 if context_text else 0
     elif context_mode == "local_prev":
         ctx_rows = prev_rows[-local_prev_k:] if local_prev_k > 0 else []
         context_text = serialize_rows(ctx_rows)
@@ -196,6 +201,8 @@ def build_augmented_input(
 
     if context_mode == "utterance_only":
         input_text = row["input"]
+    elif context_mode == "prev_same_speaker" and str(row.get("prev_same_speaker_input", "") or "").strip():
+        input_text = str(row.get("prev_same_speaker_input", "")).strip()
     else:
         input_text = (
             "Context (for disambiguation only, do NOT annotate context lines):\n"
@@ -510,6 +517,9 @@ def main() -> None:
                 "pred_reconstruction_marker_count": len(marker_signature(prediction_line)),
                 "adapter_repo": args.adapter_repo,
                 "base_model": args.base_model,
+                "gold_output": row.get("output", ""),
+                "source_dataset": row.get("source_dataset", ""),
+                "review_is_reviewed": row.get("review_is_reviewed"),
             }
             out_row.update(uncertainty[j])
             output_rows.append(out_row)

@@ -1,4 +1,11 @@
-This directory stores small, GitHub-safe result bundles exported from Colab runs.
+This directory is now a compatibility copy of study-owned result bundles.
+
+Canonical locations:
+- `study_01_talkbank_tool_paper/results/`
+- `study_02_hitl_adaptation/results/`
+- `study_04_context_windows/results/`
+
+The legacy top-level subdirectories remain available as compatibility copies so older scripts and manifests keep working.
 
 Status update (2026-03-08):
 - Pre-retraining outputs generated with the old prompt constraint rules were moved to

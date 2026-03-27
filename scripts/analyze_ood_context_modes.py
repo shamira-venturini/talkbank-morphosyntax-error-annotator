@@ -25,7 +25,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Compare OOD predictions across context modes.")
     parser.add_argument(
         "--predictions-dir",
-        default="results/ood_vercellotti",
+        default="study_04_context_windows/results/ood_context_eval",
         help="Directory containing predictions_<mode>.jsonl files.",
     )
     parser.add_argument(
@@ -35,7 +35,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--out-dir",
-        default="results/ood_vercellotti/context_analysis",
+        default="study_04_context_windows/results/ood_context_eval/context_analysis",
         help="Output directory.",
     )
     parser.add_argument(
