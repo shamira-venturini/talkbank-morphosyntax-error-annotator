@@ -21,7 +21,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--enni-dir",
-        default="studies/04_context_windows/ENNI",
+        default="study_04_context_windows/ENNI",
         help="Clean ENNI transcript tree used to recover previous same-speaker context.",
     )
     parser.add_argument(
